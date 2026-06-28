@@ -7728,9 +7728,6 @@ https://jmp2.uk/plu-65775af3b3801200084a3aa4.m3u8
 #EXTINF:-1 channel-id="plutotv-62fb61992443200008c59aef" tvg-id="plutotv-62fb61992443200008c59aef" tvg-name="Reno Duo" tvg-logo="https://images.pluto.tv/channels/62fb61992443200008c59aef/colorLogoPNG.png" group-title="Lifestyle" tvg-chno="1120",Reno Duo
 https://jmp2.uk/plu-62fb61992443200008c59aef.m3u8
 
-#EXTINF:-1 channel-id="roku-8e04e4c0e2cd5fe49b087a6ce5fd0d91" tvg-id="roku-8e04e4c0e2cd5fe49b087a6ce5fd0d91" tvg-name="TikTok Radio" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/8e04e4c0e2cd5fe49b087a6ce5fd0d91/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1719497617582_11110_SM_TikTokRadio_Logo_260x147_V02.png" group-title="Music" tvg-chno="1120",TikTok Radio
-https://jmp2.uk/rok-8e04e4c0e2cd5fe49b087a6ce5fd0d91.m3u8
-
 #EXTINF:-1 channel-id="samsungtvplus-in2100005t2" tvg-id="samsungtvplus-in2100005t2" tvg-name="Zee South Flix" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN2100005T2_20260623T013351SQUARE.png" group-title="Movies" tvg-chno="1121",Zee South Flix
 https://jmp2.uk/stvp-IN2100005T2
 
@@ -7874,6 +7871,9 @@ https://jmp2.uk/rok-94759dbd58a65682bcc573932f725f46.m3u8
 
 #EXTINF:-1 channel-id="samsungtvplus-in400061db" tvg-id="samsungtvplus-in400061db" tvg-name="NH Tamil Gold" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN400061DB_20260623T015348SQUARE.png" group-title="Movies" tvg-chno="1164",NH Tamil Gold
 https://jmp2.uk/stvp-IN400061DB
+
+#EXTINF:-1 channel-id="roku-4c0772ef75e1565183843b37e91591f8" tvg-id="roku-4c0772ef75e1565183843b37e91591f8" tvg-name="Vevo &#x27;90s" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/4c0772ef75e1565183843b37e91591f8/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1675113345580_Info_HUD_Logo_260X147_center_%252816%2529.png" group-title="Music" tvg-chno="1164",Vevo '90s
+https://jmp2.uk/rok-4c0772ef75e1565183843b37e91591f8.m3u8
 
 #EXTINF:-1 channel-id="samsungtvplus-usaj4300005pj" tvg-id="samsungtvplus-usaj4300005pj" tvg-name="Yahoo Finance" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ4300005PJ_20260120T230333SQUARE.png" group-title="News" tvg-chno="1165",Yahoo Finance
 https://jmp2.uk/stvp-USAJ4300005PJ
@@ -10424,6 +10424,9 @@ https://jmp2.uk/plu-60d39387706fe50007fda8e8.m3u8
 
 #EXTINF:-1 channel-id="samsungtvplus-us490000330" tvg-id="samsungtvplus-us490000330" tvg-name="Family Feud Classic" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US490000330_20260421T141754SQUARE.png" group-title="Series" tvg-chno="2841",Family Feud Classic
 https://jmp2.uk/stvp-US490000330
+
+#EXTINF:-1 channel-id="plutotv-6a03782f2c1c785c1161756c" tvg-id="plutotv-6a03782f2c1c785c1161756c" tvg-name="Zuffa Boxing Prelims" tvg-logo="https://images.pluto.tv/channels/6a03782f2c1c785c1161756c/colorLogoPNG_1782142013892.png" group-title="Sport" tvg-chno="2847",Zuffa Boxing Prelims
+https://jmp2.uk/plu-6a03782f2c1c785c1161756c.m3u8
 
 #EXTINF:-1 channel-id="plutotv-677d9adfa9a51b0008497fa0" tvg-id="plutotv-677d9adfa9a51b0008497fa0" tvg-name="UFC" tvg-logo="https://images.pluto.tv/channels/677d9adfa9a51b0008497fa0/colorLogoPNG.png" group-title="Series" tvg-chno="2850",UFC
 https://jmp2.uk/plu-677d9adfa9a51b0008497fa0.m3u8
@@ -16115,6 +16118,9 @@ https://jmp2.uk/plex-697140a85d851f5e69414688-64106a1075be345a863fe0d7.m3u8
 
 #EXTINF:-1 channel-id="plex-697140a85d851f5e69414688-606605549dbfca002d2ae877" tvg-id="plex-697140a85d851f5e69414688-606605549dbfca002d2ae877" tvg-name="Fight Network" tvg-logo="https://provider-static.plex.tv/f/epg/channels/logos/gracenote/f6e88714b4dae6026720d36ad9de611f.png" group-title="Entertainment",Fight Network
 https://jmp2.uk/plex-697140a85d851f5e69414688-606605549dbfca002d2ae877.m3u8
+
+#EXTINF:-1 channel-id="mjh-misc502-fast" tvg-id="mjh-misc502-fast" tvg-name="FIH Hockey Pro League  " tvg-logo="https://i.mjh.nz/.images/auto-misc502-fast-1db011.png" group-title="24/7",FIH Hockey Pro League  
+https://i.mjh.nz/.r/misc502-fast.m3u8
 
 #EXTINF:-1 channel-id="plex-697140a85d851f5e69414688-68db6b54475aa6420c85f230" tvg-id="plex-697140a85d851f5e69414688-68db6b54475aa6420c85f230" tvg-name="FilmRise Creators" tvg-logo="https://provider-static.plex.tv/epg/cms/production/bf7b3f7d-f3d7-49e7-a2f6-f81ab380f737/FilmRise_Creators_1500x1000_Dark_Logo.png" group-title="Entertainment",FilmRise Creators
 https://jmp2.uk/plex-697140a85d851f5e69414688-68db6b54475aa6420c85f230.m3u8
