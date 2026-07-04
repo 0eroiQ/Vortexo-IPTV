@@ -17,1366 +17,6 @@
     <display-name>DW English</display-name>
     <icon src="https://www.dw.com/images/icons/favicon-540x540.png"/>
   </channel>
-  <programme start="20260703200000 +0000" stop="20260703203000 +0000" channel="mjh-al-jazeera">
-    <title>News Live</title>
-    <sub-title>News Live</sub-title>
-    <desc>Up-to-date news and analysis from around the world.</desc>
-    <date>2026</date>
-    <category>News And Factual</category>
-    <category>News</category>
-    <category>News, Current Affairs</category>
-    <category>News Magazine</category>
-    <category>News/Current Affairs</category>
-    <keyword>series</keyword>
-    <icon src="https://images.skyone.co.nz/mac/479214/DAM/DBE0A936-38B1-436A-8419146AF048675E.jpg"/>
-    <country>Japan</country>
-    <episode-num system="dd_progid">1348546461</episode-num>
-    <episode-num system="freeviewnz.tv">episode/bb79fc32-f4e8-47c7-a5b8-51490959713e</episode-num>
-    <episode-num system="original-air-date">2026-07-04 08:00:00</episode-num>
-    <episode-num system="skygo.co.nz">show/mac_sh_ptc1037923899</episode-num>
-    <episode-num system="themoviedb.com">tv/127243</episode-num>
-    <video>
-      <present>yes</present>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>768x576</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <rating system="New Zealand">
-      <value>G</value>
-    </rating>
-    <star-rating system="themoviedb.org">
-      <value>0/10</value>
-    </star-rating>
-    <series-desc>A news show hosted by Kiryu Coco in which she summarizes the events of the day before. Coco-Kaichou often pitches products as commercial breaks such as her drug AsaCoco which can be inhaled, injected or consumed as a drink. It is tradition to watch Cocos AsaCoco Live News and afterwards Tsunomaki Watames "Watame no Uta" (early morning karaoke format with viewer rock-paper-scissor).</series-desc>
-    <live/>
-  </programme>
-  <programme start="20260703203000 +0000" stop="20260703210000 +0000" channel="mjh-al-jazeera">
-    <title>UpFront</title>
-    <sub-title>UpFront</sub-title>
-    <desc>Marc Lamont Hill and Kimberle Crenshaw discuss the blind spots in US history on the country's 250th anniversary.</desc>
-    <date>2026</date>
-    <category>Documentary</category>
-    <category>Social, Political Issues, Economics</category>
-    <category>Social, Political Issues, Economics (general)</category>
-    <category>News/Current Affairs</category>
-    <keyword>series</keyword>
-    <icon src="https://images.skyone.co.nz/mac/479214/DAM/94A2E567-46A3-42D7-9B0B269B52E4939B.jpg"/>
-    <country>United States</country>
-    <episode-num system="dd_progid">58388317</episode-num>
-    <episode-num system="freeviewnz.tv">episode/f673dc61-63dc-4fd6-8fdb-c92d75a25516</episode-num>
-    <episode-num system="dd_seriesid">27700925</episode-num>
-    <episode-num system="freeviewnz.tv">season/34dc9687-b675-4a33-96e1-7bd8ca27c0fc</episode-num>
-    <episode-num system="freeviewnz.tv">show/cc09789e-82e3-4d7c-92f5-9e7a6fc391bf</episode-num>
-    <episode-num system="original-air-date">2026-07-04 08:30:00</episode-num>
-    <episode-num system="skygo.co.nz">show/mac_sh_ptc972680058</episode-num>
-    <episode-num system="themoviedb.com">tv/70246</episode-num>
-    <episode-num system="thetvdb.com">series/306815</episode-num>
-    <video>
-      <present>yes</present>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>768x576</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <rating system="New Zealand">
-      <value>G</value>
-    </rating>
-    <star-rating system="themoviedb.org">
-      <value>0/10</value>
-    </star-rating>
-    <series-desc>With the thrust and parry of rigorous debate, Mehdi Hasan cuts through the headlines to challenge conventional wisdom, highlight contradictions and uncover double standards.</series-desc>
-  </programme>
-  <programme start="20260703210000 +0000" stop="20260703220000 +0000" channel="mjh-al-jazeera">
-    <title>Newshour</title>
-    <sub-title>Newshour</sub-title>
-    <desc>Latest news and in-depth analysis from around the world.</desc>
-    <date>1975</date>
-    <category>News And Factual</category>
-    <category>News</category>
-    <category>News, Current Affairs</category>
-    <category>News Magazine</category>
-    <category>News/Current Affairs</category>
-    <keyword>series</keyword>
-    <icon src="https://images.skyone.co.nz/mac/479214/DAM/35ECB47A-E047-45F6-89C7EA8A6D6B512C.jpg"/>
-    <country>United States</country>
-    <episode-num system="dd_progid">1348546463</episode-num>
-    <episode-num system="freeviewnz.tv">episode/b6c5fc0e-acff-433a-95d3-3c2b0978bacc</episode-num>
-    <episode-num system="original-air-date">2026-07-04 09:00:00</episode-num>
-    <episode-num system="skygo.co.nz">show/mac_sh_ptc990239023</episode-num>
-    <episode-num system="themoviedb.com">tv/1655</episode-num>
-    <video>
-      <present>yes</present>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>768x576</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <rating system="New Zealand">
-      <value>G</value>
-    </rating>
-    <star-rating system="themoviedb.org">
-      <value>5/10</value>
-    </star-rating>
-    <series-desc>America's first and longest running hour-long nightly news broadcast known for its in-depth coverage of issues and current events.</series-desc>
-  </programme>
-  <programme start="20260703220000 +0000" stop="20260703230000 +0000" channel="mjh-al-jazeera">
-    <title>Newshour</title>
-    <sub-title>Newshour</sub-title>
-    <desc>Latest news and in-depth analysis from around the world.</desc>
-    <date>1975</date>
-    <category>News And Factual</category>
-    <category>News</category>
-    <category>News, Current Affairs</category>
-    <category>News Magazine</category>
-    <category>News/Current Affairs</category>
-    <keyword>series</keyword>
-    <icon src="https://images.skyone.co.nz/mac/479214/DAM/35ECB47A-E047-45F6-89C7EA8A6D6B512C.jpg"/>
-    <country>United States</country>
-    <episode-num system="dd_progid">1348546464</episode-num>
-    <episode-num system="freeviewnz.tv">episode/4f0e54c5-9172-4bd7-b86e-9bb2ef28ed80</episode-num>
-    <episode-num system="original-air-date">2026-07-04 10:00:00</episode-num>
-    <episode-num system="skygo.co.nz">show/mac_sh_ptc990239023</episode-num>
-    <episode-num system="themoviedb.com">tv/1655</episode-num>
-    <video>
-      <present>yes</present>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>768x576</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <rating system="New Zealand">
-      <value>G</value>
-    </rating>
-    <star-rating system="themoviedb.org">
-      <value>5/10</value>
-    </star-rating>
-    <series-desc>America's first and longest running hour-long nightly news broadcast known for its in-depth coverage of issues and current events.</series-desc>
-  </programme>
-  <programme start="20260703230000 +0000" stop="20260703233000 +0000" channel="mjh-al-jazeera">
-    <title>News Live</title>
-    <sub-title>News Live</sub-title>
-    <desc>Up-to-date news and analysis from around the world.</desc>
-    <date>2026</date>
-    <category>News And Factual</category>
-    <category>News</category>
-    <category>News, Current Affairs</category>
-    <category>News Magazine</category>
-    <category>News/Current Affairs</category>
-    <keyword>series</keyword>
-    <icon src="https://images.skyone.co.nz/mac/479214/DAM/DBE0A936-38B1-436A-8419146AF048675E.jpg"/>
-    <country>Japan</country>
-    <episode-num system="dd_progid">1348546465</episode-num>
-    <episode-num system="freeviewnz.tv">episode/14cb9ed6-49bc-4e93-b3de-1f8b4901d992</episode-num>
-    <episode-num system="original-air-date">2026-07-04 11:00:00</episode-num>
-    <episode-num system="skygo.co.nz">show/mac_sh_ptc1037923899</episode-num>
-    <episode-num system="themoviedb.com">tv/127243</episode-num>
-    <video>
-      <present>yes</present>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>768x576</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <rating system="New Zealand">
-      <value>G</value>
-    </rating>
-    <star-rating system="themoviedb.org">
-      <value>0/10</value>
-    </star-rating>
-    <series-desc>A news show hosted by Kiryu Coco in which she summarizes the events of the day before. Coco-Kaichou often pitches products as commercial breaks such as her drug AsaCoco which can be inhaled, injected or consumed as a drink. It is tradition to watch Cocos AsaCoco Live News and afterwards Tsunomaki Watames "Watame no Uta" (early morning karaoke format with viewer rock-paper-scissor).</series-desc>
-    <live/>
-  </programme>
-  <programme start="20260703233000 +0000" stop="20260704000000 +0000" channel="mjh-al-jazeera">
-    <title>Inside Story</title>
-    <sub-title>Inside Story</sub-title>
-    <desc>Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds from around the globe.</desc>
-    <date>2026</date>
-    <category>News And Factual</category>
-    <category>News</category>
-    <category>News, Current Affairs</category>
-    <category>News Magazine</category>
-    <category>News/Current Affairs</category>
-    <keyword>series</keyword>
-    <icon src="https://images.skyone.co.nz/mac/479214/DAM/49BDDDF0-BF67-4534-928FDD8D60919D77.jpg"/>
-    <episode-num system="dd_progid">58388310</episode-num>
-    <episode-num system="freeviewnz.tv">episode/dfac0f35-90e7-4ce7-9ac9-e09c9ba7280a</episode-num>
-    <episode-num system="xmltv_ns">0.1366.0</episode-num>
-    <episode-num system="dd_seriesid">15241971</episode-num>
-    <episode-num system="freeviewnz.tv">season/1c13a2fd-8534-4d90-ac75-dcf6937b3085</episode-num>
-    <episode-num system="freeviewnz.tv">show/0df783ca-827e-4d47-970b-4ee1ce9ffa21</episode-num>
-    <episode-num system="original-air-date">2026-07-04 11:30:00</episode-num>
-    <episode-num system="skygo.co.nz">show/mac_sh_ptc313063015</episode-num>
-    <episode-num system="themoviedb.com">tv/18977</episode-num>
-    <episode-num system="thetvdb.com">series/72178</episode-num>
-    <video>
-      <present>yes</present>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>768x576</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <rating system="New Zealand">
-      <value>G</value>
-    </rating>
-    <star-rating system="themoviedb.org">
-      <value>1/10</value>
-    </star-rating>
-    <series-desc/>
-  </programme>
-  <programme start="20260704000000 +0000" stop="20260704010000 +0000" channel="mjh-al-jazeera">
-    <title>Newshour</title>
-    <sub-title>Newshour</sub-title>
-    <desc>Latest news and in-depth analysis from around the world.</desc>
-    <date>1975</date>
-    <category>News And Factual</category>
-    <category>News</category>
-    <category>News, Current Affairs</category>
-    <category>News Magazine</category>
-    <category>News/Current Affairs</category>
-    <keyword>series</keyword>
-    <icon src="https://images.skyone.co.nz/mac/479214/DAM/35ECB47A-E047-45F6-89C7EA8A6D6B512C.jpg"/>
-    <country>United States</country>
-    <episode-num system="dd_progid">1348546467</episode-num>
-    <episode-num system="freeviewnz.tv">episode/3305fb32-b070-4df5-9589-14fea884cd6d</episode-num>
-    <episode-num system="original-air-date">2026-07-04 12:00:00</episode-num>
-    <episode-num system="skygo.co.nz">show/mac_sh_ptc990239023</episode-num>
-    <episode-num system="themoviedb.com">tv/1655</episode-num>
-    <video>
-      <present>yes</present>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>768x576</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <rating system="New Zealand">
-      <value>G</value>
-    </rating>
-    <star-rating system="themoviedb.org">
-      <value>5/10</value>
-    </star-rating>
-    <series-desc>America's first and longest running hour-long nightly news broadcast known for its in-depth coverage of issues and current events.</series-desc>
-  </programme>
-  <programme start="20260704010000 +0000" stop="20260704013000 +0000" channel="mjh-al-jazeera">
-    <title>News Live</title>
-    <sub-title>News Live</sub-title>
-    <desc>Up-to-date news and analysis from around the world.</desc>
-    <date>2026</date>
-    <category>News And Factual</category>
-    <category>News</category>
-    <category>News, Current Affairs</category>
-    <category>News Magazine</category>
-    <category>News/Current Affairs</category>
-    <keyword>series</keyword>
-    <icon src="https://images.skyone.co.nz/mac/479214/DAM/DBE0A936-38B1-436A-8419146AF048675E.jpg"/>
-    <country>Japan</country>
-    <episode-num system="dd_progid">1348546468</episode-num>
-    <episode-num system="freeviewnz.tv">episode/7b9f1f84-50d3-4fbf-93f1-10ff77012923</episode-num>
-    <episode-num system="original-air-date">2026-07-04 13:00:00</episode-num>
-    <episode-num system="skygo.co.nz">show/mac_sh_ptc1037923899</episode-num>
-    <episode-num system="themoviedb.com">tv/127243</episode-num>
-    <video>
-      <present>yes</present>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>768x576</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <rating system="New Zealand">
-      <value>G</value>
-    </rating>
-    <star-rating system="themoviedb.org">
-      <value>0/10</value>
-    </star-rating>
-    <series-desc>A news show hosted by Kiryu Coco in which she summarizes the events of the day before. Coco-Kaichou often pitches products as commercial breaks such as her drug AsaCoco which can be inhaled, injected or consumed as a drink. It is tradition to watch Cocos AsaCoco Live News and afterwards Tsunomaki Watames "Watame no Uta" (early morning karaoke format with viewer rock-paper-scissor).</series-desc>
-    <live/>
-  </programme>
-  <programme start="20260704013000 +0000" stop="20260704020000 +0000" channel="mjh-al-jazeera">
-    <title>101 East</title>
-    <sub-title>Bangkok's Ambulance Volunteers</sub-title>
-    <desc>101 East enters the dangerous world of Bangkok's volunteer ambulance crews who compete to be the first to reach accident scenes.</desc>
-    <date>2026</date>
-    <category>Documentary</category>
-    <category>Social, Political Issues, Economics</category>
-    <category>Social, Political Issues, Economics (general)</category>
-    <category>News/Current Affairs</category>
-    <keyword>series</keyword>
-    <icon src="https://images.skyone.co.nz/mac/479214/DAM/627032A1-C585-48AC-A44597D1C0CC4F17.jpg"/>
-    <country>Malaysia</country>
-    <episode-num system="dd_progid">58388304</episode-num>
-    <episode-num system="freeviewnz.tv">episode/ddc586df-de57-4dd7-aec0-da03468a40a5</episode-num>
-    <episode-num system="dd_seriesid">15085136</episode-num>
-    <episode-num system="freeviewnz.tv">season/dcd804af-d48a-49c1-b6d3-9038eb0fddf3</episode-num>
-    <episode-num system="freeviewnz.tv">show/f287db0e-eabf-4932-9b4e-384041361a16</episode-num>
-    <episode-num system="original-air-date">2026-07-03 20:30:00</episode-num>
-    <episode-num system="skygo.co.nz">show/mac_sh_ptc1615403645</episode-num>
-    <episode-num system="themoviedb.com">tv/42203</episode-num>
-    <episode-num system="thetvdb.com">series/251101</episode-num>
-    <video>
-      <present>yes</present>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>768x576</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <rating system="New Zealand">
-      <value>G</value>
-    </rating>
-    <star-rating system="themoviedb.org">
-      <value>7/10</value>
-    </star-rating>
-    <series-desc>Bold, untold stories from across Asia and the Pacific. Al Jazeera's in-depth, weekly current affairs programme from the world's most populated region.</series-desc>
-  </programme>
-  <programme start="20260704020000 +0000" stop="20260704030000 +0000" channel="mjh-al-jazeera">
-    <title>Newshour</title>
-    <sub-title>Newshour</sub-title>
-    <desc>Latest news and in-depth analysis from around the world.</desc>
-    <date>1975</date>
-    <category>News And Factual</category>
-    <category>News</category>
-    <category>News, Current Affairs</category>
-    <category>News Magazine</category>
-    <category>News/Current Affairs</category>
-    <keyword>series</keyword>
-    <icon src="https://images.skyone.co.nz/mac/479214/DAM/35ECB47A-E047-45F6-89C7EA8A6D6B512C.jpg"/>
-    <country>United States</country>
-    <episode-num system="dd_progid">1348546470</episode-num>
-    <episode-num system="freeviewnz.tv">episode/9a6f795b-972a-43a3-a75d-f39ca0307e9a</episode-num>
-    <episode-num system="original-air-date">2026-07-04 14:00:00</episode-num>
-    <episode-num system="skygo.co.nz">show/mac_sh_ptc990239023</episode-num>
-    <episode-num system="themoviedb.com">tv/1655</episode-num>
-    <video>
-      <present>yes</present>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>768x576</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <rating system="New Zealand">
-      <value>G</value>
-    </rating>
-    <star-rating system="themoviedb.org">
-      <value>5/10</value>
-    </star-rating>
-    <series-desc>America's first and longest running hour-long nightly news broadcast known for its in-depth coverage of issues and current events.</series-desc>
-  </programme>
-  <programme start="20260704030000 +0000" stop="20260704040000 +0000" channel="mjh-al-jazeera">
-    <title>Newshour</title>
-    <sub-title>Newshour</sub-title>
-    <desc>Latest news and in-depth analysis from around the world.</desc>
-    <date>1975</date>
-    <category>News And Factual</category>
-    <category>News</category>
-    <category>News, Current Affairs</category>
-    <category>News Magazine</category>
-    <category>News/Current Affairs</category>
-    <keyword>series</keyword>
-    <icon src="https://images.skyone.co.nz/mac/479214/DAM/35ECB47A-E047-45F6-89C7EA8A6D6B512C.jpg"/>
-    <country>United States</country>
-    <episode-num system="dd_progid">1408664001</episode-num>
-    <episode-num system="freeviewnz.tv">episode/396ae79b-6908-4a9a-8e4b-bfe272d86691</episode-num>
-    <episode-num system="original-air-date">2026-07-04 15:00:00</episode-num>
-    <episode-num system="skygo.co.nz">show/mac_sh_ptc990239023</episode-num>
-    <episode-num system="themoviedb.com">tv/1655</episode-num>
-    <video>
-      <present>yes</present>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>768x576</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <rating system="New Zealand">
-      <value>G</value>
-    </rating>
-    <star-rating system="themoviedb.org">
-      <value>5/10</value>
-    </star-rating>
-    <series-desc>America's first and longest running hour-long nightly news broadcast known for its in-depth coverage of issues and current events.</series-desc>
-  </programme>
-  <programme start="20260704040000 +0000" stop="20260704043000 +0000" channel="mjh-al-jazeera">
-    <title>News Live</title>
-    <sub-title>News Live</sub-title>
-    <desc>Up-to-date news and analysis from around the world.</desc>
-    <date>2026</date>
-    <category>News And Factual</category>
-    <category>News</category>
-    <category>News, Current Affairs</category>
-    <category>News Magazine</category>
-    <category>News/Current Affairs</category>
-    <keyword>series</keyword>
-    <icon src="https://images.skyone.co.nz/mac/479214/DAM/DBE0A936-38B1-436A-8419146AF048675E.jpg"/>
-    <country>Japan</country>
-    <episode-num system="dd_progid">1348546473</episode-num>
-    <episode-num system="freeviewnz.tv">episode/11be2f10-96aa-4ccf-a9f8-92c009641aa6</episode-num>
-    <episode-num system="original-air-date">2026-07-04 16:00:00</episode-num>
-    <episode-num system="skygo.co.nz">show/mac_sh_ptc1037923899</episode-num>
-    <episode-num system="themoviedb.com">tv/127243</episode-num>
-    <video>
-      <present>yes</present>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>768x576</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <rating system="New Zealand">
-      <value>G</value>
-    </rating>
-    <star-rating system="themoviedb.org">
-      <value>0/10</value>
-    </star-rating>
-    <series-desc>A news show hosted by Kiryu Coco in which she summarizes the events of the day before. Coco-Kaichou often pitches products as commercial breaks such as her drug AsaCoco which can be inhaled, injected or consumed as a drink. It is tradition to watch Cocos AsaCoco Live News and afterwards Tsunomaki Watames "Watame no Uta" (early morning karaoke format with viewer rock-paper-scissor).</series-desc>
-    <live/>
-  </programme>
-  <programme start="20260704043000 +0000" stop="20260704050000 +0000" channel="mjh-al-jazeera">
-    <title>Making Peace</title>
-    <sub-title>The Possibilist</sub-title>
-    <desc>Veteran mediator William Ury reflects on decades between enemies and the fragile art of diplomacy holding the world together.</desc>
-    <date>2026</date>
-    <category>Documentary</category>
-    <category>Social, Political Issues, Economics</category>
-    <category>Social, Political Issues, Economics (general)</category>
-    <category>News/Current Affairs</category>
-    <keyword>series</keyword>
-    <icon src="https://images.skyone.co.nz/mac/479214/DAM/33A697A4-71D2-49FB-99B544040360D388.jpg"/>
-    <episode-num system="dd_progid">57715203</episode-num>
-    <episode-num system="freeviewnz.tv">episode/8d858285-0955-4fc3-95c0-708a10fa7563</episode-num>
-    <episode-num system="xmltv_ns">0.7.0</episode-num>
-    <episode-num system="dd_seriesid">898488</episode-num>
-    <episode-num system="freeviewnz.tv">season/f9ff692b-63c8-4e80-982a-48f9b2b8357a</episode-num>
-    <episode-num system="freeviewnz.tv">show/065a1342-0265-40b4-9ee3-3803fbf7a5f9</episode-num>
-    <episode-num system="original-air-date">2026-04-01 11:30:00</episode-num>
-    <episode-num system="skygo.co.nz">show/mac_sh_ptc63958446</episode-num>
-    <video>
-      <present>yes</present>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>768x576</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <rating system="New Zealand">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20260704050000 +0000" stop="20260704053000 +0000" channel="mjh-al-jazeera">
-    <title>News Live</title>
-    <sub-title>News Live</sub-title>
-    <desc>Up-to-date news and analysis from around the world.</desc>
-    <date>2026</date>
-    <category>News And Factual</category>
-    <category>News</category>
-    <category>News, Current Affairs</category>
-    <category>News Magazine</category>
-    <category>News/Current Affairs</category>
-    <keyword>series</keyword>
-    <icon src="https://images.skyone.co.nz/mac/479214/DAM/DBE0A936-38B1-436A-8419146AF048675E.jpg"/>
-    <country>Japan</country>
-    <episode-num system="dd_progid">1348546475</episode-num>
-    <episode-num system="freeviewnz.tv">episode/17103306-9fa7-416e-8339-4a3aa391e5a5</episode-num>
-    <episode-num system="original-air-date">2026-07-04 17:00:00</episode-num>
-    <episode-num system="skygo.co.nz">show/mac_sh_ptc1037923899</episode-num>
-    <episode-num system="themoviedb.com">tv/127243</episode-num>
-    <video>
-      <present>yes</present>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>768x576</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <rating system="New Zealand">
-      <value>G</value>
-    </rating>
-    <star-rating system="themoviedb.org">
-      <value>0/10</value>
-    </star-rating>
-    <series-desc>A news show hosted by Kiryu Coco in which she summarizes the events of the day before. Coco-Kaichou often pitches products as commercial breaks such as her drug AsaCoco which can be inhaled, injected or consumed as a drink. It is tradition to watch Cocos AsaCoco Live News and afterwards Tsunomaki Watames "Watame no Uta" (early morning karaoke format with viewer rock-paper-scissor).</series-desc>
-    <live/>
-  </programme>
-  <programme start="20260704053000 +0000" stop="20260704060000 +0000" channel="mjh-al-jazeera">
-    <title>Inside Story</title>
-    <sub-title>Inside Story</sub-title>
-    <desc>Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds from around the globe.</desc>
-    <date>2026</date>
-    <category>News And Factual</category>
-    <category>News</category>
-    <category>News, Current Affairs</category>
-    <category>News Magazine</category>
-    <category>News/Current Affairs</category>
-    <keyword>series</keyword>
-    <icon src="https://images.skyone.co.nz/mac/479214/DAM/49BDDDF0-BF67-4534-928FDD8D60919D77.jpg"/>
-    <episode-num system="dd_progid">58388310</episode-num>
-    <episode-num system="freeviewnz.tv">episode/dfac0f35-90e7-4ce7-9ac9-e09c9ba7280a</episode-num>
-    <episode-num system="xmltv_ns">0.1366.0</episode-num>
-    <episode-num system="dd_seriesid">15241971</episode-num>
-    <episode-num system="freeviewnz.tv">season/1c13a2fd-8534-4d90-ac75-dcf6937b3085</episode-num>
-    <episode-num system="freeviewnz.tv">show/0df783ca-827e-4d47-970b-4ee1ce9ffa21</episode-num>
-    <episode-num system="original-air-date">2026-07-04 11:30:00</episode-num>
-    <episode-num system="skygo.co.nz">show/mac_sh_ptc313063015</episode-num>
-    <episode-num system="themoviedb.com">tv/18977</episode-num>
-    <episode-num system="thetvdb.com">series/72178</episode-num>
-    <video>
-      <present>yes</present>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>768x576</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <rating system="New Zealand">
-      <value>G</value>
-    </rating>
-    <star-rating system="themoviedb.org">
-      <value>1/10</value>
-    </star-rating>
-    <series-desc/>
-  </programme>
-  <programme start="20260704060000 +0000" stop="20260704063000 +0000" channel="mjh-al-jazeera">
-    <title>News Live</title>
-    <sub-title>News Live</sub-title>
-    <desc>Up-to-date news and analysis from around the world.</desc>
-    <date>2026</date>
-    <category>News And Factual</category>
-    <category>News</category>
-    <category>News, Current Affairs</category>
-    <category>News Magazine</category>
-    <category>News/Current Affairs</category>
-    <keyword>series</keyword>
-    <icon src="https://images.skyone.co.nz/mac/479214/DAM/DBE0A936-38B1-436A-8419146AF048675E.jpg"/>
-    <country>Japan</country>
-    <episode-num system="dd_progid">1348546477</episode-num>
-    <episode-num system="freeviewnz.tv">episode/314cbf27-2b84-40bb-976d-fcbcf6047919</episode-num>
-    <episode-num system="original-air-date">2026-07-04 18:00:00</episode-num>
-    <episode-num system="skygo.co.nz">show/mac_sh_ptc1037923899</episode-num>
-    <episode-num system="themoviedb.com">tv/127243</episode-num>
-    <video>
-      <present>yes</present>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>768x576</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <rating system="New Zealand">
-      <value>G</value>
-    </rating>
-    <star-rating system="themoviedb.org">
-      <value>0/10</value>
-    </star-rating>
-    <series-desc>A news show hosted by Kiryu Coco in which she summarizes the events of the day before. Coco-Kaichou often pitches products as commercial breaks such as her drug AsaCoco which can be inhaled, injected or consumed as a drink. It is tradition to watch Cocos AsaCoco Live News and afterwards Tsunomaki Watames "Watame no Uta" (early morning karaoke format with viewer rock-paper-scissor).</series-desc>
-    <live/>
-  </programme>
-  <programme start="20260704063000 +0000" stop="20260704070000 +0000" channel="mjh-al-jazeera">
-    <title>Counting the Cost</title>
-    <sub-title>Counting the Cost</sub-title>
-    <desc>Caught between growing competition and trade tensions, can Europe remain competitive?</desc>
-    <date>2026</date>
-    <category>Documentary</category>
-    <category>Social, Political Issues, Economics</category>
-    <category>Economics, Social Advisory</category>
-    <category>News/Current Affairs</category>
-    <keyword>series</keyword>
-    <icon src="https://images.skyone.co.nz/mac/479214/DAM/3867D6B0-2A5A-4216-83B6FD8D9C5AF06F.jpg"/>
-    <episode-num system="dd_progid">58388316</episode-num>
-    <episode-num system="freeviewnz.tv">episode/f80f47e7-858e-473e-bb46-65148bd8885c</episode-num>
-    <episode-num system="dd_seriesid">15143844</episode-num>
-    <episode-num system="freeviewnz.tv">season/c8f499d0-d601-4454-b001-9bbf39b5e6a1</episode-num>
-    <episode-num system="freeviewnz.tv">show/7e0d1f88-d2d8-464a-8343-99e1eeb716f8</episode-num>
-    <episode-num system="original-air-date">2026-07-04 07:30:00</episode-num>
-    <episode-num system="skygo.co.nz">show/mac_sh_ptc418570455</episode-num>
-    <video>
-      <present>yes</present>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>768x576</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <rating system="New Zealand">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20260704070000 +0000" stop="20260704080000 +0000" channel="mjh-al-jazeera">
-    <title>Newshour</title>
-    <sub-title>Newshour</sub-title>
-    <desc>Latest news and in-depth analysis from around the world.</desc>
-    <date>1975</date>
-    <category>News And Factual</category>
-    <category>News</category>
-    <category>News, Current Affairs</category>
-    <category>News Magazine</category>
-    <category>News/Current Affairs</category>
-    <keyword>series</keyword>
-    <icon src="https://images.skyone.co.nz/mac/479214/DAM/35ECB47A-E047-45F6-89C7EA8A6D6B512C.jpg"/>
-    <country>United States</country>
-    <episode-num system="dd_progid">1348546479</episode-num>
-    <episode-num system="freeviewnz.tv">episode/448ba5ee-7c4e-438d-bbef-fe9e9de4357a</episode-num>
-    <episode-num system="original-air-date">2026-07-04 19:00:00</episode-num>
-    <episode-num system="skygo.co.nz">show/mac_sh_ptc990239023</episode-num>
-    <episode-num system="themoviedb.com">tv/1655</episode-num>
-    <video>
-      <present>yes</present>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>768x576</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <rating system="New Zealand">
-      <value>G</value>
-    </rating>
-    <star-rating system="themoviedb.org">
-      <value>5/10</value>
-    </star-rating>
-    <series-desc>America's first and longest running hour-long nightly news broadcast known for its in-depth coverage of issues and current events.</series-desc>
-  </programme>
-  <programme start="20260704080000 +0000" stop="20260704083000 +0000" channel="mjh-al-jazeera">
-    <title>News Live</title>
-    <sub-title>News Live</sub-title>
-    <desc>Up-to-date news and analysis from around the world.</desc>
-    <date>2026</date>
-    <category>News And Factual</category>
-    <category>News</category>
-    <category>News, Current Affairs</category>
-    <category>News Magazine</category>
-    <category>News/Current Affairs</category>
-    <keyword>series</keyword>
-    <icon src="https://images.skyone.co.nz/mac/479214/DAM/DBE0A936-38B1-436A-8419146AF048675E.jpg"/>
-    <country>Japan</country>
-    <episode-num system="dd_progid">1348546480</episode-num>
-    <episode-num system="freeviewnz.tv">episode/e58dc591-5c2d-41ea-8e36-75f380485fa0</episode-num>
-    <episode-num system="original-air-date">2026-07-04 20:00:00</episode-num>
-    <episode-num system="skygo.co.nz">show/mac_sh_ptc1037923899</episode-num>
-    <episode-num system="themoviedb.com">tv/127243</episode-num>
-    <video>
-      <present>yes</present>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>768x576</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <rating system="New Zealand">
-      <value>G</value>
-    </rating>
-    <star-rating system="themoviedb.org">
-      <value>0/10</value>
-    </star-rating>
-    <series-desc>A news show hosted by Kiryu Coco in which she summarizes the events of the day before. Coco-Kaichou often pitches products as commercial breaks such as her drug AsaCoco which can be inhaled, injected or consumed as a drink. It is tradition to watch Cocos AsaCoco Live News and afterwards Tsunomaki Watames "Watame no Uta" (early morning karaoke format with viewer rock-paper-scissor).</series-desc>
-    <live/>
-  </programme>
-  <programme start="20260704083000 +0000" stop="20260704090000 +0000" channel="mjh-al-jazeera">
-    <title>UpFront</title>
-    <sub-title>UpFront</sub-title>
-    <desc>Marc Lamont Hill and Kimberle Crenshaw discuss the blind spots in US history on the country's 250th anniversary.</desc>
-    <date>2026</date>
-    <category>Documentary</category>
-    <category>Social, Political Issues, Economics</category>
-    <category>Social, Political Issues, Economics (general)</category>
-    <category>News/Current Affairs</category>
-    <keyword>series</keyword>
-    <icon src="https://images.skyone.co.nz/mac/479214/DAM/94A2E567-46A3-42D7-9B0B269B52E4939B.jpg"/>
-    <country>United States</country>
-    <episode-num system="dd_progid">58388317</episode-num>
-    <episode-num system="freeviewnz.tv">episode/f673dc61-63dc-4fd6-8fdb-c92d75a25516</episode-num>
-    <episode-num system="dd_seriesid">27700925</episode-num>
-    <episode-num system="freeviewnz.tv">season/34dc9687-b675-4a33-96e1-7bd8ca27c0fc</episode-num>
-    <episode-num system="freeviewnz.tv">show/cc09789e-82e3-4d7c-92f5-9e7a6fc391bf</episode-num>
-    <episode-num system="original-air-date">2026-07-04 08:30:00</episode-num>
-    <episode-num system="skygo.co.nz">show/mac_sh_ptc972680058</episode-num>
-    <episode-num system="themoviedb.com">tv/70246</episode-num>
-    <episode-num system="thetvdb.com">series/306815</episode-num>
-    <video>
-      <present>yes</present>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>768x576</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <rating system="New Zealand">
-      <value>G</value>
-    </rating>
-    <star-rating system="themoviedb.org">
-      <value>0/10</value>
-    </star-rating>
-    <series-desc>With the thrust and parry of rigorous debate, Mehdi Hasan cuts through the headlines to challenge conventional wisdom, highlight contradictions and uncover double standards.</series-desc>
-  </programme>
-  <programme start="20260704090000 +0000" stop="20260704093000 +0000" channel="mjh-al-jazeera">
-    <title>News Live</title>
-    <sub-title>News Live</sub-title>
-    <desc>Up-to-date news and analysis from around the world.</desc>
-    <date>2026</date>
-    <category>News And Factual</category>
-    <category>News</category>
-    <category>News, Current Affairs</category>
-    <category>News Magazine</category>
-    <category>News/Current Affairs</category>
-    <keyword>series</keyword>
-    <icon src="https://images.skyone.co.nz/mac/479214/DAM/DBE0A936-38B1-436A-8419146AF048675E.jpg"/>
-    <country>Japan</country>
-    <episode-num system="dd_progid">1348546482</episode-num>
-    <episode-num system="freeviewnz.tv">episode/37757cc4-d76b-4196-9c8a-988d61b9f3db</episode-num>
-    <episode-num system="original-air-date">2026-07-04 21:00:00</episode-num>
-    <episode-num system="skygo.co.nz">show/mac_sh_ptc1037923899</episode-num>
-    <episode-num system="themoviedb.com">tv/127243</episode-num>
-    <video>
-      <present>yes</present>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>768x576</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <rating system="New Zealand">
-      <value>G</value>
-    </rating>
-    <star-rating system="themoviedb.org">
-      <value>0/10</value>
-    </star-rating>
-    <series-desc>A news show hosted by Kiryu Coco in which she summarizes the events of the day before. Coco-Kaichou often pitches products as commercial breaks such as her drug AsaCoco which can be inhaled, injected or consumed as a drink. It is tradition to watch Cocos AsaCoco Live News and afterwards Tsunomaki Watames "Watame no Uta" (early morning karaoke format with viewer rock-paper-scissor).</series-desc>
-    <live/>
-  </programme>
-  <programme start="20260704093000 +0000" stop="20260704100000 +0000" channel="mjh-al-jazeera">
-    <title>Witness</title>
-    <sub-title>Native Americans Confronting ICE</sub-title>
-    <desc>A Native American lawyer confronts ICE as he channels generational resistance into a fight for justice in the U.S.</desc>
-    <date>2026</date>
-    <category>Documentary</category>
-    <category>Social, Political Issues, Economics</category>
-    <category>Social, Political Issues, Economics (general)</category>
-    <category>News/Current Affairs</category>
-    <keyword>series</keyword>
-    <icon src="https://images.skyone.co.nz/mac/479214/DAM/78B0C2F6-2D69-4594-B496FBB64ADB6673.jpg"/>
-    <country>South Korea</country>
-    <episode-num system="dd_progid">58401539</episode-num>
-    <episode-num system="freeviewnz.tv">episode/f6251785-744e-429d-afe4-2879b9f6226c</episode-num>
-    <episode-num system="dd_seriesid">15473906</episode-num>
-    <episode-num system="freeviewnz.tv">season/3ddda0f9-250e-4ad1-9139-423c342c5222</episode-num>
-    <episode-num system="freeviewnz.tv">show/80c7a55a-5e3b-4bd9-bb90-59eb1601a8c9</episode-num>
-    <episode-num system="original-air-date">2026-06-30 08:30:00</episode-num>
-    <episode-num system="skygo.co.nz">show/mac_sh_ptc2040583745</episode-num>
-    <episode-num system="themoviedb.com">tv/208249</episode-num>
-    <episode-num system="thetvdb.com">series/261794</episode-num>
-    <video>
-      <present>yes</present>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>768x576</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <rating system="New Zealand">
-      <value>G</value>
-    </rating>
-    <star-rating system="themoviedb.org">
-      <value>7/10</value>
-    </star-rating>
-    <series-desc>Yu Kyung is a successful woman who is proficient enough to become an executive director of Chunha Group when she started as a secretary. She recently found out her daughter is alive, so she plans to get her back and take her revenge. Meanwhile, Hye Soo is a strong girl who faces challenges head-on. She has a daughter with Ji Ho, and she would do anything for her. However, she gets tragically betrayed by Ji Ho, the love of her life, over power and money. How will those two mothers end their fierce revenge?</series-desc>
-  </programme>
-  <programme start="20260704100000 +0000" stop="20260704110000 +0000" channel="mjh-al-jazeera">
-    <title>Newshour</title>
-    <sub-title>Newshour</sub-title>
-    <desc>Latest news and in-depth analysis from around the world.</desc>
-    <date>1975</date>
-    <category>News And Factual</category>
-    <category>News</category>
-    <category>News, Current Affairs</category>
-    <category>News Magazine</category>
-    <category>News/Current Affairs</category>
-    <keyword>series</keyword>
-    <icon src="https://images.skyone.co.nz/mac/479214/DAM/35ECB47A-E047-45F6-89C7EA8A6D6B512C.jpg"/>
-    <country>United States</country>
-    <episode-num system="dd_progid">1348546484</episode-num>
-    <episode-num system="freeviewnz.tv">episode/4f688480-d45d-4b68-91cd-3bd41be194dd</episode-num>
-    <episode-num system="original-air-date">2026-07-04 22:00:00</episode-num>
-    <episode-num system="skygo.co.nz">show/mac_sh_ptc990239023</episode-num>
-    <episode-num system="themoviedb.com">tv/1655</episode-num>
-    <video>
-      <present>yes</present>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>768x576</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <rating system="New Zealand">
-      <value>G</value>
-    </rating>
-    <star-rating system="themoviedb.org">
-      <value>5/10</value>
-    </star-rating>
-    <series-desc>America's first and longest running hour-long nightly news broadcast known for its in-depth coverage of issues and current events.</series-desc>
-  </programme>
-  <programme start="20260704110000 +0000" stop="20260704113000 +0000" channel="mjh-al-jazeera">
-    <title>News Live</title>
-    <sub-title>News Live</sub-title>
-    <desc>Up-to-date news and analysis from around the world.</desc>
-    <date>2026</date>
-    <category>News And Factual</category>
-    <category>News</category>
-    <category>News, Current Affairs</category>
-    <category>News Magazine</category>
-    <category>News/Current Affairs</category>
-    <keyword>series</keyword>
-    <icon src="https://images.skyone.co.nz/mac/479214/DAM/DBE0A936-38B1-436A-8419146AF048675E.jpg"/>
-    <country>Japan</country>
-    <episode-num system="dd_progid">1348546485</episode-num>
-    <episode-num system="freeviewnz.tv">episode/45975983-7019-4707-935a-a7579774d35a</episode-num>
-    <episode-num system="original-air-date">2026-07-04 23:00:00</episode-num>
-    <episode-num system="skygo.co.nz">show/mac_sh_ptc1037923899</episode-num>
-    <episode-num system="themoviedb.com">tv/127243</episode-num>
-    <video>
-      <present>yes</present>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>768x576</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <rating system="New Zealand">
-      <value>G</value>
-    </rating>
-    <star-rating system="themoviedb.org">
-      <value>0/10</value>
-    </star-rating>
-    <series-desc>A news show hosted by Kiryu Coco in which she summarizes the events of the day before. Coco-Kaichou often pitches products as commercial breaks such as her drug AsaCoco which can be inhaled, injected or consumed as a drink. It is tradition to watch Cocos AsaCoco Live News and afterwards Tsunomaki Watames "Watame no Uta" (early morning karaoke format with viewer rock-paper-scissor).</series-desc>
-    <live/>
-  </programme>
-  <programme start="20260704113000 +0000" stop="20260704120000 +0000" channel="mjh-al-jazeera">
-    <title>Inside Story</title>
-    <sub-title>Inside Story</sub-title>
-    <desc>Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds from around the globe.</desc>
-    <date>2026</date>
-    <category>News And Factual</category>
-    <category>News</category>
-    <category>News, Current Affairs</category>
-    <category>News Magazine</category>
-    <category>News/Current Affairs</category>
-    <keyword>series</keyword>
-    <icon src="https://images.skyone.co.nz/mac/479214/DAM/49BDDDF0-BF67-4534-928FDD8D60919D77.jpg"/>
-    <episode-num system="dd_progid">58388310</episode-num>
-    <episode-num system="freeviewnz.tv">episode/dfac0f35-90e7-4ce7-9ac9-e09c9ba7280a</episode-num>
-    <episode-num system="xmltv_ns">0.1366.0</episode-num>
-    <episode-num system="dd_seriesid">15241971</episode-num>
-    <episode-num system="freeviewnz.tv">season/1c13a2fd-8534-4d90-ac75-dcf6937b3085</episode-num>
-    <episode-num system="freeviewnz.tv">show/0df783ca-827e-4d47-970b-4ee1ce9ffa21</episode-num>
-    <episode-num system="original-air-date">2026-07-04 11:30:00</episode-num>
-    <episode-num system="skygo.co.nz">show/mac_sh_ptc313063015</episode-num>
-    <episode-num system="themoviedb.com">tv/18977</episode-num>
-    <episode-num system="thetvdb.com">series/72178</episode-num>
-    <video>
-      <present>yes</present>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>768x576</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <rating system="New Zealand">
-      <value>G</value>
-    </rating>
-    <star-rating system="themoviedb.org">
-      <value>1/10</value>
-    </star-rating>
-    <series-desc/>
-  </programme>
-  <programme start="20260704120000 +0000" stop="20260704130000 +0000" channel="mjh-al-jazeera">
-    <title>Newshour</title>
-    <sub-title>Newshour</sub-title>
-    <desc>Latest news and in-depth analysis from around the world.</desc>
-    <date>1975</date>
-    <category>News And Factual</category>
-    <category>News</category>
-    <category>News, Current Affairs</category>
-    <category>News Magazine</category>
-    <category>News/Current Affairs</category>
-    <keyword>series</keyword>
-    <icon src="https://images.skyone.co.nz/mac/479214/DAM/35ECB47A-E047-45F6-89C7EA8A6D6B512C.jpg"/>
-    <country>United States</country>
-    <episode-num system="dd_progid">1348546487</episode-num>
-    <episode-num system="freeviewnz.tv">episode/7da7ae55-d71b-4703-87c6-093cc1ba554a</episode-num>
-    <episode-num system="original-air-date">2026-07-05 00:00:00</episode-num>
-    <episode-num system="skygo.co.nz">show/mac_sh_ptc990239023</episode-num>
-    <episode-num system="themoviedb.com">tv/1655</episode-num>
-    <video>
-      <present>yes</present>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>768x576</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <rating system="New Zealand">
-      <value>G</value>
-    </rating>
-    <star-rating system="themoviedb.org">
-      <value>5/10</value>
-    </star-rating>
-    <series-desc>America's first and longest running hour-long nightly news broadcast known for its in-depth coverage of issues and current events.</series-desc>
-  </programme>
-  <programme start="20260704130000 +0000" stop="20260704140000 +0000" channel="mjh-al-jazeera">
-    <title>Newshour</title>
-    <sub-title>Newshour</sub-title>
-    <desc>Latest news and in-depth analysis from around the world.</desc>
-    <date>1975</date>
-    <category>News And Factual</category>
-    <category>News</category>
-    <category>News, Current Affairs</category>
-    <category>News Magazine</category>
-    <category>News/Current Affairs</category>
-    <keyword>series</keyword>
-    <icon src="https://images.skyone.co.nz/mac/479214/DAM/35ECB47A-E047-45F6-89C7EA8A6D6B512C.jpg"/>
-    <country>United States</country>
-    <episode-num system="dd_progid">1348546488</episode-num>
-    <episode-num system="freeviewnz.tv">episode/3a4b0000-1e07-4a13-8ac5-b11504d7a32e</episode-num>
-    <episode-num system="original-air-date">2026-07-05 01:00:00</episode-num>
-    <episode-num system="skygo.co.nz">show/mac_sh_ptc990239023</episode-num>
-    <episode-num system="themoviedb.com">tv/1655</episode-num>
-    <video>
-      <present>yes</present>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>768x576</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <rating system="New Zealand">
-      <value>G</value>
-    </rating>
-    <star-rating system="themoviedb.org">
-      <value>5/10</value>
-    </star-rating>
-    <series-desc>America's first and longest running hour-long nightly news broadcast known for its in-depth coverage of issues and current events.</series-desc>
-  </programme>
-  <programme start="20260704140000 +0000" stop="20260704143000 +0000" channel="mjh-al-jazeera">
-    <title>News Live</title>
-    <sub-title>News Live</sub-title>
-    <desc>Up-to-date news and analysis from around the world.</desc>
-    <date>2026</date>
-    <category>News And Factual</category>
-    <category>News</category>
-    <category>News, Current Affairs</category>
-    <category>News Magazine</category>
-    <category>News/Current Affairs</category>
-    <keyword>series</keyword>
-    <icon src="https://images.skyone.co.nz/mac/479214/DAM/DBE0A936-38B1-436A-8419146AF048675E.jpg"/>
-    <country>Japan</country>
-    <episode-num system="dd_progid">1348546489</episode-num>
-    <episode-num system="freeviewnz.tv">episode/e334fb9d-4520-47e6-89de-ac4dd2452402</episode-num>
-    <episode-num system="original-air-date">2026-07-05 02:00:00</episode-num>
-    <episode-num system="skygo.co.nz">show/mac_sh_ptc1037923899</episode-num>
-    <episode-num system="themoviedb.com">tv/127243</episode-num>
-    <video>
-      <present>yes</present>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>768x576</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <rating system="New Zealand">
-      <value>G</value>
-    </rating>
-    <star-rating system="themoviedb.org">
-      <value>0/10</value>
-    </star-rating>
-    <series-desc>A news show hosted by Kiryu Coco in which she summarizes the events of the day before. Coco-Kaichou often pitches products as commercial breaks such as her drug AsaCoco which can be inhaled, injected or consumed as a drink. It is tradition to watch Cocos AsaCoco Live News and afterwards Tsunomaki Watames "Watame no Uta" (early morning karaoke format with viewer rock-paper-scissor).</series-desc>
-    <live/>
-  </programme>
-  <programme start="20260704143000 +0000" stop="20260704150000 +0000" channel="mjh-al-jazeera">
-    <title>Counting the Cost</title>
-    <sub-title>Counting the Cost</sub-title>
-    <desc>Caught between growing competition and trade tensions, can Europe remain competitive?</desc>
-    <date>2026</date>
-    <category>Documentary</category>
-    <category>Social, Political Issues, Economics</category>
-    <category>Economics, Social Advisory</category>
-    <category>News/Current Affairs</category>
-    <keyword>series</keyword>
-    <icon src="https://images.skyone.co.nz/mac/479214/DAM/3867D6B0-2A5A-4216-83B6FD8D9C5AF06F.jpg"/>
-    <episode-num system="dd_progid">58388316</episode-num>
-    <episode-num system="freeviewnz.tv">episode/f80f47e7-858e-473e-bb46-65148bd8885c</episode-num>
-    <episode-num system="dd_seriesid">15143844</episode-num>
-    <episode-num system="freeviewnz.tv">season/c8f499d0-d601-4454-b001-9bbf39b5e6a1</episode-num>
-    <episode-num system="freeviewnz.tv">show/7e0d1f88-d2d8-464a-8343-99e1eeb716f8</episode-num>
-    <episode-num system="original-air-date">2026-07-04 07:30:00</episode-num>
-    <episode-num system="skygo.co.nz">show/mac_sh_ptc418570455</episode-num>
-    <video>
-      <present>yes</present>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>768x576</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <rating system="New Zealand">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20260704150000 +0000" stop="20260704160000 +0000" channel="mjh-al-jazeera">
-    <title>Newshour</title>
-    <sub-title>Newshour</sub-title>
-    <desc>Latest news and in-depth analysis from around the world.</desc>
-    <date>1975</date>
-    <category>News And Factual</category>
-    <category>News</category>
-    <category>News, Current Affairs</category>
-    <category>News Magazine</category>
-    <category>News/Current Affairs</category>
-    <keyword>series</keyword>
-    <icon src="https://images.skyone.co.nz/mac/479214/DAM/35ECB47A-E047-45F6-89C7EA8A6D6B512C.jpg"/>
-    <country>United States</country>
-    <episode-num system="dd_progid">1348546491</episode-num>
-    <episode-num system="freeviewnz.tv">episode/a48e1c10-e781-4e75-83f0-ff1604d86fa2</episode-num>
-    <episode-num system="original-air-date">2026-07-05 03:00:00</episode-num>
-    <episode-num system="skygo.co.nz">show/mac_sh_ptc990239023</episode-num>
-    <episode-num system="themoviedb.com">tv/1655</episode-num>
-    <video>
-      <present>yes</present>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>768x576</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <rating system="New Zealand">
-      <value>G</value>
-    </rating>
-    <star-rating system="themoviedb.org">
-      <value>5/10</value>
-    </star-rating>
-    <series-desc>America's first and longest running hour-long nightly news broadcast known for its in-depth coverage of issues and current events.</series-desc>
-  </programme>
-  <programme start="20260704160000 +0000" stop="20260704163000 +0000" channel="mjh-al-jazeera">
-    <title>News Live</title>
-    <sub-title>News Live</sub-title>
-    <desc>Up-to-date news and analysis from around the world.</desc>
-    <date>2026</date>
-    <category>News And Factual</category>
-    <category>News</category>
-    <category>News, Current Affairs</category>
-    <category>News Magazine</category>
-    <category>News/Current Affairs</category>
-    <keyword>series</keyword>
-    <icon src="https://images.skyone.co.nz/mac/479214/DAM/DBE0A936-38B1-436A-8419146AF048675E.jpg"/>
-    <country>Japan</country>
-    <episode-num system="dd_progid">1348546492</episode-num>
-    <episode-num system="freeviewnz.tv">episode/8e1344c3-b73b-4c0a-9aed-92b5fb34d4ce</episode-num>
-    <episode-num system="original-air-date">2026-07-05 04:00:00</episode-num>
-    <episode-num system="skygo.co.nz">show/mac_sh_ptc1037923899</episode-num>
-    <episode-num system="themoviedb.com">tv/127243</episode-num>
-    <video>
-      <present>yes</present>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>768x576</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <rating system="New Zealand">
-      <value>G</value>
-    </rating>
-    <star-rating system="themoviedb.org">
-      <value>0/10</value>
-    </star-rating>
-    <series-desc>A news show hosted by Kiryu Coco in which she summarizes the events of the day before. Coco-Kaichou often pitches products as commercial breaks such as her drug AsaCoco which can be inhaled, injected or consumed as a drink. It is tradition to watch Cocos AsaCoco Live News and afterwards Tsunomaki Watames "Watame no Uta" (early morning karaoke format with viewer rock-paper-scissor).</series-desc>
-    <live/>
-  </programme>
-  <programme start="20260704163000 +0000" stop="20260704170000 +0000" channel="mjh-al-jazeera">
-    <title>Algeria: Toxic Colonisation</title>
-    <sub-title>The Silent Caves</sub-title>
-    <desc>Algerian villagers sought shelter from French attacks in mountain caves, but then toxic chemicals turned their refuge into a deadly gas chamber.</desc>
-    <date>2026</date>
-    <category>Documentary</category>
-    <category>Education, Science</category>
-    <category>Nature, Animals, Environment</category>
-    <keyword>series</keyword>
-    <icon src="https://nzxmltv.com/images/algeria-toxic-colonisation.png"/>
-    <episode-num system="dd_progid">58455571</episode-num>
-    <episode-num system="freeviewnz.tv">episode/9ef306b9-5bca-47ea-91c5-ce02221812d9</episode-num>
-    <episode-num system="dd_seriesid">58455570</episode-num>
-    <episode-num system="freeviewnz.tv">season/ec56242f-9b0b-4b52-99ea-699a7b6c9cd4</episode-num>
-    <episode-num system="freeviewnz.tv">show/b08a1893-fc94-4492-973f-30035c4da5bf</episode-num>
-    <episode-num system="original-air-date">2026-07-02 07:30:00</episode-num>
-    <video>
-      <present>yes</present>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>768x576</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <rating system="New Zealand">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20260704170000 +0000" stop="20260704173000 +0000" channel="mjh-al-jazeera">
-    <title>News Live</title>
-    <sub-title>News Live</sub-title>
-    <desc>Up-to-date news and analysis from around the world.</desc>
-    <date>2026</date>
-    <category>News And Factual</category>
-    <category>News</category>
-    <category>News, Current Affairs</category>
-    <category>News Magazine</category>
-    <category>News/Current Affairs</category>
-    <keyword>series</keyword>
-    <icon src="https://images.skyone.co.nz/mac/479214/DAM/DBE0A936-38B1-436A-8419146AF048675E.jpg"/>
-    <country>Japan</country>
-    <episode-num system="dd_progid">1348546494</episode-num>
-    <episode-num system="freeviewnz.tv">episode/c750d82c-6881-4cab-9a9c-89e1445b901b</episode-num>
-    <episode-num system="original-air-date">2026-07-05 05:00:00</episode-num>
-    <episode-num system="skygo.co.nz">show/mac_sh_ptc1037923899</episode-num>
-    <episode-num system="themoviedb.com">tv/127243</episode-num>
-    <video>
-      <present>yes</present>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>768x576</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <rating system="New Zealand">
-      <value>G</value>
-    </rating>
-    <star-rating system="themoviedb.org">
-      <value>0/10</value>
-    </star-rating>
-    <series-desc>A news show hosted by Kiryu Coco in which she summarizes the events of the day before. Coco-Kaichou often pitches products as commercial breaks such as her drug AsaCoco which can be inhaled, injected or consumed as a drink. It is tradition to watch Cocos AsaCoco Live News and afterwards Tsunomaki Watames "Watame no Uta" (early morning karaoke format with viewer rock-paper-scissor).</series-desc>
-    <live/>
-  </programme>
-  <programme start="20260704173000 +0000" stop="20260704180000 +0000" channel="mjh-al-jazeera">
-    <title>Inside Story</title>
-    <sub-title>Inside Story</sub-title>
-    <desc>Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds from around the globe.</desc>
-    <date>2026</date>
-    <category>News And Factual</category>
-    <category>News</category>
-    <category>News, Current Affairs</category>
-    <category>News Magazine</category>
-    <category>News/Current Affairs</category>
-    <keyword>series</keyword>
-    <icon src="https://images.skyone.co.nz/mac/479214/DAM/49BDDDF0-BF67-4534-928FDD8D60919D77.jpg"/>
-    <episode-num system="dd_progid">58388319</episode-num>
-    <episode-num system="freeviewnz.tv">episode/ee8a5c34-8959-41fd-bbf7-728181ffcc0b</episode-num>
-    <episode-num system="xmltv_ns">0.1367.0</episode-num>
-    <episode-num system="dd_seriesid">15241971</episode-num>
-    <episode-num system="freeviewnz.tv">season/1c13a2fd-8534-4d90-ac75-dcf6937b3085</episode-num>
-    <episode-num system="freeviewnz.tv">show/0df783ca-827e-4d47-970b-4ee1ce9ffa21</episode-num>
-    <episode-num system="original-air-date">2026-07-05 11:30:00</episode-num>
-    <episode-num system="skygo.co.nz">show/mac_sh_ptc313063015</episode-num>
-    <episode-num system="themoviedb.com">tv/18977</episode-num>
-    <episode-num system="thetvdb.com">series/72178</episode-num>
-    <video>
-      <present>yes</present>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>768x576</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <rating system="New Zealand">
-      <value>G</value>
-    </rating>
-    <star-rating system="themoviedb.org">
-      <value>1/10</value>
-    </star-rating>
-    <series-desc/>
-  </programme>
-  <programme start="20260704180000 +0000" stop="20260704190000 +0000" channel="mjh-al-jazeera">
-    <title>Newshour</title>
-    <sub-title>Newshour</sub-title>
-    <desc>Latest news and in-depth analysis from around the world.</desc>
-    <date>1975</date>
-    <category>News And Factual</category>
-    <category>News</category>
-    <category>News, Current Affairs</category>
-    <category>News Magazine</category>
-    <category>News/Current Affairs</category>
-    <keyword>series</keyword>
-    <icon src="https://images.skyone.co.nz/mac/479214/DAM/35ECB47A-E047-45F6-89C7EA8A6D6B512C.jpg"/>
-    <country>United States</country>
-    <episode-num system="dd_progid">1348546496</episode-num>
-    <episode-num system="freeviewnz.tv">episode/2edd258a-9db7-452d-ac2f-7c2364f77faf</episode-num>
-    <episode-num system="original-air-date">2026-07-05 06:00:00</episode-num>
-    <episode-num system="skygo.co.nz">show/mac_sh_ptc990239023</episode-num>
-    <episode-num system="themoviedb.com">tv/1655</episode-num>
-    <video>
-      <present>yes</present>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>768x576</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <rating system="New Zealand">
-      <value>G</value>
-    </rating>
-    <star-rating system="themoviedb.org">
-      <value>5/10</value>
-    </star-rating>
-    <series-desc>America's first and longest running hour-long nightly news broadcast known for its in-depth coverage of issues and current events.</series-desc>
-  </programme>
-  <programme start="20260704190000 +0000" stop="20260704193000 +0000" channel="mjh-al-jazeera">
-    <title>News Live</title>
-    <sub-title>News Live</sub-title>
-    <desc>Up-to-date news and analysis from around the world.</desc>
-    <date>2026</date>
-    <category>News And Factual</category>
-    <category>News</category>
-    <category>News, Current Affairs</category>
-    <category>News Magazine</category>
-    <category>News/Current Affairs</category>
-    <keyword>series</keyword>
-    <icon src="https://images.skyone.co.nz/mac/479214/DAM/DBE0A936-38B1-436A-8419146AF048675E.jpg"/>
-    <country>Japan</country>
-    <episode-num system="dd_progid">1348546497</episode-num>
-    <episode-num system="freeviewnz.tv">episode/17513587-48a7-4363-bcae-33f9c9d07e35</episode-num>
-    <episode-num system="original-air-date">2026-07-05 07:00:00</episode-num>
-    <episode-num system="skygo.co.nz">show/mac_sh_ptc1037923899</episode-num>
-    <episode-num system="themoviedb.com">tv/127243</episode-num>
-    <video>
-      <present>yes</present>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>768x576</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <rating system="New Zealand">
-      <value>G</value>
-    </rating>
-    <star-rating system="themoviedb.org">
-      <value>0/10</value>
-    </star-rating>
-    <series-desc>A news show hosted by Kiryu Coco in which she summarizes the events of the day before. Coco-Kaichou often pitches products as commercial breaks such as her drug AsaCoco which can be inhaled, injected or consumed as a drink. It is tradition to watch Cocos AsaCoco Live News and afterwards Tsunomaki Watames "Watame no Uta" (early morning karaoke format with viewer rock-paper-scissor).</series-desc>
-    <live/>
-  </programme>
-  <programme start="20260704193000 +0000" stop="20260704200000 +0000" channel="mjh-al-jazeera">
-    <title>The Listening Post</title>
-    <sub-title>The Listening Post</sub-title>
-    <desc>The online campaign stoking South Africa's latest xenophobic backlash. Plus, will social media bans really save the kids?</desc>
-    <date>2026</date>
-    <category>News And Factual</category>
-    <category>News</category>
-    <category>News, Current Affairs</category>
-    <category>News Magazine</category>
-    <category>News/Current Affairs</category>
-    <keyword>series</keyword>
-    <icon src="https://images.skyone.co.nz/mac/479214/DAM/4F2F9A77-2D50-4571-81F10268C32AE2D8.jpg"/>
-    <country>United Kingdom</country>
-    <episode-num system="dd_progid">58388320</episode-num>
-    <episode-num system="freeviewnz.tv">episode/1a59401a-2962-4251-b326-0987c6d24a06</episode-num>
-    <episode-num system="dd_seriesid">15298422</episode-num>
-    <episode-num system="freeviewnz.tv">season/3b1267e8-5b63-4bcf-b4b7-24ebc21b1fdb</episode-num>
-    <episode-num system="freeviewnz.tv">show/6f5b0ee6-7d9a-4a01-bf09-15ebef414301</episode-num>
-    <episode-num system="original-air-date">2026-07-05 07:30:00</episode-num>
-    <episode-num system="skygo.co.nz">show/mac_sh_ptc1635086995</episode-num>
-    <episode-num system="themoviedb.com">tv/69960</episode-num>
-    <episode-num system="thetvdb.com">series/323423</episode-num>
-    <video>
-      <present>yes</present>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>768x576</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <rating system="New Zealand">
-      <value>G</value>
-    </rating>
-    <star-rating system="themoviedb.org">
-      <value>0/10</value>
-    </star-rating>
-    <series-desc>Listening Post is Al Jazeera English's weekly media review show. It casts a critical eye over not just what gets reported, but how it's reported - covering the coverage of the news &amp;amp; analyzing global events through the prism of the media.</series-desc>
-  </programme>
   <programme start="20260704200000 +0000" stop="20260704203000 +0000" channel="mjh-al-jazeera">
     <title>News Live</title>
     <sub-title>News Live</sub-title>
@@ -10480,6 +9120,1374 @@ Each half-hour programme features one investigative documentaries on an issue re
     <episode-num system="freeviewnz.tv">season/1c13a2fd-8534-4d90-ac75-dcf6937b3085</episode-num>
     <episode-num system="freeviewnz.tv">show/0df783ca-827e-4d47-970b-4ee1ce9ffa21</episode-num>
     <episode-num system="original-air-date">2026-07-11 05:30:00</episode-num>
+    <episode-num system="skygo.co.nz">show/mac_sh_ptc313063015</episode-num>
+    <episode-num system="themoviedb.com">tv/18977</episode-num>
+    <episode-num system="thetvdb.com">series/72178</episode-num>
+    <video>
+      <present>yes</present>
+      <colour>yes</colour>
+      <aspect>16:9</aspect>
+      <quality>768x576</quality>
+    </video>
+    <audio>
+      <present>yes</present>
+      <stereo>stereo</stereo>
+    </audio>
+    <rating system="New Zealand">
+      <value>G</value>
+    </rating>
+    <star-rating system="themoviedb.org">
+      <value>1/10</value>
+    </star-rating>
+    <series-desc/>
+  </programme>
+  <programme start="20260711120000 +0000" stop="20260711130000 +0000" channel="mjh-al-jazeera">
+    <title>Newshour</title>
+    <sub-title>Newshour</sub-title>
+    <desc>Latest news and in-depth analysis from around the world.</desc>
+    <date>1975</date>
+    <category>News And Factual</category>
+    <category>News</category>
+    <category>News, Current Affairs</category>
+    <category>News Magazine</category>
+    <category>News/Current Affairs</category>
+    <keyword>series</keyword>
+    <icon src="https://images.skyone.co.nz/mac/479214/DAM/35ECB47A-E047-45F6-89C7EA8A6D6B512C.jpg"/>
+    <country>United States</country>
+    <episode-num system="dd_progid">1376286678</episode-num>
+    <episode-num system="freeviewnz.tv">episode/b30b8f32-2f50-4861-a251-7f59dbeb49eb</episode-num>
+    <episode-num system="original-air-date">2026-07-12 00:00:00</episode-num>
+    <episode-num system="skygo.co.nz">show/mac_sh_ptc990239023</episode-num>
+    <episode-num system="themoviedb.com">tv/1655</episode-num>
+    <video>
+      <present>yes</present>
+      <colour>yes</colour>
+      <aspect>16:9</aspect>
+      <quality>768x576</quality>
+    </video>
+    <audio>
+      <present>yes</present>
+      <stereo>stereo</stereo>
+    </audio>
+    <rating system="New Zealand">
+      <value>G</value>
+    </rating>
+    <star-rating system="themoviedb.org">
+      <value>5/10</value>
+    </star-rating>
+    <series-desc>America's first and longest running hour-long nightly news broadcast known for its in-depth coverage of issues and current events.</series-desc>
+  </programme>
+  <programme start="20260711130000 +0000" stop="20260711140000 +0000" channel="mjh-al-jazeera">
+    <title>Newshour</title>
+    <sub-title>Newshour</sub-title>
+    <desc>Latest news and in-depth analysis from around the world.</desc>
+    <date>1975</date>
+    <category>News And Factual</category>
+    <category>News</category>
+    <category>News, Current Affairs</category>
+    <category>News Magazine</category>
+    <category>News/Current Affairs</category>
+    <keyword>series</keyword>
+    <icon src="https://images.skyone.co.nz/mac/479214/DAM/35ECB47A-E047-45F6-89C7EA8A6D6B512C.jpg"/>
+    <country>United States</country>
+    <episode-num system="dd_progid">1376286679</episode-num>
+    <episode-num system="freeviewnz.tv">episode/2699bcb1-1c5d-43f7-930e-f5c83d1a4965</episode-num>
+    <episode-num system="original-air-date">2026-07-12 01:00:00</episode-num>
+    <episode-num system="skygo.co.nz">show/mac_sh_ptc990239023</episode-num>
+    <episode-num system="themoviedb.com">tv/1655</episode-num>
+    <video>
+      <present>yes</present>
+      <colour>yes</colour>
+      <aspect>16:9</aspect>
+      <quality>768x576</quality>
+    </video>
+    <audio>
+      <present>yes</present>
+      <stereo>stereo</stereo>
+    </audio>
+    <rating system="New Zealand">
+      <value>G</value>
+    </rating>
+    <star-rating system="themoviedb.org">
+      <value>5/10</value>
+    </star-rating>
+    <series-desc>America's first and longest running hour-long nightly news broadcast known for its in-depth coverage of issues and current events.</series-desc>
+  </programme>
+  <programme start="20260711140000 +0000" stop="20260711143000 +0000" channel="mjh-al-jazeera">
+    <title>News Live</title>
+    <sub-title>News Live</sub-title>
+    <desc>Up-to-date news and analysis from around the world.</desc>
+    <date>2026</date>
+    <category>News And Factual</category>
+    <category>News</category>
+    <category>News, Current Affairs</category>
+    <category>News Magazine</category>
+    <category>News/Current Affairs</category>
+    <keyword>series</keyword>
+    <icon src="https://images.skyone.co.nz/mac/479214/DAM/DBE0A936-38B1-436A-8419146AF048675E.jpg"/>
+    <country>Japan</country>
+    <episode-num system="dd_progid">1376286680</episode-num>
+    <episode-num system="freeviewnz.tv">episode/5bee42df-e8c9-40ea-9ffe-190766a5f34a</episode-num>
+    <episode-num system="original-air-date">2026-07-12 02:00:00</episode-num>
+    <episode-num system="skygo.co.nz">show/mac_sh_ptc1037923899</episode-num>
+    <episode-num system="themoviedb.com">tv/127243</episode-num>
+    <video>
+      <present>yes</present>
+      <colour>yes</colour>
+      <aspect>16:9</aspect>
+      <quality>768x576</quality>
+    </video>
+    <audio>
+      <present>yes</present>
+      <stereo>stereo</stereo>
+    </audio>
+    <rating system="New Zealand">
+      <value>G</value>
+    </rating>
+    <star-rating system="themoviedb.org">
+      <value>0/10</value>
+    </star-rating>
+    <series-desc>A news show hosted by Kiryu Coco in which she summarizes the events of the day before. Coco-Kaichou often pitches products as commercial breaks such as her drug AsaCoco which can be inhaled, injected or consumed as a drink. It is tradition to watch Cocos AsaCoco Live News and afterwards Tsunomaki Watames "Watame no Uta" (early morning karaoke format with viewer rock-paper-scissor).</series-desc>
+    <live/>
+  </programme>
+  <programme start="20260711143000 +0000" stop="20260711150000 +0000" channel="mjh-al-jazeera">
+    <title>Counting the Cost</title>
+    <sub-title>Counting the Cost</sub-title>
+    <desc>Counting the Cost provides background to the economics stories that shape our world and impact the lives of ordinary people.</desc>
+    <date>2026</date>
+    <category>Documentary</category>
+    <category>Social, Political Issues, Economics</category>
+    <category>Economics, Social Advisory</category>
+    <category>News/Current Affairs</category>
+    <keyword>series</keyword>
+    <icon src="https://images.skyone.co.nz/mac/479214/DAM/3867D6B0-2A5A-4216-83B6FD8D9C5AF06F.jpg"/>
+    <episode-num system="dd_progid">58436033</episode-num>
+    <episode-num system="freeviewnz.tv">episode/a2dfc894-3fb6-4b08-9708-a07ebdcd1948</episode-num>
+    <episode-num system="dd_seriesid">15143844</episode-num>
+    <episode-num system="freeviewnz.tv">season/c8f499d0-d601-4454-b001-9bbf39b5e6a1</episode-num>
+    <episode-num system="freeviewnz.tv">show/7e0d1f88-d2d8-464a-8343-99e1eeb716f8</episode-num>
+    <episode-num system="original-air-date">2026-07-09 21:30:00</episode-num>
+    <episode-num system="skygo.co.nz">show/mac_sh_ptc418570455</episode-num>
+    <video>
+      <present>yes</present>
+      <colour>yes</colour>
+      <aspect>16:9</aspect>
+      <quality>768x576</quality>
+    </video>
+    <audio>
+      <present>yes</present>
+      <stereo>stereo</stereo>
+    </audio>
+    <rating system="New Zealand">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20260711150000 +0000" stop="20260711160000 +0000" channel="mjh-al-jazeera">
+    <title>Newshour</title>
+    <sub-title>Newshour</sub-title>
+    <desc>Latest news and in-depth analysis from around the world.</desc>
+    <date>1975</date>
+    <category>News And Factual</category>
+    <category>News</category>
+    <category>News, Current Affairs</category>
+    <category>News Magazine</category>
+    <category>News/Current Affairs</category>
+    <keyword>series</keyword>
+    <icon src="https://images.skyone.co.nz/mac/479214/DAM/35ECB47A-E047-45F6-89C7EA8A6D6B512C.jpg"/>
+    <country>United States</country>
+    <episode-num system="dd_progid">1376286682</episode-num>
+    <episode-num system="freeviewnz.tv">episode/3047669d-a0eb-4ef1-ba3d-81a57bb4fcb2</episode-num>
+    <episode-num system="original-air-date">2026-07-12 03:00:00</episode-num>
+    <episode-num system="skygo.co.nz">show/mac_sh_ptc990239023</episode-num>
+    <episode-num system="themoviedb.com">tv/1655</episode-num>
+    <video>
+      <present>yes</present>
+      <colour>yes</colour>
+      <aspect>16:9</aspect>
+      <quality>768x576</quality>
+    </video>
+    <audio>
+      <present>yes</present>
+      <stereo>stereo</stereo>
+    </audio>
+    <rating system="New Zealand">
+      <value>G</value>
+    </rating>
+    <star-rating system="themoviedb.org">
+      <value>5/10</value>
+    </star-rating>
+    <series-desc>America's first and longest running hour-long nightly news broadcast known for its in-depth coverage of issues and current events.</series-desc>
+  </programme>
+  <programme start="20260711160000 +0000" stop="20260711163000 +0000" channel="mjh-al-jazeera">
+    <title>News Live</title>
+    <sub-title>News Live</sub-title>
+    <desc>Up-to-date news and analysis from around the world.</desc>
+    <date>2026</date>
+    <category>News And Factual</category>
+    <category>News</category>
+    <category>News, Current Affairs</category>
+    <category>News Magazine</category>
+    <category>News/Current Affairs</category>
+    <keyword>series</keyword>
+    <icon src="https://images.skyone.co.nz/mac/479214/DAM/DBE0A936-38B1-436A-8419146AF048675E.jpg"/>
+    <country>Japan</country>
+    <episode-num system="dd_progid">1376286683</episode-num>
+    <episode-num system="freeviewnz.tv">episode/65c14c2e-9db0-4a96-aaba-dd9511e57ab0</episode-num>
+    <episode-num system="original-air-date">2026-07-12 04:00:00</episode-num>
+    <episode-num system="skygo.co.nz">show/mac_sh_ptc1037923899</episode-num>
+    <episode-num system="themoviedb.com">tv/127243</episode-num>
+    <video>
+      <present>yes</present>
+      <colour>yes</colour>
+      <aspect>16:9</aspect>
+      <quality>768x576</quality>
+    </video>
+    <audio>
+      <present>yes</present>
+      <stereo>stereo</stereo>
+    </audio>
+    <rating system="New Zealand">
+      <value>G</value>
+    </rating>
+    <star-rating system="themoviedb.org">
+      <value>0/10</value>
+    </star-rating>
+    <series-desc>A news show hosted by Kiryu Coco in which she summarizes the events of the day before. Coco-Kaichou often pitches products as commercial breaks such as her drug AsaCoco which can be inhaled, injected or consumed as a drink. It is tradition to watch Cocos AsaCoco Live News and afterwards Tsunomaki Watames "Watame no Uta" (early morning karaoke format with viewer rock-paper-scissor).</series-desc>
+    <live/>
+  </programme>
+  <programme start="20260711163000 +0000" stop="20260711170000 +0000" channel="mjh-al-jazeera">
+    <title>Algeria: Toxic Colonisation</title>
+    <sub-title>Scarred Legacy</sub-title>
+    <desc>French war veterans, survivors and secret archives expose how France hid its chemical weapons activity in the Algerian War — and the scars it left behind.</desc>
+    <date>2026</date>
+    <category>Documentary</category>
+    <category>Education, Science</category>
+    <category>Nature, Animals, Environment</category>
+    <keyword>series</keyword>
+    <icon src="https://nzxmltv.com/images/algeria-toxic-colonisation.png"/>
+    <episode-num system="dd_progid">58481768</episode-num>
+    <episode-num system="freeviewnz.tv">episode/65955a3f-9a80-446c-b5a7-2a8be56215f0</episode-num>
+    <episode-num system="dd_seriesid">58455570</episode-num>
+    <episode-num system="freeviewnz.tv">season/ec56242f-9b0b-4b52-99ea-699a7b6c9cd4</episode-num>
+    <episode-num system="freeviewnz.tv">show/b08a1893-fc94-4492-973f-30035c4da5bf</episode-num>
+    <episode-num system="original-air-date">2026-07-09 18:30:00</episode-num>
+    <video>
+      <present>yes</present>
+      <colour>yes</colour>
+      <aspect>16:9</aspect>
+      <quality>768x576</quality>
+    </video>
+    <audio>
+      <present>yes</present>
+      <stereo>stereo</stereo>
+    </audio>
+    <rating system="New Zealand">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20260711170000 +0000" stop="20260711173000 +0000" channel="mjh-al-jazeera">
+    <title>News Live</title>
+    <sub-title>News Live</sub-title>
+    <desc>Up-to-date news and analysis from around the world.</desc>
+    <date>2026</date>
+    <category>News And Factual</category>
+    <category>News</category>
+    <category>News, Current Affairs</category>
+    <category>News Magazine</category>
+    <category>News/Current Affairs</category>
+    <keyword>series</keyword>
+    <icon src="https://images.skyone.co.nz/mac/479214/DAM/DBE0A936-38B1-436A-8419146AF048675E.jpg"/>
+    <country>Japan</country>
+    <episode-num system="dd_progid">1376286685</episode-num>
+    <episode-num system="freeviewnz.tv">episode/7142e459-e38b-435f-9841-b6b35e202128</episode-num>
+    <episode-num system="original-air-date">2026-07-12 05:00:00</episode-num>
+    <episode-num system="skygo.co.nz">show/mac_sh_ptc1037923899</episode-num>
+    <episode-num system="themoviedb.com">tv/127243</episode-num>
+    <video>
+      <present>yes</present>
+      <colour>yes</colour>
+      <aspect>16:9</aspect>
+      <quality>768x576</quality>
+    </video>
+    <audio>
+      <present>yes</present>
+      <stereo>stereo</stereo>
+    </audio>
+    <rating system="New Zealand">
+      <value>G</value>
+    </rating>
+    <star-rating system="themoviedb.org">
+      <value>0/10</value>
+    </star-rating>
+    <series-desc>A news show hosted by Kiryu Coco in which she summarizes the events of the day before. Coco-Kaichou often pitches products as commercial breaks such as her drug AsaCoco which can be inhaled, injected or consumed as a drink. It is tradition to watch Cocos AsaCoco Live News and afterwards Tsunomaki Watames "Watame no Uta" (early morning karaoke format with viewer rock-paper-scissor).</series-desc>
+    <live/>
+  </programme>
+  <programme start="20260711173000 +0000" stop="20260711180000 +0000" channel="mjh-al-jazeera">
+    <title>Inside Story</title>
+    <sub-title>Inside Story</sub-title>
+    <desc>Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds from around the globe.</desc>
+    <date>2026</date>
+    <category>News And Factual</category>
+    <category>News</category>
+    <category>News, Current Affairs</category>
+    <category>News Magazine</category>
+    <category>News/Current Affairs</category>
+    <keyword>series</keyword>
+    <icon src="https://images.skyone.co.nz/mac/479214/DAM/49BDDDF0-BF67-4534-928FDD8D60919D77.jpg"/>
+    <episode-num system="dd_progid">58436894</episode-num>
+    <episode-num system="freeviewnz.tv">episode/f92820e2-4b7c-46be-a239-f534e8438aa5</episode-num>
+    <episode-num system="xmltv_ns">0.1374.0</episode-num>
+    <episode-num system="dd_seriesid">15241971</episode-num>
+    <episode-num system="freeviewnz.tv">season/1c13a2fd-8534-4d90-ac75-dcf6937b3085</episode-num>
+    <episode-num system="freeviewnz.tv">show/0df783ca-827e-4d47-970b-4ee1ce9ffa21</episode-num>
+    <episode-num system="original-air-date">2026-07-12 05:30:00</episode-num>
+    <episode-num system="skygo.co.nz">show/mac_sh_ptc313063015</episode-num>
+    <episode-num system="themoviedb.com">tv/18977</episode-num>
+    <episode-num system="thetvdb.com">series/72178</episode-num>
+    <video>
+      <present>yes</present>
+      <colour>yes</colour>
+      <aspect>16:9</aspect>
+      <quality>768x576</quality>
+    </video>
+    <audio>
+      <present>yes</present>
+      <stereo>stereo</stereo>
+    </audio>
+    <rating system="New Zealand">
+      <value>G</value>
+    </rating>
+    <star-rating system="themoviedb.org">
+      <value>1/10</value>
+    </star-rating>
+    <series-desc/>
+  </programme>
+  <programme start="20260711180000 +0000" stop="20260711190000 +0000" channel="mjh-al-jazeera">
+    <title>Newshour</title>
+    <sub-title>Newshour</sub-title>
+    <desc>Latest news and in-depth analysis from around the world.</desc>
+    <date>1975</date>
+    <category>News And Factual</category>
+    <category>News</category>
+    <category>News, Current Affairs</category>
+    <category>News Magazine</category>
+    <category>News/Current Affairs</category>
+    <keyword>series</keyword>
+    <icon src="https://images.skyone.co.nz/mac/479214/DAM/35ECB47A-E047-45F6-89C7EA8A6D6B512C.jpg"/>
+    <country>United States</country>
+    <episode-num system="dd_progid">1376286687</episode-num>
+    <episode-num system="freeviewnz.tv">episode/2e05a6b3-7f82-4d77-ac43-b7dba5c8a5c0</episode-num>
+    <episode-num system="original-air-date">2026-07-12 06:00:00</episode-num>
+    <episode-num system="skygo.co.nz">show/mac_sh_ptc990239023</episode-num>
+    <episode-num system="themoviedb.com">tv/1655</episode-num>
+    <video>
+      <present>yes</present>
+      <colour>yes</colour>
+      <aspect>16:9</aspect>
+      <quality>768x576</quality>
+    </video>
+    <audio>
+      <present>yes</present>
+      <stereo>stereo</stereo>
+    </audio>
+    <rating system="New Zealand">
+      <value>G</value>
+    </rating>
+    <star-rating system="themoviedb.org">
+      <value>5/10</value>
+    </star-rating>
+    <series-desc>America's first and longest running hour-long nightly news broadcast known for its in-depth coverage of issues and current events.</series-desc>
+  </programme>
+  <programme start="20260711190000 +0000" stop="20260711193000 +0000" channel="mjh-al-jazeera">
+    <title>News Live</title>
+    <sub-title>News Live</sub-title>
+    <desc>Up-to-date news and analysis from around the world.</desc>
+    <date>2026</date>
+    <category>News And Factual</category>
+    <category>News</category>
+    <category>News, Current Affairs</category>
+    <category>News Magazine</category>
+    <category>News/Current Affairs</category>
+    <keyword>series</keyword>
+    <icon src="https://images.skyone.co.nz/mac/479214/DAM/DBE0A936-38B1-436A-8419146AF048675E.jpg"/>
+    <country>Japan</country>
+    <episode-num system="dd_progid">1376286688</episode-num>
+    <episode-num system="freeviewnz.tv">episode/de9d0945-247d-4c9a-ba92-fce7c229efcd</episode-num>
+    <episode-num system="original-air-date">2026-07-12 07:00:00</episode-num>
+    <episode-num system="skygo.co.nz">show/mac_sh_ptc1037923899</episode-num>
+    <episode-num system="themoviedb.com">tv/127243</episode-num>
+    <video>
+      <present>yes</present>
+      <colour>yes</colour>
+      <aspect>16:9</aspect>
+      <quality>768x576</quality>
+    </video>
+    <audio>
+      <present>yes</present>
+      <stereo>stereo</stereo>
+    </audio>
+    <rating system="New Zealand">
+      <value>G</value>
+    </rating>
+    <star-rating system="themoviedb.org">
+      <value>0/10</value>
+    </star-rating>
+    <series-desc>A news show hosted by Kiryu Coco in which she summarizes the events of the day before. Coco-Kaichou often pitches products as commercial breaks such as her drug AsaCoco which can be inhaled, injected or consumed as a drink. It is tradition to watch Cocos AsaCoco Live News and afterwards Tsunomaki Watames "Watame no Uta" (early morning karaoke format with viewer rock-paper-scissor).</series-desc>
+    <live/>
+  </programme>
+  <programme start="20260711193000 +0000" stop="20260711200000 +0000" channel="mjh-al-jazeera">
+    <title>The Listening Post</title>
+    <sub-title>The Listening Post</sub-title>
+    <desc>What is being reported by world media and how? Richard Gizbert guides you through the global news maze.</desc>
+    <date>2026</date>
+    <category>News And Factual</category>
+    <category>News</category>
+    <category>News, Current Affairs</category>
+    <category>News Magazine</category>
+    <category>News/Current Affairs</category>
+    <keyword>series</keyword>
+    <icon src="https://images.skyone.co.nz/mac/479214/DAM/4F2F9A77-2D50-4571-81F10268C32AE2D8.jpg"/>
+    <country>United Kingdom</country>
+    <episode-num system="dd_progid">58436895</episode-num>
+    <episode-num system="freeviewnz.tv">episode/36e5af00-0e38-4857-b292-952e94e9595f</episode-num>
+    <episode-num system="dd_seriesid">15298422</episode-num>
+    <episode-num system="freeviewnz.tv">season/3b1267e8-5b63-4bcf-b4b7-24ebc21b1fdb</episode-num>
+    <episode-num system="freeviewnz.tv">show/6f5b0ee6-7d9a-4a01-bf09-15ebef414301</episode-num>
+    <episode-num system="original-air-date">2026-07-12 07:30:00</episode-num>
+    <episode-num system="skygo.co.nz">show/mac_sh_ptc1635086995</episode-num>
+    <episode-num system="themoviedb.com">tv/69960</episode-num>
+    <episode-num system="thetvdb.com">series/323423</episode-num>
+    <video>
+      <present>yes</present>
+      <colour>yes</colour>
+      <aspect>16:9</aspect>
+      <quality>768x576</quality>
+    </video>
+    <audio>
+      <present>yes</present>
+      <stereo>stereo</stereo>
+    </audio>
+    <rating system="New Zealand">
+      <value>G</value>
+    </rating>
+    <star-rating system="themoviedb.org">
+      <value>0/10</value>
+    </star-rating>
+    <series-desc>Listening Post is Al Jazeera English's weekly media review show. It casts a critical eye over not just what gets reported, but how it's reported - covering the coverage of the news &amp;amp; analyzing global events through the prism of the media.</series-desc>
+  </programme>
+  <programme start="20260711200000 +0000" stop="20260711203000 +0000" channel="mjh-al-jazeera">
+    <title>News Live</title>
+    <sub-title>News Live</sub-title>
+    <desc>Up-to-date news and analysis from around the world.</desc>
+    <date>2026</date>
+    <category>News And Factual</category>
+    <category>News</category>
+    <category>News, Current Affairs</category>
+    <category>News Magazine</category>
+    <category>News/Current Affairs</category>
+    <keyword>series</keyword>
+    <icon src="https://images.skyone.co.nz/mac/479214/DAM/DBE0A936-38B1-436A-8419146AF048675E.jpg"/>
+    <country>Japan</country>
+    <episode-num system="dd_progid">1376286690</episode-num>
+    <episode-num system="freeviewnz.tv">episode/0814329b-cd09-4705-bd5e-187c75e8096e</episode-num>
+    <episode-num system="original-air-date">2026-07-12 08:00:00</episode-num>
+    <episode-num system="skygo.co.nz">show/mac_sh_ptc1037923899</episode-num>
+    <episode-num system="themoviedb.com">tv/127243</episode-num>
+    <video>
+      <present>yes</present>
+      <colour>yes</colour>
+      <aspect>16:9</aspect>
+      <quality>768x576</quality>
+    </video>
+    <audio>
+      <present>yes</present>
+      <stereo>stereo</stereo>
+    </audio>
+    <rating system="New Zealand">
+      <value>G</value>
+    </rating>
+    <star-rating system="themoviedb.org">
+      <value>0/10</value>
+    </star-rating>
+    <series-desc>A news show hosted by Kiryu Coco in which she summarizes the events of the day before. Coco-Kaichou often pitches products as commercial breaks such as her drug AsaCoco which can be inhaled, injected or consumed as a drink. It is tradition to watch Cocos AsaCoco Live News and afterwards Tsunomaki Watames "Watame no Uta" (early morning karaoke format with viewer rock-paper-scissor).</series-desc>
+    <live/>
+  </programme>
+  <programme start="20260711203000 +0000" stop="20260711210000 +0000" channel="mjh-al-jazeera">
+    <title>The Bottom Line</title>
+    <sub-title>The Bottom Line</sub-title>
+    <desc>Weekly discussion show on U.S. politics and policies hosted by Steve Clemons.</desc>
+    <date>2026</date>
+    <category>News And Factual</category>
+    <category>News</category>
+    <category>News, Current Affairs</category>
+    <category>Discussion, Interview, Debate</category>
+    <category>News/Current Affairs</category>
+    <keyword>series</keyword>
+    <icon src="https://images.skyone.co.nz/mac/479214/DAM/94C2A67A-B8C1-48DF-A299DF2CABF18B9A.jpg"/>
+    <episode-num system="dd_progid">58436896</episode-num>
+    <episode-num system="freeviewnz.tv">episode/c6bf8b4d-a02f-4f19-bdaa-4fb98733303f</episode-num>
+    <episode-num system="dd_seriesid">39152977</episode-num>
+    <episode-num system="freeviewnz.tv">season/43673052-b598-4f4b-9735-0a3c1a040556</episode-num>
+    <episode-num system="freeviewnz.tv">show/2cd33e07-87d0-43a1-af26-46e64e0ac898</episode-num>
+    <episode-num system="original-air-date">2026-07-12 18:30:00</episode-num>
+    <episode-num system="skygo.co.nz">show/mac_sh_ptc860346252</episode-num>
+    <episode-num system="themoviedb.com">tv/19791</episode-num>
+    <episode-num system="thetvdb.com">series/227451</episode-num>
+    <video>
+      <present>yes</present>
+      <colour>yes</colour>
+      <aspect>16:9</aspect>
+      <quality>768x576</quality>
+    </video>
+    <audio>
+      <present>yes</present>
+      <stereo>stereo</stereo>
+    </audio>
+    <rating system="New Zealand">
+      <value>G</value>
+    </rating>
+    <star-rating system="themoviedb.org">
+      <value>0/10</value>
+    </star-rating>
+    <series-desc>The Bottom Line is a business discussion programme broadcast in the UK on BBC Radio 4 and the BBC News Channel, and internationally on the BBC World Service and BBC World News. It is co-production between BBC News and The Open University.</series-desc>
+  </programme>
+  <programme start="20260711210000 +0000" stop="20260711220000 +0000" channel="mjh-al-jazeera">
+    <title>Newshour</title>
+    <sub-title>Newshour</sub-title>
+    <desc>Latest news and in-depth analysis from around the world.</desc>
+    <date>1975</date>
+    <category>News And Factual</category>
+    <category>News</category>
+    <category>News, Current Affairs</category>
+    <category>News Magazine</category>
+    <category>News/Current Affairs</category>
+    <keyword>series</keyword>
+    <icon src="https://images.skyone.co.nz/mac/479214/DAM/35ECB47A-E047-45F6-89C7EA8A6D6B512C.jpg"/>
+    <country>United States</country>
+    <episode-num system="dd_progid">1376286692</episode-num>
+    <episode-num system="freeviewnz.tv">episode/704055f9-871d-41e1-93b2-8ffe0164bef5</episode-num>
+    <episode-num system="original-air-date">2026-07-12 09:00:00</episode-num>
+    <episode-num system="skygo.co.nz">show/mac_sh_ptc990239023</episode-num>
+    <episode-num system="themoviedb.com">tv/1655</episode-num>
+    <video>
+      <present>yes</present>
+      <colour>yes</colour>
+      <aspect>16:9</aspect>
+      <quality>768x576</quality>
+    </video>
+    <audio>
+      <present>yes</present>
+      <stereo>stereo</stereo>
+    </audio>
+    <rating system="New Zealand">
+      <value>G</value>
+    </rating>
+    <star-rating system="themoviedb.org">
+      <value>5/10</value>
+    </star-rating>
+    <series-desc>America's first and longest running hour-long nightly news broadcast known for its in-depth coverage of issues and current events.</series-desc>
+  </programme>
+  <programme start="20260711220000 +0000" stop="20260711230000 +0000" channel="mjh-al-jazeera">
+    <title>Newshour</title>
+    <sub-title>Newshour</sub-title>
+    <desc>Latest news and in-depth analysis from around the world.</desc>
+    <date>1975</date>
+    <category>News And Factual</category>
+    <category>News</category>
+    <category>News, Current Affairs</category>
+    <category>News Magazine</category>
+    <category>News/Current Affairs</category>
+    <keyword>series</keyword>
+    <icon src="https://images.skyone.co.nz/mac/479214/DAM/35ECB47A-E047-45F6-89C7EA8A6D6B512C.jpg"/>
+    <country>United States</country>
+    <episode-num system="dd_progid">1376286693</episode-num>
+    <episode-num system="freeviewnz.tv">episode/e3f6a5d0-d42a-4825-9dd3-cc6d2e97ec28</episode-num>
+    <episode-num system="original-air-date">2026-07-12 10:00:00</episode-num>
+    <episode-num system="skygo.co.nz">show/mac_sh_ptc990239023</episode-num>
+    <episode-num system="themoviedb.com">tv/1655</episode-num>
+    <video>
+      <present>yes</present>
+      <colour>yes</colour>
+      <aspect>16:9</aspect>
+      <quality>768x576</quality>
+    </video>
+    <audio>
+      <present>yes</present>
+      <stereo>stereo</stereo>
+    </audio>
+    <rating system="New Zealand">
+      <value>G</value>
+    </rating>
+    <star-rating system="themoviedb.org">
+      <value>5/10</value>
+    </star-rating>
+    <series-desc>America's first and longest running hour-long nightly news broadcast known for its in-depth coverage of issues and current events.</series-desc>
+  </programme>
+  <programme start="20260711230000 +0000" stop="20260711233000 +0000" channel="mjh-al-jazeera">
+    <title>News Live</title>
+    <sub-title>News Live</sub-title>
+    <desc>Up-to-date news and analysis from around the world.</desc>
+    <date>2026</date>
+    <category>News And Factual</category>
+    <category>News</category>
+    <category>News, Current Affairs</category>
+    <category>News Magazine</category>
+    <category>News/Current Affairs</category>
+    <keyword>series</keyword>
+    <icon src="https://images.skyone.co.nz/mac/479214/DAM/DBE0A936-38B1-436A-8419146AF048675E.jpg"/>
+    <country>Japan</country>
+    <episode-num system="dd_progid">1376286694</episode-num>
+    <episode-num system="freeviewnz.tv">episode/8f55c2f5-0d89-477c-87d6-6aacc7085dbf</episode-num>
+    <episode-num system="original-air-date">2026-07-12 11:00:00</episode-num>
+    <episode-num system="skygo.co.nz">show/mac_sh_ptc1037923899</episode-num>
+    <episode-num system="themoviedb.com">tv/127243</episode-num>
+    <video>
+      <present>yes</present>
+      <colour>yes</colour>
+      <aspect>16:9</aspect>
+      <quality>768x576</quality>
+    </video>
+    <audio>
+      <present>yes</present>
+      <stereo>stereo</stereo>
+    </audio>
+    <rating system="New Zealand">
+      <value>G</value>
+    </rating>
+    <star-rating system="themoviedb.org">
+      <value>0/10</value>
+    </star-rating>
+    <series-desc>A news show hosted by Kiryu Coco in which she summarizes the events of the day before. Coco-Kaichou often pitches products as commercial breaks such as her drug AsaCoco which can be inhaled, injected or consumed as a drink. It is tradition to watch Cocos AsaCoco Live News and afterwards Tsunomaki Watames "Watame no Uta" (early morning karaoke format with viewer rock-paper-scissor).</series-desc>
+    <live/>
+  </programme>
+  <programme start="20260711233000 +0000" stop="20260712000000 +0000" channel="mjh-al-jazeera">
+    <title>Inside Story</title>
+    <sub-title>Inside Story</sub-title>
+    <desc>Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds from around the globe.</desc>
+    <date>2026</date>
+    <category>News And Factual</category>
+    <category>News</category>
+    <category>News, Current Affairs</category>
+    <category>News Magazine</category>
+    <category>News/Current Affairs</category>
+    <keyword>series</keyword>
+    <icon src="https://images.skyone.co.nz/mac/479214/DAM/49BDDDF0-BF67-4534-928FDD8D60919D77.jpg"/>
+    <episode-num system="dd_progid">58436894</episode-num>
+    <episode-num system="freeviewnz.tv">episode/f92820e2-4b7c-46be-a239-f534e8438aa5</episode-num>
+    <episode-num system="xmltv_ns">0.1374.0</episode-num>
+    <episode-num system="dd_seriesid">15241971</episode-num>
+    <episode-num system="freeviewnz.tv">season/1c13a2fd-8534-4d90-ac75-dcf6937b3085</episode-num>
+    <episode-num system="freeviewnz.tv">show/0df783ca-827e-4d47-970b-4ee1ce9ffa21</episode-num>
+    <episode-num system="original-air-date">2026-07-12 05:30:00</episode-num>
+    <episode-num system="skygo.co.nz">show/mac_sh_ptc313063015</episode-num>
+    <episode-num system="themoviedb.com">tv/18977</episode-num>
+    <episode-num system="thetvdb.com">series/72178</episode-num>
+    <video>
+      <present>yes</present>
+      <colour>yes</colour>
+      <aspect>16:9</aspect>
+      <quality>768x576</quality>
+    </video>
+    <audio>
+      <present>yes</present>
+      <stereo>stereo</stereo>
+    </audio>
+    <rating system="New Zealand">
+      <value>G</value>
+    </rating>
+    <star-rating system="themoviedb.org">
+      <value>1/10</value>
+    </star-rating>
+    <series-desc/>
+  </programme>
+  <programme start="20260712000000 +0000" stop="20260712010000 +0000" channel="mjh-al-jazeera">
+    <title>Newshour</title>
+    <sub-title>Newshour</sub-title>
+    <desc>Latest news and in-depth analysis from around the world.</desc>
+    <date>1975</date>
+    <category>News And Factual</category>
+    <category>News</category>
+    <category>News, Current Affairs</category>
+    <category>News Magazine</category>
+    <category>News/Current Affairs</category>
+    <keyword>series</keyword>
+    <icon src="https://images.skyone.co.nz/mac/479214/DAM/35ECB47A-E047-45F6-89C7EA8A6D6B512C.jpg"/>
+    <country>United States</country>
+    <episode-num system="dd_progid">1376286696</episode-num>
+    <episode-num system="freeviewnz.tv">episode/2f2d22cd-04fa-43cf-bf59-25557e479a64</episode-num>
+    <episode-num system="original-air-date">2026-07-12 12:00:00</episode-num>
+    <episode-num system="skygo.co.nz">show/mac_sh_ptc990239023</episode-num>
+    <episode-num system="themoviedb.com">tv/1655</episode-num>
+    <video>
+      <present>yes</present>
+      <colour>yes</colour>
+      <aspect>16:9</aspect>
+      <quality>768x576</quality>
+    </video>
+    <audio>
+      <present>yes</present>
+      <stereo>stereo</stereo>
+    </audio>
+    <rating system="New Zealand">
+      <value>G</value>
+    </rating>
+    <star-rating system="themoviedb.org">
+      <value>5/10</value>
+    </star-rating>
+    <series-desc>America's first and longest running hour-long nightly news broadcast known for its in-depth coverage of issues and current events.</series-desc>
+  </programme>
+  <programme start="20260712010000 +0000" stop="20260712013000 +0000" channel="mjh-al-jazeera">
+    <title>News Live</title>
+    <sub-title>News Live</sub-title>
+    <desc>Up-to-date news and analysis from around the world.</desc>
+    <date>2026</date>
+    <category>News And Factual</category>
+    <category>News</category>
+    <category>News, Current Affairs</category>
+    <category>News Magazine</category>
+    <category>News/Current Affairs</category>
+    <keyword>series</keyword>
+    <icon src="https://images.skyone.co.nz/mac/479214/DAM/DBE0A936-38B1-436A-8419146AF048675E.jpg"/>
+    <country>Japan</country>
+    <episode-num system="dd_progid">1376286697</episode-num>
+    <episode-num system="freeviewnz.tv">episode/251cb21a-bc64-4d4b-99dc-02c7bad15821</episode-num>
+    <episode-num system="original-air-date">2026-07-12 13:00:00</episode-num>
+    <episode-num system="skygo.co.nz">show/mac_sh_ptc1037923899</episode-num>
+    <episode-num system="themoviedb.com">tv/127243</episode-num>
+    <video>
+      <present>yes</present>
+      <colour>yes</colour>
+      <aspect>16:9</aspect>
+      <quality>768x576</quality>
+    </video>
+    <audio>
+      <present>yes</present>
+      <stereo>stereo</stereo>
+    </audio>
+    <rating system="New Zealand">
+      <value>G</value>
+    </rating>
+    <star-rating system="themoviedb.org">
+      <value>0/10</value>
+    </star-rating>
+    <series-desc>A news show hosted by Kiryu Coco in which she summarizes the events of the day before. Coco-Kaichou often pitches products as commercial breaks such as her drug AsaCoco which can be inhaled, injected or consumed as a drink. It is tradition to watch Cocos AsaCoco Live News and afterwards Tsunomaki Watames "Watame no Uta" (early morning karaoke format with viewer rock-paper-scissor).</series-desc>
+    <live/>
+  </programme>
+  <programme start="20260712013000 +0000" stop="20260712020000 +0000" channel="mjh-al-jazeera">
+    <title>UpFront</title>
+    <sub-title>UpFront</sub-title>
+    <desc>Frank, blunt and inquisitive, UpFront cuts through the headlines to get to the heart of the matter with influential guests and newsmakers.</desc>
+    <date>2026</date>
+    <category>Documentary</category>
+    <category>Social, Political Issues, Economics</category>
+    <category>Social, Political Issues, Economics (general)</category>
+    <category>News/Current Affairs</category>
+    <keyword>series</keyword>
+    <icon src="https://images.skyone.co.nz/mac/479214/DAM/94A2E567-46A3-42D7-9B0B269B52E4939B.jpg"/>
+    <country>United States</country>
+    <episode-num system="dd_progid">58436892</episode-num>
+    <episode-num system="freeviewnz.tv">episode/0c4946b5-2f28-4c97-8cc2-7a70429ce8cf</episode-num>
+    <episode-num system="dd_seriesid">27700925</episode-num>
+    <episode-num system="freeviewnz.tv">season/34dc9687-b675-4a33-96e1-7bd8ca27c0fc</episode-num>
+    <episode-num system="freeviewnz.tv">show/cc09789e-82e3-4d7c-92f5-9e7a6fc391bf</episode-num>
+    <episode-num system="original-air-date">2026-07-11 08:30:00</episode-num>
+    <episode-num system="skygo.co.nz">show/mac_sh_ptc972680058</episode-num>
+    <episode-num system="themoviedb.com">tv/70246</episode-num>
+    <episode-num system="thetvdb.com">series/306815</episode-num>
+    <video>
+      <present>yes</present>
+      <colour>yes</colour>
+      <aspect>16:9</aspect>
+      <quality>768x576</quality>
+    </video>
+    <audio>
+      <present>yes</present>
+      <stereo>stereo</stereo>
+    </audio>
+    <rating system="New Zealand">
+      <value>G</value>
+    </rating>
+    <star-rating system="themoviedb.org">
+      <value>0/10</value>
+    </star-rating>
+    <series-desc>With the thrust and parry of rigorous debate, Mehdi Hasan cuts through the headlines to challenge conventional wisdom, highlight contradictions and uncover double standards.</series-desc>
+  </programme>
+  <programme start="20260712020000 +0000" stop="20260712030000 +0000" channel="mjh-al-jazeera">
+    <title>Newshour</title>
+    <sub-title>Newshour</sub-title>
+    <desc>Latest news and in-depth analysis from around the world.</desc>
+    <date>1975</date>
+    <category>News And Factual</category>
+    <category>News</category>
+    <category>News, Current Affairs</category>
+    <category>News Magazine</category>
+    <category>News/Current Affairs</category>
+    <keyword>series</keyword>
+    <icon src="https://images.skyone.co.nz/mac/479214/DAM/35ECB47A-E047-45F6-89C7EA8A6D6B512C.jpg"/>
+    <country>United States</country>
+    <episode-num system="dd_progid">1376286699</episode-num>
+    <episode-num system="freeviewnz.tv">episode/ecd7f844-7d52-47f6-a878-e326625e8ae8</episode-num>
+    <episode-num system="original-air-date">2026-07-12 14:00:00</episode-num>
+    <episode-num system="skygo.co.nz">show/mac_sh_ptc990239023</episode-num>
+    <episode-num system="themoviedb.com">tv/1655</episode-num>
+    <video>
+      <present>yes</present>
+      <colour>yes</colour>
+      <aspect>16:9</aspect>
+      <quality>768x576</quality>
+    </video>
+    <audio>
+      <present>yes</present>
+      <stereo>stereo</stereo>
+    </audio>
+    <rating system="New Zealand">
+      <value>G</value>
+    </rating>
+    <star-rating system="themoviedb.org">
+      <value>5/10</value>
+    </star-rating>
+    <series-desc>America's first and longest running hour-long nightly news broadcast known for its in-depth coverage of issues and current events.</series-desc>
+  </programme>
+  <programme start="20260712030000 +0000" stop="20260712040000 +0000" channel="mjh-al-jazeera">
+    <title>Newshour</title>
+    <sub-title>Newshour</sub-title>
+    <desc>Latest news and in-depth analysis from around the world.</desc>
+    <date>1975</date>
+    <category>News And Factual</category>
+    <category>News</category>
+    <category>News, Current Affairs</category>
+    <category>News Magazine</category>
+    <category>News/Current Affairs</category>
+    <keyword>series</keyword>
+    <icon src="https://images.skyone.co.nz/mac/479214/DAM/35ECB47A-E047-45F6-89C7EA8A6D6B512C.jpg"/>
+    <country>United States</country>
+    <episode-num system="dd_progid">1376383357</episode-num>
+    <episode-num system="freeviewnz.tv">episode/0a4e8234-8811-4f34-bdba-dc19cfb74835</episode-num>
+    <episode-num system="original-air-date">2026-07-12 15:00:00</episode-num>
+    <episode-num system="skygo.co.nz">show/mac_sh_ptc990239023</episode-num>
+    <episode-num system="themoviedb.com">tv/1655</episode-num>
+    <video>
+      <present>yes</present>
+      <colour>yes</colour>
+      <aspect>16:9</aspect>
+      <quality>768x576</quality>
+    </video>
+    <audio>
+      <present>yes</present>
+      <stereo>stereo</stereo>
+    </audio>
+    <rating system="New Zealand">
+      <value>G</value>
+    </rating>
+    <star-rating system="themoviedb.org">
+      <value>5/10</value>
+    </star-rating>
+    <series-desc>America's first and longest running hour-long nightly news broadcast known for its in-depth coverage of issues and current events.</series-desc>
+  </programme>
+  <programme start="20260712040000 +0000" stop="20260712043000 +0000" channel="mjh-al-jazeera">
+    <title>News Live</title>
+    <sub-title>News Live</sub-title>
+    <desc>Up-to-date news and analysis from around the world.</desc>
+    <date>2026</date>
+    <category>News And Factual</category>
+    <category>News</category>
+    <category>News, Current Affairs</category>
+    <category>News Magazine</category>
+    <category>News/Current Affairs</category>
+    <keyword>series</keyword>
+    <icon src="https://images.skyone.co.nz/mac/479214/DAM/DBE0A936-38B1-436A-8419146AF048675E.jpg"/>
+    <country>Japan</country>
+    <episode-num system="dd_progid">1376286702</episode-num>
+    <episode-num system="freeviewnz.tv">episode/cd5d7c9a-c1fa-4f53-af1b-02363f6010a9</episode-num>
+    <episode-num system="original-air-date">2026-07-12 16:00:00</episode-num>
+    <episode-num system="skygo.co.nz">show/mac_sh_ptc1037923899</episode-num>
+    <episode-num system="themoviedb.com">tv/127243</episode-num>
+    <video>
+      <present>yes</present>
+      <colour>yes</colour>
+      <aspect>16:9</aspect>
+      <quality>768x576</quality>
+    </video>
+    <audio>
+      <present>yes</present>
+      <stereo>stereo</stereo>
+    </audio>
+    <rating system="New Zealand">
+      <value>G</value>
+    </rating>
+    <star-rating system="themoviedb.org">
+      <value>0/10</value>
+    </star-rating>
+    <series-desc>A news show hosted by Kiryu Coco in which she summarizes the events of the day before. Coco-Kaichou often pitches products as commercial breaks such as her drug AsaCoco which can be inhaled, injected or consumed as a drink. It is tradition to watch Cocos AsaCoco Live News and afterwards Tsunomaki Watames "Watame no Uta" (early morning karaoke format with viewer rock-paper-scissor).</series-desc>
+    <live/>
+  </programme>
+  <programme start="20260712043000 +0000" stop="20260712050000 +0000" channel="mjh-al-jazeera">
+    <title>People and Power</title>
+    <sub-title>The Gaza Tribunal</sub-title>
+    <desc>What role has the UK played in Israel's war on Gaza? We meet those who say it's complicit in atrocities committed there.</desc>
+    <date>2026</date>
+    <category>News And Factual</category>
+    <category>News</category>
+    <category>News, Current Affairs</category>
+    <category>News Magazine</category>
+    <category>News/Current Affairs</category>
+    <keyword>series</keyword>
+    <icon src="https://images.skyone.co.nz/mac/479214/DAM/12621D12-EEC9-447C-AF3CC16427389199.jpg"/>
+    <country>United Kingdom</country>
+    <episode-num system="dd_progid">57563821</episode-num>
+    <episode-num system="freeviewnz.tv">episode/25e9aff0-3f55-428a-a74e-aee4aba02c0e</episode-num>
+    <episode-num system="dd_seriesid">15340989</episode-num>
+    <episode-num system="freeviewnz.tv">season/874cb5fa-e5b5-4bc1-a0d7-b96d56791b5c</episode-num>
+    <episode-num system="freeviewnz.tv">show/b9b748c5-1dea-4c40-8af3-2bf3c4b16d9f</episode-num>
+    <episode-num system="original-air-date">2026-03-19 11:30:00</episode-num>
+    <episode-num system="skygo.co.nz">show/mac_sh_ptc138586306</episode-num>
+    <episode-num system="themoviedb.com">tv/6705</episode-num>
+    <video>
+      <present>yes</present>
+      <colour>yes</colour>
+      <aspect>16:9</aspect>
+      <quality>768x576</quality>
+    </video>
+    <audio>
+      <present>yes</present>
+      <stereo>stereo</stereo>
+    </audio>
+    <rating system="New Zealand">
+      <value>G</value>
+    </rating>
+    <star-rating system="themoviedb.org">
+      <value>8/10</value>
+    </star-rating>
+    <series-desc>People &amp;amp; Power is a current affairs programme on Al Jazeera English which broadcasts once a week, on Wednesdays, and repeated throughout the week.
+
+Each half-hour programme features one investigative documentaries on an issue related to power from around the world. The programme occasionally has one hour specials.</series-desc>
+  </programme>
+  <programme start="20260712050000 +0000" stop="20260712053000 +0000" channel="mjh-al-jazeera">
+    <title>News Live</title>
+    <sub-title>News Live</sub-title>
+    <desc>Up-to-date news and analysis from around the world.</desc>
+    <date>2026</date>
+    <category>News And Factual</category>
+    <category>News</category>
+    <category>News, Current Affairs</category>
+    <category>News Magazine</category>
+    <category>News/Current Affairs</category>
+    <keyword>series</keyword>
+    <icon src="https://images.skyone.co.nz/mac/479214/DAM/DBE0A936-38B1-436A-8419146AF048675E.jpg"/>
+    <country>Japan</country>
+    <episode-num system="dd_progid">1376286704</episode-num>
+    <episode-num system="freeviewnz.tv">episode/a7ac67c3-00ae-4cef-9ed1-eb40b1158699</episode-num>
+    <episode-num system="original-air-date">2026-07-12 17:00:00</episode-num>
+    <episode-num system="skygo.co.nz">show/mac_sh_ptc1037923899</episode-num>
+    <episode-num system="themoviedb.com">tv/127243</episode-num>
+    <video>
+      <present>yes</present>
+      <colour>yes</colour>
+      <aspect>16:9</aspect>
+      <quality>768x576</quality>
+    </video>
+    <audio>
+      <present>yes</present>
+      <stereo>stereo</stereo>
+    </audio>
+    <rating system="New Zealand">
+      <value>G</value>
+    </rating>
+    <star-rating system="themoviedb.org">
+      <value>0/10</value>
+    </star-rating>
+    <series-desc>A news show hosted by Kiryu Coco in which she summarizes the events of the day before. Coco-Kaichou often pitches products as commercial breaks such as her drug AsaCoco which can be inhaled, injected or consumed as a drink. It is tradition to watch Cocos AsaCoco Live News and afterwards Tsunomaki Watames "Watame no Uta" (early morning karaoke format with viewer rock-paper-scissor).</series-desc>
+    <live/>
+  </programme>
+  <programme start="20260712053000 +0000" stop="20260712060000 +0000" channel="mjh-al-jazeera">
+    <title>Inside Story</title>
+    <sub-title>Inside Story</sub-title>
+    <desc>Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds from around the globe.</desc>
+    <date>2026</date>
+    <category>News And Factual</category>
+    <category>News</category>
+    <category>News, Current Affairs</category>
+    <category>News Magazine</category>
+    <category>News/Current Affairs</category>
+    <keyword>series</keyword>
+    <icon src="https://images.skyone.co.nz/mac/479214/DAM/49BDDDF0-BF67-4534-928FDD8D60919D77.jpg"/>
+    <episode-num system="dd_progid">58436894</episode-num>
+    <episode-num system="freeviewnz.tv">episode/f92820e2-4b7c-46be-a239-f534e8438aa5</episode-num>
+    <episode-num system="xmltv_ns">0.1374.0</episode-num>
+    <episode-num system="dd_seriesid">15241971</episode-num>
+    <episode-num system="freeviewnz.tv">season/1c13a2fd-8534-4d90-ac75-dcf6937b3085</episode-num>
+    <episode-num system="freeviewnz.tv">show/0df783ca-827e-4d47-970b-4ee1ce9ffa21</episode-num>
+    <episode-num system="original-air-date">2026-07-12 05:30:00</episode-num>
+    <episode-num system="skygo.co.nz">show/mac_sh_ptc313063015</episode-num>
+    <episode-num system="themoviedb.com">tv/18977</episode-num>
+    <episode-num system="thetvdb.com">series/72178</episode-num>
+    <video>
+      <present>yes</present>
+      <colour>yes</colour>
+      <aspect>16:9</aspect>
+      <quality>768x576</quality>
+    </video>
+    <audio>
+      <present>yes</present>
+      <stereo>stereo</stereo>
+    </audio>
+    <rating system="New Zealand">
+      <value>G</value>
+    </rating>
+    <star-rating system="themoviedb.org">
+      <value>1/10</value>
+    </star-rating>
+    <series-desc/>
+  </programme>
+  <programme start="20260712060000 +0000" stop="20260712063000 +0000" channel="mjh-al-jazeera">
+    <title>News Live</title>
+    <sub-title>News Live</sub-title>
+    <desc>Up-to-date news and analysis from around the world.</desc>
+    <date>2026</date>
+    <category>News And Factual</category>
+    <category>News</category>
+    <category>News, Current Affairs</category>
+    <category>News Magazine</category>
+    <category>News/Current Affairs</category>
+    <keyword>series</keyword>
+    <icon src="https://images.skyone.co.nz/mac/479214/DAM/DBE0A936-38B1-436A-8419146AF048675E.jpg"/>
+    <country>Japan</country>
+    <episode-num system="dd_progid">1376286707</episode-num>
+    <episode-num system="freeviewnz.tv">episode/d58d7a69-14e1-424e-94ff-b3030747bc2a</episode-num>
+    <episode-num system="original-air-date">2026-07-12 18:00:00</episode-num>
+    <episode-num system="skygo.co.nz">show/mac_sh_ptc1037923899</episode-num>
+    <episode-num system="themoviedb.com">tv/127243</episode-num>
+    <video>
+      <present>yes</present>
+      <colour>yes</colour>
+      <aspect>16:9</aspect>
+      <quality>768x576</quality>
+    </video>
+    <audio>
+      <present>yes</present>
+      <stereo>stereo</stereo>
+    </audio>
+    <rating system="New Zealand">
+      <value>G</value>
+    </rating>
+    <star-rating system="themoviedb.org">
+      <value>0/10</value>
+    </star-rating>
+    <series-desc>A news show hosted by Kiryu Coco in which she summarizes the events of the day before. Coco-Kaichou often pitches products as commercial breaks such as her drug AsaCoco which can be inhaled, injected or consumed as a drink. It is tradition to watch Cocos AsaCoco Live News and afterwards Tsunomaki Watames "Watame no Uta" (early morning karaoke format with viewer rock-paper-scissor).</series-desc>
+    <live/>
+  </programme>
+  <programme start="20260712063000 +0000" stop="20260712070000 +0000" channel="mjh-al-jazeera">
+    <title>The Bottom Line</title>
+    <sub-title>The Bottom Line</sub-title>
+    <desc>Weekly discussion show on U.S. politics and policies hosted by Steve Clemons.</desc>
+    <date>2026</date>
+    <category>News And Factual</category>
+    <category>News</category>
+    <category>News, Current Affairs</category>
+    <category>Discussion, Interview, Debate</category>
+    <category>News/Current Affairs</category>
+    <keyword>series</keyword>
+    <icon src="https://images.skyone.co.nz/mac/479214/DAM/94C2A67A-B8C1-48DF-A299DF2CABF18B9A.jpg"/>
+    <episode-num system="dd_progid">58436896</episode-num>
+    <episode-num system="freeviewnz.tv">episode/c6bf8b4d-a02f-4f19-bdaa-4fb98733303f</episode-num>
+    <episode-num system="dd_seriesid">39152977</episode-num>
+    <episode-num system="freeviewnz.tv">season/43673052-b598-4f4b-9735-0a3c1a040556</episode-num>
+    <episode-num system="freeviewnz.tv">show/2cd33e07-87d0-43a1-af26-46e64e0ac898</episode-num>
+    <episode-num system="original-air-date">2026-07-12 18:30:00</episode-num>
+    <episode-num system="skygo.co.nz">show/mac_sh_ptc860346252</episode-num>
+    <episode-num system="themoviedb.com">tv/19791</episode-num>
+    <episode-num system="thetvdb.com">series/227451</episode-num>
+    <video>
+      <present>yes</present>
+      <colour>yes</colour>
+      <aspect>16:9</aspect>
+      <quality>768x576</quality>
+    </video>
+    <audio>
+      <present>yes</present>
+      <stereo>stereo</stereo>
+    </audio>
+    <rating system="New Zealand">
+      <value>G</value>
+    </rating>
+    <star-rating system="themoviedb.org">
+      <value>0/10</value>
+    </star-rating>
+    <series-desc>The Bottom Line is a business discussion programme broadcast in the UK on BBC Radio 4 and the BBC News Channel, and internationally on the BBC World Service and BBC World News. It is co-production between BBC News and The Open University.</series-desc>
+  </programme>
+  <programme start="20260712070000 +0000" stop="20260712080000 +0000" channel="mjh-al-jazeera">
+    <title>Newshour</title>
+    <sub-title>Newshour</sub-title>
+    <desc>Latest news and in-depth analysis from around the world.</desc>
+    <date>1975</date>
+    <category>News And Factual</category>
+    <category>News</category>
+    <category>News, Current Affairs</category>
+    <category>News Magazine</category>
+    <category>News/Current Affairs</category>
+    <keyword>series</keyword>
+    <icon src="https://images.skyone.co.nz/mac/479214/DAM/35ECB47A-E047-45F6-89C7EA8A6D6B512C.jpg"/>
+    <country>United States</country>
+    <episode-num system="dd_progid">1376286709</episode-num>
+    <episode-num system="freeviewnz.tv">episode/4fb1f312-7fcb-44a4-ab6a-3ca22c406244</episode-num>
+    <episode-num system="original-air-date">2026-07-12 19:00:00</episode-num>
+    <episode-num system="skygo.co.nz">show/mac_sh_ptc990239023</episode-num>
+    <episode-num system="themoviedb.com">tv/1655</episode-num>
+    <video>
+      <present>yes</present>
+      <colour>yes</colour>
+      <aspect>16:9</aspect>
+      <quality>768x576</quality>
+    </video>
+    <audio>
+      <present>yes</present>
+      <stereo>stereo</stereo>
+    </audio>
+    <rating system="New Zealand">
+      <value>G</value>
+    </rating>
+    <star-rating system="themoviedb.org">
+      <value>5/10</value>
+    </star-rating>
+    <series-desc>America's first and longest running hour-long nightly news broadcast known for its in-depth coverage of issues and current events.</series-desc>
+  </programme>
+  <programme start="20260712080000 +0000" stop="20260712083000 +0000" channel="mjh-al-jazeera">
+    <title>News Live</title>
+    <sub-title>News Live</sub-title>
+    <desc>Up-to-date news and analysis from around the world.</desc>
+    <date>2026</date>
+    <category>News And Factual</category>
+    <category>News</category>
+    <category>News, Current Affairs</category>
+    <category>News Magazine</category>
+    <category>News/Current Affairs</category>
+    <keyword>series</keyword>
+    <icon src="https://images.skyone.co.nz/mac/479214/DAM/DBE0A936-38B1-436A-8419146AF048675E.jpg"/>
+    <country>Japan</country>
+    <episode-num system="dd_progid">1376286710</episode-num>
+    <episode-num system="freeviewnz.tv">episode/c7941d3e-5668-4360-b849-1181037733ed</episode-num>
+    <episode-num system="original-air-date">2026-07-12 20:00:00</episode-num>
+    <episode-num system="skygo.co.nz">show/mac_sh_ptc1037923899</episode-num>
+    <episode-num system="themoviedb.com">tv/127243</episode-num>
+    <video>
+      <present>yes</present>
+      <colour>yes</colour>
+      <aspect>16:9</aspect>
+      <quality>768x576</quality>
+    </video>
+    <audio>
+      <present>yes</present>
+      <stereo>stereo</stereo>
+    </audio>
+    <rating system="New Zealand">
+      <value>G</value>
+    </rating>
+    <star-rating system="themoviedb.org">
+      <value>0/10</value>
+    </star-rating>
+    <series-desc>A news show hosted by Kiryu Coco in which she summarizes the events of the day before. Coco-Kaichou often pitches products as commercial breaks such as her drug AsaCoco which can be inhaled, injected or consumed as a drink. It is tradition to watch Cocos AsaCoco Live News and afterwards Tsunomaki Watames "Watame no Uta" (early morning karaoke format with viewer rock-paper-scissor).</series-desc>
+    <live/>
+  </programme>
+  <programme start="20260712083000 +0000" stop="20260712090000 +0000" channel="mjh-al-jazeera">
+    <title>The Bottom Line</title>
+    <sub-title>The Bottom Line</sub-title>
+    <desc>Weekly discussion show on U.S. politics and policies hosted by Steve Clemons.</desc>
+    <date>2026</date>
+    <category>News And Factual</category>
+    <category>News</category>
+    <category>News, Current Affairs</category>
+    <category>Discussion, Interview, Debate</category>
+    <category>News/Current Affairs</category>
+    <keyword>series</keyword>
+    <icon src="https://images.skyone.co.nz/mac/479214/DAM/94C2A67A-B8C1-48DF-A299DF2CABF18B9A.jpg"/>
+    <episode-num system="dd_progid">58436896</episode-num>
+    <episode-num system="freeviewnz.tv">episode/c6bf8b4d-a02f-4f19-bdaa-4fb98733303f</episode-num>
+    <episode-num system="dd_seriesid">39152977</episode-num>
+    <episode-num system="freeviewnz.tv">season/43673052-b598-4f4b-9735-0a3c1a040556</episode-num>
+    <episode-num system="freeviewnz.tv">show/2cd33e07-87d0-43a1-af26-46e64e0ac898</episode-num>
+    <episode-num system="original-air-date">2026-07-12 18:30:00</episode-num>
+    <episode-num system="skygo.co.nz">show/mac_sh_ptc860346252</episode-num>
+    <episode-num system="themoviedb.com">tv/19791</episode-num>
+    <episode-num system="thetvdb.com">series/227451</episode-num>
+    <video>
+      <present>yes</present>
+      <colour>yes</colour>
+      <aspect>16:9</aspect>
+      <quality>768x576</quality>
+    </video>
+    <audio>
+      <present>yes</present>
+      <stereo>stereo</stereo>
+    </audio>
+    <rating system="New Zealand">
+      <value>G</value>
+    </rating>
+    <star-rating system="themoviedb.org">
+      <value>0/10</value>
+    </star-rating>
+    <series-desc>The Bottom Line is a business discussion programme broadcast in the UK on BBC Radio 4 and the BBC News Channel, and internationally on the BBC World Service and BBC World News. It is co-production between BBC News and The Open University.</series-desc>
+  </programme>
+  <programme start="20260712090000 +0000" stop="20260712093000 +0000" channel="mjh-al-jazeera">
+    <title>News Live</title>
+    <sub-title>News Live</sub-title>
+    <desc>Up-to-date news and analysis from around the world.</desc>
+    <date>2026</date>
+    <category>News And Factual</category>
+    <category>News</category>
+    <category>News, Current Affairs</category>
+    <category>News Magazine</category>
+    <category>News/Current Affairs</category>
+    <keyword>series</keyword>
+    <icon src="https://images.skyone.co.nz/mac/479214/DAM/DBE0A936-38B1-436A-8419146AF048675E.jpg"/>
+    <country>Japan</country>
+    <episode-num system="dd_progid">1376286712</episode-num>
+    <episode-num system="freeviewnz.tv">episode/a2a68835-482f-4380-b9f7-876cd3602fd2</episode-num>
+    <episode-num system="original-air-date">2026-07-12 21:00:00</episode-num>
+    <episode-num system="skygo.co.nz">show/mac_sh_ptc1037923899</episode-num>
+    <episode-num system="themoviedb.com">tv/127243</episode-num>
+    <video>
+      <present>yes</present>
+      <colour>yes</colour>
+      <aspect>16:9</aspect>
+      <quality>768x576</quality>
+    </video>
+    <audio>
+      <present>yes</present>
+      <stereo>stereo</stereo>
+    </audio>
+    <rating system="New Zealand">
+      <value>G</value>
+    </rating>
+    <star-rating system="themoviedb.org">
+      <value>0/10</value>
+    </star-rating>
+    <series-desc>A news show hosted by Kiryu Coco in which she summarizes the events of the day before. Coco-Kaichou often pitches products as commercial breaks such as her drug AsaCoco which can be inhaled, injected or consumed as a drink. It is tradition to watch Cocos AsaCoco Live News and afterwards Tsunomaki Watames "Watame no Uta" (early morning karaoke format with viewer rock-paper-scissor).</series-desc>
+    <live/>
+  </programme>
+  <programme start="20260712093000 +0000" stop="20260712100000 +0000" channel="mjh-al-jazeera">
+    <title>Counting the Cost</title>
+    <sub-title>Counting the Cost</sub-title>
+    <desc>Counting the Cost provides background to the economics stories that shape our world and impact the lives of ordinary people.</desc>
+    <date>2026</date>
+    <category>Documentary</category>
+    <category>Social, Political Issues, Economics</category>
+    <category>Economics, Social Advisory</category>
+    <category>News/Current Affairs</category>
+    <keyword>series</keyword>
+    <icon src="https://images.skyone.co.nz/mac/479214/DAM/3867D6B0-2A5A-4216-83B6FD8D9C5AF06F.jpg"/>
+    <episode-num system="dd_progid">58436033</episode-num>
+    <episode-num system="freeviewnz.tv">episode/a2dfc894-3fb6-4b08-9708-a07ebdcd1948</episode-num>
+    <episode-num system="dd_seriesid">15143844</episode-num>
+    <episode-num system="freeviewnz.tv">season/c8f499d0-d601-4454-b001-9bbf39b5e6a1</episode-num>
+    <episode-num system="freeviewnz.tv">show/7e0d1f88-d2d8-464a-8343-99e1eeb716f8</episode-num>
+    <episode-num system="original-air-date">2026-07-09 21:30:00</episode-num>
+    <episode-num system="skygo.co.nz">show/mac_sh_ptc418570455</episode-num>
+    <video>
+      <present>yes</present>
+      <colour>yes</colour>
+      <aspect>16:9</aspect>
+      <quality>768x576</quality>
+    </video>
+    <audio>
+      <present>yes</present>
+      <stereo>stereo</stereo>
+    </audio>
+    <rating system="New Zealand">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20260712100000 +0000" stop="20260712110000 +0000" channel="mjh-al-jazeera">
+    <title>Newshour</title>
+    <sub-title>Newshour</sub-title>
+    <desc>Latest news and in-depth analysis from around the world.</desc>
+    <date>1975</date>
+    <category>News And Factual</category>
+    <category>News</category>
+    <category>News, Current Affairs</category>
+    <category>News Magazine</category>
+    <category>News/Current Affairs</category>
+    <keyword>series</keyword>
+    <icon src="https://images.skyone.co.nz/mac/479214/DAM/35ECB47A-E047-45F6-89C7EA8A6D6B512C.jpg"/>
+    <country>United States</country>
+    <episode-num system="dd_progid">1376286714</episode-num>
+    <episode-num system="freeviewnz.tv">episode/de54c483-ac88-4d44-89a2-a8b30f0c2a1d</episode-num>
+    <episode-num system="original-air-date">2026-07-12 22:00:00</episode-num>
+    <episode-num system="skygo.co.nz">show/mac_sh_ptc990239023</episode-num>
+    <episode-num system="themoviedb.com">tv/1655</episode-num>
+    <video>
+      <present>yes</present>
+      <colour>yes</colour>
+      <aspect>16:9</aspect>
+      <quality>768x576</quality>
+    </video>
+    <audio>
+      <present>yes</present>
+      <stereo>stereo</stereo>
+    </audio>
+    <rating system="New Zealand">
+      <value>G</value>
+    </rating>
+    <star-rating system="themoviedb.org">
+      <value>5/10</value>
+    </star-rating>
+    <series-desc>America's first and longest running hour-long nightly news broadcast known for its in-depth coverage of issues and current events.</series-desc>
+  </programme>
+  <programme start="20260712110000 +0000" stop="20260712113000 +0000" channel="mjh-al-jazeera">
+    <title>News Live</title>
+    <sub-title>News Live</sub-title>
+    <desc>Up-to-date news and analysis from around the world.</desc>
+    <date>2026</date>
+    <category>News And Factual</category>
+    <category>News</category>
+    <category>News, Current Affairs</category>
+    <category>News Magazine</category>
+    <category>News/Current Affairs</category>
+    <keyword>series</keyword>
+    <icon src="https://images.skyone.co.nz/mac/479214/DAM/DBE0A936-38B1-436A-8419146AF048675E.jpg"/>
+    <country>Japan</country>
+    <episode-num system="dd_progid">1376286715</episode-num>
+    <episode-num system="freeviewnz.tv">episode/e37cd4e6-6e5e-47a8-ba80-062044054b8e</episode-num>
+    <episode-num system="original-air-date">2026-07-12 23:00:00</episode-num>
+    <episode-num system="skygo.co.nz">show/mac_sh_ptc1037923899</episode-num>
+    <episode-num system="themoviedb.com">tv/127243</episode-num>
+    <video>
+      <present>yes</present>
+      <colour>yes</colour>
+      <aspect>16:9</aspect>
+      <quality>768x576</quality>
+    </video>
+    <audio>
+      <present>yes</present>
+      <stereo>stereo</stereo>
+    </audio>
+    <rating system="New Zealand">
+      <value>G</value>
+    </rating>
+    <star-rating system="themoviedb.org">
+      <value>0/10</value>
+    </star-rating>
+    <series-desc>A news show hosted by Kiryu Coco in which she summarizes the events of the day before. Coco-Kaichou often pitches products as commercial breaks such as her drug AsaCoco which can be inhaled, injected or consumed as a drink. It is tradition to watch Cocos AsaCoco Live News and afterwards Tsunomaki Watames "Watame no Uta" (early morning karaoke format with viewer rock-paper-scissor).</series-desc>
+    <live/>
+  </programme>
+  <programme start="20260712113000 +0000" stop="20260712120000 +0000" channel="mjh-al-jazeera">
+    <title>Inside Story</title>
+    <sub-title>Inside Story</sub-title>
+    <desc>Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds from around the globe.</desc>
+    <date>2026</date>
+    <category>News And Factual</category>
+    <category>News</category>
+    <category>News, Current Affairs</category>
+    <category>News Magazine</category>
+    <category>News/Current Affairs</category>
+    <keyword>series</keyword>
+    <icon src="https://images.skyone.co.nz/mac/479214/DAM/49BDDDF0-BF67-4534-928FDD8D60919D77.jpg"/>
+    <episode-num system="dd_progid">58436894</episode-num>
+    <episode-num system="freeviewnz.tv">episode/f92820e2-4b7c-46be-a239-f534e8438aa5</episode-num>
+    <episode-num system="xmltv_ns">0.1374.0</episode-num>
+    <episode-num system="dd_seriesid">15241971</episode-num>
+    <episode-num system="freeviewnz.tv">season/1c13a2fd-8534-4d90-ac75-dcf6937b3085</episode-num>
+    <episode-num system="freeviewnz.tv">show/0df783ca-827e-4d47-970b-4ee1ce9ffa21</episode-num>
+    <episode-num system="original-air-date">2026-07-12 05:30:00</episode-num>
     <episode-num system="skygo.co.nz">show/mac_sh_ptc313063015</episode-num>
     <episode-num system="themoviedb.com">tv/18977</episode-num>
     <episode-num system="thetvdb.com">series/72178</episode-num>
