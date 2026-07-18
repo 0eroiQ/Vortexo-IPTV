@@ -2286,9 +2286,6 @@ https://jmp2.uk/rok-d5ac470e48d355c19371733b18be8925.m3u8
 #EXTINF:-1 channel-id="plutotv-60817936fd2d70000763d2b2" tvg-id="plutotv-60817936fd2d70000763d2b2" tvg-name="Wild at Heart" tvg-logo="https://images.pluto.tv/channels/60817936fd2d70000763d2b2/colorLogoPNG.PNG" group-title="Series" tvg-chno="259",Wild at Heart
 https://jmp2.uk/plu-60817936fd2d70000763d2b2.m3u8
 
-#EXTINF:-1 channel-id="roku-b238edf1869657abb47970bc9b7bfce1" tvg-id="roku-b238edf1869657abb47970bc9b7bfce1" tvg-name="CHGO Sports" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/b238edf1869657abb47970bc9b7bfce1/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1720447133788_Roku_HUD_CHGO.png" group-title="Sport" tvg-chno="260",CHGO Sports
-https://jmp2.uk/rok-b238edf1869657abb47970bc9b7bfce1.m3u8
-
 #EXTINF:-1 channel-id="plutotv-64eddce19001910008df22b8" tvg-id="plutotv-64eddce19001910008df22b8" tvg-name="F.B.I. Files" tvg-logo="https://images.pluto.tv/channels/64eddce19001910008df22b8/colorLogoPNG.png" group-title="Entertainment" tvg-chno="260",F.B.I. Files
 https://jmp2.uk/plu-64eddce19001910008df22b8.m3u8
 
@@ -2933,9 +2930,6 @@ https://jmp2.uk/rok-e2e10d08139b56aba73a448f5555b6fd.m3u8
 
 #EXTINF:-1 channel-id="plutotv-6823648580b2665220d9e69a" tvg-id="plutotv-6823648580b2665220d9e69a" tvg-name="Ciné 666 by Pluto TV" tvg-logo="https://images.pluto.tv/channels/6823648580b2665220d9e69a/colorLogoPNG-1757404141.png" group-title="Entertainment" tvg-chno="335",Ciné 666 by Pluto TV
 https://jmp2.uk/plu-6823648580b2665220d9e69a.m3u8
-
-#EXTINF:-1 channel-id="roku-dead0e7a46da533c94c61c8710ef3418" tvg-id="roku-dead0e7a46da533c94c61c8710ef3418" tvg-name="FilmRise British TV" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/dead0e7a46da533c94c61c8710ef3418/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1766001306928_RokuChannel_FilmRiseBritishTV_HUD_Logo_260x147.png" group-title="Entertainment" tvg-chno="335",FilmRise British TV
-https://jmp2.uk/rok-dead0e7a46da533c94c61c8710ef3418.m3u8
 
 #EXTINF:-1 channel-id="plutotv-67882c1c7b11714b795c2008" tvg-id="plutotv-67882c1c7b11714b795c2008" tvg-name="Sketchy AF" tvg-logo="https://images.pluto.tv/channels/67882c1c7b11714b795c2008/colorLogoPNG.png" group-title="Comedy" tvg-chno="335",Sketchy AF
 https://jmp2.uk/plu-67882c1c7b11714b795c2008.m3u8
@@ -7202,9 +7196,6 @@ https://jmp2.uk/plu-68adb066f7d7f0a9b9ff5d32.m3u8
 
 #EXTINF:-1 channel-id="samsungtvplus-in38000072r" tvg-id="samsungtvplus-in38000072r" tvg-name="The Movie Club" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN38000072R_20260701T005102SQUARE.png" group-title="Movies" tvg-chno="1000",The Movie Club
 https://jmp2.uk/stvp-IN38000072R
-
-#EXTINF:-1 channel-id="roku-1d889b474b205fe385a2c552aa909b94" tvg-id="roku-1d889b474b205fe385a2c552aa909b94" tvg-name="ViX Novelas en familia" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/1d889b474b205fe385a2c552aa909b94/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1704751831441_NovelasEnFamilia_RokuHub_260x147_White.png" group-title="Entertainment" tvg-chno="1000",ViX Novelas en familia
-https://jmp2.uk/rok-1d889b474b205fe385a2c552aa909b94.m3u8
 
 #EXTINF:-1 channel-id="samsungtvplus-usba3800005ni" tvg-id="samsungtvplus-usba3800005ni" tvg-name="Clarity 4K" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA3800005NI_20260714T040632SQUARE.png" group-title="Documentaries" tvg-chno="1001",Clarity 4K
 https://jmp2.uk/stvp-USBA3800005NI
@@ -12281,6 +12272,9 @@ https://jmp2.uk/plu-604928d54a4f730007ff76bc.m3u8
 
 #EXTINF:-1 channel-id="samsungtvplus-chbd3700002f2" tvg-id="samsungtvplus-chbd3700002f2" tvg-name="Plus belle la vie [FR]" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBD3700002F2_20260528T053331SQUARE.png" group-title="Entertainment" tvg-chno="4250",Plus belle la vie [FR]
 https://jmp2.uk/stvp-CHBD3700002F2
+
+#EXTINF:-1 channel-id="samsungtvplus-es300002y6" tvg-id="samsungtvplus-es300002y6" tvg-name="Sony One Series Thriller" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES300002Y6_20260421T123720SQUARE.png" group-title="Series" tvg-chno="4250",Sony One Series Thriller
+https://jmp2.uk/stvp-ES300002Y6
 
 #EXTINF:-1 channel-id="samsungtvplus-chbd2000023s" tvg-id="samsungtvplus-chbd2000023s" tvg-name="Alerte à Malibu [FR]" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBD2000023S_20260707T045712SQUARE.png" group-title="Entertainment" tvg-chno="4251",Alerte à Malibu [FR]
 https://jmp2.uk/stvp-CHBD2000023S
