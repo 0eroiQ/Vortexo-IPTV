@@ -1,17 +1,5 @@
 #EXTM3U x-tvg-url="epg.xml.gz"
 
-#EXTINF:-1 channel-id="plutotv-6a9fc2af17c0d8c7a37697d0" tvg-id="plutotv-6a9fc2af17c0d8c7a37697d0" tvg-name="Cenando con Pablo" tvg-logo="https://images.pluto.tv/channels/6a9fc2af17c0d8c7a37697d0/colorLogoPNG_1789464728847.png" group-title="Entertainment" tvg-chno="1",Cenando con Pablo
-https://jmp2.uk/plu-6a9fc2af17c0d8c7a37697d0.m3u8
-
-#EXTINF:-1 channel-id="plutotv-67a23b899a300a00086f3371" tvg-id="plutotv-67a23b899a300a00086f3371" tvg-name="Dominance FC TV" tvg-logo="https://images.pluto.tv/channels/67a23b899a300a00086f3371/colorLogoPNG_1750773360727.png" group-title="Sport" tvg-chno="1",Dominance FC TV
-https://jmp2.uk/plu-67a23b899a300a00086f3371.m3u8
-
-#EXTINF:-1 channel-id="plutotv-67a23bb777796f00080edaec" tvg-id="plutotv-67a23bb777796f00080edaec" tvg-name="Dominance FC TV" tvg-logo="https://images.pluto.tv/channels/67a23bb777796f00080edaec/colorLogoPNG_1750773346598.png" group-title="Sport" tvg-chno="1",Dominance FC TV
-https://jmp2.uk/plu-67a23bb777796f00080edaec.m3u8
-
-#EXTINF:-1 channel-id="plutotv-67a23b4e15d6eb000827a20d" tvg-id="plutotv-67a23b4e15d6eb000827a20d" tvg-name="Dominance FC TV" tvg-logo="https://images.pluto.tv/channels/67a23b4e15d6eb000827a20d/colorLogoPNG_1750773377786.png" group-title="Sport" tvg-chno="1",Dominance FC TV
-https://jmp2.uk/plu-67a23b4e15d6eb000827a20d.m3u8
-
 #EXTINF:-1 channel-id="plutotv-69fca95dc45cded79a20992e" tvg-id="plutotv-69fca95dc45cded79a20992e" tvg-name="Numb3rs – Die Logik des Verbrechens" tvg-logo="https://images.pluto.tv/channels/69fca95dc45cded79a20992e/colorLogoPNG_1786704951523.png" group-title="Entertainment" tvg-chno="1",Numb3rs – Die Logik des Verbrechens
 https://jmp2.uk/plu-69fca95dc45cded79a20992e.m3u8
 
@@ -21,6 +9,9 @@ https://jmp2.uk/plu-6abab1c8d33c7e25d227502e.m3u8
 #EXTINF:-1 channel-id="plutotv-5ad8d3a31b95267e225e4e09" tvg-id="plutotv-5ad8d3a31b95267e225e4e09" tvg-name="Pluto TV Movies" tvg-logo="https://images.pluto.tv/channels/5ad8d3a31b95267e225e4e09/colorLogoPNG.png" group-title="Movies" tvg-chno="1",Pluto TV Movies
 https://jmp2.uk/plu-5ad8d3a31b95267e225e4e09.m3u8
 
+#EXTINF:-1 channel-id="plutotv-6a6a031b10c8f12ffc3adbb5" tvg-id="plutotv-6a6a031b10c8f12ffc3adbb5" tvg-name="Series made in Spain de Pluto TV" tvg-logo="https://images.pluto.tv/channels/6a6a031b10c8f12ffc3adbb5/colorLogoPNG_1790242819581.png" group-title="Series" tvg-chno="1",Series made in Spain de Pluto TV
+https://jmp2.uk/plu-6a6a031b10c8f12ffc3adbb5.m3u8
+
 #EXTINF:-1 channel-id="plutotv-6a6a02ff1b1c90d8bf955701" tvg-id="plutotv-6a6a02ff1b1c90d8bf955701" tvg-name="Soda" tvg-logo="https://images.pluto.tv/channels/6a6a02ff1b1c90d8bf955701/colorLogoPNG_1790683275822.png" group-title="Entertainment" tvg-chno="1",Soda
 https://jmp2.uk/plu-6a6a02ff1b1c90d8bf955701.m3u8
 
@@ -29,6 +20,9 @@ https://jmp2.uk/plu-6a8eaea2fad3326545c281f1.m3u8
 
 #EXTINF:-1 channel-id="plutotv-6a3a9ad35304e3244456d376" tvg-id="plutotv-6a3a9ad35304e3244456d376" tvg-name="Adrenaline Spica Life" tvg-logo="https://images.pluto.tv/channels/6a3a9ad35304e3244456d376/colorLogoPNG_1789116626806.png" group-title="Entertainment" tvg-chno="2",Adrenaline Spica Life
 https://jmp2.uk/plu-6a3a9ad35304e3244456d376.m3u8
+
+#EXTINF:-1 channel-id="plutotv-6a9fc2af17c0d8c7a37697d0" tvg-id="plutotv-6a9fc2af17c0d8c7a37697d0" tvg-name="Cenando con Pablo" tvg-logo="https://images.pluto.tv/channels/6a9fc2af17c0d8c7a37697d0/colorLogoPNG_1789464728847.png" group-title="Entertainment" tvg-chno="2",Cenando con Pablo
+https://jmp2.uk/plu-6a9fc2af17c0d8c7a37697d0.m3u8
 
 #EXTINF:-1 channel-id="plutotv-66fbf4d3d7de140008d41f5b" tvg-id="plutotv-66fbf4d3d7de140008d41f5b" tvg-name="NCIS: Los Angeles" tvg-logo="https://images.pluto.tv/channels/66fbf4d3d7de140008d41f5b/colorLogoPNG.png" group-title="Series" tvg-chno="2",NCIS: Los Angeles
 https://jmp2.uk/plu-66fbf4d3d7de140008d41f5b.m3u8
@@ -41,9 +35,6 @@ https://jmp2.uk/plu-6a6318a71a30976934632c3d.m3u8
 
 #EXTINF:-1 channel-id="plutotv-5dbfeb961b411c00090b52b3" tvg-id="plutotv-5dbfeb961b411c00090b52b3" tvg-name="Pluto TV Action" tvg-logo="https://images.pluto.tv/channels/5dbfeb961b411c00090b52b3/colorLogoPNG.png" group-title="Movies" tvg-chno="2",Pluto TV Action
 https://jmp2.uk/plu-5dbfeb961b411c00090b52b3.m3u8
-
-#EXTINF:-1 channel-id="plutotv-6a6a031b10c8f12ffc3adbb5" tvg-id="plutotv-6a6a031b10c8f12ffc3adbb5" tvg-name="Series made in Spain de Pluto TV" tvg-logo="https://images.pluto.tv/channels/6a6a031b10c8f12ffc3adbb5/colorLogoPNG_1790242819581.png" group-title="Series" tvg-chno="2",Series made in Spain de Pluto TV
-https://jmp2.uk/plu-6a6a031b10c8f12ffc3adbb5.m3u8
 
 #EXTINF:-1 channel-id="plutotv-660d64a7aec9680008f8ba77" tvg-id="plutotv-660d64a7aec9680008f8ba77" tvg-name="Top Gear Classics" tvg-logo="https://images.pluto.tv/channels/660d64a7aec9680008f8ba77/colorLogoPNG.png" group-title="Entertainment" tvg-chno="2",Top Gear Classics
 https://jmp2.uk/plu-660d64a7aec9680008f8ba77.m3u8
@@ -266,9 +257,6 @@ https://jmp2.uk/plu-67d984408d8dc3d7754dccf2.m3u8
 
 #EXTINF:-1 channel-id="plutotv-657868a7a620e30008fdbfeb" tvg-id="plutotv-657868a7a620e30008fdbfeb" tvg-name="Embrujadas" tvg-logo="https://images.pluto.tv/channels/657868a7a620e30008fdbfeb/colorLogoPNG_1770028317031.png" group-title="Series" tvg-chno="20",Embrujadas
 https://jmp2.uk/plu-657868a7a620e30008fdbfeb.m3u8
-
-#EXTINF:-1 channel-id="plutotv-6a9974a42714ce519204811a" tvg-id="plutotv-6a9974a42714ce519204811a" tvg-name="Generation Iron" tvg-logo="https://images.pluto.tv/channels/6a9974a42714ce519204811a/colorLogoPNG_1789027603012.png" group-title="Entertainment" tvg-chno="20",Generation Iron
-https://jmp2.uk/plu-6a9974a42714ce519204811a.m3u8
 
 #EXTINF:-1 channel-id="plutotv-64b585f84ea480000838e446" tvg-id="plutotv-64b585f84ea480000838e446" tvg-name="Pluto TV Icons" tvg-logo="https://images.pluto.tv/channels/64b585f84ea480000838e446/colorLogoPNG_1785343035531.png" group-title="Movies" tvg-chno="20",Pluto TV Icons
 https://jmp2.uk/plu-64b585f84ea480000838e446.m3u8
@@ -1290,6 +1278,9 @@ https://jmp2.uk/plu-629e095e511d4b00070c9f44.m3u8
 #EXTINF:-1 channel-id="plutotv-69fcc8cfb83300b380051794" tvg-id="plutotv-69fcc8cfb83300b380051794" tvg-name="Blue Bloods" tvg-logo="https://images.pluto.tv/channels/69fcc8cfb83300b380051794/colorLogoPNG_1783364234495.png" group-title="Entertainment" tvg-chno="107",Blue Bloods
 https://jmp2.uk/plu-69fcc8cfb83300b380051794.m3u8
 
+#EXTINF:-1 channel-id="plutotv-67a23bb777796f00080edaec" tvg-id="plutotv-67a23bb777796f00080edaec" tvg-name="Dominance FC TV" tvg-logo="https://images.pluto.tv/channels/67a23bb777796f00080edaec/colorLogoPNG_1750773346598.png" group-title="Sport" tvg-chno="107",Dominance FC TV
+https://jmp2.uk/plu-67a23bb777796f00080edaec.m3u8
+
 #EXTINF:-1 channel-id="plutotv-691b334a1308fa77bb056b0e" tvg-id="plutotv-691b334a1308fa77bb056b0e" tvg-name="La Moderna" tvg-logo="https://images.pluto.tv/channels/691b334a1308fa77bb056b0e/colorLogoPNG_1771231492608.png" group-title="Entertainment" tvg-chno="107",La Moderna
 https://jmp2.uk/plu-691b334a1308fa77bb056b0e.m3u8
 
@@ -1782,6 +1773,9 @@ https://jmp2.uk/plu-65d87a058145cb0008265c2e.m3u8
 #EXTINF:-1 channel-id="plutotv-671656dfdaad7f00085d2133" tvg-id="plutotv-671656dfdaad7f00085d2133" tvg-name="MODUS Super Series Darts" tvg-logo="https://images.pluto.tv/channels/671656dfdaad7f00085d2133/colorLogoPNG_1732093602845.png" group-title="Sport" tvg-chno="157",MODUS Super Series Darts
 https://jmp2.uk/plu-671656dfdaad7f00085d2133.m3u8
 
+#EXTINF:-1 channel-id="plutotv-67a23b899a300a00086f3371" tvg-id="plutotv-67a23b899a300a00086f3371" tvg-name="Dominance FC TV" tvg-logo="https://images.pluto.tv/channels/67a23b899a300a00086f3371/colorLogoPNG_1750773360727.png" group-title="Sport" tvg-chno="158",Dominance FC TV
+https://jmp2.uk/plu-67a23b899a300a00086f3371.m3u8
+
 #EXTINF:-1 channel-id="plutotv-66bb36e03a4ad200082bb8fe" tvg-id="plutotv-66bb36e03a4ad200082bb8fe" tvg-name="Pixel.tv" tvg-logo="https://images.pluto.tv/channels/66bb36e03a4ad200082bb8fe/colorLogoPNG.png" group-title="Sport" tvg-chno="158",Pixel.tv
 https://jmp2.uk/plu-66bb36e03a4ad200082bb8fe.m3u8
 
@@ -2189,6 +2183,9 @@ https://jmp2.uk/plu-5f1aadf373bed3000794d1d7.m3u8
 
 #EXTINF:-1 channel-id="plutotv-692ec6d82329c10c5166f436" tvg-id="plutotv-692ec6d82329c10c5166f436" tvg-name="Nina" tvg-logo="https://images.pluto.tv/channels/692ec6d82329c10c5166f436/colorLogoPNG_1771598181775.png" group-title="Entertainment" tvg-chno="206",Nina
 https://jmp2.uk/plu-692ec6d82329c10c5166f436.m3u8
+
+#EXTINF:-1 channel-id="plutotv-67a23b4e15d6eb000827a20d" tvg-id="plutotv-67a23b4e15d6eb000827a20d" tvg-name="Dominance FC TV" tvg-logo="https://images.pluto.tv/channels/67a23b4e15d6eb000827a20d/colorLogoPNG_1750773377786.png" group-title="Sport" tvg-chno="207",Dominance FC TV
+https://jmp2.uk/plu-67a23b4e15d6eb000827a20d.m3u8
 
 #EXTINF:-1 channel-id="plutotv-68f0fb155d6fb43948165d32" tvg-id="plutotv-68f0fb155d6fb43948165d32" tvg-name="Dynastin" tvg-logo="https://images.pluto.tv/channels/68f0fb155d6fb43948165d32/colorLogoPNG_1762758211490.png" group-title="Series" tvg-chno="207",Dynastin
 https://jmp2.uk/plu-68f0fb155d6fb43948165d32.m3u8
@@ -4302,10 +4299,10 @@ https://jmp2.uk/plu-664c8ba33d173b00080ef0c8.m3u8
 #EXTINF:-1 channel-id="plutotv-61bb72a7bf8c520007a8fd27" tvg-id="plutotv-61bb72a7bf8c520007a8fd27" tvg-name="Pronto-socorro: Histórias De Emergência" tvg-logo="https://images.pluto.tv/channels/61bb72a7bf8c520007a8fd27/colorLogoPNG.png" group-title="Entertainment" tvg-chno="525",Pronto-socorro: Histórias De Emergência
 https://jmp2.uk/plu-61bb72a7bf8c520007a8fd27.m3u8
 
-#EXTINF:-1 channel-id="samsungtvplus-krbd4300003mw" tvg-id="samsungtvplus-krbd4300003mw" tvg-name="JTBC 차이나는 클라스" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD4300003MW_20261006T042833SQUARE.png" group-title="Entertainment" tvg-chno="527",JTBC 차이나는 클라스
+#EXTINF:-1 channel-id="samsungtvplus-krbd4300003mw" tvg-id="samsungtvplus-krbd4300003mw" tvg-name="JTBC 차이나는 클라스" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD4300003MW_20261020T053326SQUARE.png" group-title="Entertainment" tvg-chno="527",JTBC 차이나는 클라스
 https://jmp2.uk/stvp-KRBD4300003MW
 
-#EXTINF:-1 channel-id="samsungtvplus-kr2000012ai" tvg-id="samsungtvplus-kr2000012ai" tvg-name="Genie 어워드 특집" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR2000012AI_20261006T042803SQUARE.png" group-title="Entertainment" tvg-chno="528",Genie 어워드 특집
+#EXTINF:-1 channel-id="samsungtvplus-kr2000012ai" tvg-id="samsungtvplus-kr2000012ai" tvg-name="Genie 어워드 특집" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR2000012AI_20261020T053321SQUARE.png" group-title="Entertainment" tvg-chno="528",Genie 어워드 특집
 https://jmp2.uk/stvp-KR2000012AI
 
 #EXTINF:-1 channel-id="plutotv-60f85644a9493e0007a1f035" tvg-id="plutotv-60f85644a9493e0007a1f035" tvg-name="BET Classics" tvg-logo="https://images.pluto.tv/channels/60f85644a9493e0007a1f035/colorLogoPNG_1759339662769.png" group-title="Entertainment" tvg-chno="530",BET Classics
@@ -5019,7 +5016,7 @@ https://jmp2.uk/stvp-KR7000023Z
 #EXTINF:-1 channel-id="plutotv-67a9d77a15d6eb000837c6f4" tvg-id="plutotv-67a9d77a15d6eb000837c6f4" tvg-name="Xena: Warrior Princess" tvg-logo="https://images.pluto.tv/channels/67a9d77a15d6eb000837c6f4/colorLogoPNG.png" group-title="Entertainment" tvg-chno="623",Xena: Warrior Princess
 https://jmp2.uk/plu-67a9d77a15d6eb000837c6f4.m3u8
 
-#EXTINF:-1 channel-id="samsungtvplus-krbc4500002q4" tvg-id="samsungtvplus-krbc4500002q4" tvg-name="tvN 정년이" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC4500002Q4_20260901T054059SQUARE.png" group-title="Entertainment" tvg-chno="624",tvN 정년이
+#EXTINF:-1 channel-id="samsungtvplus-krbc4500002q4" tvg-id="samsungtvplus-krbc4500002q4" tvg-name="tvN 정년이" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC4500002Q4_20261020T053336SQUARE.png" group-title="Entertainment" tvg-chno="624",tvN 정년이
 https://jmp2.uk/stvp-KRBC4500002Q4
 
 #EXTINF:-1 channel-id="plutotv-62bdae69a47b6c00076af298" tvg-id="plutotv-62bdae69a47b6c00076af298" tvg-name="Baywatch" tvg-logo="https://images.pluto.tv/channels/62bdae69a47b6c00076af298/colorLogoPNG.png" group-title="Series" tvg-chno="625",Baywatch
@@ -5118,7 +5115,7 @@ https://jmp2.uk/stvp-KR200000503
 #EXTINF:-1 channel-id="plutotv-6a56ae45c868f8fd9818d59a" tvg-id="plutotv-6a56ae45c868f8fd9818d59a" tvg-name="7th Heaven" tvg-logo="https://images.pluto.tv/channels/6a56ae45c868f8fd9818d59a/colorLogoPNG_1784070025390.png" group-title="Series" tvg-chno="639",7th Heaven
 https://jmp2.uk/plu-6a56ae45c868f8fd9818d59a.m3u8
 
-#EXTINF:-1 channel-id="samsungtvplus-krbc3200018fu" tvg-id="samsungtvplus-krbc3200018fu" tvg-name="tvN 서초동" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200018FU_20261006T042948SQUARE.png" group-title="Entertainment" tvg-chno="639",tvN 서초동
+#EXTINF:-1 channel-id="samsungtvplus-krbc3200018fu" tvg-id="samsungtvplus-krbc3200018fu" tvg-name="tvN 서초동" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200018FU_20261020T053333SQUARE.png" group-title="Entertainment" tvg-chno="639",tvN 서초동
 https://jmp2.uk/stvp-KRBC3200018FU
 
 #EXTINF:-1 channel-id="plutotv-62bdaf3470f09a000714a2f6" tvg-id="plutotv-62bdaf3470f09a000714a2f6" tvg-name="Degrassi" tvg-logo="https://images.pluto.tv/channels/62bdaf3470f09a000714a2f6/colorLogoPNG.png" group-title="Series" tvg-chno="640",Degrassi
@@ -5160,7 +5157,7 @@ https://jmp2.uk/stvp-KR4500001KZ
 #EXTINF:-1 channel-id="plutotv-6a427cd153ad8a71107749cc" tvg-id="plutotv-6a427cd153ad8a71107749cc" tvg-name="Star Trek: Fanfavoritter" tvg-logo="https://images.pluto.tv/channels/6a427cd153ad8a71107749cc/colorLogoPNG_1782742538396.png" group-title="Entertainment" tvg-chno="646",Star Trek: Fanfavoritter
 https://jmp2.uk/plu-6a427cd153ad8a71107749cc.m3u8
 
-#EXTINF:-1 channel-id="samsungtvplus-krbc3200031ko" tvg-id="samsungtvplus-krbc3200031ko" tvg-name="tvN 인급동" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200031KO_20260901T054054SQUARE.png" group-title="Entertainment" tvg-chno="649",tvN 인급동
+#EXTINF:-1 channel-id="samsungtvplus-krbc3200031ko" tvg-id="samsungtvplus-krbc3200031ko" tvg-name="tvN 인급동" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200031KO_20261020T053330SQUARE.png" group-title="Entertainment" tvg-chno="649",tvN 인급동
 https://jmp2.uk/stvp-KRBC3200031KO
 
 #EXTINF:-1 channel-id="plutotv-5f15e3cccf49290007053c67" tvg-id="plutotv-5f15e3cccf49290007053c67" tvg-name="Classic TV Drama" tvg-logo="https://images.pluto.tv/channels/5f15e3cccf49290007053c67/colorLogoPNG.png" group-title="Series" tvg-chno="650",Classic TV Drama
@@ -6000,14 +5997,8 @@ https://jmp2.uk/plu-6a7d7d7b417a4b67e5a740bc.m3u8
 #EXTINF:-1 channel-id="plutotv-6915dd5ca570568f53431c7f" tvg-id="plutotv-6915dd5ca570568f53431c7f" tvg-name="The Graham Norton Show" tvg-logo="https://images.pluto.tv/channels/6915dd5ca570568f53431c7f/colorLogoPNG_1763041361750.png" group-title="Series" tvg-chno="828",The Graham Norton Show
 https://jmp2.uk/plu-6915dd5ca570568f53431c7f.m3u8
 
-#EXTINF:-1 channel-id="plutotv-67813f3162bf016db944c9ab" tvg-id="plutotv-67813f3162bf016db944c9ab" tvg-name="Red Bull TV" tvg-logo="https://images.pluto.tv/channels/67813f3162bf016db944c9ab/colorLogoPNG.png" group-title="Sport" tvg-chno="829",Red Bull TV
-https://jmp2.uk/plu-67813f3162bf016db944c9ab.m3u8
-
 #EXTINF:-1 channel-id="plutotv-6661739641af6400080cd8f1" tvg-id="plutotv-6661739641af6400080cd8f1" tvg-name="Extreme Makeover Home Edition" tvg-logo="https://images.pluto.tv/channels/6661739641af6400080cd8f1/colorLogoPNG.png" group-title="Lifestyle" tvg-chno="830",Extreme Makeover Home Edition
 https://jmp2.uk/plu-6661739641af6400080cd8f1.m3u8
-
-#EXTINF:-1 channel-id="plutotv-66997e8d3a4ad20008e50be9" tvg-id="plutotv-66997e8d3a4ad20008e50be9" tvg-name="FIFA+" tvg-logo="https://images.pluto.tv/channels/66997e8d3a4ad20008e50be9/colorLogoPNG_1749841306387.png" group-title="Sport" tvg-chno="830",FIFA+
-https://jmp2.uk/plu-66997e8d3a4ad20008e50be9.m3u8
 
 #EXTINF:-1 channel-id="plutotv-655f2d713944b60008bc7e90" tvg-id="plutotv-655f2d713944b60008bc7e90" tvg-name="Ink Master" tvg-logo="https://images.pluto.tv/channels/655f2d713944b60008bc7e90/colorLogoPNG.png" group-title="Series" tvg-chno="830",Ink Master
 https://jmp2.uk/plu-655f2d713944b60008bc7e90.m3u8
@@ -6057,6 +6048,9 @@ https://jmp2.uk/plu-6a7d805a9547fd4fec6e8fc2.m3u8
 #EXTINF:-1 channel-id="plutotv-62beb692cda2b10007d5fd76" tvg-id="plutotv-62beb692cda2b10007d5fd76" tvg-name="Best of The Drew Barrymore Show" tvg-logo="https://images.pluto.tv/channels/62beb692cda2b10007d5fd76/colorLogoPNG.png" group-title="Series" tvg-chno="837",Best of The Drew Barrymore Show
 https://jmp2.uk/plu-62beb692cda2b10007d5fd76.m3u8
 
+#EXTINF:-1 channel-id="plutotv-66997e8d3a4ad20008e50be9" tvg-id="plutotv-66997e8d3a4ad20008e50be9" tvg-name="FIFA+" tvg-logo="https://images.pluto.tv/channels/66997e8d3a4ad20008e50be9/colorLogoPNG_1749841306387.png" group-title="Sport" tvg-chno="837",FIFA+
+https://jmp2.uk/plu-66997e8d3a4ad20008e50be9.m3u8
+
 #EXTINF:-1 channel-id="plutotv-677fb137a5d8215f99b9cc06" tvg-id="plutotv-677fb137a5d8215f99b9cc06" tvg-name="Top Chef" tvg-logo="https://images.pluto.tv/channels/677fb137a5d8215f99b9cc06/colorLogoPNG_1761664673466.png" group-title="Entertainment" tvg-chno="837",Top Chef
 https://jmp2.uk/plu-677fb137a5d8215f99b9cc06.m3u8
 
@@ -6083,6 +6077,9 @@ https://jmp2.uk/plu-65367e724f123d000877cfe5.m3u8
 
 #EXTINF:-1 channel-id="plutotv-608aa8a5709d6b0007b132fe" tvg-id="plutotv-608aa8a5709d6b0007b132fe" tvg-name="Pluto TV Documentari" tvg-logo="https://images.pluto.tv/channels/608aa8a5709d6b0007b132fe/colorLogoPNG.png" group-title="Entertainment" tvg-chno="840",Pluto TV Documentari
 https://jmp2.uk/plu-608aa8a5709d6b0007b132fe.m3u8
+
+#EXTINF:-1 channel-id="plutotv-67813f3162bf016db944c9ab" tvg-id="plutotv-67813f3162bf016db944c9ab" tvg-name="Red Bull TV" tvg-logo="https://images.pluto.tv/channels/67813f3162bf016db944c9ab/colorLogoPNG.png" group-title="Sport" tvg-chno="840",Red Bull TV
+https://jmp2.uk/plu-67813f3162bf016db944c9ab.m3u8
 
 #EXTINF:-1 channel-id="plutotv-5efbd39f8c4ce900075d7698" tvg-id="plutotv-5efbd39f8c4ce900075d7698" tvg-name="Star Trek" tvg-logo="https://images.pluto.tv/channels/5efbd39f8c4ce900075d7698/colorLogoPNG.png" group-title="Entertainment" tvg-chno="840",Star Trek
 https://jmp2.uk/plu-5efbd39f8c4ce900075d7698.m3u8
@@ -6732,7 +6729,7 @@ https://jmp2.uk/plu-652557d93fd33c000802f995.m3u8
 #EXTINF:-1 channel-id="plutotv-68adb066f7d7f0a9b9ff5d32" tvg-id="plutotv-68adb066f7d7f0a9b9ff5d32" tvg-name="Smølferne" tvg-logo="https://images.pluto.tv/channels/68adb066f7d7f0a9b9ff5d32/colorLogoPNG_1760363216935.png" group-title="Entertainment" tvg-chno="1000",Smølferne
 https://jmp2.uk/plu-68adb066f7d7f0a9b9ff5d32.m3u8
 
-#EXTINF:-1 channel-id="samsungtvplus-in3900027s7" tvg-id="samsungtvplus-in3900027s7" tvg-name="Aashirwad TV" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3900027S7_20261013T051753SQUARE.png" group-title="Entertainment" tvg-chno="1001",Aashirwad TV
+#EXTINF:-1 channel-id="samsungtvplus-in3900027s7" tvg-id="samsungtvplus-in3900027s7" tvg-name="Aashirwad TV" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3900027S7_20261020T052417SQUARE.png" group-title="Entertainment" tvg-chno="1001",Aashirwad TV
 https://jmp2.uk/stvp-IN3900027S7
 
 #EXTINF:-1 channel-id="plutotv-67f3fb1cdea1c5e0d588ac1b" tvg-id="plutotv-67f3fb1cdea1c5e0d588ac1b" tvg-name="Pluto TV Ungdomsserier" tvg-logo="https://images.pluto.tv/channels/67f3fb1cdea1c5e0d588ac1b/colorLogoPNG_1748270797322.png" group-title="Entertainment" tvg-chno="1001",Pluto TV Ungdomsserier
@@ -6750,7 +6747,7 @@ https://jmp2.uk/stvp-CAAJ2700014EE
 #EXTINF:-1 channel-id="roku-58e6bfd1c4819af32ead547dbc82e1f8" tvg-id="roku-58e6bfd1c4819af32ead547dbc82e1f8" tvg-name="FloRacing 24/7" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/58e6bfd1c4819af32ead547dbc82e1f8/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1771353198884_FloRacing_HUDLogo.png" group-title="24/7" tvg-chno="1002",FloRacing 24/7
 https://jmp2.uk/rok-58e6bfd1c4819af32ead547dbc82e1f8.m3u8
 
-#EXTINF:-1 channel-id="samsungtvplus-in38000072r" tvg-id="samsungtvplus-in38000072r" tvg-name="The Movie Club" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN38000072R_20260929T041413SQUARE.png" group-title="Movies" tvg-chno="1002",The Movie Club
+#EXTINF:-1 channel-id="samsungtvplus-in38000072r" tvg-id="samsungtvplus-in38000072r" tvg-name="The Movie Club" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN38000072R_20261020T052437SQUARE.png" group-title="Movies" tvg-chno="1002",The Movie Club
 https://jmp2.uk/stvp-IN38000072R
 
 #EXTINF:-1 channel-id="samsungtvplus-cabc23000189a" tvg-id="samsungtvplus-cabc23000189a" tvg-name="Cops" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABC23000189A_20261016T224325SQUARE.png" group-title="Entertainment" tvg-chno="1003",Cops
@@ -6771,7 +6768,7 @@ https://jmp2.uk/plu-69440d0611f6c6384ab78306.m3u8
 #EXTINF:-1 channel-id="samsungtvplus-usbd1700001rw" tvg-id="samsungtvplus-usbd1700001rw" tvg-name="BBC Earth" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1700001RW_20261016T224629SQUARE.png" group-title="Documentaries" tvg-chno="1004",BBC Earth
 https://jmp2.uk/stvp-USBD1700001RW
 
-#EXTINF:-1 channel-id="samsungtvplus-in4000600q" tvg-id="samsungtvplus-in4000600q" tvg-name="Bollygold" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN4000600Q_20261013T051758SQUARE.png" group-title="Movies" tvg-chno="1004",Bollygold
+#EXTINF:-1 channel-id="samsungtvplus-in4000600q" tvg-id="samsungtvplus-in4000600q" tvg-name="Bollygold" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN4000600Q_20261020T052421SQUARE.png" group-title="Movies" tvg-chno="1004",Bollygold
 https://jmp2.uk/stvp-IN4000600Q
 
 #EXTINF:-1 channel-id="plutotv-61c09938e0d3a700072b68b1" tvg-id="plutotv-61c09938e0d3a700072b68b1" tvg-name="Pluto TV Tegnefilm" tvg-logo="https://images.pluto.tv/channels/61c09938e0d3a700072b68b1/colorLogoPNG_1749627293329.png" group-title="Entertainment" tvg-chno="1004",Pluto TV Tegnefilm
@@ -6822,7 +6819,7 @@ https://jmp2.uk/rok-a361d429db9e46665be277da42af89a4.m3u8
 #EXTINF:-1 channel-id="plutotv-67802a22a5d8215f99dcee30" tvg-id="plutotv-67802a22a5d8215f99dcee30" tvg-name="Pegadinhas - Just for Laughs" tvg-logo="https://images.pluto.tv/channels/67802a22a5d8215f99dcee30/colorLogoPNG.png" group-title="Entertainment" tvg-chno="1007",Pegadinhas - Just for Laughs
 https://jmp2.uk/plu-67802a22a5d8215f99dcee30.m3u8
 
-#EXTINF:-1 channel-id="samsungtvplus-inba490002119" tvg-id="samsungtvplus-inba490002119" tvg-name="Republic Bharat" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBA490002119_20261013T051702SQUARE.png" group-title="News" tvg-chno="1007",Republic Bharat
+#EXTINF:-1 channel-id="samsungtvplus-inba490002119" tvg-id="samsungtvplus-inba490002119" tvg-name="Republic Bharat" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBA490002119_20261020T052351SQUARE.png" group-title="News" tvg-chno="1007",Republic Bharat
 https://jmp2.uk/stvp-INBA490002119
 
 #EXTINF:-1 channel-id="plutotv-69afef4b0306b277744de1e4" tvg-id="plutotv-69afef4b0306b277744de1e4" tvg-name="The Millers" tvg-logo="https://images.pluto.tv/channels/69afef4b0306b277744de1e4/colorLogoPNG_1776168551561.png" group-title="Comedy" tvg-chno="1007",The Millers
@@ -6846,7 +6843,7 @@ https://jmp2.uk/plu-5ebaccf1734aaf0007142c86.m3u8
 #EXTINF:-1 channel-id="plutotv-654a510d986ad20008a45874" tvg-id="plutotv-654a510d986ad20008a45874" tvg-name="Family Ties" tvg-logo="https://images.pluto.tv/channels/654a510d986ad20008a45874/colorLogoPNG.png" group-title="Comedy" tvg-chno="1009",Family Ties
 https://jmp2.uk/plu-654a510d986ad20008a45874.m3u8
 
-#EXTINF:-1 channel-id="samsungtvplus-in25000020m" tvg-id="samsungtvplus-in25000020m" tvg-name="The Jungle Book" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN25000020M_20261006T042427SQUARE.png" group-title="Kids" tvg-chno="1009",The Jungle Book
+#EXTINF:-1 channel-id="samsungtvplus-in25000020m" tvg-id="samsungtvplus-in25000020m" tvg-name="The Jungle Book" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN25000020M_20261020T052431SQUARE.png" group-title="Kids" tvg-chno="1009",The Jungle Book
 https://jmp2.uk/stvp-IN25000020M
 
 #EXTINF:-1 channel-id="plutotv-60dc6937b450ad0007377e48" tvg-id="plutotv-60dc6937b450ad0007377e48" tvg-name="Charlotte aux Fraises" tvg-logo="https://images.pluto.tv/channels/60dc6937b450ad0007377e48/colorLogoPNG.png" group-title="Kids" tvg-chno="1010",Charlotte aux Fraises
@@ -7587,6 +7584,9 @@ https://jmp2.uk/plu-6887a4e01067b66fa16966ec.m3u8
 #EXTINF:-1 channel-id="samsungtvplus-us18000163f" tvg-id="samsungtvplus-us18000163f" tvg-name="Miramax Movie Channel" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US18000163F_20261009T160639SQUARE.png" group-title="Movies" tvg-chno="1237",Miramax Movie Channel
 https://jmp2.uk/stvp-US18000163F
 
+#EXTINF:-1 channel-id="plutotv-6aab1ec6f2eaa8924745678e" tvg-id="plutotv-6aab1ec6f2eaa8924745678e" tvg-name="A&amp;E Live PD: Greatest Shifts" tvg-logo="https://images.pluto.tv/channels/6aab1ec6f2eaa8924745678e/colorLogoPNG_1790808102594.png" group-title="Entertainment" tvg-chno="1239",A&E Live PD: Greatest Shifts
+https://jmp2.uk/plu-6aab1ec6f2eaa8924745678e.m3u8
+
 #EXTINF:-1 channel-id="plutotv-65492fc7056b9700088560b5" tvg-id="plutotv-65492fc7056b9700088560b5" tvg-name="American Crimes" tvg-logo="https://images.pluto.tv/channels/65492fc7056b9700088560b5/colorLogoPNG_1763432008789.png" group-title="Entertainment" tvg-chno="1240",American Crimes
 https://jmp2.uk/plu-65492fc7056b9700088560b5.m3u8
 
@@ -7743,7 +7743,7 @@ https://jmp2.uk/plu-66588931a3865300085ca800.m3u8
 #EXTINF:-1 channel-id="samsungtvplus-inba5100030ao" tvg-id="samsungtvplus-inba5100030ao" tvg-name="FailArmy" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBA5100030AO_20260623T012204SQUARE.png" group-title="Entertainment" tvg-chno="1280",FailArmy
 https://jmp2.uk/stvp-INBA5100030AO
 
-#EXTINF:-1 channel-id="samsungtvplus-ca800002tn" tvg-id="samsungtvplus-ca800002tn" tvg-name="OUTflix Movies" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA800002TN_20260609T034649SQUARE.png" group-title="Movies" tvg-chno="1280",OUTflix Movies
+#EXTINF:-1 channel-id="samsungtvplus-ca800002tn" tvg-id="samsungtvplus-ca800002tn" tvg-name="OUTflix Movies" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA800002TN_20261020T093635SQUARE.png" group-title="Movies" tvg-chno="1280",OUTflix Movies
 https://jmp2.uk/stvp-CA800002TN
 
 #EXTINF:-1 channel-id="samsungtvplus-us8000024g" tvg-id="samsungtvplus-us8000024g" tvg-name="OUTflix Movies" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US8000024G_20260915T035051SQUARE.png" group-title="Movies" tvg-chno="1280",OUTflix Movies
@@ -7911,6 +7911,9 @@ https://jmp2.uk/stvp-IN4600019L1
 #EXTINF:-1 channel-id="plutotv-65244c403fd33c0008ffff31" tvg-id="plutotv-65244c403fd33c0008ffff31" tvg-name="Car Chase" tvg-logo="https://images.pluto.tv/channels/65244c403fd33c0008ffff31/colorLogoPNG.png" group-title="Series" tvg-chno="1390",Car Chase
 https://jmp2.uk/plu-65244c403fd33c0008ffff31.m3u8
 
+#EXTINF:-1 channel-id="plutotv-6aab1ea02cfd341eb5036c5a" tvg-id="plutotv-6aab1ea02cfd341eb5036c5a" tvg-name="A&amp;E’s Alaska State Troopers" tvg-logo="https://images.pluto.tv/channels/6aab1ea02cfd341eb5036c5a/colorLogoPNG_1791210755629.png" group-title="Series" tvg-chno="1395",A&E’s Alaska State Troopers
+https://jmp2.uk/plu-6aab1ea02cfd341eb5036c5a.m3u8
+
 #EXTINF:-1 channel-id="plutotv-5bee1a7359ee03633e780238" tvg-id="plutotv-5bee1a7359ee03633e780238" tvg-name="Dog the Bounty Hunter" tvg-logo="https://images.pluto.tv/channels/5bee1a7359ee03633e780238/colorLogoPNG_1767736765611.png" group-title="Series" tvg-chno="1400",Dog the Bounty Hunter
 https://jmp2.uk/plu-5bee1a7359ee03633e780238.m3u8
 
@@ -7920,7 +7923,7 @@ https://jmp2.uk/plu-6541010f770cf1000866be98.m3u8
 #EXTINF:-1 channel-id="plutotv-65410176770cf1000866bf31" tvg-id="plutotv-65410176770cf1000866bf31" tvg-name="MTV Biggest Pop" tvg-logo="https://images.pluto.tv/channels/65410176770cf1000866bf31/colorLogoPNG.png" group-title="Music" tvg-chno="1401",MTV Biggest Pop
 https://jmp2.uk/plu-65410176770cf1000866bf31.m3u8
 
-#EXTINF:-1 channel-id="samsungtvplus-inbd1300010wp" tvg-id="samsungtvplus-inbd1300010wp" tvg-name="News18 India" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD1300010WP_20260929T041352SQUARE.png" group-title="News" tvg-chno="1401",News18 India
+#EXTINF:-1 channel-id="samsungtvplus-inbd1300010wp" tvg-id="samsungtvplus-inbd1300010wp" tvg-name="News18 India" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD1300010WP_20261020T052426SQUARE.png" group-title="News" tvg-chno="1401",News18 India
 https://jmp2.uk/stvp-INBD1300010WP
 
 #EXTINF:-1 channel-id="plutotv-5ddd7cb2cbb9010009b4fe32" tvg-id="plutotv-5ddd7cb2cbb9010009b4fe32" tvg-name="Nick Jr. Club" tvg-logo="https://images.pluto.tv/channels/5ddd7cb2cbb9010009b4fe32/colorLogoPNG_1748446493242.png" group-title="Kids" tvg-chno="1402",Nick Jr. Club
@@ -8115,7 +8118,7 @@ https://jmp2.uk/stvp-INBD4000058T
 #EXTINF:-1 channel-id="plutotv-60a3d889a5b3690008dc7fe8" tvg-id="plutotv-60a3d889a5b3690008dc7fe8" tvg-name="Bar Rescue" tvg-logo="https://images.pluto.tv/channels/60a3d889a5b3690008dc7fe8/colorLogoPNG_1780596469446.png" group-title="Series" tvg-chno="1460",Bar Rescue
 https://jmp2.uk/plu-60a3d889a5b3690008dc7fe8.m3u8
 
-#EXTINF:-1 channel-id="plutotv-6254598f5083f800076d8563" tvg-id="plutotv-6254598f5083f800076d8563" tvg-name="Bob Esponja Pantalones Cuadrados" tvg-logo="https://images.pluto.tv/channels/6254598f5083f800076d8563/colorLogoPNG_1789430846797.png" group-title="Kids" tvg-chno="1460",Bob Esponja Pantalones Cuadrados
+#EXTINF:-1 channel-id="plutotv-6254598f5083f800076d8563" tvg-id="plutotv-6254598f5083f800076d8563" tvg-name="Bob Esponja Pantalones Cuadrados" tvg-logo="https://images.pluto.tv/channels/6254598f5083f800076d8563/colorLogoPNG_1792528902585.png" group-title="Kids" tvg-chno="1460",Bob Esponja Pantalones Cuadrados
 https://jmp2.uk/plu-6254598f5083f800076d8563.m3u8
 
 #EXTINF:-1 channel-id="samsungtvplus-usbd1200021jm" tvg-id="samsungtvplus-usbd1200021jm" tvg-name="Shout! TV" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1200021JM_20250401T004834SQUARE.png" group-title="Entertainment" tvg-chno="1460",Shout! TV
@@ -8124,11 +8127,14 @@ https://jmp2.uk/stvp-USBD1200021JM
 #EXTINF:-1 channel-id="samsungtvplus-inbc2800001d8" tvg-id="samsungtvplus-inbc2800001d8" tvg-name="NDTV" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBC2800001D8_20260908T033558SQUARE.png" group-title="News" tvg-chno="1461",NDTV
 https://jmp2.uk/stvp-INBC2800001D8
 
+#EXTINF:-1 channel-id="plutotv-6aab1f18c349e6a78bb489ad" tvg-id="plutotv-6aab1f18c349e6a78bb489ad" tvg-name="Pawn Stars Plus by History" tvg-logo="https://images.pluto.tv/channels/6aab1f18c349e6a78bb489ad/colorLogoPNG_1790808022808.png" group-title="Documentaries" tvg-chno="1462",Pawn Stars Plus by History
+https://jmp2.uk/plu-6aab1f18c349e6a78bb489ad.m3u8
+
+#EXTINF:-1 channel-id="plutotv-6565413e4261ca0008215320" tvg-id="plutotv-6565413e4261ca0008215320" tvg-name="American Pickers Plus by History" tvg-logo="https://images.pluto.tv/channels/6565413e4261ca0008215320/colorLogoPNG_1792511758070.png" group-title="Documentaries" tvg-chno="1465",American Pickers Plus by History
+https://jmp2.uk/plu-6565413e4261ca0008215320.m3u8
+
 #EXTINF:-1 channel-id="plutotv-6322099c822bbc00074857db" tvg-id="plutotv-6322099c822bbc00074857db" tvg-name="Los Padrinos Mágicos" tvg-logo="https://images.pluto.tv/channels/6322099c822bbc00074857db/colorLogoPNG_1767810452010.png" group-title="Kids" tvg-chno="1465",Los Padrinos Mágicos
 https://jmp2.uk/plu-6322099c822bbc00074857db.m3u8
-
-#EXTINF:-1 channel-id="plutotv-6565413e4261ca0008215320" tvg-id="plutotv-6565413e4261ca0008215320" tvg-name="Pickers &amp; Pawn" tvg-logo="https://images.pluto.tv/channels/6565413e4261ca0008215320/colorLogoPNG.png" group-title="Series" tvg-chno="1465",Pickers & Pawn
-https://jmp2.uk/plu-6565413e4261ca0008215320.m3u8
 
 #EXTINF:-1 channel-id="samsungtvplus-inba4900020a5" tvg-id="samsungtvplus-inba4900020a5" tvg-name="Republic TV" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBA4900020A5_20260623T013003SQUARE.png" group-title="News" tvg-chno="1465",Republic TV
 https://jmp2.uk/stvp-INBA4900020A5
@@ -8244,7 +8250,7 @@ https://jmp2.uk/rok-923cd8e7aa1e5a5898aad41fdf6a0f0f.m3u8
 #EXTINF:-1 channel-id="samsungtvplus-usbd300002tu" tvg-id="samsungtvplus-usbd300002tu" tvg-name="ION" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD300002TU_20260922T055713SQUARE.png" group-title="Series" tvg-chno="1510",ION
 https://jmp2.uk/stvp-USBD300002TU
 
-#EXTINF:-1 channel-id="plutotv-6824ce10c5d53e1351ceb8d1" tvg-id="plutotv-6824ce10c5d53e1351ceb8d1" tvg-name="Nickelodeon Clássico" tvg-logo="https://images.pluto.tv/channels/6824ce10c5d53e1351ceb8d1/colorLogoPNG_1788384899252.png" group-title="Kids" tvg-chno="1510",Nickelodeon Clássico
+#EXTINF:-1 channel-id="plutotv-6824ce10c5d53e1351ceb8d1" tvg-id="plutotv-6824ce10c5d53e1351ceb8d1" tvg-name="Nickelodeon Clássico" tvg-logo="https://images.pluto.tv/channels/6824ce10c5d53e1351ceb8d1/colorLogoPNG_1792528439389.png" group-title="Kids" tvg-chno="1510",Nickelodeon Clássico
 https://jmp2.uk/plu-6824ce10c5d53e1351ceb8d1.m3u8
 
 #EXTINF:-1 channel-id="samsungtvplus-inbd4000027e" tvg-id="samsungtvplus-inbd4000027e" tvg-name="Zee 24 Kalak" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD4000027E_20260623T013305SQUARE.png" group-title="News" tvg-chno="1510",Zee 24 Kalak
@@ -8412,6 +8418,9 @@ https://jmp2.uk/stvp-IN800012RO
 #EXTINF:-1 channel-id="samsungtvplus-usaj26000015y" tvg-id="samsungtvplus-usaj26000015y" tvg-name="Supernatural Drama" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ26000015Y_20260901T055719SQUARE.png" group-title="Series" tvg-chno="1565",Supernatural Drama
 https://jmp2.uk/stvp-USAJ26000015Y
 
+#EXTINF:-1 channel-id="plutotv-6aab1ef220ec28a21adca712" tvg-id="plutotv-6aab1ef220ec28a21adca712" tvg-name="Torque by History" tvg-logo="https://images.pluto.tv/channels/6aab1ef220ec28a21adca712/colorLogoPNG_1791210850118.png" group-title="Documentaries" tvg-chno="1565",Torque by History
+https://jmp2.uk/plu-6aab1ef220ec28a21adca712.m3u8
+
 #EXTINF:-1 channel-id="plutotv-636adc255bcf470007d6e0e2" tvg-id="plutotv-636adc255bcf470007d6e0e2" tvg-name="Top Gear" tvg-logo="https://images.pluto.tv/channels/636adc255bcf470007d6e0e2/colorLogoPNG.png" group-title="Series" tvg-chno="1570",Top Gear
 https://jmp2.uk/plu-636adc255bcf470007d6e0e2.m3u8
 
@@ -8442,7 +8451,7 @@ https://jmp2.uk/stvp-CABB26000082J
 #EXTINF:-1 channel-id="samsungtvplus-usbb320000397" tvg-id="samsungtvplus-usbb320000397" tvg-name="21 Jump Street" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB320000397_20241105T024257SQUARE.png" group-title="Series" tvg-chno="1600",21 Jump Street
 https://jmp2.uk/stvp-USBB320000397
 
-#EXTINF:-1 channel-id="samsungtvplus-in38000050p" tvg-id="samsungtvplus-in38000050p" tvg-name="9XM" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN38000050P_20261006T042338SQUARE.png" group-title="Music" tvg-chno="1600",9XM
+#EXTINF:-1 channel-id="samsungtvplus-in38000050p" tvg-id="samsungtvplus-in38000050p" tvg-name="9XM" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN38000050P_20261020T052412SQUARE.png" group-title="Music" tvg-chno="1600",9XM
 https://jmp2.uk/stvp-IN38000050P
 
 #EXTINF:-1 channel-id="samsungtvplus-in8000196e" tvg-id="samsungtvplus-in8000196e" tvg-name="Epic Music" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN8000196E_20260722T004240SQUARE.png" group-title="Music" tvg-chno="1601",Epic Music
@@ -11181,7 +11190,7 @@ https://jmp2.uk/stvp-GBBB5000002PL
 #EXTINF:-1 channel-id="samsungtvplus-itbd600001cl" tvg-id="samsungtvplus-itbd600001cl" tvg-name="Brividy Cinema" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD600001CL_20261013T054215SQUARE.png" group-title="Movies" tvg-chno="4003",Brividy Cinema
 https://jmp2.uk/stvp-ITBD600001CL
 
-#EXTINF:-1 channel-id="samsungtvplus-frbd3600001bq" tvg-id="samsungtvplus-frbd3600001bq" tvg-name="Drive TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD3600001BQ_20261013T053847SQUARE.png" group-title="Sport" tvg-chno="4003",Drive TV
+#EXTINF:-1 channel-id="samsungtvplus-frbd3600001bq" tvg-id="samsungtvplus-frbd3600001bq" tvg-name="Drive TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD3600001BQ_20261020T053548SQUARE.png" group-title="Sport" tvg-chno="4003",Drive TV
 https://jmp2.uk/stvp-FRBD3600001BQ
 
 #EXTINF:-1 channel-id="samsungtvplus-at48000012i" tvg-id="samsungtvplus-at48000012i" tvg-name="Hochzeit auf den ersten Blick" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT48000012I_20261013T052459SQUARE.png" group-title="Entertainment" tvg-chno="4003",Hochzeit auf den ersten Blick
@@ -11220,7 +11229,7 @@ https://jmp2.uk/stvp-FR3600001R1
 #EXTINF:-1 channel-id="samsungtvplus-de4800003m6" tvg-id="samsungtvplus-de4800003m6" tvg-name="Hochzeit auf den ersten Blick" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE4800003M6_20261013T053257SQUARE.png" group-title="Entertainment" tvg-chno="4006",Hochzeit auf den ersten Blick
 https://jmp2.uk/stvp-DE4800003M6
 
-#EXTINF:-1 channel-id="samsungtvplus-fr900002b4" tvg-id="samsungtvplus-fr900002b4" tvg-name="Motor Racing" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR900002B4_20261013T053902SQUARE.png" group-title="Sport" tvg-chno="4006",Motor Racing
+#EXTINF:-1 channel-id="samsungtvplus-fr900002b4" tvg-id="samsungtvplus-fr900002b4" tvg-name="Motor Racing" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR900002B4_20261020T053555SQUARE.png" group-title="Sport" tvg-chno="4006",Motor Racing
 https://jmp2.uk/stvp-FR900002B4
 
 #EXTINF:-1 channel-id="samsungtvplus-frbd41000097i" tvg-id="samsungtvplus-frbd41000097i" tvg-name="RMC Story" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD41000097I_20251209T004435SQUARE.png" group-title="Entertainment" tvg-chno="4008",RMC Story
@@ -12531,9 +12540,6 @@ https://jmp2.uk/stvp-FR2600009UG
 #EXTINF:-1 channel-id="samsungtvplus-es2600005g9" tvg-id="samsungtvplus-es2600005g9" tvg-name="Crimen - Rakuten TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2600005G9_20241126T043110SQUARE.png" group-title="Entertainment" tvg-chno="4305",Crimen - Rakuten TV
 https://jmp2.uk/stvp-ES2600005G9
 
-#EXTINF:-1 channel-id="roku-ffe5d9e0480d1c5e1dcead3abd966ac7" tvg-id="roku-ffe5d9e0480d1c5e1dcead3abd966ac7" tvg-name="Let&#x27;s Make a Deal" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/ffe5d9e0480d1c5e1dcead3abd966ac7/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1741793674388_LMAD_HUDLogoCenterAligned_260x147.png" group-title="Series" tvg-chno="4305",Let's Make a Deal
-https://jmp2.uk/rok-ffe5d9e0480d1c5e1dcead3abd966ac7.m3u8
-
 #EXTINF:-1 channel-id="samsungtvplus-at4400006fa" tvg-id="samsungtvplus-at4400006fa" tvg-name="Schnell ermittelt &amp; Cop stories" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT4400006FA_20260421T125329SQUARE.png" group-title="Entertainment" tvg-chno="4306",Schnell ermittelt & Cop stories
 https://jmp2.uk/stvp-AT4400006FA
 
@@ -12576,7 +12582,7 @@ https://jmp2.uk/stvp-CH3600001HH
 #EXTINF:-1 channel-id="samsungtvplus-it3700001r9" tvg-id="samsungtvplus-it3700001r9" tvg-name="Forensic Files" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT3700001R9_20251111T011346SQUARE.png" group-title="Entertainment" tvg-chno="4309",Forensic Files
 https://jmp2.uk/stvp-IT3700001R9
 
-#EXTINF:-1 channel-id="samsungtvplus-frbd39000064e" tvg-id="samsungtvplus-frbd39000064e" tvg-name="100% Docs Crime" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD39000064E_20251118T015629SQUARE.png" group-title="Entertainment" tvg-chno="4310",100% Docs Crime
+#EXTINF:-1 channel-id="samsungtvplus-frbd39000064e" tvg-id="samsungtvplus-frbd39000064e" tvg-name="100% Docs Crime" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD39000064E_20261020T053535SQUARE.png" group-title="Entertainment" tvg-chno="4310",100% Docs Crime
 https://jmp2.uk/stvp-FRBD39000064E
 
 #EXTINF:-1 channel-id="samsungtvplus-gbak3504500a" tvg-id="samsungtvplus-gbak3504500a" tvg-name="5 Cops" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBAK3504500A_20260804T051725SQUARE.png" group-title="Entertainment" tvg-chno="4310",5 Cops
@@ -12615,10 +12621,10 @@ https://jmp2.uk/stvp-CABB2600017ZU
 #EXTINF:-1 channel-id="samsungtvplus-usbb3200007ak" tvg-id="samsungtvplus-usbb3200007ak" tvg-name="XITE 90s Throwback" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB3200007AK_20260512T070259SQUARE.png" group-title="Music" tvg-chno="4319",XITE 90s Throwback
 https://jmp2.uk/stvp-USBB3200007AK
 
-#EXTINF:-1 channel-id="samsungtvplus-cabd17000043j" tvg-id="samsungtvplus-cabd17000043j" tvg-name="XITE The Beatles" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABD17000043J_20261006T050933SQUARE.png" group-title="Music" tvg-chno="4323",XITE The Beatles
+#EXTINF:-1 channel-id="samsungtvplus-cabd17000043j" tvg-id="samsungtvplus-cabd17000043j" tvg-name="XITE The Beatles" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABD17000043J_20261020T093625SQUARE.png" group-title="Music" tvg-chno="4323",XITE The Beatles
 https://jmp2.uk/stvp-CABD17000043J
 
-#EXTINF:-1 channel-id="samsungtvplus-usbd350003932" tvg-id="samsungtvplus-usbd350003932" tvg-name="XITE The Beatles" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD350003932_20261006T051013SQUARE.png" group-title="Music" tvg-chno="4323",XITE The Beatles
+#EXTINF:-1 channel-id="samsungtvplus-usbd350003932" tvg-id="samsungtvplus-usbd350003932" tvg-name="XITE The Beatles" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD350003932_20261020T100511SQUARE.png" group-title="Music" tvg-chno="4323",XITE The Beatles
 https://jmp2.uk/stvp-USBD350003932
 
 #EXTINF:-1 channel-id="samsungtvplus-cabd120001993" tvg-id="samsungtvplus-cabd120001993" tvg-name="XITE Country Today" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABD120001993_20260421T141129SQUARE.png" group-title="Music" tvg-chno="4328",XITE Country Today
@@ -14595,7 +14601,7 @@ https://jmp2.uk/stvp-ATAJ0500413A
 #EXTINF:-1 channel-id="samsungtvplus-chaj0500413a" tvg-id="samsungtvplus-chaj0500413a" tvg-name="Deluxe Lounge HD" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHAJ0500413A_20260915T035024SQUARE.png" group-title="Entertainment" tvg-chno="4761",Deluxe Lounge HD
 https://jmp2.uk/stvp-CHAJ0500413A
 
-#EXTINF:-1 channel-id="samsungtvplus-deah3904006a" tvg-id="samsungtvplus-deah3904006a" tvg-name="Deluxe Lounge HD" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEAH3904006A_20260915T035255SQUARE.png" group-title="Entertainment" tvg-chno="4761",Deluxe Lounge HD
+#EXTINF:-1 channel-id="samsungtvplus-deah3904006a" tvg-id="samsungtvplus-deah3904006a" tvg-name="Deluxe Lounge HD" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEAH3904006A_20261020T135417SQUARE.png" group-title="Entertainment" tvg-chno="4761",Deluxe Lounge HD
 https://jmp2.uk/stvp-DEAH3904006A
 
 #EXTINF:-1 channel-id="samsungtvplus-esba1500001c4" tvg-id="samsungtvplus-esba1500001c4" tvg-name="Deluxe Lounge HD" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA1500001C4_20260915T043012SQUARE.png" group-title="Entertainment" tvg-chno="4761",Deluxe Lounge HD
@@ -14610,7 +14616,7 @@ https://jmp2.uk/stvp-AT2000006OM
 #EXTINF:-1 channel-id="samsungtvplus-ch2100005hg" tvg-id="samsungtvplus-ch2100005hg" tvg-name="Cozy Vibes" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CH2100005HG_20260609T042205SQUARE.png" group-title="Entertainment" tvg-chno="4763",Cozy Vibes
 https://jmp2.uk/stvp-CH2100005HG
 
-#EXTINF:-1 channel-id="samsungtvplus-de19000024p" tvg-id="samsungtvplus-de19000024p" tvg-name="Cozy Vibes" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE19000024P_20260528T054347SQUARE.png" group-title="Entertainment" tvg-chno="4763",Cozy Vibes
+#EXTINF:-1 channel-id="samsungtvplus-de19000024p" tvg-id="samsungtvplus-de19000024p" tvg-name="Cozy Vibes" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE19000024P_20261020T135454SQUARE.png" group-title="Entertainment" tvg-chno="4763",Cozy Vibes
 https://jmp2.uk/stvp-DE19000024P
 
 #EXTINF:-1 channel-id="samsungtvplus-es190000224" tvg-id="samsungtvplus-es190000224" tvg-name="Cozy Vibes" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES190000224_20260528T055738SQUARE.png" group-title="Entertainment" tvg-chno="4763",Cozy Vibes
@@ -14631,7 +14637,7 @@ https://jmp2.uk/stvp-AT2000010RT
 #EXTINF:-1 channel-id="samsungtvplus-ch2100009km" tvg-id="samsungtvplus-ch2100009km" tvg-name="Storm Vibes" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CH2100009KM_20260609T042326SQUARE.png" group-title="Entertainment" tvg-chno="4764",Storm Vibes
 https://jmp2.uk/stvp-CH2100009KM
 
-#EXTINF:-1 channel-id="samsungtvplus-de1900003le" tvg-id="samsungtvplus-de1900003le" tvg-name="Storm Vibes" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE1900003LE_20260528T054525SQUARE.png" group-title="Entertainment" tvg-chno="4764",Storm Vibes
+#EXTINF:-1 channel-id="samsungtvplus-de1900003le" tvg-id="samsungtvplus-de1900003le" tvg-name="Storm Vibes" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE1900003LE_20261020T135446SQUARE.png" group-title="Entertainment" tvg-chno="4764",Storm Vibes
 https://jmp2.uk/stvp-DE1900003LE
 
 #EXTINF:-1 channel-id="samsungtvplus-es1900003jt" tvg-id="samsungtvplus-es1900003jt" tvg-name="Storm Vibes" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES1900003JT_20260528T055908SQUARE.png" group-title="Entertainment" tvg-chno="4764",Storm Vibes
@@ -14652,7 +14658,7 @@ https://jmp2.uk/stvp-AT20000098I
 #EXTINF:-1 channel-id="samsungtvplus-ch21000081b" tvg-id="samsungtvplus-ch21000081b" tvg-name="Rainy Day Vibes" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CH21000081B_20260609T042306SQUARE.png" group-title="Entertainment" tvg-chno="4765",Rainy Day Vibes
 https://jmp2.uk/stvp-CH21000081B
 
-#EXTINF:-1 channel-id="samsungtvplus-de1800009mu" tvg-id="samsungtvplus-de1800009mu" tvg-name="Rainy Day Vibes" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE1800009MU_20260528T054456SQUARE.png" group-title="Entertainment" tvg-chno="4765",Rainy Day Vibes
+#EXTINF:-1 channel-id="samsungtvplus-de1800009mu" tvg-id="samsungtvplus-de1800009mu" tvg-name="Rainy Day Vibes" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE1800009MU_20261020T135430SQUARE.png" group-title="Entertainment" tvg-chno="4765",Rainy Day Vibes
 https://jmp2.uk/stvp-DE1800009MU
 
 #EXTINF:-1 channel-id="samsungtvplus-es1800006zs" tvg-id="samsungtvplus-es1800006zs" tvg-name="Rainy Day Vibes" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES1800006ZS_20260528T055835SQUARE.png" group-title="Entertainment" tvg-chno="4765",Rainy Day Vibes
@@ -14673,7 +14679,7 @@ https://jmp2.uk/stvp-AT2000011A3
 #EXTINF:-1 channel-id="samsungtvplus-ch21000103w" tvg-id="samsungtvplus-ch21000103w" tvg-name="Fall Vibes" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CH21000103W_20261006T033736SQUARE.png" group-title="Entertainment" tvg-chno="4766",Fall Vibes
 https://jmp2.uk/stvp-CH21000103W
 
-#EXTINF:-1 channel-id="samsungtvplus-de1800012wi" tvg-id="samsungtvplus-de1800012wi" tvg-name="Fall Vibes" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE1800012WI_20261006T034537SQUARE.png" group-title="Entertainment" tvg-chno="4766",Fall Vibes
+#EXTINF:-1 channel-id="samsungtvplus-de1800012wi" tvg-id="samsungtvplus-de1800012wi" tvg-name="Fall Vibes" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE1800012WI_20261020T135440SQUARE.png" group-title="Entertainment" tvg-chno="4766",Fall Vibes
 https://jmp2.uk/stvp-DE1800012WI
 
 #EXTINF:-1 channel-id="samsungtvplus-es1800009vx" tvg-id="samsungtvplus-es1800009vx" tvg-name="Fall Vibes" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES1800009VX_20261006T033907SQUARE.png" group-title="Entertainment" tvg-chno="4766",Fall Vibes
@@ -14694,7 +14700,7 @@ https://jmp2.uk/stvp-AT20000077X
 #EXTINF:-1 channel-id="samsungtvplus-ch2100006zq" tvg-id="samsungtvplus-ch2100006zq" tvg-name="Island Vibes" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CH2100006ZQ_20260609T042234SQUARE.png" group-title="Entertainment" tvg-chno="4767",Island Vibes
 https://jmp2.uk/stvp-CH2100006ZQ
 
-#EXTINF:-1 channel-id="samsungtvplus-de18000103j" tvg-id="samsungtvplus-de18000103j" tvg-name="Island Vibes" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE18000103J_20260528T054429SQUARE.png" group-title="Entertainment" tvg-chno="4767",Island Vibes
+#EXTINF:-1 channel-id="samsungtvplus-de18000103j" tvg-id="samsungtvplus-de18000103j" tvg-name="Island Vibes" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE18000103J_20261020T135502SQUARE.png" group-title="Entertainment" tvg-chno="4767",Island Vibes
 https://jmp2.uk/stvp-DE18000103J
 
 #EXTINF:-1 channel-id="samsungtvplus-es1800007gh" tvg-id="samsungtvplus-es1800007gh" tvg-name="Island Vibes" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES1800007GH_20260528T055756SQUARE.png" group-title="Entertainment" tvg-chno="4767",Island Vibes
@@ -14715,7 +14721,7 @@ https://jmp2.uk/stvp-AT2000008Q7
 #EXTINF:-1 channel-id="samsungtvplus-ch2100007i1" tvg-id="samsungtvplus-ch2100007i1" tvg-name="Ocean Vibes" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CH2100007I1_20260609T042251SQUARE.png" group-title="Entertainment" tvg-chno="4768",Ocean Vibes
 https://jmp2.uk/stvp-CH2100007I1
 
-#EXTINF:-1 channel-id="samsungtvplus-de1800011l9" tvg-id="samsungtvplus-de1800011l9" tvg-name="Ocean Vibes" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE1800011L9_20260528T054446SQUARE.png" group-title="Entertainment" tvg-chno="4768",Ocean Vibes
+#EXTINF:-1 channel-id="samsungtvplus-de1800011l9" tvg-id="samsungtvplus-de1800011l9" tvg-name="Ocean Vibes" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE1800011L9_20261020T135422SQUARE.png" group-title="Entertainment" tvg-chno="4768",Ocean Vibes
 https://jmp2.uk/stvp-DE1800011L9
 
 #EXTINF:-1 channel-id="samsungtvplus-es1800008x7" tvg-id="samsungtvplus-es1800008x7" tvg-name="Ocean Vibes" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES1800008X7_20260528T055815SQUARE.png" group-title="Entertainment" tvg-chno="4768",Ocean Vibes
@@ -14736,7 +14742,7 @@ https://jmp2.uk/stvp-AT22000019A
 #EXTINF:-1 channel-id="samsungtvplus-ch220000164" tvg-id="samsungtvplus-ch220000164" tvg-name="Fireplace Vibes" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CH220000164_20260609T042217SQUARE.png" group-title="Entertainment" tvg-chno="4769",Fireplace Vibes
 https://jmp2.uk/stvp-CH220000164
 
-#EXTINF:-1 channel-id="samsungtvplus-de22000012y" tvg-id="samsungtvplus-de22000012y" tvg-name="Fireplace Vibes" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE22000012Y_20260609T042511SQUARE.png" group-title="Entertainment" tvg-chno="4769",Fireplace Vibes
+#EXTINF:-1 channel-id="samsungtvplus-de22000012y" tvg-id="samsungtvplus-de22000012y" tvg-name="Fireplace Vibes" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE22000012Y_20261020T135512SQUARE.png" group-title="Entertainment" tvg-chno="4769",Fireplace Vibes
 https://jmp2.uk/stvp-DE22000012Y
 
 #EXTINF:-1 channel-id="samsungtvplus-es2200001sf" tvg-id="samsungtvplus-es2200001sf" tvg-name="Fireplace Vibes" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2200001SF_20260609T042949SQUARE.png" group-title="Entertainment" tvg-chno="4769",Fireplace Vibes
@@ -15618,7 +15624,7 @@ https://jmp2.uk/stvp-ITBC400001LX
 #EXTINF:-1 channel-id="samsungtvplus-esbd800001rj" tvg-id="samsungtvplus-esbd800001rj" tvg-name="Cine Friki" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD800001RJ_20261013T054759SQUARE.png" group-title="Entertainment" tvg-chno="4949",Cine Friki
 https://jmp2.uk/stvp-ESBD800001RJ
 
-#EXTINF:-1 channel-id="samsungtvplus-frbb4600002k5" tvg-id="samsungtvplus-frbb4600002k5" tvg-name="Scream&#x27;IN" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBB4600002K5_20251111T011332SQUARE.png" group-title="Entertainment" tvg-chno="4949",Scream'IN
+#EXTINF:-1 channel-id="samsungtvplus-frbb4600002k5" tvg-id="samsungtvplus-frbb4600002k5" tvg-name="Scream&#x27;IN" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBB4600002K5_20261020T053602SQUARE.png" group-title="Entertainment" tvg-chno="4949",Scream'IN
 https://jmp2.uk/stvp-FRBB4600002K5
 
 #EXTINF:-1 channel-id="samsungtvplus-atba1500010h3" tvg-id="samsungtvplus-atba1500010h3" tvg-name="Fantasja" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBA1500010H3_20250107T021637SQUARE.png" group-title="Entertainment" tvg-chno="4950",Fantasja
@@ -15854,6 +15860,9 @@ https://jmp2.uk/rok-04be54c79d1f55d0909e684f64f9fb57.m3u8
 
 #EXTINF:-1 channel-id="roku-447d63b6da208bb796b69f0383c474a1" tvg-id="roku-447d63b6da208bb796b69f0383c474a1" tvg-name="Danger TV" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/447d63b6da208bb796b69f0383c474a1/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1728505178821_dangertv_hud.png" group-title="Entertainment" tvg-chno="5048",Danger TV
 https://jmp2.uk/rok-447d63b6da208bb796b69f0383c474a1.m3u8
+
+#EXTINF:-1 channel-id="roku-427be38e736e5c6e92bd1cec086e941a" tvg-id="roku-427be38e736e5c6e92bd1cec086e941a" tvg-name="ÚNICA TV" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/427be38e736e5c6e92bd1cec086e941a/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1763491674042_LOGO_uNICATV-HUD-HORIZONTALefefef.png" group-title="Entertainment" tvg-chno="5050",ÚNICA TV
+https://jmp2.uk/rok-427be38e736e5c6e92bd1cec086e941a.m3u8
 
 #EXTINF:-1 channel-id="roku-17ee6c346f0888dbb217971516686d56" tvg-id="roku-17ee6c346f0888dbb217971516686d56" tvg-name="LaMúsica TV" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/17ee6c346f0888dbb217971516686d56/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1748293487350_center-logo-infoHUD-260x147.png" group-title="Music" tvg-chno="5051",LaMúsica TV
 https://jmp2.uk/rok-17ee6c346f0888dbb217971516686d56.m3u8
@@ -16179,6 +16188,9 @@ https://jmp2.uk/plex-697140a85d851f5e69414688-60e737a4ebef9d002c4d0a0c.m3u8
 #EXTINF:-1 channel-id="mjh-aircrashinvestigations-fast" tvg-id="mjh-aircrashinvestigations-fast" tvg-name="Air Crash Investigations" tvg-logo="https://i.mjh.nz/.images/auto-aircrashinvestigations-fast-7ff35e.png" group-title="24/7",Air Crash Investigations
 https://i.mjh.nz/.r/aircrashinvestigations-fast.m3u8
 
+#EXTINF:-1 channel-id="mjh-allsaints-fast" tvg-id="mjh-allsaints-fast" tvg-name="All Saints" tvg-logo="https://i.mjh.nz/.images/auto-allsaints-fast-ebad23.png" group-title="24/7",All Saints
+https://i.mjh.nz/.r/allsaints-fast.m3u8
+
 #EXTINF:-1 channel-id="mjh-all-starcinema-fast" tvg-id="mjh-all-starcinema-fast" tvg-name="All-Star Cinema" tvg-logo="https://i.mjh.nz/.images/auto-all-starcinema-fast-9f2397.png" group-title="24/7",All-Star Cinema
 https://i.mjh.nz/.r/all-starcinema-fast.m3u8
 
@@ -16304,6 +16316,9 @@ https://jmp2.uk/plex-697140a85d851f5e69414688-67c24a7645ae99120c07158a.m3u8
 
 #EXTINF:-1 channel-id="plex-697140a85d851f5e69414688-5ef11487d33ab9004048a1d3" tvg-id="plex-697140a85d851f5e69414688-5ef11487d33ab9004048a1d3" tvg-name="BOOT" tvg-logo="https://provider-static.plex.tv/epg/cms/production/5e31e123-a40b-41c6-9153-67c983c6d9e6/boot_all-white_1500X1000_PNG_transparent_background.png" group-title="Entertainment",BOOT
 https://jmp2.uk/plex-697140a85d851f5e69414688-5ef11487d33ab9004048a1d3.m3u8
+
+#EXTINF:-1 channel-id="mjh-bordersecurityaustralia-fast" tvg-id="mjh-bordersecurityaustralia-fast" tvg-name="Border Security Australia" tvg-logo="https://i.mjh.nz/.images/auto-bordersecurityaustralia-fast-30b210.png" group-title="24/7",Border Security Australia
+https://i.mjh.nz/.r/bordersecurityaustralia-fast.m3u8
 
 #EXTINF:-1 channel-id="mjh-botchedvault-fast" tvg-id="mjh-botchedvault-fast" tvg-name="Botched VAULT" tvg-logo="https://i.mjh.nz/.images/auto-botchedvault-fast-4c6012.png" group-title="24/7",Botched VAULT
 https://i.mjh.nz/.r/botchedvault-fast.m3u8
@@ -16584,6 +16599,9 @@ https://jmp2.uk/plex-697140a85d851f5e69414688-5fd115bdb7ef8d002dcf1820.m3u8
 #EXTINF:-1 channel-id="mjh-10-hardcorepawn" tvg-id="mjh-10-hardcorepawn" tvg-name="Hardcore Pawn" tvg-logo="https://10.com.au/ip/s3/2025/03/03/1d46b70035ba5c816af46c6d4ee079cd-1366514.png?image-profile=logo" group-title="AU Freeview",Hardcore Pawn
 https://i.mjh.nz/.r/10-hardcorepawn.m3u8
 
+#EXTINF:-1 channel-id="mjh-hardcorepawn-fast" tvg-id="mjh-hardcorepawn-fast" tvg-name="Hardcore Pawn" tvg-logo="https://i.mjh.nz/.images/auto-hardcorepawn-fast-87f8ee.png" group-title="24/7",Hardcore Pawn
+https://i.mjh.nz/.r/hardcorepawn-fast.m3u8
+
 #EXTINF:-1 channel-id="plex-697140a85d851f5e69414688-65847c56d60830ce4d4f303a" tvg-id="plex-697140a85d851f5e69414688-65847c56d60830ce4d4f303a" tvg-name="Hardcore Pawn" tvg-logo="https://provider-static.plex.tv/epg/cms/production/2729a7a8-8f45-474a-90a3-ca23aa1241a0/HardcorePawn_Logo_Light_1500x1000_-_Harry_Marshall.png" group-title="Entertainment",Hardcore Pawn
 https://jmp2.uk/plex-697140a85d851f5e69414688-65847c56d60830ce4d4f303a.m3u8
 
@@ -16758,11 +16776,17 @@ https://jmp2.uk/plex-697140a85d851f5e69414688-5ef4e1b40d9ad000423c4430.m3u8
 #EXTINF:-1 channel-id="plex-697140a85d851f5e69414688-690cd1fb750b5c46ff424c8e" tvg-id="plex-697140a85d851f5e69414688-690cd1fb750b5c46ff424c8e" tvg-name="Mayday: Air Disaster" tvg-logo="https://provider-static.plex.tv/epg/cms/production/d4c908f9-fa67-4a24-9413-b2e735726e89/PTV_Mayday_1500x1000px_Logo_Colored.png" group-title="Entertainment",Mayday: Air Disaster
 https://jmp2.uk/plex-697140a85d851f5e69414688-690cd1fb750b5c46ff424c8e.m3u8
 
+#EXTINF:-1 channel-id="mjh-medicalnrescue-fast" tvg-id="mjh-medicalnrescue-fast" tvg-name="Medical And Rescue" tvg-logo="https://i.mjh.nz/.images/auto-medicalnrescue-fast-bd9388.png" group-title="24/7",Medical And Rescue
+https://i.mjh.nz/.r/medicalnrescue-fast.m3u8
+
 #EXTINF:-1 channel-id="mjh-10-medical-emergency" tvg-id="mjh-10-medical-emergency" tvg-name="Medical Emergency" tvg-logo="https://10.com.au/ip/s3/2023/06/28/115b6796134f1e983f41c224c31cc7c9-1246084.png?image-profile=logo" group-title="AU Freeview",Medical Emergency
 https://i.mjh.nz/.r/10-medical-emergency.m3u8
 
 #EXTINF:-1 channel-id="plex-697140a85d851f5e69414688-68e9436dda6bb987138625c7" tvg-id="plex-697140a85d851f5e69414688-68e9436dda6bb987138625c7" tvg-name="Metal.Rocks" tvg-logo="https://provider-static.plex.tv/epg/cms/production/4171a6a6-6d73-481a-ad91-15166befee06/Channel_Logo_MetalRocks_Color_-_Ricardo_RivasRDX.png" group-title="Entertainment",Metal.Rocks
 https://jmp2.uk/plex-697140a85d851f5e69414688-68e9436dda6bb987138625c7.m3u8
+
+#EXTINF:-1 channel-id="mjh-mightymachines-fast" tvg-id="mjh-mightymachines-fast" tvg-name="Mighty Machines" tvg-logo="https://i.mjh.nz/.images/auto-mightymachines-fast-0fa14e.png" group-title="24/7",Mighty Machines
+https://i.mjh.nz/.r/mightymachines-fast.m3u8
 
 #EXTINF:-1 channel-id="plex-697140a85d851f5e69414688-684c2379e32026b0c1f53793" tvg-id="plex-697140a85d851f5e69414688-684c2379e32026b0c1f53793" tvg-name="Million Dollar Dream Home" tvg-logo="https://provider-static.plex.tv/epg/cms/production/305dc437-2a99-4e98-a872-08ae23e102f6/MDDH_WHITE_-_Principal_MediaRDX__1_.png" group-title="Lifestyle",Million Dollar Dream Home
 https://jmp2.uk/plex-697140a85d851f5e69414688-684c2379e32026b0c1f53793.m3u8
@@ -16868,6 +16892,9 @@ https://jmp2.uk/plex-697140a85d851f5e69414688-62f13eeded056a1db9ef3d54.m3u8
 
 #EXTINF:-1 channel-id="plex-697140a85d851f5e69414688-64d4e82ac5d4668c9cb7b5df" tvg-id="plex-697140a85d851f5e69414688-64d4e82ac5d4668c9cb7b5df" tvg-name="Novelisima" tvg-logo="https://provider-static.plex.tv/epg/cms/production/c02431c6-190a-426a-a652-38502fec17d8/Novelisima_logo_lightbakg_1500x1000_-_Ali_Clausen.png" group-title="Entertainment",Novelisima
 https://jmp2.uk/plex-697140a85d851f5e69414688-64d4e82ac5d4668c9cb7b5df.m3u8
+
+#EXTINF:-1 channel-id="mjh-onthecase-fast" tvg-id="mjh-onthecase-fast" tvg-name="On The Case" tvg-logo="https://i.mjh.nz/.images/auto-onthecase-fast-6ec172.png" group-title="24/7",On The Case
+https://i.mjh.nz/.r/onthecase-fast.m3u8
 
 #EXTINF:-1 channel-id="plex-697140a85d851f5e69414688-6578e7b5eef129f30fb38df7" tvg-id="plex-697140a85d851f5e69414688-6578e7b5eef129f30fb38df7" tvg-name="Operation Repo" tvg-logo="https://provider-static.plex.tv/epg/cms/production/9ea6fcd5-6337-4609-8b7c-290b0eb74c65/Oprepo_logo_-_James_PatrickRDX.png" group-title="Entertainment",Operation Repo
 https://jmp2.uk/plex-697140a85d851f5e69414688-6578e7b5eef129f30fb38df7.m3u8
