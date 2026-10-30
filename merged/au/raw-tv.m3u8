@@ -16170,9 +16170,6 @@ https://i.mjh.nz/.r/60-minutes-australia-fast.m3u8
 #EXTINF:-1 channel-id="mjh-7afl-fast" tvg-id="mjh-7afl-fast" tvg-name="7AFL" tvg-logo="https://i.mjh.nz/.images/auto-7afl-fast-e8fdb6.png" group-title="24/7",7AFL
 https://i.mjh.nz/.r/7afl-fast.m3u8
 
-#EXTINF:-1 channel-id="mjh-7flix-regional" tvg-id="mjh-7flix-regional" tvg-name="7flix Regional" tvg-logo="https://i.mjh.nz/.images/auto-7flix-regional-c6badc.png" group-title="AU Freeview",7flix Regional
-https://i.mjh.nz/.r/7flix-regional.m3u8
-
 #EXTINF:-1 channel-id="mjh-7mate-regional" tvg-id="mjh-7mate-regional" tvg-name="7mate Regional" tvg-logo="https://i.mjh.nz/.images/auto-7mate-regional-360d60.png" group-title="AU Freeview",7mate Regional
 https://i.mjh.nz/.r/7mate-regional.m3u8
 
@@ -16265,6 +16262,9 @@ https://jmp2.uk/plex-697140a85d851f5e69414688-65a061008b6d8fe79ee1ddc9.m3u8
 
 #EXTINF:-1 channel-id="plex-697140a85d851f5e69414688-685f27cca7111a932d28f1ae" tvg-id="plex-697140a85d851f5e69414688-685f27cca7111a932d28f1ae" tvg-name="Asian Drama" tvg-logo="https://provider-static.plex.tv/epg/cms/production/4d7c5e34-9335-479e-8d6a-e7a80565e45b/Asian_Drama_whtLogo.png" group-title="Series",Asian Drama
 https://jmp2.uk/plex-697140a85d851f5e69414688-685f27cca7111a932d28f1ae.m3u8
+
+#EXTINF:-1 channel-id="mjh-ausbiz-fast" tvg-id="mjh-ausbiz-fast" tvg-name="ausbiz" tvg-logo="https://i.mjh.nz/.images/auto-ausbiz-fast-b12203.png" group-title="24/7",ausbiz
+https://i.mjh.nz/.r/ausbiz-fast.m3u8
 
 #EXTINF:-1 channel-id="plex-697140a85d851f5e69414688-6a2ec22ee11aec3ec320bed2" tvg-id="plex-697140a85d851f5e69414688-6a2ec22ee11aec3ec320bed2" tvg-name="Ax Men" tvg-logo="https://provider-static.plex.tv/epg/cms/production/97eb93d2-e654-402c-9f49-dfc5073a65da/Ax_Men_Logo_WHITE_RDX.png" group-title="Entertainment",Ax Men
 https://jmp2.uk/plex-697140a85d851f5e69414688-6a2ec22ee11aec3ec320bed2.m3u8
@@ -16829,6 +16829,9 @@ https://i.mjh.nz/.r/medicalnrescue-fast.m3u8
 
 #EXTINF:-1 channel-id="mjh-10-medical-emergency" tvg-id="mjh-10-medical-emergency" tvg-name="Medical Emergency" tvg-logo="https://10.com.au/ip/s3/2023/06/28/115b6796134f1e983f41c224c31cc7c9-1246084.png?image-profile=logo" group-title="AU Freeview",Medical Emergency
 https://i.mjh.nz/.r/10-medical-emergency.m3u8
+
+#EXTINF:-1 channel-id="plex-697140a85d851f5e69414688-6ad29fe25374a1e72d134649" tvg-id="plex-697140a85d851f5e69414688-6ad29fe25374a1e72d134649" tvg-name="Mega Machines" tvg-logo="https://provider-static.plex.tv/epg/cms/production/368f0a2f-2a0e-4fa5-8704-19a094b408a3/MMC_logo_dark-bg_1500x1000.png" group-title="Entertainment",Mega Machines
+https://jmp2.uk/plex-697140a85d851f5e69414688-6ad29fe25374a1e72d134649.m3u8
 
 #EXTINF:-1 channel-id="plex-697140a85d851f5e69414688-68e9436dda6bb987138625c7" tvg-id="plex-697140a85d851f5e69414688-68e9436dda6bb987138625c7" tvg-name="Metal.Rocks" tvg-logo="https://provider-static.plex.tv/epg/cms/production/4171a6a6-6d73-481a-ad91-15166befee06/Channel_Logo_MetalRocks_Color_-_Ricardo_RivasRDX.png" group-title="Entertainment",Metal.Rocks
 https://jmp2.uk/plex-697140a85d851f5e69414688-68e9436dda6bb987138625c7.m3u8
@@ -17436,7 +17439,7 @@ https://jmp2.uk/plex-697140a85d851f5e69414688-62ee72cc271f393d2d9f7098.m3u8
 #EXTINF:-1 channel-id="plex-697140a85d851f5e69414688-5f170f01b898490041b49dd1" tvg-id="plex-697140a85d851f5e69414688-5f170f01b898490041b49dd1" tvg-name="Yahoo Finance" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/yahoo-finance.png" group-title="Entertainment",Yahoo Finance
 https://jmp2.uk/plex-697140a85d851f5e69414688-5f170f01b898490041b49dd1.m3u8
 
-#EXTINF:-1 channel-id="mjh-dakar-summer-youth-olympics-2026-fast" tvg-id="mjh-dakar-summer-youth-olympics-2026-fast" tvg-name="Youth Olympics Games Dakar 2026" tvg-logo="https://imageresizer.static9.net.au/om2ALmSqPt5-d0EIflsFKuzZcVs=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2026%2F10%2F803206%2Fdakar_squircle.png" group-title="24/7",Youth Olympics Games Dakar 2026
+#EXTINF:-1 channel-id="mjh-dakar-summer-youth-olympics-2026-fast" tvg-id="mjh-dakar-summer-youth-olympics-2026-fast" tvg-name="Youth Olympic Games Dakar 2026" tvg-logo="https://imageresizer.static9.net.au/om2ALmSqPt5-d0EIflsFKuzZcVs=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2026%2F10%2F803206%2Fdakar_squircle.png" group-title="24/7",Youth Olympic Games Dakar 2026
 https://i.mjh.nz/.r/dakar-summer-youth-olympics-2026-fast.m3u8
 
 #EXTINF:-1 channel-id="plex-697140a85d851f5e69414688-66ce3e009ac0b1441b19ca29" tvg-id="plex-697140a85d851f5e69414688-66ce3e009ac0b1441b19ca29" tvg-name="Z Nation" tvg-logo="https://provider-static.plex.tv/epg/cms/production/0ddae0a9-e4b8-43ed-91f3-e097d8376304/ZNation_logo_1500x1000_light.png.png" group-title="Entertainment",Z Nation

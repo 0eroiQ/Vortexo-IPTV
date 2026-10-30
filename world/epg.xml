@@ -17,56 +17,7 @@
     <display-name>DW English</display-name>
     <icon src="https://www.dw.com/images/icons/favicon-540x540.png"/>
   </channel>
-  <programme start="20261028230435 +0000" stop="20261028233900 +0000" channel="mjh-redbull-tv">
-    <title>Beyond the ROX</title>
-    <sub-title>Ambitions realised: the rookie vs the legends</sub-title>
-    <desc>After years of hard work and dedicated training, Jake Dearden finally reaches the Elite 15 race. How will the rookie stack up against the world's best in the 2024/25 season?</desc>
-    <icon src="https://resources.redbull.tv/rrn:content:episode-videos:70a3fd36-20cd-452a-bf03-a6045436c3e9/rbtv_display_art_portrait/{im}?namespace=rbtv&amp;refresh=true"/>
-    <episode-num system="xmltv_ns">0.4.0</episode-num>
-    <episode-num system="original-air-date">2026-10-28 23:04:35</episode-num>
-    <video>
-      <present>yes</present>
-      <quality>HDTV</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <image type="poster" size="3" orient="P">https://resources.redbull.tv/rrn:content:episode-videos:70a3fd36-20cd-452a-bf03-a6045436c3e9/rbtv_display_art_portrait/{im}?namespace=rbtv&amp;refresh=true</image>
-  </programme>
-  <programme start="20261028233900 +0000" stop="20261028235949 +0000" channel="mjh-redbull-tv">
-    <title>Natural Selection Tour 2026</title>
-    <sub-title>NST Snow Super Sessions – Utah</sub-title>
-    <desc>NST Snow announces Super Sessions, the new first stage of the 2026 YETI Natural Selection Snow season. The results determine who advances to compete at YETI Natural Selection Snow in Revelstoke.</desc>
-    <icon src="https://resources.redbull.tv/rrn:content:videos:f241ce4d-6d2e-47d5-8bee-5bec73b3b508/rbtv_display_art_portrait/{im}?namespace=rbtv&amp;refresh=true"/>
-    <episode-num system="original-air-date">2026-10-28 23:39:00</episode-num>
-    <video>
-      <present>yes</present>
-      <quality>HDTV</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <image type="poster" size="3" orient="P">https://resources.redbull.tv/rrn:content:videos:f241ce4d-6d2e-47d5-8bee-5bec73b3b508/rbtv_display_art_portrait/{im}?namespace=rbtv&amp;refresh=true</image>
-  </programme>
-  <programme start="20261028235949 +0000" stop="20261029004353 +0000" channel="mjh-redbull-tv">
-    <title>Volare: Valentino Guseli</title>
-    <sub-title>The life of an Australian snowboarding prodigy</sub-title>
-    <desc>Valentino Guseli shares his journey mastering big air, slopestyle and halfpipe, an achievement no snowboarder has accomplished – and reveals why family is at the heart of everything he does.</desc>
-    <category>Movie</category>
-    <icon src="https://resources.redbull.tv/rrn:content:films:24ad6d48-1a91-4275-a35e-d2488def5847/rbtv_display_art_portrait/{im}?namespace=rbtv&amp;refresh=true"/>
-    <video>
-      <present>yes</present>
-      <quality>HDTV</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <image type="poster" size="3" orient="P">https://resources.redbull.tv/rrn:content:films:24ad6d48-1a91-4275-a35e-d2488def5847/rbtv_display_art_portrait/{im}?namespace=rbtv&amp;refresh=true</image>
-  </programme>
-  <programme start="20261029004353 +0000" stop="20261029012637 +0000" channel="mjh-redbull-tv">
+  <programme start="20261029225145 +0000" stop="20261029233430 +0000" channel="mjh-redbull-tv">
     <title>Paved</title>
     <sub-title>An unfiltered snow odyssey two years in the making</sub-title>
     <desc>Part history lesson, part hangout, part backcountry odyssey, Paved – a Burton and Red Bull Media House co-production – celebrates the passion and soul of snowboarding in raw, wry and light-hearted style.</desc>
@@ -87,7 +38,7 @@
     </star-rating>
     <image type="poster" size="3" orient="P">https://resources.redbull.tv/rrn:content:films:518d59a1-abe6-47df-ad17-6f71d0ef7a0b/rbtv_display_art_portrait/{im}?namespace=rbtv&amp;refresh=true</image>
   </programme>
-  <programme start="20261029012637 +0000" stop="20261029023500 +0000" channel="mjh-redbull-tv">
+  <programme start="20261029233430 +0000" stop="20261030004252 +0000" channel="mjh-redbull-tv">
     <title>Pressure Drop</title>
     <sub-title>Born from a dream, this is TGR’s 30th annual film</sub-title>
     <desc>Follow the world’s best skiers and snowboarders in a cinematic ride through risk, beauty and the pursuit of perfection.</desc>
@@ -109,7 +60,31 @@
     </star-rating>
     <image type="poster" size="3" orient="P">https://image.tmdb.org/t/p/original/a0bQqVs7F8d7K5fmY6WSl5Ed0v3.jpg</image>
   </programme>
-  <programme start="20261029023500 +0000" stop="20261029025003 +0000" channel="mjh-redbull-tv">
+  <programme start="20261030004252 +0000" stop="20261030005851 +0000" channel="mjh-redbull-tv">
+    <title>Skate Tales</title>
+    <sub-title>Hill bombing San Francisco with Nico Hiraga</sub-title>
+    <desc>Madars Apse joins Nico Hiraga and a local crew to bomb hills and skate iconic San Francisco spots, exploring how the city’s chaotic energy shaped one of skateboarding’s most influential scenes.</desc>
+    <date>2020</date>
+    <orig-language>English</orig-language>
+    <icon src="https://image.tmdb.org/t/p/original/bW09nvJQX66vIH0OpuJ3IIrue4i.jpg"/>
+    <episode-num system="xmltv_ns">4.0.0</episode-num>
+    <episode-num system="themoviedb.org">series/217740</episode-num>
+    <episode-num system="original-air-date">2026-10-30 00:42:52</episode-num>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <present>yes</present>
+      <stereo>stereo</stereo>
+    </audio>
+    <star-rating>
+      <value>0.0/10</value>
+    </star-rating>
+    <image type="poster" size="3" orient="P">https://image.tmdb.org/t/p/original/bW09nvJQX66vIH0OpuJ3IIrue4i.jpg</image>
+    <image type="backdrop" size="3" orient="L">https://image.tmdb.org/t/p/original/zUyYE0OgJDRNGLRq6WyraKZNOUG.jpg</image>
+  </programme>
+  <programme start="20261030005851 +0000" stop="20261030011354 +0000" channel="mjh-redbull-tv">
     <title>Skate Tales</title>
     <sub-title>From the streets to global skate icon: Tiago Lemos</sub-title>
     <desc>Madars Apse travels to Brazil to trace Tiago Lemos’s journey from the streets to global skate stardom. Watch how he chased a bigger dream and rose from one of skateboarding’s toughest scenes.</desc>
@@ -118,7 +93,7 @@
     <icon src="https://image.tmdb.org/t/p/original/bW09nvJQX66vIH0OpuJ3IIrue4i.jpg"/>
     <episode-num system="xmltv_ns">4.1.0</episode-num>
     <episode-num system="themoviedb.org">series/217740</episode-num>
-    <episode-num system="original-air-date">2026-10-29 02:35:00</episode-num>
+    <episode-num system="original-air-date">2026-10-30 00:58:51</episode-num>
     <video>
       <present>yes</present>
       <quality>HDTV</quality>
@@ -133,7 +108,7 @@
     <image type="poster" size="3" orient="P">https://image.tmdb.org/t/p/original/bW09nvJQX66vIH0OpuJ3IIrue4i.jpg</image>
     <image type="backdrop" size="3" orient="L">https://image.tmdb.org/t/p/original/zUyYE0OgJDRNGLRq6WyraKZNOUG.jpg</image>
   </programme>
-  <programme start="20261029025003 +0000" stop="20261029030524 +0000" channel="mjh-redbull-tv">
+  <programme start="20261030011354 +0000" stop="20261030012915 +0000" channel="mjh-redbull-tv">
     <title>Skate Tales</title>
     <sub-title>Inside the Dime Glory Challenge</sub-title>
     <desc>Madars Apse heads to Montréal for the Dime Glory Challenge. With Alexis Lacroix and Ryan Decenzo he explores the city’s skate scene before stepping into the chaos of skateboarding's most fun event.</desc>
@@ -142,7 +117,7 @@
     <icon src="https://image.tmdb.org/t/p/original/bW09nvJQX66vIH0OpuJ3IIrue4i.jpg"/>
     <episode-num system="xmltv_ns">4.2.0</episode-num>
     <episode-num system="themoviedb.org">series/217740</episode-num>
-    <episode-num system="original-air-date">2026-10-29 02:50:03</episode-num>
+    <episode-num system="original-air-date">2026-10-30 01:13:54</episode-num>
     <video>
       <present>yes</present>
       <quality>HDTV</quality>
@@ -157,7 +132,7 @@
     <image type="poster" size="3" orient="P">https://image.tmdb.org/t/p/original/bW09nvJQX66vIH0OpuJ3IIrue4i.jpg</image>
     <image type="backdrop" size="3" orient="L">https://image.tmdb.org/t/p/original/zUyYE0OgJDRNGLRq6WyraKZNOUG.jpg</image>
   </programme>
-  <programme start="20261029030524 +0000" stop="20261029032240 +0000" channel="mjh-redbull-tv">
+  <programme start="20261030012915 +0000" stop="20261030014632 +0000" channel="mjh-redbull-tv">
     <title>Skate Tales</title>
     <sub-title>Breaking the YouTube algorithm with the Dern Bros</sub-title>
     <desc>Madars Apse along with Bam Margera and Jamie Thomas track the Dern Brothers from Florida to California to see how they built one of skateboarding’s biggest YouTube channels.</desc>
@@ -166,7 +141,7 @@
     <icon src="https://image.tmdb.org/t/p/original/bW09nvJQX66vIH0OpuJ3IIrue4i.jpg"/>
     <episode-num system="xmltv_ns">4.4.0</episode-num>
     <episode-num system="themoviedb.org">series/217740</episode-num>
-    <episode-num system="original-air-date">2026-10-29 03:05:24</episode-num>
+    <episode-num system="original-air-date">2026-10-30 01:29:15</episode-num>
     <video>
       <present>yes</present>
       <quality>HDTV</quality>
@@ -181,13 +156,13 @@
     <image type="poster" size="3" orient="P">https://image.tmdb.org/t/p/original/bW09nvJQX66vIH0OpuJ3IIrue4i.jpg</image>
     <image type="backdrop" size="3" orient="L">https://image.tmdb.org/t/p/original/zUyYE0OgJDRNGLRq6WyraKZNOUG.jpg</image>
   </programme>
-  <programme start="20261029032240 +0000" stop="20261029035641 +0000" channel="mjh-redbull-tv">
+  <programme start="20261030014632 +0000" stop="20261030022032 +0000" channel="mjh-redbull-tv">
     <title>Red Bull Drop In Tour</title>
     <sub-title>South America Tour</sub-title>
     <desc>Skaters Ryan Sheckler, Jamie Foy, Torey Pudwill, Felipe Gustavo, Ryan Decenzo, Alex Sorgente, Angelo Caro, Gustavo Ribeiro, Gavin Bottger and friends rip right through Brazil, Argentina and Chile.</desc>
     <icon src="https://resources.redbull.tv/rrn:content:episode-videos:daaded1a-97a0-48d8-8136-a64224913a29/rbtv_display_art_portrait/{im}?namespace=rbtv&amp;refresh=true"/>
     <episode-num system="xmltv_ns">0.3.0</episode-num>
-    <episode-num system="original-air-date">2026-10-29 03:22:40</episode-num>
+    <episode-num system="original-air-date">2026-10-30 01:46:32</episode-num>
     <video>
       <present>yes</present>
       <quality>HDTV</quality>
@@ -198,12 +173,13 @@
     </audio>
     <image type="poster" size="3" orient="P">https://resources.redbull.tv/rrn:content:episode-videos:daaded1a-97a0-48d8-8136-a64224913a29/rbtv_display_art_portrait/{im}?namespace=rbtv&amp;refresh=true</image>
   </programme>
-  <programme start="20261029035641 +0000" stop="20261029044917 +0000" channel="mjh-redbull-tv">
-    <title>Red Bull Rampage 2025</title>
-    <sub-title>Red Bull Rampage: Women's highlights</sub-title>
-    <desc>A dozen female mountain bike athletes competed in this invitation-only freeride event. After creating their own lines in the red-rock landscape of Utah, watch them showcase their skill and creativity.</desc>
-    <icon src="https://resources.redbull.tv/rrn:content:videos:b8cf7394-4fe6-42a0-bfce-097ff7270904/rbtv_display_art_portrait/{im}?namespace=rbtv&amp;refresh=true"/>
-    <episode-num system="original-air-date">2026-10-29 03:56:41</episode-num>
+  <programme start="20261030022032 +0000" stop="20261030024057 +0000" channel="mjh-redbull-tv">
+    <title>Greetings From</title>
+    <sub-title>Johannesburg</sub-title>
+    <desc>Explore the skateboarding scenes thriving throughout Jo'burg in 2023, from Westdene DIY to the Island Gals and the mighty Skate Society Soweto.</desc>
+    <icon src="https://resources.redbull.tv/rrn:content:episode-videos:a799e2a1-9428-472b-b272-7733ab5fa6dd/rbtv_display_art_portrait/{im}?namespace=rbtv&amp;refresh=true"/>
+    <episode-num system="xmltv_ns">1.0.0</episode-num>
+    <episode-num system="original-air-date">2026-10-30 02:20:32</episode-num>
     <video>
       <present>yes</present>
       <quality>HDTV</quality>
@@ -212,14 +188,15 @@
       <present>yes</present>
       <stereo>stereo</stereo>
     </audio>
-    <image type="poster" size="3" orient="P">https://resources.redbull.tv/rrn:content:videos:b8cf7394-4fe6-42a0-bfce-097ff7270904/rbtv_display_art_portrait/{im}?namespace=rbtv&amp;refresh=true</image>
+    <image type="poster" size="3" orient="P">https://resources.redbull.tv/rrn:content:episode-videos:a799e2a1-9428-472b-b272-7733ab5fa6dd/rbtv_display_art_portrait/{im}?namespace=rbtv&amp;refresh=true</image>
   </programme>
-  <programme start="20261029044917 +0000" stop="20261029054357 +0000" channel="mjh-redbull-tv">
-    <title>Hard Enduro 2025: The Hardest Season Yet?</title>
-    <sub-title>Hard Enduro is the toughest motorsport on Earth</sub-title>
-    <desc>Go behind the scenes of Red Bull Erzbergrodeo, Red Bull Romaniacs and Red Bull Outliers as the toughest Hard Enduro riders on Earth did battle across the world in 2025.</desc>
-    <category>Movie</category>
-    <icon src="https://resources.redbull.tv/rrn:content:films:86711783-60f2-4fe9-9498-0a7790e5d765/rbtv_display_art_portrait/{im}?namespace=rbtv&amp;refresh=true"/>
+  <programme start="20261030024057 +0000" stop="20261030030358 +0000" channel="mjh-redbull-tv">
+    <title>Greetings From</title>
+    <sub-title>San Francisco</sub-title>
+    <desc>Modern skateboarding owes a big thank you to the Bay Area skate scene. With more than its fair share of iconic spots and hills, San Francisco is a legendary skate destination like no other.</desc>
+    <icon src="https://resources.redbull.tv/rrn:content:episode-videos:371e9a7f-6e8e-4dc2-8db1-abc96ae6c2d1/rbtv_display_art_portrait/{im}?namespace=rbtv&amp;refresh=true"/>
+    <episode-num system="xmltv_ns">1.3.0</episode-num>
+    <episode-num system="original-air-date">2026-10-30 02:40:57</episode-num>
     <video>
       <present>yes</present>
       <quality>HDTV</quality>
@@ -228,40 +205,15 @@
       <present>yes</present>
       <stereo>stereo</stereo>
     </audio>
-    <image type="poster" size="3" orient="P">https://resources.redbull.tv/rrn:content:films:86711783-60f2-4fe9-9498-0a7790e5d765/rbtv_display_art_portrait/{im}?namespace=rbtv&amp;refresh=true</image>
+    <image type="poster" size="3" orient="P">https://resources.redbull.tv/rrn:content:episode-videos:371e9a7f-6e8e-4dc2-8db1-abc96ae6c2d1/rbtv_display_art_portrait/{im}?namespace=rbtv&amp;refresh=true</image>
   </programme>
-  <programme start="20261029054357 +0000" stop="20261029060000 +0000" channel="mjh-redbull-tv">
-    <title>Red Bull Soapbox Race</title>
-    <sub-title>2017's fan-favourite teams</sub-title>
-    <desc>As 2017's fan favourites teach us, two-wheeled designs never work, and everyone loves a pop culture referencing racer – especially if they self-destruct.</desc>
-    <date>2025</date>
-    <orig-language>English</orig-language>
-    <icon src="https://image.tmdb.org/t/p/original/4I5K2zfhBu2JJOdei0ZpqbT746c.jpg"/>
-    <country>United States of America</country>
-    <episode-num system="xmltv_ns">3.3.0</episode-num>
-    <episode-num system="themoviedb.org">series/287622</episode-num>
-    <episode-num system="original-air-date">2026-10-29 05:43:57</episode-num>
-    <video>
-      <present>yes</present>
-      <quality>HDTV</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <star-rating>
-      <value>10.0/10</value>
-    </star-rating>
-    <image type="poster" size="3" orient="P">https://image.tmdb.org/t/p/original/4I5K2zfhBu2JJOdei0ZpqbT746c.jpg</image>
-    <image type="backdrop" size="3" orient="L">https://image.tmdb.org/t/p/original/pcmmM2o3xEQcQNlGXi9Bf6O52ts.jpg</image>
-  </programme>
-  <programme start="20261029060000 +0000" stop="20261029062737 +0000" channel="mjh-redbull-tv">
+  <programme start="20261030030358 +0000" stop="20261030033135 +0000" channel="mjh-redbull-tv">
     <title>Natural Heights</title>
     <sub-title>Janja Garnbret vs her 10th world title</sub-title>
     <desc>Janja Garnbret is chasing her 10th world title, and the pressure is unlike anything she’s faced before. Will shifting to the outdoors for new motivation help her, or push her closer to cracking?</desc>
     <icon src="https://resources.redbull.tv/rrn:content:episode-videos:b205052d-66f5-41ad-8f4b-4d4ea76f80ab/rbtv_display_art_portrait/{im}?namespace=rbtv&amp;refresh=true"/>
     <episode-num system="xmltv_ns">0.0.0</episode-num>
-    <episode-num system="original-air-date">2026-10-29 06:00:00</episode-num>
+    <episode-num system="original-air-date">2026-10-30 03:03:58</episode-num>
     <video>
       <present>yes</present>
       <quality>HDTV</quality>
@@ -272,13 +224,13 @@
     </audio>
     <image type="poster" size="3" orient="P">https://resources.redbull.tv/rrn:content:episode-videos:b205052d-66f5-41ad-8f4b-4d4ea76f80ab/rbtv_display_art_portrait/{im}?namespace=rbtv&amp;refresh=true</image>
   </programme>
-  <programme start="20261029062737 +0000" stop="20261029065142 +0000" channel="mjh-redbull-tv">
+  <programme start="20261030033135 +0000" stop="20261030035541 +0000" channel="mjh-redbull-tv">
     <title>Natural Heights</title>
     <sub-title>Jakob Schubert sends a 9c route</sub-title>
     <desc>Join Jakob Schubert in Flatanger, Norway, as he battles for the first ascent of 'B.I.G.' (9c), relying on experience, creativity and relentless commitment to unlock this historic line.</desc>
     <icon src="https://resources.redbull.tv/rrn:content:episode-videos:f95fb031-0cda-4134-803c-9879e012d813/rbtv_display_art_portrait/{im}?namespace=rbtv&amp;refresh=true"/>
     <episode-num system="xmltv_ns">0.1.0</episode-num>
-    <episode-num system="original-air-date">2026-10-29 06:27:37</episode-num>
+    <episode-num system="original-air-date">2026-10-30 03:31:35</episode-num>
     <video>
       <present>yes</present>
       <quality>HDTV</quality>
@@ -289,13 +241,13 @@
     </audio>
     <image type="poster" size="3" orient="P">https://resources.redbull.tv/rrn:content:episode-videos:f95fb031-0cda-4134-803c-9879e012d813/rbtv_display_art_portrait/{im}?namespace=rbtv&amp;refresh=true</image>
   </programme>
-  <programme start="20261029065142 +0000" stop="20261029071546 +0000" channel="mjh-redbull-tv">
+  <programme start="20261030035541 +0000" stop="20261030041945 +0000" channel="mjh-redbull-tv">
     <title>Natural Heights</title>
     <sub-title>Nika Potapova: nothing to lose, but a lot to prove</sub-title>
     <desc>Nika Potapova is chasing the dream of becoming a pro climber, no matter the cost. The sacrifices are real, the pressure is constant and the outcome is far from guaranteed.</desc>
     <icon src="https://resources.redbull.tv/rrn:content:episode-videos:33e76f0e-f60d-4f2f-b364-5eb0b75de5f4/rbtv_display_art_portrait/{im}?namespace=rbtv&amp;refresh=true"/>
     <episode-num system="xmltv_ns">0.2.0</episode-num>
-    <episode-num system="original-air-date">2026-10-29 06:51:42</episode-num>
+    <episode-num system="original-air-date">2026-10-30 03:55:41</episode-num>
     <video>
       <present>yes</present>
       <quality>HDTV</quality>
@@ -306,7 +258,7 @@
     </audio>
     <image type="poster" size="3" orient="P">https://resources.redbull.tv/rrn:content:episode-videos:33e76f0e-f60d-4f2f-b364-5eb0b75de5f4/rbtv_display_art_portrait/{im}?namespace=rbtv&amp;refresh=true</image>
   </programme>
-  <programme start="20261029071546 +0000" stop="20261029085432 +0000" channel="mjh-redbull-tv">
+  <programme start="20261030041945 +0000" stop="20261030060000 +0000" channel="mjh-redbull-tv">
     <title>Fine Lines</title>
     <sub-title>Life lessons from adventurous athletes</sub-title>
     <desc>The world’s most elite group of mountain adventurers take to life-threatening risks. At times brutally honest, other times pensive, these athletes’ stories reveal the triumph of the human spirit.</desc>
@@ -329,13 +281,13 @@
     <image type="poster" size="3" orient="P">https://image.tmdb.org/t/p/original/5deEji7C9HuBsQSenuik2RGWHg1.jpg</image>
     <image type="backdrop" size="3" orient="L">https://image.tmdb.org/t/p/original/iZGrFtEv9JuCHkzqGJdz1k0JfQm.jpg</image>
   </programme>
-  <programme start="20261029085432 +0000" stop="20261029091832 +0000" channel="mjh-redbull-tv">
+  <programme start="20261030060000 +0000" stop="20261030062400 +0000" channel="mjh-redbull-tv">
     <title>Take the Title</title>
     <sub-title>South African street dance culture</sub-title>
     <desc>Exploring South Africa's vibrant dance culture and how Red Bull Dance Your Style was established, featuring disciplines like Amapiano, Sbujwa, Loxion Bhenga, and Pantsula.</desc>
     <icon src="https://resources.redbull.tv/rrn:content:episode-videos:b1310ea3-eb22-4285-804a-95f8dce3fadd/rbtv_display_art_portrait/{im}?namespace=rbtv&amp;refresh=true"/>
     <episode-num system="xmltv_ns">0.0.0</episode-num>
-    <episode-num system="original-air-date">2026-10-29 08:54:32</episode-num>
+    <episode-num system="original-air-date">2026-10-30 06:00:00</episode-num>
     <video>
       <present>yes</present>
       <quality>HDTV</quality>
@@ -346,13 +298,13 @@
     </audio>
     <image type="poster" size="3" orient="P">https://resources.redbull.tv/rrn:content:episode-videos:b1310ea3-eb22-4285-804a-95f8dce3fadd/rbtv_display_art_portrait/{im}?namespace=rbtv&amp;refresh=true</image>
   </programme>
-  <programme start="20261029091832 +0000" stop="20261029094232 +0000" channel="mjh-redbull-tv">
+  <programme start="20261030062400 +0000" stop="20261030064800 +0000" channel="mjh-redbull-tv">
     <title>Take the Title</title>
     <sub-title>Can't stop us</sub-title>
     <desc>Look into Red Bull Dance Your Style 2021, what happened during the country tour, the national finals and the dramatic cancellation of the World Final due to Covid-19.</desc>
     <icon src="https://resources.redbull.tv/rrn:content:episode-videos:301a9162-ddfd-423b-9ea7-b720f5dd1bc8/rbtv_display_art_portrait/{im}?namespace=rbtv&amp;refresh=true"/>
     <episode-num system="xmltv_ns">0.1.0</episode-num>
-    <episode-num system="original-air-date">2026-10-29 09:18:32</episode-num>
+    <episode-num system="original-air-date">2026-10-30 06:24:00</episode-num>
     <video>
       <present>yes</present>
       <quality>HDTV</quality>
@@ -363,13 +315,13 @@
     </audio>
     <image type="poster" size="3" orient="P">https://resources.redbull.tv/rrn:content:episode-videos:301a9162-ddfd-423b-9ea7-b720f5dd1bc8/rbtv_display_art_portrait/{im}?namespace=rbtv&amp;refresh=true</image>
   </programme>
-  <programme start="20261029094232 +0000" stop="20261029100632 +0000" channel="mjh-redbull-tv">
+  <programme start="20261030064800 +0000" stop="20261030071200 +0000" channel="mjh-redbull-tv">
     <title>Take the Title</title>
     <sub-title>The next generation part 1</sub-title>
     <desc>It's the comeback episode! Red Bull Dance Your Style is back for 2023 and we now follow the new journey of the dancers' country tour and regional competitions while getting to know the key characters.</desc>
     <icon src="https://resources.redbull.tv/rrn:content:episode-videos:a62fac73-4a3e-49fa-8468-c5f5a3edac71/rbtv_display_art_portrait/{im}?namespace=rbtv&amp;refresh=true"/>
     <episode-num system="xmltv_ns">0.2.0</episode-num>
-    <episode-num system="original-air-date">2026-10-29 09:42:32</episode-num>
+    <episode-num system="original-air-date">2026-10-30 06:48:00</episode-num>
     <video>
       <present>yes</present>
       <quality>HDTV</quality>
@@ -380,13 +332,13 @@
     </audio>
     <image type="poster" size="3" orient="P">https://resources.redbull.tv/rrn:content:episode-videos:a62fac73-4a3e-49fa-8468-c5f5a3edac71/rbtv_display_art_portrait/{im}?namespace=rbtv&amp;refresh=true</image>
   </programme>
-  <programme start="20261029100632 +0000" stop="20261029103108 +0000" channel="mjh-redbull-tv">
+  <programme start="20261030071200 +0000" stop="20261030073636 +0000" channel="mjh-redbull-tv">
     <title>Take the Title</title>
     <sub-title>The next generation part 2</sub-title>
     <desc>We take a deep dive behind the scenes of the National Final, follow the top 16 dancers in the country and find out who will be representing South Africa at the World Final event in December.</desc>
     <icon src="https://resources.redbull.tv/rrn:content:episode-videos:32e54bec-9e73-4ddb-9edf-bbf2accd1a23/rbtv_display_art_portrait/{im}?namespace=rbtv&amp;refresh=true"/>
     <episode-num system="xmltv_ns">0.3.0</episode-num>
-    <episode-num system="original-air-date">2026-10-29 10:06:32</episode-num>
+    <episode-num system="original-air-date">2026-10-30 07:12:00</episode-num>
     <video>
       <present>yes</present>
       <quality>HDTV</quality>
@@ -397,13 +349,13 @@
     </audio>
     <image type="poster" size="3" orient="P">https://resources.redbull.tv/rrn:content:episode-videos:32e54bec-9e73-4ddb-9edf-bbf2accd1a23/rbtv_display_art_portrait/{im}?namespace=rbtv&amp;refresh=true</image>
   </programme>
-  <programme start="20261029103108 +0000" stop="20261029104542 +0000" channel="mjh-redbull-tv">
+  <programme start="20261030073636 +0000" stop="20261030075109 +0000" channel="mjh-redbull-tv">
     <title>What it Takes to Break</title>
     <sub-title>Original moves</sub-title>
     <desc>B-Boys Phil Wizard and Lee learn the secrets of Menno's creativity before participating in a battle to test their originality and ability to create on the fly.</desc>
     <icon src="https://resources.redbull.tv/rrn:content:episode-videos:70839843-7cff-419d-b527-d933ee408762/rbtv_display_art_portrait/{im}?namespace=rbtv&amp;refresh=true"/>
     <episode-num system="xmltv_ns">0.0.0</episode-num>
-    <episode-num system="original-air-date">2026-10-29 10:31:08</episode-num>
+    <episode-num system="original-air-date">2026-10-30 07:36:36</episode-num>
     <video>
       <present>yes</present>
       <quality>HDTV</quality>
@@ -414,13 +366,13 @@
     </audio>
     <image type="poster" size="3" orient="P">https://resources.redbull.tv/rrn:content:episode-videos:70839843-7cff-419d-b527-d933ee408762/rbtv_display_art_portrait/{im}?namespace=rbtv&amp;refresh=true</image>
   </programme>
-  <programme start="20261029104542 +0000" stop="20261029111058 +0000" channel="mjh-redbull-tv">
+  <programme start="20261030075109 +0000" stop="20261030081626 +0000" channel="mjh-redbull-tv">
     <title>What it Takes to Break</title>
     <sub-title>Unlimited rounds</sub-title>
     <desc>B-Boy Hong 10 teaches Phil Wizard how he's mastered the skills of endurance and stamina before challenging him to an unlimited rounds break battle in Seoul, South Korea.</desc>
     <icon src="https://resources.redbull.tv/rrn:content:episode-videos:3e173197-bf53-465c-a4c5-f24460534d75/rbtv_display_art_portrait/{im}?namespace=rbtv&amp;refresh=true"/>
     <episode-num system="xmltv_ns">0.2.0</episode-num>
-    <episode-num system="original-air-date">2026-10-29 10:45:42</episode-num>
+    <episode-num system="original-air-date">2026-10-30 07:51:09</episode-num>
     <video>
       <present>yes</present>
       <quality>HDTV</quality>
@@ -431,7 +383,7 @@
     </audio>
     <image type="poster" size="3" orient="P">https://resources.redbull.tv/rrn:content:episode-videos:3e173197-bf53-465c-a4c5-f24460534d75/rbtv_display_art_portrait/{im}?namespace=rbtv&amp;refresh=true</image>
   </programme>
-  <programme start="20261029111058 +0000" stop="20261029113917 +0000" channel="mjh-redbull-tv">
+  <programme start="20261030081626 +0000" stop="20261030084444 +0000" channel="mjh-redbull-tv">
     <title>Return of the Lords</title>
     <sub-title>The iconic breaking event returned after 20 years</sub-title>
     <desc>From history-making veterans to the next generation, go beyond the battles of Red Bull Lords of the Floor 2024 as the world's best breaking crews battled it out in Seattle, USA.</desc>
@@ -447,7 +399,7 @@
     </audio>
     <image type="poster" size="3" orient="P">https://resources.redbull.tv/rrn:content:films:45524e2c-6a9b-4370-9d10-c02058a4587d/rbtv_display_art_portrait/{im}?namespace=rbtv&amp;refresh=true</image>
   </programme>
-  <programme start="20261029113917 +0000" stop="20261029120237 +0000" channel="mjh-redbull-tv">
+  <programme start="20261030084444 +0000" stop="20261030090804 +0000" channel="mjh-redbull-tv">
     <title>Paradigm</title>
     <sub-title>Mountain biking taken to new heights</sub-title>
     <desc>From the precision of slopestyle to the massive airs of freeride and the raw speed of downhill, Thomas Genon, Szymon Godziek, Emil Johansson and Kade Edwards deliver raw MTB talent and nonstop action.</desc>
@@ -469,7 +421,7 @@
     </star-rating>
     <image type="poster" size="3" orient="P">https://image.tmdb.org/t/p/original/xcZonwPFynraospKrWt3gqf6p9r.jpg</image>
   </programme>
-  <programme start="20261029120237 +0000" stop="20261029125717 +0000" channel="mjh-redbull-tv">
+  <programme start="20261030090804 +0000" stop="20261030100244 +0000" channel="mjh-redbull-tv">
     <title>Hard Enduro 2025: The Hardest Season Yet?</title>
     <sub-title>Hard Enduro is the toughest motorsport on Earth</sub-title>
     <desc>Go behind the scenes of Red Bull Erzbergrodeo, Red Bull Romaniacs and Red Bull Outliers as the toughest Hard Enduro riders on Earth did battle across the world in 2025.</desc>
@@ -485,12 +437,12 @@
     </audio>
     <image type="poster" size="3" orient="P">https://resources.redbull.tv/rrn:content:films:86711783-60f2-4fe9-9498-0a7790e5d765/rbtv_display_art_portrait/{im}?namespace=rbtv&amp;refresh=true</image>
   </programme>
-  <programme start="20261029125717 +0000" stop="20261029134953 +0000" channel="mjh-redbull-tv">
+  <programme start="20261030100244 +0000" stop="20261030105520 +0000" channel="mjh-redbull-tv">
     <title>Red Bull Rampage 2025</title>
     <sub-title>Red Bull Rampage: Men's highlights</sub-title>
     <desc>Watch the 18 male mountain bike athletes compete in this invitation-only freeride event. After creating their own lines in the red-rock landscape of Utah, see them showcase their skill and creativity.</desc>
     <icon src="https://resources.redbull.tv/rrn:content:videos:f156cda7-0538-42a6-bd15-11aeaca9ebb4/rbtv_display_art_portrait/{im}?namespace=rbtv&amp;refresh=true"/>
-    <episode-num system="original-air-date">2026-10-29 12:57:17</episode-num>
+    <episode-num system="original-air-date">2026-10-30 10:02:44</episode-num>
     <video>
       <present>yes</present>
       <quality>HDTV</quality>
@@ -501,12 +453,12 @@
     </audio>
     <image type="poster" size="3" orient="P">https://resources.redbull.tv/rrn:content:videos:f156cda7-0538-42a6-bd15-11aeaca9ebb4/rbtv_display_art_portrait/{im}?namespace=rbtv&amp;refresh=true</image>
   </programme>
-  <programme start="20261029134953 +0000" stop="20261029144153 +0000" channel="mjh-redbull-tv">
+  <programme start="20261030105520 +0000" stop="20261030114720 +0000" channel="mjh-redbull-tv">
     <title>Red Bull Rampage 2025</title>
     <sub-title>Red Bull Rampage: Women's highlights</sub-title>
     <desc>A dozen female mountain bike athletes competed in this invitation-only freeride event. After creating their own lines in the red-rock landscape of Utah, watch them showcase their skill and creativity.</desc>
     <icon src="https://resources.redbull.tv/rrn:content:videos:b8cf7394-4fe6-42a0-bfce-097ff7270904/rbtv_display_art_portrait/{im}?namespace=rbtv&amp;refresh=true"/>
-    <episode-num system="original-air-date">2026-10-29 13:49:53</episode-num>
+    <episode-num system="original-air-date">2026-10-30 10:55:20</episode-num>
     <video>
       <present>yes</present>
       <quality>HDTV</quality>
@@ -517,7 +469,7 @@
     </audio>
     <image type="poster" size="3" orient="P">https://resources.redbull.tv/rrn:content:videos:b8cf7394-4fe6-42a0-bfce-097ff7270904/rbtv_display_art_portrait/{im}?namespace=rbtv&amp;refresh=true</image>
   </programme>
-  <programme start="20261029144153 +0000" stop="20261029150731 +0000" channel="mjh-redbull-tv">
+  <programme start="20261030114720 +0000" stop="20261030121258 +0000" channel="mjh-redbull-tv">
     <title>Asa Vermette's Ascent</title>
     <sub-title>A rookie’s breakout year in downhill MTB</sub-title>
     <desc>One of mountain biking’s most exciting young riders, Asa Vermette, has secured a Junior world title. Follow his journey as he faces downhill’s toughest race in his debut Red Bull Hardline season.</desc>
@@ -533,12 +485,12 @@
     </audio>
     <image type="poster" size="3" orient="P">https://resources.redbull.tv/rrn:content:films:2f27123f-6b9a-46a6-8be1-03cbdb5992e7/rbtv_display_art_portrait/{im}?namespace=rbtv&amp;refresh=true</image>
   </programme>
-  <programme start="20261029150731 +0000" stop="20261029152603 +0000" channel="mjh-redbull-tv">
+  <programme start="20261030121258 +0000" stop="20261030123130 +0000" channel="mjh-redbull-tv">
     <title>Red Bull Rampage 2024</title>
     <sub-title>10 best runs from Red Bull Rampage 2024</sub-title>
     <desc>Relive the best runs from Red Bull Rampage 2024 – from jaw-dropping lines to insane tricks. For the first time, female riders threw down with the men, making history with groundbreaking performances.</desc>
     <icon src="https://resources.redbull.tv/rrn:content:videos:376e5ab4-42b2-4ec4-9721-74b2ba7e2f5c/rbtv_display_art_portrait/{im}?namespace=rbtv&amp;refresh=true"/>
-    <episode-num system="original-air-date">2026-10-29 15:07:31</episode-num>
+    <episode-num system="original-air-date">2026-10-30 12:12:58</episode-num>
     <video>
       <present>yes</present>
       <quality>HDTV</quality>
@@ -549,7 +501,7 @@
     </audio>
     <image type="poster" size="3" orient="P">https://resources.redbull.tv/rrn:content:videos:376e5ab4-42b2-4ec4-9721-74b2ba7e2f5c/rbtv_display_art_portrait/{im}?namespace=rbtv&amp;refresh=true</image>
   </programme>
-  <programme start="20261029152603 +0000" stop="20261029160614 +0000" channel="mjh-redbull-tv">
+  <programme start="20261030123130 +0000" stop="20261030131141 +0000" channel="mjh-redbull-tv">
     <title>More Than Machine</title>
     <sub-title>Let the games begin</sub-title>
     <desc>Kalle Rovanperä delivers a shock announcement about his future that reverberates through the paddock. Meanwhile, ruthless battles for the Drivers' Championship take a dramatic turn in Central Europe.</desc>
@@ -559,7 +511,7 @@
     <country>United Kingdom</country>
     <episode-num system="xmltv_ns">0.5.0</episode-num>
     <episode-num system="themoviedb.org">series/304114</episode-num>
-    <episode-num system="original-air-date">2026-10-29 15:26:03</episode-num>
+    <episode-num system="original-air-date">2026-10-30 12:31:30</episode-num>
     <video>
       <present>yes</present>
       <quality>HDTV</quality>
@@ -574,7 +526,7 @@
     <image type="poster" size="3" orient="P">https://image.tmdb.org/t/p/original/3a21THcb014mLbHz4GNUgX9T2Cq.jpg</image>
     <image type="backdrop" size="3" orient="L">https://image.tmdb.org/t/p/original/1lV0DRhEraRcsjV3iI0ibtsfn0X.jpg</image>
   </programme>
-  <programme start="20261029160614 +0000" stop="20261029165058 +0000" channel="mjh-redbull-tv">
+  <programme start="20261030131141 +0000" stop="20261030135625 +0000" channel="mjh-redbull-tv">
     <title>More Than Machine</title>
     <sub-title>Cause and effect</sub-title>
     <desc>Reigning champ Kalle Rovanperä fights a defiant car, while Takamoto Katsuta battles to save his career. Tension explodes when young challenger Oliver Solberg is given an opportunity to prove himself.</desc>
@@ -584,7 +536,7 @@
     <country>United Kingdom</country>
     <episode-num system="xmltv_ns">0.4.0</episode-num>
     <episode-num system="themoviedb.org">series/304114</episode-num>
-    <episode-num system="original-air-date">2026-10-29 16:06:14</episode-num>
+    <episode-num system="original-air-date">2026-10-30 13:11:41</episode-num>
     <video>
       <present>yes</present>
       <quality>HDTV</quality>
@@ -599,7 +551,7 @@
     <image type="poster" size="3" orient="P">https://image.tmdb.org/t/p/original/3a21THcb014mLbHz4GNUgX9T2Cq.jpg</image>
     <image type="backdrop" size="3" orient="L">https://image.tmdb.org/t/p/original/1lV0DRhEraRcsjV3iI0ibtsfn0X.jpg</image>
   </programme>
-  <programme start="20261029165058 +0000" stop="20261029173621 +0000" channel="mjh-redbull-tv">
+  <programme start="20261030135625 +0000" stop="20261030144148 +0000" channel="mjh-redbull-tv">
     <title>More Than Machine</title>
     <sub-title>Fortune favours the brave</sub-title>
     <desc>The 2025 season concludes with a dramatic double-header in Japan and Saudi Arabia. From heart-stopping crashes to a stunning run in the Saudi dunes, it all comes down to one final Power Stage.</desc>
@@ -609,7 +561,7 @@
     <country>United Kingdom</country>
     <episode-num system="xmltv_ns">0.6.0</episode-num>
     <episode-num system="themoviedb.org">series/304114</episode-num>
-    <episode-num system="original-air-date">2026-10-29 16:50:58</episode-num>
+    <episode-num system="original-air-date">2026-10-30 13:56:25</episode-num>
     <video>
       <present>yes</present>
       <quality>HDTV</quality>
@@ -624,7 +576,7 @@
     <image type="poster" size="3" orient="P">https://image.tmdb.org/t/p/original/3a21THcb014mLbHz4GNUgX9T2Cq.jpg</image>
     <image type="backdrop" size="3" orient="L">https://image.tmdb.org/t/p/original/1lV0DRhEraRcsjV3iI0ibtsfn0X.jpg</image>
   </programme>
-  <programme start="20261029173621 +0000" stop="20261029181603 +0000" channel="mjh-redbull-tv">
+  <programme start="20261030144148 +0000" stop="20261030152054 +0000" channel="mjh-redbull-tv">
     <title>More Than Machine</title>
     <sub-title>Resilience</sub-title>
     <desc>Can Latvian superstar Mārtiņš Sesks bounce back from his lost podium in 2024 to prove he belongs at rally sport's highest level?</desc>
@@ -634,7 +586,7 @@
     <country>United Kingdom</country>
     <episode-num system="xmltv_ns">0.3.0</episode-num>
     <episode-num system="themoviedb.org">series/304114</episode-num>
-    <episode-num system="original-air-date">2026-10-29 17:36:21</episode-num>
+    <episode-num system="original-air-date">2026-10-30 14:41:48</episode-num>
     <video>
       <present>yes</present>
       <quality>HDTV</quality>
@@ -649,13 +601,13 @@
     <image type="poster" size="3" orient="P">https://image.tmdb.org/t/p/original/3a21THcb014mLbHz4GNUgX9T2Cq.jpg</image>
     <image type="backdrop" size="3" orient="L">https://image.tmdb.org/t/p/original/1lV0DRhEraRcsjV3iI0ibtsfn0X.jpg</image>
   </programme>
-  <programme start="20261029181603 +0000" stop="20261029183742 +0000" channel="mjh-redbull-tv">
+  <programme start="20261030152054 +0000" stop="20261030154233 +0000" channel="mjh-redbull-tv">
     <title>Michelle Khare's Great World Race</title>
     <sub-title>Pt. 3: I ran 7 marathons in 7 days on 7 continents</sub-title>
     <desc>Michelle faces Colombia’s brutal heat and humidity in the final stretch of the Great World Race. With everything on the line, will she make it to the final finish?</desc>
     <icon src="https://resources.redbull.tv/rrn:content:episode-videos:be4f126f-3667-4156-b2fd-069bdfc645d5/rbtv_display_art_portrait/{im}?namespace=rbtv&amp;refresh=true"/>
     <episode-num system="xmltv_ns">0.2.0</episode-num>
-    <episode-num system="original-air-date">2026-10-29 18:16:03</episode-num>
+    <episode-num system="original-air-date">2026-10-30 15:20:54</episode-num>
     <video>
       <present>yes</present>
       <quality>HDTV</quality>
@@ -666,13 +618,13 @@
     </audio>
     <image type="poster" size="3" orient="P">https://resources.redbull.tv/rrn:content:episode-videos:be4f126f-3667-4156-b2fd-069bdfc645d5/rbtv_display_art_portrait/{im}?namespace=rbtv&amp;refresh=true</image>
   </programme>
-  <programme start="20261029183742 +0000" stop="20261029191903 +0000" channel="mjh-redbull-tv">
+  <programme start="20261030154233 +0000" stop="20261030162318 +0000" channel="mjh-redbull-tv">
     <title>Michelle Khare's Great World Race</title>
     <sub-title>Pt. 1: I ran 7 marathons in 7 days on 7 continents</sub-title>
     <desc>After months of elite training Michelle begins The Great World Race, racing from Cape Town to the blistering cold of Antarctica, where she must finish in 8 hours or be left behind.</desc>
     <icon src="https://resources.redbull.tv/rrn:content:episode-videos:a3931605-32cb-413b-980f-3811cc8a263a/rbtv_display_art_portrait/{im}?namespace=rbtv&amp;refresh=true"/>
     <episode-num system="xmltv_ns">0.0.0</episode-num>
-    <episode-num system="original-air-date">2026-10-29 18:37:42</episode-num>
+    <episode-num system="original-air-date">2026-10-30 15:42:33</episode-num>
     <video>
       <present>yes</present>
       <quality>HDTV</quality>
@@ -683,13 +635,13 @@
     </audio>
     <image type="poster" size="3" orient="P">https://resources.redbull.tv/rrn:content:episode-videos:a3931605-32cb-413b-980f-3811cc8a263a/rbtv_display_art_portrait/{im}?namespace=rbtv&amp;refresh=true</image>
   </programme>
-  <programme start="20261029191903 +0000" stop="20261029195121 +0000" channel="mjh-redbull-tv">
+  <programme start="20261030162318 +0000" stop="20261030165536 +0000" channel="mjh-redbull-tv">
     <title>Michelle Khare's Great World Race</title>
     <sub-title>Pt. 2: I ran 7 marathons in 7 days on 7 continents</sub-title>
     <desc>Michelle battles extreme heat in Australia and Abu Dhabi, forming powerful bonds with fellow racers as injuries and exhaustion threaten the race.</desc>
     <icon src="https://resources.redbull.tv/rrn:content:episode-videos:3633c16e-98e3-4450-80c8-5268d578951c/rbtv_display_art_portrait/{im}?namespace=rbtv&amp;refresh=true"/>
     <episode-num system="xmltv_ns">0.1.0</episode-num>
-    <episode-num system="original-air-date">2026-10-29 19:19:03</episode-num>
+    <episode-num system="original-air-date">2026-10-30 16:23:18</episode-num>
     <video>
       <present>yes</present>
       <quality>HDTV</quality>
@@ -700,12 +652,12 @@
     </audio>
     <image type="poster" size="3" orient="P">https://resources.redbull.tv/rrn:content:episode-videos:3633c16e-98e3-4450-80c8-5268d578951c/rbtv_display_art_portrait/{im}?namespace=rbtv&amp;refresh=true</image>
   </programme>
-  <programme start="20261029195121 +0000" stop="20261029201757 +0000" channel="mjh-redbull-tv">
+  <programme start="20261030165536 +0000" stop="20261030172212 +0000" channel="mjh-redbull-tv">
     <title>Fort Worth, Texas</title>
     <sub-title>Red Bull Rancher Strong 2025 Recap</sub-title>
     <desc>In Red Bull Rancher Strong competitors compete for the best time on an obstacle course designed around the rancher lifestyle, testing strength and endurance, to determine WHO is Rancher Strong.</desc>
     <icon src="https://resources.redbull.tv/rrn:content:videos:0dbd4bbc-c885-4a74-b473-0e0a7c25b924/rbtv_display_art_portrait/{im}?namespace=rbtv&amp;refresh=true"/>
-    <episode-num system="original-air-date">2026-10-29 19:51:21</episode-num>
+    <episode-num system="original-air-date">2026-10-30 16:55:36</episode-num>
     <video>
       <present>yes</present>
       <quality>HDTV</quality>
@@ -716,7 +668,7 @@
     </audio>
     <image type="poster" size="3" orient="P">https://resources.redbull.tv/rrn:content:videos:0dbd4bbc-c885-4a74-b473-0e0a7c25b924/rbtv_display_art_portrait/{im}?namespace=rbtv&amp;refresh=true</image>
   </programme>
-  <programme start="20261029201757 +0000" stop="20261029211228 +0000" channel="mjh-redbull-tv">
+  <programme start="20261030172212 +0000" stop="20261030181643 +0000" channel="mjh-redbull-tv">
     <title>Resilience</title>
     <sub-title>Triathlete Els Visser's story</sub-title>
     <desc>How does surviving a ship wreck lead to someone becoming a successful triathlete? Learn about Els Visser's journey from medical student to sporting success via a life-threatening disaster at sea.</desc>
@@ -738,880 +690,6 @@
     </star-rating>
     <image type="poster" size="3" orient="P">https://image.tmdb.org/t/p/original/BqCdIC5VlKKixbKQrn0wxpmODr.jpg</image>
     <image type="backdrop" size="3" orient="L">https://image.tmdb.org/t/p/original/iHkhYJV3mBz0mCDRKxbLkAuLtug.jpg</image>
-  </programme>
-  <programme start="20261029211228 +0000" stop="20261029214652 +0000" channel="mjh-redbull-tv">
-    <title>Beyond the ROX</title>
-    <sub-title>Ambitions realised: the rookie vs the legends</sub-title>
-    <desc>After years of hard work and dedicated training, Jake Dearden finally reaches the Elite 15 race. How will the rookie stack up against the world's best in the 2024/25 season?</desc>
-    <icon src="https://resources.redbull.tv/rrn:content:episode-videos:70a3fd36-20cd-452a-bf03-a6045436c3e9/rbtv_display_art_portrait/{im}?namespace=rbtv&amp;refresh=true"/>
-    <episode-num system="xmltv_ns">0.4.0</episode-num>
-    <episode-num system="original-air-date">2026-10-29 21:12:28</episode-num>
-    <video>
-      <present>yes</present>
-      <quality>HDTV</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <image type="poster" size="3" orient="P">https://resources.redbull.tv/rrn:content:episode-videos:70a3fd36-20cd-452a-bf03-a6045436c3e9/rbtv_display_art_portrait/{im}?namespace=rbtv&amp;refresh=true</image>
-  </programme>
-  <programme start="20261028230000 +0000" stop="20261028233000 +0000" channel="mjh-al-jazeera">
-    <title>News Live</title>
-    <desc>Up-to-date news and analysis from around the world.</desc>
-    <date>2026</date>
-    <category>News</category>
-    <icon src="https://images.skyone.co.nz/mac/479214/DAM/93DF9CAC-656A-4B35-A96BE5E690FA2AAA.jpg"/>
-    <episode-num system="dd_progid">EPmac_sh_ptc1037923899.mac_ptc2103949582</episode-num>
-    <episode-num system="original-air-date">2026-10-21 11:46:48</episode-num>
-    <video>
-      <present>yes</present>
-      <quality>SDTV</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <live/>
-    <rating system="NZ">
-      <value>G</value>
-    </rating>
-    <image type="poster" size="3" orient="P">https://images.skyone.co.nz/mac/479214/DAM/93DF9CAC-656A-4B35-A96BE5E690FA2AAA.jpg</image>
-    <image type="still" size="3" orient="L">https://images.skyone.co.nz/mac/479214/DAM/47F76E30-03EB-463C-B99341FBE5A3990A.jpg</image>
-  </programme>
-  <programme start="20261028233000 +0000" stop="20261029000000 +0000" channel="mjh-al-jazeera">
-    <title>Inside Story</title>
-    <desc>Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds from around the globe.</desc>
-    <date>2026</date>
-    <category>News</category>
-    <icon src="https://images.skyone.co.nz/mac/479214/DAM/49BDDDF0-BF67-4534-928FDD8D60919D77.jpg"/>
-    <episode-num system="dd_progid">EP/15241971./59250917</episode-num>
-    <episode-num system="xmltv_ns">0.1483.0</episode-num>
-    <episode-num system="original-air-date">2026-10-21 11:46:48</episode-num>
-    <video>
-      <present>yes</present>
-      <quality>SDTV</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <rating system="NZ">
-      <value>G</value>
-    </rating>
-    <image type="poster" size="3" orient="P">https://images.skyone.co.nz/mac/479214/DAM/49BDDDF0-BF67-4534-928FDD8D60919D77.jpg</image>
-    <image type="backdrop" size="3" orient="L">https://images.skyone.co.nz/mac/479214/DAM/15D0BE9E-8FDA-4E49-AED8C1326891B487.jpg</image>
-    <image type="still" size="3" orient="L">https://images.skyone.co.nz/mac/479214/DAM/F7B46FF0-DF22-42E2-8AF95F5DFA3D605D.jpg</image>
-  </programme>
-  <programme start="20261029000000 +0000" stop="20261029010000 +0000" channel="mjh-al-jazeera">
-    <title>Newshour</title>
-    <desc>Latest news and in-depth analysis from around the world.</desc>
-    <category>News</category>
-    <orig-language>English</orig-language>
-    <icon src="https://images.skyone.co.nz/mac/479214/DAM/35ECB47A-E047-45F6-89C7EA8A6D6B512C.jpg"/>
-    <country>Canada</country>
-    <episode-num system="dd_progid">EPmac_sh_ptc990239023.mac_ptc132200787</episode-num>
-    <episode-num system="themoviedb.org">series/42300</episode-num>
-    <episode-num system="original-air-date">2026-10-21 11:46:48</episode-num>
-    <video>
-      <present>yes</present>
-      <quality>SDTV</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <rating system="NZ">
-      <value>G</value>
-    </rating>
-    <star-rating>
-      <value>0.0/10</value>
-    </star-rating>
-    <image type="poster" size="3" orient="P">https://images.skyone.co.nz/mac/479214/DAM/35ECB47A-E047-45F6-89C7EA8A6D6B512C.jpg</image>
-    <image type="backdrop" size="3" orient="L">https://images.skyone.co.nz/mac/479214/DAM/B626EE88-BEE6-41C7-BBC8BBDF6821E97E.jpg</image>
-    <image type="still" size="3" orient="L">https://images.skyone.co.nz/mac/479214/DAM/B483DE3B-68DE-4673-B722790646F12F10.jpg</image>
-  </programme>
-  <programme start="20261029010000 +0000" stop="20261029020000 +0000" channel="mjh-al-jazeera">
-    <title>Al Jazeera World</title>
-    <desc>The story of Avraham Stern, leader of a major Zionist armed group that fought the British Mandate in 1930s Palestine with the aim of creating a Jewish state.</desc>
-    <date>2024</date>
-    <category>News</category>
-    <icon src="https://img-store-prod.switch.tv/images/006398e1-66b1-4924-a342-8357a24ee320/Al%2520Jazeera%2520World%2520-%2520VSC.jpg"/>
-    <episode-num system="dd_progid">EP/18902631./53212539</episode-num>
-    <episode-num system="original-air-date">2026-10-13 11:44:31</episode-num>
-    <video>
-      <present>yes</present>
-      <quality>SDTV</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <rating system="NZ">
-      <value>G</value>
-    </rating>
-    <image type="poster" size="3" orient="P">https://img-store-prod.switch.tv/images/006398e1-66b1-4924-a342-8357a24ee320/Al%2520Jazeera%2520World%2520-%2520VSC.jpg</image>
-    <image type="backdrop" size="3" orient="L">https://img-store-prod.switch.tv/images/2bae0d95-badc-47d5-850d-ec081eb24d98/ALJAZEERAWORLDTITLE_30_1682710968229_0.jpg</image>
-    <image type="still" size="3" orient="L">https://images.skyone.co.nz/mac/479214/DAM/4FBD6CB8-C431-4CEF-8F6187B923A4E106.jpg</image>
-  </programme>
-  <programme start="20261029020000 +0000" stop="20261029030000 +0000" channel="mjh-al-jazeera">
-    <title>Newshour</title>
-    <desc>Latest news and in-depth analysis from around the world.</desc>
-    <category>News</category>
-    <orig-language>English</orig-language>
-    <icon src="https://images.skyone.co.nz/mac/479214/DAM/35ECB47A-E047-45F6-89C7EA8A6D6B512C.jpg"/>
-    <country>Canada</country>
-    <episode-num system="dd_progid">EPmac_sh_ptc990239023.mac_ptc1539451607</episode-num>
-    <episode-num system="themoviedb.org">series/42300</episode-num>
-    <episode-num system="original-air-date">2026-10-21 11:46:48</episode-num>
-    <video>
-      <present>yes</present>
-      <quality>SDTV</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <rating system="NZ">
-      <value>G</value>
-    </rating>
-    <star-rating>
-      <value>0.0/10</value>
-    </star-rating>
-    <image type="poster" size="3" orient="P">https://images.skyone.co.nz/mac/479214/DAM/35ECB47A-E047-45F6-89C7EA8A6D6B512C.jpg</image>
-    <image type="backdrop" size="3" orient="L">https://images.skyone.co.nz/mac/479214/DAM/B626EE88-BEE6-41C7-BBC8BBDF6821E97E.jpg</image>
-    <image type="still" size="3" orient="L">https://images.skyone.co.nz/mac/479214/DAM/B483DE3B-68DE-4673-B722790646F12F10.jpg</image>
-  </programme>
-  <programme start="20261029030000 +0000" stop="20261029033000 +0000" channel="mjh-al-jazeera">
-    <title>News Live</title>
-    <desc>Up-to-date news and analysis from around the world.</desc>
-    <date>2026</date>
-    <category>News</category>
-    <icon src="https://images.skyone.co.nz/mac/479214/DAM/93DF9CAC-656A-4B35-A96BE5E690FA2AAA.jpg"/>
-    <episode-num system="dd_progid">EPmac_sh_ptc1037923899.mac_ptc1396957835</episode-num>
-    <episode-num system="original-air-date">2026-10-21 11:46:48</episode-num>
-    <video>
-      <present>yes</present>
-      <quality>SDTV</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <live/>
-    <rating system="NZ">
-      <value>G</value>
-    </rating>
-    <image type="poster" size="3" orient="P">https://images.skyone.co.nz/mac/479214/DAM/93DF9CAC-656A-4B35-A96BE5E690FA2AAA.jpg</image>
-    <image type="still" size="3" orient="L">https://images.skyone.co.nz/mac/479214/DAM/47F76E30-03EB-463C-B99341FBE5A3990A.jpg</image>
-  </programme>
-  <programme start="20261029033000 +0000" stop="20261029040000 +0000" channel="mjh-al-jazeera">
-    <title>Making Peace</title>
-    <desc>In post-genocide Rwanda, fragile encounters see survivors and perpetrators face the past to reopen paths to coexistence.</desc>
-    <date>2026</date>
-    <category>Documentary</category>
-    <orig-language>English</orig-language>
-    <icon src="https://img-store-prod.switch.tv/images/5c5daa53-9460-46b1-8330-100aadd05716/MakingPeace_1_6_1772196999157_0.jpg"/>
-    <country>Spain</country>
-    <episode-num system="dd_progid">EP/898488./57399188</episode-num>
-    <episode-num system="xmltv_ns">0.0.0</episode-num>
-    <episode-num system="themoviedb.org">series/330294</episode-num>
-    <episode-num system="original-air-date">2026-10-20 11:46:19</episode-num>
-    <video>
-      <present>yes</present>
-      <quality>SDTV</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <rating system="NZ">
-      <value>G-CV</value>
-    </rating>
-    <star-rating>
-      <value>0.0/10</value>
-    </star-rating>
-    <image type="poster" size="3" orient="P">https://img-store-prod.switch.tv/images/5c5daa53-9460-46b1-8330-100aadd05716/MakingPeace_1_6_1772196999157_0.jpg</image>
-    <image type="backdrop" size="3" orient="L">https://img-store-prod.switch.tv/images/5c5daa53-9460-46b1-8330-100aadd05716/MakingPeace_1_6_1772196999157_0.jpg</image>
-    <image type="still" size="3" orient="L">https://images.skyone.co.nz/mac/479214/DAM/F90E4FA3-EB98-4F24-AD6AEF04D24A2B40.jpg</image>
-  </programme>
-  <programme start="20261029040000 +0000" stop="20261029043000 +0000" channel="mjh-al-jazeera">
-    <title>News Live</title>
-    <desc>Up-to-date news and analysis from around the world.</desc>
-    <date>2026</date>
-    <category>News</category>
-    <icon src="https://images.skyone.co.nz/mac/479214/DAM/93DF9CAC-656A-4B35-A96BE5E690FA2AAA.jpg"/>
-    <episode-num system="dd_progid">EPmac_sh_ptc1037923899.mac_ptc214436075</episode-num>
-    <episode-num system="original-air-date">2026-10-21 11:46:48</episode-num>
-    <video>
-      <present>yes</present>
-      <quality>SDTV</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <live/>
-    <rating system="NZ">
-      <value>G</value>
-    </rating>
-    <image type="poster" size="3" orient="P">https://images.skyone.co.nz/mac/479214/DAM/93DF9CAC-656A-4B35-A96BE5E690FA2AAA.jpg</image>
-    <image type="still" size="3" orient="L">https://images.skyone.co.nz/mac/479214/DAM/47F76E30-03EB-463C-B99341FBE5A3990A.jpg</image>
-  </programme>
-  <programme start="20261029043000 +0000" stop="20261029050000 +0000" channel="mjh-al-jazeera">
-    <title>Mindset</title>
-    <desc>Mindset examines how South African traditional healers and Korean sport psychologists are providing mental health solutions.</desc>
-    <date>2024</date>
-    <category>Documentary</category>
-    <icon src="https://images.skyone.co.nz/mac/479214/DAM/53D444D2-58DB-46A0-9F5F00A4059AAFE9.jpg"/>
-    <episode-num system="dd_progid">EP/51614195./51663035</episode-num>
-    <episode-num system="original-air-date">2026-10-20 15:46:22</episode-num>
-    <video>
-      <present>yes</present>
-      <quality>SDTV</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <rating system="NZ">
-      <value>G</value>
-    </rating>
-    <image type="poster" size="3" orient="P">https://images.skyone.co.nz/mac/479214/DAM/53D444D2-58DB-46A0-9F5F00A4059AAFE9.jpg</image>
-    <image type="backdrop" size="3" orient="L">https://img-store-prod.switch.tv/images/db119cc3-a2aa-4e34-ac1b-95628583c4d1/PGMST03SKOWEB_30_1704769384758_0.jpg</image>
-    <image type="still" size="3" orient="L">https://img-store-prod.switch.tv/images/7ef5f75c-023e-46c1-8755-e8fabb005421/PGMST06ZAFWEB_6_1704769206648_0.jpg</image>
-  </programme>
-  <programme start="20261029050000 +0000" stop="20261029053000 +0000" channel="mjh-al-jazeera">
-    <title>News Live</title>
-    <desc>Up-to-date news and analysis from around the world.</desc>
-    <date>2026</date>
-    <category>News</category>
-    <icon src="https://images.skyone.co.nz/mac/479214/DAM/93DF9CAC-656A-4B35-A96BE5E690FA2AAA.jpg"/>
-    <episode-num system="dd_progid">EPmac_sh_ptc1037923899.mac_ptc219673692</episode-num>
-    <episode-num system="original-air-date">2026-10-21 11:46:48</episode-num>
-    <video>
-      <present>yes</present>
-      <quality>SDTV</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <live/>
-    <rating system="NZ">
-      <value>G</value>
-    </rating>
-    <image type="poster" size="3" orient="P">https://images.skyone.co.nz/mac/479214/DAM/93DF9CAC-656A-4B35-A96BE5E690FA2AAA.jpg</image>
-    <image type="still" size="3" orient="L">https://images.skyone.co.nz/mac/479214/DAM/47F76E30-03EB-463C-B99341FBE5A3990A.jpg</image>
-  </programme>
-  <programme start="20261029053000 +0000" stop="20261029060000 +0000" channel="mjh-al-jazeera">
-    <title>Inside Story</title>
-    <desc>Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds from around the globe.</desc>
-    <date>2026</date>
-    <category>News</category>
-    <icon src="https://images.skyone.co.nz/mac/479214/DAM/49BDDDF0-BF67-4534-928FDD8D60919D77.jpg"/>
-    <episode-num system="dd_progid">EP/15241971./59250917</episode-num>
-    <episode-num system="xmltv_ns">0.1483.0</episode-num>
-    <episode-num system="original-air-date">2026-10-21 11:46:48</episode-num>
-    <video>
-      <present>yes</present>
-      <quality>SDTV</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <rating system="NZ">
-      <value>G</value>
-    </rating>
-    <image type="poster" size="3" orient="P">https://images.skyone.co.nz/mac/479214/DAM/49BDDDF0-BF67-4534-928FDD8D60919D77.jpg</image>
-    <image type="backdrop" size="3" orient="L">https://images.skyone.co.nz/mac/479214/DAM/15D0BE9E-8FDA-4E49-AED8C1326891B487.jpg</image>
-    <image type="still" size="3" orient="L">https://images.skyone.co.nz/mac/479214/DAM/F7B46FF0-DF22-42E2-8AF95F5DFA3D605D.jpg</image>
-  </programme>
-  <programme start="20261029060000 +0000" stop="20261029063000 +0000" channel="mjh-al-jazeera">
-    <title>News Live</title>
-    <desc>Up-to-date news and analysis from around the world.</desc>
-    <date>2026</date>
-    <category>News</category>
-    <icon src="https://images.skyone.co.nz/mac/479214/DAM/93DF9CAC-656A-4B35-A96BE5E690FA2AAA.jpg"/>
-    <episode-num system="dd_progid">EPmac_sh_ptc1037923899.mac_ptc2068047735</episode-num>
-    <episode-num system="original-air-date">2026-10-21 11:46:48</episode-num>
-    <video>
-      <present>yes</present>
-      <quality>SDTV</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <live/>
-    <rating system="NZ">
-      <value>G</value>
-    </rating>
-    <image type="poster" size="3" orient="P">https://images.skyone.co.nz/mac/479214/DAM/93DF9CAC-656A-4B35-A96BE5E690FA2AAA.jpg</image>
-    <image type="still" size="3" orient="L">https://images.skyone.co.nz/mac/479214/DAM/47F76E30-03EB-463C-B99341FBE5A3990A.jpg</image>
-  </programme>
-  <programme start="20261029063000 +0000" stop="20261029070000 +0000" channel="mjh-al-jazeera">
-    <title>The Population Bust</title>
-    <desc>As birthrates crash worldwide, the hidden forces reshaping family, fertility, and the future of humanity are explored.</desc>
-    <date>2026</date>
-    <category>Documentary</category>
-    <icon src="https://images.skyone.co.nz/mac/479214/DAM/09F3C1F9-A2A4-4CB9-B7B0834813623FF8.jpg"/>
-    <episode-num system="dd_progid">EP/57776095./57776096</episode-num>
-    <episode-num system="original-air-date">2026-10-18 11:42:05</episode-num>
-    <video>
-      <present>yes</present>
-      <quality>SDTV</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <rating system="NZ">
-      <value>G</value>
-    </rating>
-    <image type="poster" size="3" orient="P">https://images.skyone.co.nz/mac/479214/DAM/09F3C1F9-A2A4-4CB9-B7B0834813623FF8.jpg</image>
-    <image type="backdrop" size="3" orient="L">https://images.skyone.co.nz/mac/479214/DAM/2A7957A7-EDEE-47F9-B10C81B0AEDA3FD4.jpg</image>
-    <image type="still" size="3" orient="L">https://images.skyone.co.nz/mac/479214/DAM/1B27ABFC-6EB9-4B30-B0902CA7F92A8E9B.jpg</image>
-  </programme>
-  <programme start="20261029070000 +0000" stop="20261029080000 +0000" channel="mjh-al-jazeera">
-    <title>Newshour</title>
-    <desc>Latest news and in-depth analysis from around the world.</desc>
-    <category>News</category>
-    <orig-language>English</orig-language>
-    <icon src="https://images.skyone.co.nz/mac/479214/DAM/35ECB47A-E047-45F6-89C7EA8A6D6B512C.jpg"/>
-    <country>Canada</country>
-    <episode-num system="dd_progid">EPmac_sh_ptc990239023.mac_ptc917920338</episode-num>
-    <episode-num system="themoviedb.org">series/42300</episode-num>
-    <episode-num system="original-air-date">2026-10-21 11:46:48</episode-num>
-    <video>
-      <present>yes</present>
-      <quality>SDTV</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <rating system="NZ">
-      <value>G</value>
-    </rating>
-    <star-rating>
-      <value>0.0/10</value>
-    </star-rating>
-    <image type="poster" size="3" orient="P">https://images.skyone.co.nz/mac/479214/DAM/35ECB47A-E047-45F6-89C7EA8A6D6B512C.jpg</image>
-    <image type="backdrop" size="3" orient="L">https://images.skyone.co.nz/mac/479214/DAM/B626EE88-BEE6-41C7-BBC8BBDF6821E97E.jpg</image>
-    <image type="still" size="3" orient="L">https://images.skyone.co.nz/mac/479214/DAM/B483DE3B-68DE-4673-B722790646F12F10.jpg</image>
-  </programme>
-  <programme start="20261029080000 +0000" stop="20261029083000 +0000" channel="mjh-al-jazeera">
-    <title>News Live</title>
-    <desc>Up-to-date news and analysis from around the world.</desc>
-    <date>2026</date>
-    <category>News</category>
-    <icon src="https://images.skyone.co.nz/mac/479214/DAM/93DF9CAC-656A-4B35-A96BE5E690FA2AAA.jpg"/>
-    <episode-num system="dd_progid">EPmac_sh_ptc1037923899.mac_ptc565322739</episode-num>
-    <episode-num system="original-air-date">2026-10-21 11:46:48</episode-num>
-    <video>
-      <present>yes</present>
-      <quality>SDTV</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <live/>
-    <rating system="NZ">
-      <value>G</value>
-    </rating>
-    <image type="poster" size="3" orient="P">https://images.skyone.co.nz/mac/479214/DAM/93DF9CAC-656A-4B35-A96BE5E690FA2AAA.jpg</image>
-    <image type="still" size="3" orient="L">https://images.skyone.co.nz/mac/479214/DAM/47F76E30-03EB-463C-B99341FBE5A3990A.jpg</image>
-  </programme>
-  <programme start="20261029083000 +0000" stop="20261029090000 +0000" channel="mjh-al-jazeera">
-    <title>The Bottom Line</title>
-    <desc>Russia expert Anatol Lieven explains how &amp; why U.S. attempts to make peace in Ukraine have failed.</desc>
-    <date>2026</date>
-    <category>News</category>
-    <icon src="https://images.skyone.co.nz/mac/479214/DAM/94C2A67A-B8C1-48DF-A299DF2CABF18B9A.jpg"/>
-    <episode-num system="dd_progid">EP/39152977./59205531</episode-num>
-    <episode-num system="original-air-date">2026-10-17 11:09:43</episode-num>
-    <video>
-      <present>yes</present>
-      <quality>SDTV</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <rating system="NZ">
-      <value>G</value>
-    </rating>
-    <image type="poster" size="3" orient="P">https://images.skyone.co.nz/mac/479214/DAM/94C2A67A-B8C1-48DF-A299DF2CABF18B9A.jpg</image>
-    <image type="backdrop" size="3" orient="L">https://images.skyone.co.nz/mac/479214/DAM/E8B3FEE4-69F8-4A96-BB7A8F5F372C601B.jpg</image>
-    <image type="still" size="3" orient="L">https://images.skyone.co.nz/mac/479214/DAM/579B0BAE-6444-4B97-993D684C4284A8B1.jpg</image>
-  </programme>
-  <programme start="20261029090000 +0000" stop="20261029093000 +0000" channel="mjh-al-jazeera">
-    <title>News Live</title>
-    <desc>Up-to-date news and analysis from around the world.</desc>
-    <date>2026</date>
-    <category>News</category>
-    <icon src="https://images.skyone.co.nz/mac/479214/DAM/93DF9CAC-656A-4B35-A96BE5E690FA2AAA.jpg"/>
-    <episode-num system="dd_progid">EPmac_sh_ptc1037923899.mac_ptc1754252016</episode-num>
-    <episode-num system="original-air-date">2026-10-21 11:46:48</episode-num>
-    <video>
-      <present>yes</present>
-      <quality>SDTV</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <live/>
-    <rating system="NZ">
-      <value>G</value>
-    </rating>
-    <image type="poster" size="3" orient="P">https://images.skyone.co.nz/mac/479214/DAM/93DF9CAC-656A-4B35-A96BE5E690FA2AAA.jpg</image>
-    <image type="still" size="3" orient="L">https://images.skyone.co.nz/mac/479214/DAM/47F76E30-03EB-463C-B99341FBE5A3990A.jpg</image>
-  </programme>
-  <programme start="20261029093000 +0000" stop="20261029100000 +0000" channel="mjh-al-jazeera">
-    <title>Fault Lines</title>
-    <desc>A hospital in South Sudan becomes the center of a health and hunger crisis as the U.S. cuts humanitarian aid.</desc>
-    <date>2026</date>
-    <category>News</category>
-    <icon src="https://images.skyone.co.nz/mac/479214/DAM/C8699CFE-0399-4211-B95263F557320B75.jpg"/>
-    <episode-num system="dd_progid">EP/22552425./59407565</episode-num>
-    <episode-num system="original-air-date">2026-10-27 16:52:39</episode-num>
-    <video>
-      <present>yes</present>
-      <quality>SDTV</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <rating system="NZ">
-      <value>G</value>
-    </rating>
-    <image type="poster" size="3" orient="P">https://images.skyone.co.nz/mac/479214/DAM/C8699CFE-0399-4211-B95263F557320B75.jpg</image>
-    <image type="backdrop" size="3" orient="L">https://img-store-prod.switch.tv/images/25861609-26ce-4c8d-90d6-f59167385634/faultlines_showcard.jpg</image>
-    <image type="still" size="3" orient="L">https://images.skyone.co.nz/mac/479214/DAM/32842543-DFFF-471A-816FC84F2ACF1810.jpg</image>
-  </programme>
-  <programme start="20261029100000 +0000" stop="20261029110000 +0000" channel="mjh-al-jazeera">
-    <title>Newshour</title>
-    <desc>Latest news and in-depth analysis from around the world.</desc>
-    <category>News</category>
-    <orig-language>English</orig-language>
-    <icon src="https://images.skyone.co.nz/mac/479214/DAM/35ECB47A-E047-45F6-89C7EA8A6D6B512C.jpg"/>
-    <country>Canada</country>
-    <episode-num system="dd_progid">EPmac_sh_ptc990239023.mac_ptc2058692344</episode-num>
-    <episode-num system="themoviedb.org">series/42300</episode-num>
-    <episode-num system="original-air-date">2026-10-21 11:46:48</episode-num>
-    <video>
-      <present>yes</present>
-      <quality>SDTV</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <rating system="NZ">
-      <value>G</value>
-    </rating>
-    <star-rating>
-      <value>0.0/10</value>
-    </star-rating>
-    <image type="poster" size="3" orient="P">https://images.skyone.co.nz/mac/479214/DAM/35ECB47A-E047-45F6-89C7EA8A6D6B512C.jpg</image>
-    <image type="backdrop" size="3" orient="L">https://images.skyone.co.nz/mac/479214/DAM/B626EE88-BEE6-41C7-BBC8BBDF6821E97E.jpg</image>
-    <image type="still" size="3" orient="L">https://images.skyone.co.nz/mac/479214/DAM/B483DE3B-68DE-4673-B722790646F12F10.jpg</image>
-  </programme>
-  <programme start="20261029110000 +0000" stop="20261029113000 +0000" channel="mjh-al-jazeera">
-    <title>News Live</title>
-    <desc>Up-to-date news and analysis from around the world.</desc>
-    <date>2026</date>
-    <category>News</category>
-    <icon src="https://images.skyone.co.nz/mac/479214/DAM/93DF9CAC-656A-4B35-A96BE5E690FA2AAA.jpg"/>
-    <episode-num system="dd_progid">EPmac_sh_ptc1037923899.mac_ptc517788530</episode-num>
-    <episode-num system="original-air-date">2026-10-22 11:47:28</episode-num>
-    <video>
-      <present>yes</present>
-      <quality>SDTV</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <live/>
-    <rating system="NZ">
-      <value>G</value>
-    </rating>
-    <image type="poster" size="3" orient="P">https://images.skyone.co.nz/mac/479214/DAM/93DF9CAC-656A-4B35-A96BE5E690FA2AAA.jpg</image>
-    <image type="still" size="3" orient="L">https://images.skyone.co.nz/mac/479214/DAM/47F76E30-03EB-463C-B99341FBE5A3990A.jpg</image>
-  </programme>
-  <programme start="20261029113000 +0000" stop="20261029120000 +0000" channel="mjh-al-jazeera">
-    <title>Inside Story</title>
-    <desc>Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds from around the globe.</desc>
-    <date>2026</date>
-    <category>News</category>
-    <icon src="https://images.skyone.co.nz/mac/479214/DAM/49BDDDF0-BF67-4534-928FDD8D60919D77.jpg"/>
-    <episode-num system="dd_progid">EP/15241971./59250917</episode-num>
-    <episode-num system="xmltv_ns">0.1483.0</episode-num>
-    <episode-num system="original-air-date">2026-10-21 11:46:48</episode-num>
-    <video>
-      <present>yes</present>
-      <quality>SDTV</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <rating system="NZ">
-      <value>G</value>
-    </rating>
-    <image type="poster" size="3" orient="P">https://images.skyone.co.nz/mac/479214/DAM/49BDDDF0-BF67-4534-928FDD8D60919D77.jpg</image>
-    <image type="backdrop" size="3" orient="L">https://images.skyone.co.nz/mac/479214/DAM/15D0BE9E-8FDA-4E49-AED8C1326891B487.jpg</image>
-    <image type="still" size="3" orient="L">https://images.skyone.co.nz/mac/479214/DAM/F7B46FF0-DF22-42E2-8AF95F5DFA3D605D.jpg</image>
-  </programme>
-  <programme start="20261029120000 +0000" stop="20261029130000 +0000" channel="mjh-al-jazeera">
-    <title>Let's Focus</title>
-    <desc>Josh Rushing, Spencer Ackerman and General Mark Kimmitt ask why the U.S. keeps going to war, who profits, and whether the midterms can change it.</desc>
-    <date>2026</date>
-    <category>Documentary</category>
-    <icon src="https://images.nzxmltv.com/posters/lets-focus_aljazeera.jpg"/>
-    <episode-num system="dd_progid">EP/59036199./59250890</episode-num>
-    <episode-num system="original-air-date">2026-10-19 11:16:08</episode-num>
-    <video>
-      <present>yes</present>
-      <quality>SDTV</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <rating system="NZ">
-      <value>G</value>
-    </rating>
-    <image type="poster" size="3" orient="P">https://images.nzxmltv.com/posters/lets-focus_aljazeera.jpg</image>
-  </programme>
-  <programme start="20261029130000 +0000" stop="20261029140000 +0000" channel="mjh-al-jazeera">
-    <title>Newshour</title>
-    <desc>Latest news and in-depth analysis from around the world.</desc>
-    <category>News</category>
-    <orig-language>English</orig-language>
-    <icon src="https://images.skyone.co.nz/mac/479214/DAM/35ECB47A-E047-45F6-89C7EA8A6D6B512C.jpg"/>
-    <country>Canada</country>
-    <episode-num system="dd_progid">EPmac_sh_ptc990239023.mac_ptc199525736</episode-num>
-    <episode-num system="themoviedb.org">series/42300</episode-num>
-    <episode-num system="original-air-date">2026-10-22 11:47:28</episode-num>
-    <video>
-      <present>yes</present>
-      <quality>SDTV</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <rating system="NZ">
-      <value>G</value>
-    </rating>
-    <star-rating>
-      <value>0.0/10</value>
-    </star-rating>
-    <image type="poster" size="3" orient="P">https://images.skyone.co.nz/mac/479214/DAM/35ECB47A-E047-45F6-89C7EA8A6D6B512C.jpg</image>
-    <image type="backdrop" size="3" orient="L">https://images.skyone.co.nz/mac/479214/DAM/B626EE88-BEE6-41C7-BBC8BBDF6821E97E.jpg</image>
-    <image type="still" size="3" orient="L">https://images.skyone.co.nz/mac/479214/DAM/B483DE3B-68DE-4673-B722790646F12F10.jpg</image>
-  </programme>
-  <programme start="20261029140000 +0000" stop="20261029143000 +0000" channel="mjh-al-jazeera">
-    <title>News Live</title>
-    <desc>Up-to-date news and analysis from around the world.</desc>
-    <date>2026</date>
-    <category>News</category>
-    <icon src="https://images.skyone.co.nz/mac/479214/DAM/93DF9CAC-656A-4B35-A96BE5E690FA2AAA.jpg"/>
-    <episode-num system="dd_progid">EPmac_sh_ptc1037923899.mac_ptc868962939</episode-num>
-    <episode-num system="original-air-date">2026-10-22 11:47:28</episode-num>
-    <video>
-      <present>yes</present>
-      <quality>SDTV</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <live/>
-    <rating system="NZ">
-      <value>G</value>
-    </rating>
-    <image type="poster" size="3" orient="P">https://images.skyone.co.nz/mac/479214/DAM/93DF9CAC-656A-4B35-A96BE5E690FA2AAA.jpg</image>
-    <image type="still" size="3" orient="L">https://images.skyone.co.nz/mac/479214/DAM/47F76E30-03EB-463C-B99341FBE5A3990A.jpg</image>
-  </programme>
-  <programme start="20261029143000 +0000" stop="20261029150000 +0000" channel="mjh-al-jazeera">
-    <title>Al Jazeera Explains</title>
-    <desc>Ahead of the US midterms, we examine how electoral maps could reshape Congress and why state elections matter as much as the battle for Washington..</desc>
-    <date>2026</date>
-    <category>Documentary</category>
-    <icon src="https://images.nzxmltv.com/posters/al-jazeera-explains_aljazeera.jpg"/>
-    <episode-num system="dd_progid">EP/58692329./59250880</episode-num>
-    <episode-num system="original-air-date">2026-10-19 11:16:08</episode-num>
-    <video>
-      <present>yes</present>
-      <quality>SDTV</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <rating system="NZ">
-      <value>G</value>
-    </rating>
-    <image type="poster" size="3" orient="P">https://images.nzxmltv.com/posters/al-jazeera-explains_aljazeera.jpg</image>
-  </programme>
-  <programme start="20261029150000 +0000" stop="20261029160000 +0000" channel="mjh-al-jazeera">
-    <title>Newshour</title>
-    <desc>Latest news and in-depth analysis from around the world.</desc>
-    <category>News</category>
-    <orig-language>English</orig-language>
-    <icon src="https://images.skyone.co.nz/mac/479214/DAM/35ECB47A-E047-45F6-89C7EA8A6D6B512C.jpg"/>
-    <country>Canada</country>
-    <episode-num system="dd_progid">EPmac_sh_ptc990239023.mac_ptc1670697545</episode-num>
-    <episode-num system="themoviedb.org">series/42300</episode-num>
-    <episode-num system="original-air-date">2026-10-22 11:47:28</episode-num>
-    <video>
-      <present>yes</present>
-      <quality>SDTV</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <rating system="NZ">
-      <value>G</value>
-    </rating>
-    <star-rating>
-      <value>0.0/10</value>
-    </star-rating>
-    <image type="poster" size="3" orient="P">https://images.skyone.co.nz/mac/479214/DAM/35ECB47A-E047-45F6-89C7EA8A6D6B512C.jpg</image>
-    <image type="backdrop" size="3" orient="L">https://images.skyone.co.nz/mac/479214/DAM/B626EE88-BEE6-41C7-BBC8BBDF6821E97E.jpg</image>
-    <image type="still" size="3" orient="L">https://images.skyone.co.nz/mac/479214/DAM/B483DE3B-68DE-4673-B722790646F12F10.jpg</image>
-  </programme>
-  <programme start="20261029160000 +0000" stop="20261029170000 +0000" channel="mjh-al-jazeera">
-    <title>Newshour</title>
-    <desc>Latest news and in-depth analysis from around the world.</desc>
-    <category>News</category>
-    <orig-language>English</orig-language>
-    <icon src="https://images.nzxmltv.com/posters/newshour_aljazeera.jpg"/>
-    <country>Canada</country>
-    <episode-num system="themoviedb.org">series/42300</episode-num>
-    <episode-num system="original-air-date">2026-10-22 11:47:28</episode-num>
-    <video>
-      <present>yes</present>
-      <quality>SDTV</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <rating system="NZ">
-      <value>G</value>
-    </rating>
-    <star-rating>
-      <value>0.0/10</value>
-    </star-rating>
-    <image type="poster" size="3" orient="P">https://images.nzxmltv.com/posters/newshour_aljazeera.jpg</image>
-    <image type="backdrop" size="3" orient="L">https://image.tmdb.org/t/p/original/bfB0Jn6q59fP6b8TICWdbepwBVH.jpg</image>
-  </programme>
-  <programme start="20261029170000 +0000" stop="20261029173000 +0000" channel="mjh-al-jazeera">
-    <title>News Live</title>
-    <desc>Up-to-date news and analysis from around the world.</desc>
-    <date>2026</date>
-    <category>News</category>
-    <icon src="https://images.skyone.co.nz/mac/479214/DAM/93DF9CAC-656A-4B35-A96BE5E690FA2AAA.jpg"/>
-    <episode-num system="dd_progid">EPmac_sh_ptc1037923899.mac_ptc1685993726</episode-num>
-    <episode-num system="original-air-date">2026-10-22 11:47:28</episode-num>
-    <video>
-      <present>yes</present>
-      <quality>SDTV</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <live/>
-    <rating system="NZ">
-      <value>G</value>
-    </rating>
-    <image type="poster" size="3" orient="P">https://images.skyone.co.nz/mac/479214/DAM/93DF9CAC-656A-4B35-A96BE5E690FA2AAA.jpg</image>
-    <image type="still" size="3" orient="L">https://images.skyone.co.nz/mac/479214/DAM/47F76E30-03EB-463C-B99341FBE5A3990A.jpg</image>
-  </programme>
-  <programme start="20261029173000 +0000" stop="20261029180000 +0000" channel="mjh-al-jazeera">
-    <title>Inside Story</title>
-    <desc>Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds from around the globe.</desc>
-    <date>2026</date>
-    <category>News</category>
-    <icon src="https://images.skyone.co.nz/mac/479214/DAM/49BDDDF0-BF67-4534-928FDD8D60919D77.jpg"/>
-    <episode-num system="dd_progid">EP/15241971./59250931</episode-num>
-    <episode-num system="xmltv_ns">0.1484.0</episode-num>
-    <episode-num system="original-air-date">2026-10-22 11:47:28</episode-num>
-    <video>
-      <present>yes</present>
-      <quality>SDTV</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <rating system="NZ">
-      <value>G</value>
-    </rating>
-    <image type="poster" size="3" orient="P">https://images.skyone.co.nz/mac/479214/DAM/49BDDDF0-BF67-4534-928FDD8D60919D77.jpg</image>
-    <image type="backdrop" size="3" orient="L">https://images.skyone.co.nz/mac/479214/DAM/15D0BE9E-8FDA-4E49-AED8C1326891B487.jpg</image>
-    <image type="still" size="3" orient="L">https://images.skyone.co.nz/mac/479214/DAM/F7B46FF0-DF22-42E2-8AF95F5DFA3D605D.jpg</image>
-  </programme>
-  <programme start="20261029180000 +0000" stop="20261029190000 +0000" channel="mjh-al-jazeera">
-    <title>Newshour</title>
-    <desc>Latest news and in-depth analysis from around the world.</desc>
-    <category>News</category>
-    <orig-language>English</orig-language>
-    <icon src="https://images.skyone.co.nz/mac/479214/DAM/35ECB47A-E047-45F6-89C7EA8A6D6B512C.jpg"/>
-    <country>Canada</country>
-    <episode-num system="dd_progid">EPmac_sh_ptc990239023.mac_ptc683616322</episode-num>
-    <episode-num system="themoviedb.org">series/42300</episode-num>
-    <episode-num system="original-air-date">2026-10-22 11:47:28</episode-num>
-    <video>
-      <present>yes</present>
-      <quality>SDTV</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <rating system="NZ">
-      <value>G</value>
-    </rating>
-    <star-rating>
-      <value>0.0/10</value>
-    </star-rating>
-    <image type="poster" size="3" orient="P">https://images.skyone.co.nz/mac/479214/DAM/35ECB47A-E047-45F6-89C7EA8A6D6B512C.jpg</image>
-    <image type="backdrop" size="3" orient="L">https://images.skyone.co.nz/mac/479214/DAM/B626EE88-BEE6-41C7-BBC8BBDF6821E97E.jpg</image>
-    <image type="still" size="3" orient="L">https://images.skyone.co.nz/mac/479214/DAM/B483DE3B-68DE-4673-B722790646F12F10.jpg</image>
-  </programme>
-  <programme start="20261029190000 +0000" stop="20261029200000 +0000" channel="mjh-al-jazeera">
-    <title>Newshour</title>
-    <desc>Latest news and in-depth analysis from around the world.</desc>
-    <category>News</category>
-    <orig-language>English</orig-language>
-    <icon src="https://images.nzxmltv.com/posters/newshour_aljazeera.jpg"/>
-    <country>Canada</country>
-    <episode-num system="themoviedb.org">series/42300</episode-num>
-    <episode-num system="original-air-date">2026-10-22 11:47:28</episode-num>
-    <video>
-      <present>yes</present>
-      <quality>SDTV</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <rating system="NZ">
-      <value>G</value>
-    </rating>
-    <star-rating>
-      <value>0.0/10</value>
-    </star-rating>
-    <image type="poster" size="3" orient="P">https://images.nzxmltv.com/posters/newshour_aljazeera.jpg</image>
-    <image type="backdrop" size="3" orient="L">https://image.tmdb.org/t/p/original/bfB0Jn6q59fP6b8TICWdbepwBVH.jpg</image>
-  </programme>
-  <programme start="20261029200000 +0000" stop="20261029210000 +0000" channel="mjh-al-jazeera">
-    <title>Silenced: The War On Journalism</title>
-    <desc>A gripping look at journalism's ultimate sacrifice, told through stories of courage, loss and unwavering conviction.</desc>
-    <date>2025</date>
-    <category>Documentary</category>
-    <icon src="https://img-store-prod.switch.tv/images/d0cd4bcf-3cee-4d64-acb1-268f7cbfb3ec/SilencedTheWarOnJournalism_2_6_1776164024656_2.jpg"/>
-    <episode-num system="dd_progid">EPmac_sh_ptc233381379.mac_ptc1731552486</episode-num>
-    <episode-num system="original-air-date">2026-10-22 11:47:28</episode-num>
-    <video>
-      <present>yes</present>
-      <quality>SDTV</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <rating system="NZ">
-      <value>G-CV</value>
-    </rating>
-    <image type="poster" size="3" orient="L">https://img-store-prod.switch.tv/images/d0cd4bcf-3cee-4d64-acb1-268f7cbfb3ec/SilencedTheWarOnJournalism_2_6_1776164024656_2.jpg</image>
-    <image type="still" size="3" orient="L">https://img-store-prod.switch.tv/images/d0cd4bcf-3cee-4d64-acb1-268f7cbfb3ec/SilencedTheWarOnJournalism_2_6_1776164024656_2.jpg</image>
-  </programme>
-  <programme start="20261029210000 +0000" stop="20261029220000 +0000" channel="mjh-al-jazeera">
-    <title>Newshour</title>
-    <desc>Latest news and in-depth analysis from around the world.</desc>
-    <category>News</category>
-    <orig-language>English</orig-language>
-    <icon src="https://images.skyone.co.nz/mac/479214/DAM/35ECB47A-E047-45F6-89C7EA8A6D6B512C.jpg"/>
-    <country>Canada</country>
-    <episode-num system="dd_progid">EPmac_sh_ptc990239023.mac_ptc860820705</episode-num>
-    <episode-num system="themoviedb.org">series/42300</episode-num>
-    <episode-num system="original-air-date">2026-10-22 11:47:28</episode-num>
-    <video>
-      <present>yes</present>
-      <quality>SDTV</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <rating system="NZ">
-      <value>G</value>
-    </rating>
-    <star-rating>
-      <value>0.0/10</value>
-    </star-rating>
-    <image type="poster" size="3" orient="P">https://images.skyone.co.nz/mac/479214/DAM/35ECB47A-E047-45F6-89C7EA8A6D6B512C.jpg</image>
-    <image type="backdrop" size="3" orient="L">https://images.skyone.co.nz/mac/479214/DAM/B626EE88-BEE6-41C7-BBC8BBDF6821E97E.jpg</image>
-    <image type="still" size="3" orient="L">https://images.skyone.co.nz/mac/479214/DAM/B483DE3B-68DE-4673-B722790646F12F10.jpg</image>
-  </programme>
-  <programme start="20261029220000 +0000" stop="20261029223000 +0000" channel="mjh-al-jazeera">
-    <title>News Live</title>
-    <desc>Up-to-date news and analysis from around the world.</desc>
-    <date>2026</date>
-    <category>News</category>
-    <icon src="https://images.skyone.co.nz/mac/479214/DAM/93DF9CAC-656A-4B35-A96BE5E690FA2AAA.jpg"/>
-    <episode-num system="dd_progid">EPmac_sh_ptc1037923899.mac_ptc1378896624</episode-num>
-    <episode-num system="original-air-date">2026-10-22 11:47:28</episode-num>
-    <video>
-      <present>yes</present>
-      <quality>SDTV</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <live/>
-    <rating system="NZ">
-      <value>G</value>
-    </rating>
-    <image type="poster" size="3" orient="P">https://images.skyone.co.nz/mac/479214/DAM/93DF9CAC-656A-4B35-A96BE5E690FA2AAA.jpg</image>
-    <image type="still" size="3" orient="L">https://images.skyone.co.nz/mac/479214/DAM/47F76E30-03EB-463C-B99341FBE5A3990A.jpg</image>
-  </programme>
-  <programme start="20261029223000 +0000" stop="20261029230000 +0000" channel="mjh-al-jazeera">
-    <title>101 East</title>
-    <desc>As Malaysia rethinks the death penalty for drug offences, Singapore insists tough laws deter substance abuse. 101 East investigates.</desc>
-    <date>2026</date>
-    <category>News</category>
-    <icon src="https://images.skyone.co.nz/mac/479214/DAM/627032A1-C585-48AC-A44597D1C0CC4F17.jpg"/>
-    <episode-num system="dd_progid">EP/15085136./59411618</episode-num>
-    <episode-num system="original-air-date">2026-10-27 16:52:39</episode-num>
-    <video>
-      <present>yes</present>
-      <quality>SDTV</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <rating system="NZ">
-      <value>G</value>
-    </rating>
-    <image type="poster" size="3" orient="P">https://images.skyone.co.nz/mac/479214/DAM/627032A1-C585-48AC-A44597D1C0CC4F17.jpg</image>
-    <image type="backdrop" size="3" orient="L">https://images.skyone.co.nz/mac/479214/DAM/B3EDF1FC-F5CA-4A18-8FF0D4CFEC49C351.jpg</image>
-    <image type="still" size="3" orient="L">https://images.skyone.co.nz/mac/479214/DAM/FF8D7C47-6EB0-49DE-8B75D699CDDD2B9A.jpg</image>
   </programme>
   <programme start="20261029230000 +0000" stop="20261029233000 +0000" channel="mjh-al-jazeera">
     <title>News Live</title>
@@ -2442,12 +1520,12 @@
   </programme>
   <programme start="20261030223000 +0000" stop="20261030230000 +0000" channel="mjh-al-jazeera">
     <title>UpFront</title>
-    <desc>Frank, blunt and UpFront, Marc Lamont Hill cuts through the headlines to get to the heart of the matter with influential guests and newsmakers.</desc>
+    <desc>Marc Lamont Hill discusses the divisions within the Democratic Party ahead of the midterms with former Congressman Jamaal Bowman.</desc>
     <date>2026</date>
     <category>News</category>
     <icon src="https://images.skyone.co.nz/mac/479214/DAM/53D444D2-58DB-46A0-9F5F00A4059AAFE9.jpg"/>
-    <episode-num system="dd_progid">EP/27700925./59251389</episode-num>
-    <episode-num system="original-air-date">2026-10-19 11:16:08</episode-num>
+    <episode-num system="dd_progid">EP/27700925./59437657</episode-num>
+    <episode-num system="original-air-date">2026-10-29 17:03:29</episode-num>
     <video>
       <present>yes</present>
       <quality>SDTV</quality>
@@ -2880,15 +1958,15 @@
   </programme>
   <programme start="20261031093000 +0000" stop="20261031100000 +0000" channel="mjh-al-jazeera">
     <title>UpFront</title>
-    <desc>Frank, blunt and UpFront, Marc Lamont Hill cuts through the headlines to get to the heart of the matter with influential guests and newsmakers.</desc>
+    <desc>Marc Lamont Hill discusses the divisions within the Democratic Party ahead of the midterms with former Congressman Jamaal Bowman.</desc>
     <date>2026</date>
-    <category>News/Current Affairs</category>
+    <category>News</category>
     <icon src="https://images.skyone.co.nz/mac/479214/DAM/53D444D2-58DB-46A0-9F5F00A4059AAFE9.jpg"/>
-    <episode-num system="dd_progid">EP/27700925./59251389</episode-num>
-    <episode-num system="original-air-date">2026-10-19 11:16:08</episode-num>
+    <episode-num system="dd_progid">EP/27700925./59437657</episode-num>
+    <episode-num system="original-air-date">2026-10-29 17:03:29</episode-num>
     <video>
       <present>yes</present>
-      <quality>HDTV</quality>
+      <quality>SDTV</quality>
     </video>
     <audio>
       <present>yes</present>
@@ -2898,7 +1976,7 @@
       <value>G</value>
     </rating>
     <image type="poster" size="3" orient="P">https://images.skyone.co.nz/mac/479214/DAM/53D444D2-58DB-46A0-9F5F00A4059AAFE9.jpg</image>
-    <image type="backdrop" size="3" orient="L">https://img-store-prod.switch.tv/images/db119cc3-a2aa-4e34-ac1b-95628583c4d1/PGMST03SKOWEB_30_1704769384758_0.jpg</image>
+    <image type="backdrop" size="3" orient="L">https://img-store-prod.switch.tv/images/9599afc9-e55b-49fc-9883-0ac81dc1bd09/UPFRONTTITLE_30_1683223736480_0.jpg</image>
     <image type="still" size="3" orient="L">https://images.skyone.co.nz/mac/479214/DAM/3B5DAC7D-B0E1-4658-92831437EC7DB7E1.jpg</image>
   </programme>
   <programme start="20261031100000 +0000" stop="20261031110000 +0000" channel="mjh-al-jazeera">
@@ -3228,7 +2306,7 @@
   </programme>
   <programme start="20261031193000 +0000" stop="20261031200000 +0000" channel="mjh-al-jazeera">
     <title>The Listening Post</title>
-    <desc>What is being reported by world media and how? Richard Gizbert guides you through the global news maze.</desc>
+    <desc>Billions flood the U.S. midterms as AI-generated ads blur fact and fiction. Plus, what is the story emerging from Israel post-elections?</desc>
     <date>2026</date>
     <category>News</category>
     <icon src="https://img-store-prod.switch.tv/images/bfeafb51-4a2e-45ac-b058-d8f21deaf3cd/THELISTENINGPOST2_45_1686750182330_0.jpg"/>
@@ -3325,7 +2403,7 @@
   </programme>
   <programme start="20261031223000 +0000" stop="20261031230000 +0000" channel="mjh-al-jazeera">
     <title>The Bottom Line</title>
-    <desc>Weekly discussion show on U.S. politics and policies hosted by Steve Clemons.</desc>
+    <desc>Israeli member of parliament Ofer Cassif discusses the possible outcomes of Israel's election.</desc>
     <date>2026</date>
     <category>News</category>
     <icon src="https://images.skyone.co.nz/mac/479214/DAM/94C2A67A-B8C1-48DF-A299DF2CABF18B9A.jpg"/>
@@ -3497,12 +2575,12 @@
   </programme>
   <programme start="20261101033000 +0000" stop="20261101040000 +0000" channel="mjh-al-jazeera">
     <title>UpFront</title>
-    <desc>Frank, blunt and UpFront, Marc Lamont Hill cuts through the headlines to get to the heart of the matter with influential guests and newsmakers.</desc>
+    <desc>Marc Lamont Hill discusses the divisions within the Democratic Party ahead of the midterms with former Congressman Jamaal Bowman.</desc>
     <date>2026</date>
     <category>News</category>
     <icon src="https://images.skyone.co.nz/mac/479214/DAM/53D444D2-58DB-46A0-9F5F00A4059AAFE9.jpg"/>
-    <episode-num system="dd_progid">EP/27700925./59251389</episode-num>
-    <episode-num system="original-air-date">2026-10-19 11:16:08</episode-num>
+    <episode-num system="dd_progid">EP/27700925./59437657</episode-num>
+    <episode-num system="original-air-date">2026-10-29 17:03:29</episode-num>
     <video>
       <present>yes</present>
       <quality>SDTV</quality>
@@ -3710,7 +2788,7 @@
   </programme>
   <programme start="20261101083000 +0000" stop="20261101090000 +0000" channel="mjh-al-jazeera">
     <title>The Listening Post</title>
-    <desc>What is being reported by world media and how? Richard Gizbert guides you through the global news maze.</desc>
+    <desc>Billions flood the U.S. midterms as AI-generated ads blur fact and fiction. Plus, what is the story emerging from Israel post-elections?</desc>
     <date>2026</date>
     <category>News</category>
     <icon src="https://img-store-prod.switch.tv/images/bfeafb51-4a2e-45ac-b058-d8f21deaf3cd/THELISTENINGPOST2_45_1686750182330_0.jpg"/>
@@ -3756,7 +2834,7 @@
   </programme>
   <programme start="20261101093000 +0000" stop="20261101100000 +0000" channel="mjh-al-jazeera">
     <title>The Bottom Line</title>
-    <desc>Weekly discussion show on U.S. politics and policies hosted by Steve Clemons.</desc>
+    <desc>Israeli member of parliament Ofer Cassif discusses the possible outcomes of Israel's election.</desc>
     <date>2026</date>
     <category>News</category>
     <icon src="https://images.skyone.co.nz/mac/479214/DAM/94C2A67A-B8C1-48DF-A299DF2CABF18B9A.jpg"/>
@@ -4377,7 +3455,7 @@
   </programme>
   <programme start="20261102033000 +0000" stop="20261102040000 +0000" channel="mjh-al-jazeera">
     <title>The Bottom Line</title>
-    <desc>Weekly discussion show on U.S. politics and policies hosted by Steve Clemons.</desc>
+    <desc>Israeli member of parliament Ofer Cassif discusses the possible outcomes of Israel's election.</desc>
     <date>2026</date>
     <category>News</category>
     <icon src="https://images.skyone.co.nz/mac/479214/DAM/94C2A67A-B8C1-48DF-A299DF2CABF18B9A.jpg"/>
@@ -4423,7 +3501,7 @@
   </programme>
   <programme start="20261102043000 +0000" stop="20261102050000 +0000" channel="mjh-al-jazeera">
     <title>The Listening Post</title>
-    <desc>What is being reported by world media and how? Richard Gizbert guides you through the global news maze.</desc>
+    <desc>Billions flood the U.S. midterms as AI-generated ads blur fact and fiction. Plus, what is the story emerging from Israel post-elections?</desc>
     <date>2026</date>
     <category>News</category>
     <icon src="https://img-store-prod.switch.tv/images/bfeafb51-4a2e-45ac-b058-d8f21deaf3cd/THELISTENINGPOST2_45_1686750182330_0.jpg"/>
@@ -4516,7 +3594,7 @@
   </programme>
   <programme start="20261102063000 +0000" stop="20261102070000 +0000" channel="mjh-al-jazeera">
     <title>101 East</title>
-    <desc>As Malaysia rethinks the death penalty for drug offences, Singapore insists tough laws deter substance abuse. 101 East investigates.</desc>
+    <desc>101 East reports on the people and events shaping the Asia Pacific region. .</desc>
     <date>2026</date>
     <category>News</category>
     <icon src="https://images.skyone.co.nz/mac/479214/DAM/627032A1-C585-48AC-A44597D1C0CC4F17.jpg"/>
@@ -5377,12 +4455,12 @@
   </programme>
   <programme start="20261103063000 +0000" stop="20261103070000 +0000" channel="mjh-al-jazeera">
     <title>UpFront</title>
-    <desc>Frank, blunt and UpFront, Marc Lamont Hill cuts through the headlines to get to the heart of the matter with influential guests and newsmakers.</desc>
+    <desc>Marc Lamont Hill discusses the divisions within the Democratic Party ahead of the midterms with former Congressman Jamaal Bowman.</desc>
     <date>2026</date>
     <category>News</category>
     <icon src="https://images.skyone.co.nz/mac/479214/DAM/53D444D2-58DB-46A0-9F5F00A4059AAFE9.jpg"/>
-    <episode-num system="dd_progid">EP/27700925./59300525</episode-num>
-    <episode-num system="original-air-date">2026-10-26 11:51:46</episode-num>
+    <episode-num system="dd_progid">EP/27700925./59437657</episode-num>
+    <episode-num system="original-air-date">2026-10-29 17:03:29</episode-num>
     <video>
       <present>yes</present>
       <quality>SDTV</quality>
@@ -5667,7 +4745,7 @@
   </programme>
   <programme start="20261103143000 +0000" stop="20261103150000 +0000" channel="mjh-al-jazeera">
     <title>The Listening Post</title>
-    <desc>What is being reported by world media and how? Richard Gizbert guides you through the global news maze.</desc>
+    <desc>Billions flood the U.S. midterms as AI-generated ads blur fact and fiction. Plus, what is the story emerging from Israel post-elections?</desc>
     <date>2026</date>
     <category>News</category>
     <icon src="https://img-store-prod.switch.tv/images/bfeafb51-4a2e-45ac-b058-d8f21deaf3cd/THELISTENINGPOST2_45_1686750182330_0.jpg"/>
@@ -6240,7 +5318,7 @@
   </programme>
   <programme start="20261104063000 +0000" stop="20261104070000 +0000" channel="mjh-al-jazeera">
     <title>The Bottom Line</title>
-    <desc>Weekly discussion show on U.S. politics and policies hosted by Steve Clemons.</desc>
+    <desc>Israeli member of parliament Ofer Cassif discusses the possible outcomes of Israel's election.</desc>
     <date>2026</date>
     <category>News</category>
     <icon src="https://images.skyone.co.nz/mac/479214/DAM/94C2A67A-B8C1-48DF-A299DF2CABF18B9A.jpg"/>
@@ -6314,7 +5392,7 @@
   </programme>
   <programme start="20261104083000 +0000" stop="20261104090000 +0000" channel="mjh-al-jazeera">
     <title>The Listening Post</title>
-    <desc>What is being reported by world media and how? Richard Gizbert guides you through the global news maze.</desc>
+    <desc>Billions flood the U.S. midterms as AI-generated ads blur fact and fiction. Plus, what is the story emerging from Israel post-elections?</desc>
     <date>2026</date>
     <category>News</category>
     <icon src="https://img-store-prod.switch.tv/images/bfeafb51-4a2e-45ac-b058-d8f21deaf3cd/THELISTENINGPOST2_45_1686750182330_0.jpg"/>
@@ -6867,7 +5945,7 @@
   <programme start="20261105000000 +0000" stop="20261105010000 +0000" channel="mjh-al-jazeera">
     <title>Newshour</title>
     <desc>Latest news and in-depth analysis from around the world.</desc>
-    <category>News/Current Affairs</category>
+    <category>News</category>
     <orig-language>English</orig-language>
     <icon src="https://images.skyone.co.nz/mac/479214/DAM/35ECB47A-E047-45F6-89C7EA8A6D6B512C.jpg"/>
     <country>Canada</country>
@@ -6876,7 +5954,7 @@
     <episode-num system="original-air-date">2026-10-28 12:02:42</episode-num>
     <video>
       <present>yes</present>
-      <quality>HDTV</quality>
+      <quality>SDTV</quality>
     </video>
     <audio>
       <present>yes</present>
@@ -7021,12 +6099,12 @@
   </programme>
   <programme start="20261105043000 +0000" stop="20261105050000 +0000" channel="mjh-al-jazeera">
     <title>UpFront</title>
-    <desc>Frank, blunt and UpFront, Marc Lamont Hill cuts through the headlines to get to the heart of the matter with influential guests and newsmakers.</desc>
+    <desc>Marc Lamont Hill discusses the divisions within the Democratic Party ahead of the midterms with former Congressman Jamaal Bowman.</desc>
     <date>2026</date>
     <category>News</category>
     <icon src="https://images.skyone.co.nz/mac/479214/DAM/53D444D2-58DB-46A0-9F5F00A4059AAFE9.jpg"/>
-    <episode-num system="dd_progid">EP/27700925./59300525</episode-num>
-    <episode-num system="original-air-date">2026-10-26 11:51:46</episode-num>
+    <episode-num system="dd_progid">EP/27700925./59437657</episode-num>
+    <episode-num system="original-air-date">2026-10-29 17:03:29</episode-num>
     <video>
       <present>yes</present>
       <quality>SDTV</quality>
@@ -7188,7 +6266,7 @@
   </programme>
   <programme start="20261105083000 +0000" stop="20261105090000 +0000" channel="mjh-al-jazeera">
     <title>The Bottom Line</title>
-    <desc>Weekly discussion show on U.S. politics and policies hosted by Steve Clemons.</desc>
+    <desc>Israeli member of parliament Ofer Cassif discusses the possible outcomes of Israel's election.</desc>
     <date>2026</date>
     <category>News</category>
     <icon src="https://images.skyone.co.nz/mac/479214/DAM/94C2A67A-B8C1-48DF-A299DF2CABF18B9A.jpg"/>
@@ -7287,13 +6365,19 @@
     <title>News Live</title>
     <desc>Up-to-date news and analysis from around the world.</desc>
     <date>2026</date>
-    <category>News/Current Affairs</category>
+    <category>News</category>
     <icon src="https://images.skyone.co.nz/mac/479214/DAM/93DF9CAC-656A-4B35-A96BE5E690FA2AAA.jpg"/>
     <episode-num system="dd_progid">EPmac_sh_ptc1037923899.mac_ptc965657626</episode-num>
-    <episode-num system="original-air-date">2026-11-05 11:00:00</episode-num>
+    <episode-num system="original-air-date">2026-10-29 12:03:12</episode-num>
     <video>
-      <quality>HDTV</quality>
+      <present>yes</present>
+      <quality>SDTV</quality>
     </video>
+    <audio>
+      <present>yes</present>
+      <stereo>stereo</stereo>
+    </audio>
+    <live/>
     <rating system="NZ">
       <value>G</value>
     </rating>
@@ -7304,13 +6388,19 @@
     <title>Inside Story</title>
     <desc>Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds from around the globe.</desc>
     <date>2026</date>
-    <category>News/Current Affairs</category>
+    <category>News</category>
     <icon src="https://images.skyone.co.nz/mac/479214/DAM/49BDDDF0-BF67-4534-928FDD8D60919D77.jpg"/>
-    <episode-num system="dd_progid">EPmac_sh_ptc313063015.mac_ptc1125016064</episode-num>
-    <episode-num system="original-air-date">2026-11-05 11:30:00</episode-num>
+    <episode-num system="dd_progid">EP/15241971./59300360</episode-num>
+    <episode-num system="xmltv_ns">0.1490.0</episode-num>
+    <episode-num system="original-air-date">2026-10-28 12:02:42</episode-num>
     <video>
-      <quality>HDTV</quality>
+      <present>yes</present>
+      <quality>SDTV</quality>
     </video>
+    <audio>
+      <present>yes</present>
+      <stereo>stereo</stereo>
+    </audio>
     <rating system="NZ">
       <value>G</value>
     </rating>
@@ -7322,15 +6412,20 @@
     <title>Witness</title>
     <desc>Two young horse herders revive Mongolia's most dangerous winter ritual in a last-ditch attempt to save their community's ancient way of life.</desc>
     <date>2026</date>
-    <category>News/Current Affairs</category>
+    <category>News</category>
     <icon src="https://images.skyone.co.nz/mac/479214/DAM/78B0C2F6-2D69-4594-B496FBB64ADB6673.jpg"/>
-    <episode-num system="dd_progid">EPmac_sh_ptc2040583745.mac_ptc1331499998</episode-num>
-    <episode-num system="original-air-date">2026-11-05 12:00:00</episode-num>
+    <episode-num system="dd_progid">EP/15473906./59300362</episode-num>
+    <episode-num system="original-air-date">2026-10-28 12:02:42</episode-num>
     <video>
-      <quality>HDTV</quality>
+      <present>yes</present>
+      <quality>SDTV</quality>
     </video>
+    <audio>
+      <present>yes</present>
+      <stereo>stereo</stereo>
+    </audio>
     <rating system="NZ">
-      <value>G</value>
+      <value>G-CV</value>
     </rating>
     <image type="poster" size="3" orient="P">https://images.skyone.co.nz/mac/479214/DAM/78B0C2F6-2D69-4594-B496FBB64ADB6673.jpg</image>
     <image type="backdrop" size="3" orient="L">https://images.skyone.co.nz/mac/479214/DAM/6C186010-BEEA-4E0D-950AA2E9D68CB807.jpg</image>
@@ -7339,16 +6434,21 @@
   <programme start="20261105130000 +0000" stop="20261105140000 +0000" channel="mjh-al-jazeera">
     <title>Newshour</title>
     <desc>Latest news and in-depth analysis from around the world.</desc>
-    <category>News/Current Affairs</category>
+    <category>News</category>
     <orig-language>English</orig-language>
     <icon src="https://images.skyone.co.nz/mac/479214/DAM/35ECB47A-E047-45F6-89C7EA8A6D6B512C.jpg"/>
     <country>Canada</country>
     <episode-num system="dd_progid">EPmac_sh_ptc990239023.mac_ptc650702947</episode-num>
     <episode-num system="themoviedb.org">series/42300</episode-num>
-    <episode-num system="original-air-date">2026-11-05 13:00:00</episode-num>
+    <episode-num system="original-air-date">2026-10-29 12:03:12</episode-num>
     <video>
-      <quality>HDTV</quality>
+      <present>yes</present>
+      <quality>SDTV</quality>
     </video>
+    <audio>
+      <present>yes</present>
+      <stereo>stereo</stereo>
+    </audio>
     <rating system="NZ">
       <value>G</value>
     </rating>
@@ -7363,13 +6463,19 @@
     <title>News Live</title>
     <desc>Up-to-date news and analysis from around the world.</desc>
     <date>2026</date>
-    <category>News/Current Affairs</category>
+    <category>News</category>
     <icon src="https://images.skyone.co.nz/mac/479214/DAM/93DF9CAC-656A-4B35-A96BE5E690FA2AAA.jpg"/>
     <episode-num system="dd_progid">EPmac_sh_ptc1037923899.mac_ptc73623000</episode-num>
-    <episode-num system="original-air-date">2026-11-05 14:00:00</episode-num>
+    <episode-num system="original-air-date">2026-10-29 12:03:12</episode-num>
     <video>
-      <quality>HDTV</quality>
+      <present>yes</present>
+      <quality>SDTV</quality>
     </video>
+    <audio>
+      <present>yes</present>
+      <stereo>stereo</stereo>
+    </audio>
+    <live/>
     <rating system="NZ">
       <value>G</value>
     </rating>
@@ -7378,15 +6484,20 @@
   </programme>
   <programme start="20261105143000 +0000" stop="20261105150000 +0000" channel="mjh-al-jazeera">
     <title>Al Jazeera Reels</title>
-    <desc>A new generation of voices takes on major stories in news, culture and technology, bringing unexpected angles, deeper context and distinct perspectives.</desc>
+    <desc>Seven stories explore Lebanon's contradictions — from banks and identity to sectarian power, diaspora, war and the compromises holding it together.</desc>
     <date>2026</date>
-    <category>News/Current Affairs</category>
+    <category>Documentary</category>
     <icon src="https://images.nzxmltv.com/posters/al-jazeera-reels_aljazeera.jpg"/>
-    <episode-num system="dd_progid">EPmac_sh_ptc666821143.mac_ptc2075625796</episode-num>
-    <episode-num system="original-air-date">2026-11-05 14:30:00</episode-num>
+    <episode-num system="dd_progid">EP/58609489./59344794</episode-num>
+    <episode-num system="original-air-date">2026-10-25 11:51:33</episode-num>
     <video>
-      <quality>HDTV</quality>
+      <present>yes</present>
+      <quality>SDTV</quality>
     </video>
+    <audio>
+      <present>yes</present>
+      <stereo>stereo</stereo>
+    </audio>
     <rating system="NZ">
       <value>G</value>
     </rating>
@@ -7395,16 +6506,21 @@
   <programme start="20261105150000 +0000" stop="20261105160000 +0000" channel="mjh-al-jazeera">
     <title>Newshour</title>
     <desc>Latest news and in-depth analysis from around the world.</desc>
-    <category>News/Current Affairs</category>
+    <category>News</category>
     <orig-language>English</orig-language>
     <icon src="https://images.skyone.co.nz/mac/479214/DAM/35ECB47A-E047-45F6-89C7EA8A6D6B512C.jpg"/>
     <country>Canada</country>
     <episode-num system="dd_progid">EPmac_sh_ptc990239023.mac_ptc1949243330</episode-num>
     <episode-num system="themoviedb.org">series/42300</episode-num>
-    <episode-num system="original-air-date">2026-11-05 15:00:00</episode-num>
+    <episode-num system="original-air-date">2026-10-29 12:03:12</episode-num>
     <video>
-      <quality>HDTV</quality>
+      <present>yes</present>
+      <quality>SDTV</quality>
     </video>
+    <audio>
+      <present>yes</present>
+      <stereo>stereo</stereo>
+    </audio>
     <rating system="NZ">
       <value>G</value>
     </rating>
@@ -7418,16 +6534,21 @@
   <programme start="20261105160000 +0000" stop="20261105170000 +0000" channel="mjh-al-jazeera">
     <title>Newshour</title>
     <desc>Latest news and in-depth analysis from around the world.</desc>
-    <category>News/Current Affairs</category>
+    <category>News</category>
     <orig-language>English</orig-language>
     <icon src="https://images.skyone.co.nz/mac/479214/DAM/35ECB47A-E047-45F6-89C7EA8A6D6B512C.jpg"/>
     <country>Canada</country>
     <episode-num system="dd_progid">EPmac_sh_ptc990239023.mac_ptc446013878</episode-num>
     <episode-num system="themoviedb.org">series/42300</episode-num>
-    <episode-num system="original-air-date">2026-11-05 16:00:00</episode-num>
+    <episode-num system="original-air-date">2026-10-29 12:03:12</episode-num>
     <video>
-      <quality>HDTV</quality>
+      <present>yes</present>
+      <quality>SDTV</quality>
     </video>
+    <audio>
+      <present>yes</present>
+      <stereo>stereo</stereo>
+    </audio>
     <rating system="NZ">
       <value>G</value>
     </rating>
@@ -7442,13 +6563,19 @@
     <title>News Live</title>
     <desc>Up-to-date news and analysis from around the world.</desc>
     <date>2026</date>
-    <category>News/Current Affairs</category>
+    <category>News</category>
     <icon src="https://images.skyone.co.nz/mac/479214/DAM/93DF9CAC-656A-4B35-A96BE5E690FA2AAA.jpg"/>
     <episode-num system="dd_progid">EPmac_sh_ptc1037923899.mac_ptc294123345</episode-num>
-    <episode-num system="original-air-date">2026-11-05 17:00:00</episode-num>
+    <episode-num system="original-air-date">2026-10-29 12:03:12</episode-num>
     <video>
-      <quality>HDTV</quality>
+      <present>yes</present>
+      <quality>SDTV</quality>
     </video>
+    <audio>
+      <present>yes</present>
+      <stereo>stereo</stereo>
+    </audio>
+    <live/>
     <rating system="NZ">
       <value>G</value>
     </rating>
@@ -7459,13 +6586,19 @@
     <title>Inside Story</title>
     <desc>Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds from around the globe.</desc>
     <date>2026</date>
-    <category>News/Current Affairs</category>
+    <category>News</category>
     <icon src="https://images.skyone.co.nz/mac/479214/DAM/49BDDDF0-BF67-4534-928FDD8D60919D77.jpg"/>
-    <episode-num system="dd_progid">EPmac_sh_ptc313063015.mac_ptc971658558</episode-num>
-    <episode-num system="original-air-date">2026-11-05 17:30:00</episode-num>
+    <episode-num system="dd_progid">EP/15241971./59300367</episode-num>
+    <episode-num system="xmltv_ns">0.1491.0</episode-num>
+    <episode-num system="original-air-date">2026-10-29 12:03:12</episode-num>
     <video>
-      <quality>HDTV</quality>
+      <present>yes</present>
+      <quality>SDTV</quality>
     </video>
+    <audio>
+      <present>yes</present>
+      <stereo>stereo</stereo>
+    </audio>
     <rating system="NZ">
       <value>G</value>
     </rating>
@@ -7476,16 +6609,21 @@
   <programme start="20261105180000 +0000" stop="20261105190000 +0000" channel="mjh-al-jazeera">
     <title>Newshour</title>
     <desc>Latest news and in-depth analysis from around the world.</desc>
-    <category>News/Current Affairs</category>
+    <category>News</category>
     <orig-language>English</orig-language>
     <icon src="https://images.skyone.co.nz/mac/479214/DAM/35ECB47A-E047-45F6-89C7EA8A6D6B512C.jpg"/>
     <country>Canada</country>
     <episode-num system="dd_progid">EPmac_sh_ptc990239023.mac_ptc291965381</episode-num>
     <episode-num system="themoviedb.org">series/42300</episode-num>
-    <episode-num system="original-air-date">2026-11-05 18:00:00</episode-num>
+    <episode-num system="original-air-date">2026-10-29 12:03:12</episode-num>
     <video>
-      <quality>HDTV</quality>
+      <present>yes</present>
+      <quality>SDTV</quality>
     </video>
+    <audio>
+      <present>yes</present>
+      <stereo>stereo</stereo>
+    </audio>
     <rating system="NZ">
       <value>G</value>
     </rating>
@@ -7499,16 +6637,21 @@
   <programme start="20261105190000 +0000" stop="20261105200000 +0000" channel="mjh-al-jazeera">
     <title>Newshour</title>
     <desc>Latest news and in-depth analysis from around the world.</desc>
-    <category>News/Current Affairs</category>
+    <category>News</category>
     <orig-language>English</orig-language>
     <icon src="https://images.skyone.co.nz/mac/479214/DAM/35ECB47A-E047-45F6-89C7EA8A6D6B512C.jpg"/>
     <country>Canada</country>
     <episode-num system="dd_progid">EPmac_sh_ptc990239023.mac_ptc1724940225</episode-num>
     <episode-num system="themoviedb.org">series/42300</episode-num>
-    <episode-num system="original-air-date">2026-11-05 19:00:00</episode-num>
+    <episode-num system="original-air-date">2026-10-29 12:03:12</episode-num>
     <video>
-      <quality>HDTV</quality>
+      <present>yes</present>
+      <quality>SDTV</quality>
     </video>
+    <audio>
+      <present>yes</present>
+      <stereo>stereo</stereo>
+    </audio>
     <rating system="NZ">
       <value>G</value>
     </rating>
@@ -7522,33 +6665,44 @@
   <programme start="20261105200000 +0000" stop="20261105210000 +0000" channel="mjh-al-jazeera">
     <title>Who Killed Shireen?</title>
     <desc>An investigation into the murder of Al Jazeera journalist Shireen Abu Akleh uncovers new evidence as well as a cover-up by the Israeli and American governments.</desc>
-    <category>News/Current Affairs</category>
+    <date>2025</date>
+    <category>Documentary</category>
     <icon src="https://images.skyone.co.nz/mac/479214/DAM/BACA3250-7F2A-4593-80B4C09F20E29456.jpg"/>
     <episode-num system="dd_progid">EPmac_sh_ptc350985907.mac_ptc731395745</episode-num>
-    <episode-num system="original-air-date">2026-11-05 20:00:00</episode-num>
+    <episode-num system="original-air-date">2026-10-29 12:03:12</episode-num>
     <video>
-      <quality>HDTV</quality>
+      <present>yes</present>
+      <quality>SDTV</quality>
     </video>
+    <audio>
+      <present>yes</present>
+      <stereo>stereo</stereo>
+    </audio>
     <rating system="NZ">
-      <value>G</value>
+      <value>G-CV</value>
     </rating>
     <image type="poster" size="3" orient="P">https://images.skyone.co.nz/mac/479214/DAM/BACA3250-7F2A-4593-80B4C09F20E29456.jpg</image>
     <image type="backdrop" size="3" orient="L">https://images.skyone.co.nz/mac/479214/DAM/292B6955-4106-4AD2-940826A0410D14E4.jpg</image>
-    <image type="still" size="3" orient="L">https://images.skyone.co.nz/mac/479214/DAM/D24155EA-AD81-4D6F-95793A880AACC8A1.jpg</image>
+    <image type="still" size="3" orient="L">https://img-store-prod.switch.tv/images/91490fc5-f656-4ec5-86ad-6b125dce7947/WhoKilledShireen_2_6_1777569370847_0.jpg</image>
   </programme>
   <programme start="20261105210000 +0000" stop="20261105220000 +0000" channel="mjh-al-jazeera">
     <title>Newshour</title>
     <desc>Latest news and in-depth analysis from around the world.</desc>
-    <category>News/Current Affairs</category>
+    <category>News</category>
     <orig-language>English</orig-language>
     <icon src="https://images.skyone.co.nz/mac/479214/DAM/35ECB47A-E047-45F6-89C7EA8A6D6B512C.jpg"/>
     <country>Canada</country>
     <episode-num system="dd_progid">EPmac_sh_ptc990239023.mac_ptc160908449</episode-num>
     <episode-num system="themoviedb.org">series/42300</episode-num>
-    <episode-num system="original-air-date">2026-11-05 21:00:00</episode-num>
+    <episode-num system="original-air-date">2026-10-29 12:03:12</episode-num>
     <video>
-      <quality>HDTV</quality>
+      <present>yes</present>
+      <quality>SDTV</quality>
     </video>
+    <audio>
+      <present>yes</present>
+      <stereo>stereo</stereo>
+    </audio>
     <rating system="NZ">
       <value>G</value>
     </rating>
@@ -7563,13 +6717,19 @@
     <title>News Live</title>
     <desc>Up-to-date news and analysis from around the world.</desc>
     <date>2026</date>
-    <category>News/Current Affairs</category>
+    <category>News</category>
     <icon src="https://images.skyone.co.nz/mac/479214/DAM/93DF9CAC-656A-4B35-A96BE5E690FA2AAA.jpg"/>
     <episode-num system="dd_progid">EPmac_sh_ptc1037923899.mac_ptc1302416765</episode-num>
-    <episode-num system="original-air-date">2026-11-05 22:00:00</episode-num>
+    <episode-num system="original-air-date">2026-10-29 12:03:12</episode-num>
     <video>
-      <quality>HDTV</quality>
+      <present>yes</present>
+      <quality>SDTV</quality>
     </video>
+    <audio>
+      <present>yes</present>
+      <stereo>stereo</stereo>
+    </audio>
+    <live/>
     <rating system="NZ">
       <value>G</value>
     </rating>
@@ -7578,15 +6738,20 @@
   </programme>
   <programme start="20261105223000 +0000" stop="20261105230000 +0000" channel="mjh-al-jazeera">
     <title>101 East</title>
-    <desc>101 East reports on the people and events shaping the Asia Pacific region.                  .</desc>
+    <desc>101 East reports on the people and events shaping the Asia Pacific region. .</desc>
     <date>2026</date>
-    <category>News/Current Affairs</category>
+    <category>News</category>
     <icon src="https://images.skyone.co.nz/mac/479214/DAM/627032A1-C585-48AC-A44597D1C0CC4F17.jpg"/>
-    <episode-num system="dd_progid">EPmac_sh_ptc1615403645.mac_ptc403521772</episode-num>
-    <episode-num system="original-air-date">2026-11-05 22:30:00</episode-num>
+    <episode-num system="dd_progid">EP/15085136./59300501</episode-num>
+    <episode-num system="original-air-date">2026-10-25 11:51:33</episode-num>
     <video>
-      <quality>HDTV</quality>
+      <present>yes</present>
+      <quality>SDTV</quality>
     </video>
+    <audio>
+      <present>yes</present>
+      <stereo>stereo</stereo>
+    </audio>
     <rating system="NZ">
       <value>G</value>
     </rating>
@@ -7598,13 +6763,19 @@
     <title>News Live</title>
     <desc>Up-to-date news and analysis from around the world.</desc>
     <date>2026</date>
-    <category>News/Current Affairs</category>
+    <category>News</category>
     <icon src="https://images.skyone.co.nz/mac/479214/DAM/93DF9CAC-656A-4B35-A96BE5E690FA2AAA.jpg"/>
     <episode-num system="dd_progid">EPmac_sh_ptc1037923899.mac_ptc470767916</episode-num>
-    <episode-num system="original-air-date">2026-11-05 23:00:00</episode-num>
+    <episode-num system="original-air-date">2026-10-29 12:03:12</episode-num>
     <video>
-      <quality>HDTV</quality>
+      <present>yes</present>
+      <quality>SDTV</quality>
     </video>
+    <audio>
+      <present>yes</present>
+      <stereo>stereo</stereo>
+    </audio>
+    <live/>
     <rating system="NZ">
       <value>G</value>
     </rating>
@@ -7615,13 +6786,19 @@
     <title>Inside Story</title>
     <desc>Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds from around the globe.</desc>
     <date>2026</date>
-    <category>News/Current Affairs</category>
+    <category>News</category>
     <icon src="https://images.skyone.co.nz/mac/479214/DAM/49BDDDF0-BF67-4534-928FDD8D60919D77.jpg"/>
-    <episode-num system="dd_progid">EPmac_sh_ptc313063015.mac_ptc524247625</episode-num>
-    <episode-num system="original-air-date">2026-11-05 23:30:00</episode-num>
+    <episode-num system="dd_progid">EP/15241971./59300367</episode-num>
+    <episode-num system="xmltv_ns">0.1491.0</episode-num>
+    <episode-num system="original-air-date">2026-10-29 12:03:12</episode-num>
     <video>
-      <quality>HDTV</quality>
+      <present>yes</present>
+      <quality>SDTV</quality>
     </video>
+    <audio>
+      <present>yes</present>
+      <stereo>stereo</stereo>
+    </audio>
     <rating system="NZ">
       <value>G</value>
     </rating>
@@ -7632,16 +6809,21 @@
   <programme start="20261106000000 +0000" stop="20261106010000 +0000" channel="mjh-al-jazeera">
     <title>Newshour</title>
     <desc>Latest news and in-depth analysis from around the world.</desc>
-    <category>News/Current Affairs</category>
+    <category>News</category>
     <orig-language>English</orig-language>
     <icon src="https://images.skyone.co.nz/mac/479214/DAM/35ECB47A-E047-45F6-89C7EA8A6D6B512C.jpg"/>
     <country>Canada</country>
     <episode-num system="dd_progid">EPmac_sh_ptc990239023.mac_ptc760186033</episode-num>
     <episode-num system="themoviedb.org">series/42300</episode-num>
-    <episode-num system="original-air-date">2026-11-06 00:00:00</episode-num>
+    <episode-num system="original-air-date">2026-10-29 12:03:12</episode-num>
     <video>
-      <quality>HDTV</quality>
+      <present>yes</present>
+      <quality>SDTV</quality>
     </video>
+    <audio>
+      <present>yes</present>
+      <stereo>stereo</stereo>
+    </audio>
     <rating system="NZ">
       <value>G</value>
     </rating>
@@ -7656,15 +6838,20 @@
     <title>Witness</title>
     <desc>Two young horse herders revive Mongolia's most dangerous winter ritual in a last-ditch attempt to save their community's ancient way of life.</desc>
     <date>2026</date>
-    <category>News/Current Affairs</category>
+    <category>News</category>
     <icon src="https://images.skyone.co.nz/mac/479214/DAM/78B0C2F6-2D69-4594-B496FBB64ADB6673.jpg"/>
-    <episode-num system="dd_progid">EPmac_sh_ptc2040583745.mac_ptc1378231591</episode-num>
-    <episode-num system="original-air-date">2026-11-06 01:00:00</episode-num>
+    <episode-num system="dd_progid">EP/15473906./59300362</episode-num>
+    <episode-num system="original-air-date">2026-10-28 12:02:42</episode-num>
     <video>
-      <quality>HDTV</quality>
+      <present>yes</present>
+      <quality>SDTV</quality>
     </video>
+    <audio>
+      <present>yes</present>
+      <stereo>stereo</stereo>
+    </audio>
     <rating system="NZ">
-      <value>G</value>
+      <value>G-CV</value>
     </rating>
     <image type="poster" size="3" orient="P">https://images.skyone.co.nz/mac/479214/DAM/78B0C2F6-2D69-4594-B496FBB64ADB6673.jpg</image>
     <image type="backdrop" size="3" orient="L">https://images.skyone.co.nz/mac/479214/DAM/6C186010-BEEA-4E0D-950AA2E9D68CB807.jpg</image>
@@ -7673,16 +6860,21 @@
   <programme start="20261106020000 +0000" stop="20261106030000 +0000" channel="mjh-al-jazeera">
     <title>Newshour</title>
     <desc>Latest news and in-depth analysis from around the world.</desc>
-    <category>News/Current Affairs</category>
+    <category>News</category>
     <orig-language>English</orig-language>
     <icon src="https://images.skyone.co.nz/mac/479214/DAM/35ECB47A-E047-45F6-89C7EA8A6D6B512C.jpg"/>
     <country>Canada</country>
     <episode-num system="dd_progid">EPmac_sh_ptc990239023.mac_ptc87129869</episode-num>
     <episode-num system="themoviedb.org">series/42300</episode-num>
-    <episode-num system="original-air-date">2026-11-06 02:00:00</episode-num>
+    <episode-num system="original-air-date">2026-10-29 12:03:12</episode-num>
     <video>
-      <quality>HDTV</quality>
+      <present>yes</present>
+      <quality>SDTV</quality>
     </video>
+    <audio>
+      <present>yes</present>
+      <stereo>stereo</stereo>
+    </audio>
     <rating system="NZ">
       <value>G</value>
     </rating>
@@ -7697,13 +6889,19 @@
     <title>News Live</title>
     <desc>Up-to-date news and analysis from around the world.</desc>
     <date>2026</date>
-    <category>News/Current Affairs</category>
+    <category>News</category>
     <icon src="https://images.skyone.co.nz/mac/479214/DAM/93DF9CAC-656A-4B35-A96BE5E690FA2AAA.jpg"/>
     <episode-num system="dd_progid">EPmac_sh_ptc1037923899.mac_ptc1619125542</episode-num>
-    <episode-num system="original-air-date">2026-11-06 03:00:00</episode-num>
+    <episode-num system="original-air-date">2026-10-29 12:03:12</episode-num>
     <video>
-      <quality>HDTV</quality>
+      <present>yes</present>
+      <quality>SDTV</quality>
     </video>
+    <audio>
+      <present>yes</present>
+      <stereo>stereo</stereo>
+    </audio>
+    <live/>
     <rating system="NZ">
       <value>G</value>
     </rating>
@@ -7714,22 +6912,21 @@
     <title>Fault Lines</title>
     <desc>Fault Lines investigates evidence of torture, starvation and sexual abuse of Palestinians inside Israeli prisons.</desc>
     <date>2026</date>
-    <category>News/Current Affairs</category>
-    <orig-language>English</orig-language>
+    <category>News</category>
     <icon src="https://images.skyone.co.nz/mac/479214/DAM/C8699CFE-0399-4211-B95263F557320B75.jpg"/>
-    <country>United States of America</country>
-    <episode-num system="dd_progid">EPmac_sh_ptc515160971.mac_ptc1082937404</episode-num>
-    <episode-num system="themoviedb.org">series/250304</episode-num>
-    <episode-num system="original-air-date">2026-11-06 03:30:00</episode-num>
+    <episode-num system="dd_progid">EP/22552425./58489854</episode-num>
+    <episode-num system="original-air-date">2026-07-03 13:11:44</episode-num>
     <video>
-      <quality>HDTV</quality>
+      <present>yes</present>
+      <quality>SDTV</quality>
     </video>
+    <audio>
+      <present>yes</present>
+      <stereo>stereo</stereo>
+    </audio>
     <rating system="NZ">
-      <value>G</value>
+      <value>G-CV</value>
     </rating>
-    <star-rating>
-      <value>0.0/10</value>
-    </star-rating>
     <image type="poster" size="3" orient="P">https://images.skyone.co.nz/mac/479214/DAM/C8699CFE-0399-4211-B95263F557320B75.jpg</image>
     <image type="backdrop" size="3" orient="L">https://img-store-prod.switch.tv/images/25861609-26ce-4c8d-90d6-f59167385634/faultlines_showcard.jpg</image>
     <image type="still" size="3" orient="L">https://images.skyone.co.nz/mac/479214/DAM/32842543-DFFF-471A-816FC84F2ACF1810.jpg</image>
@@ -7738,13 +6935,19 @@
     <title>News Live</title>
     <desc>Up-to-date news and analysis from around the world.</desc>
     <date>2026</date>
-    <category>News/Current Affairs</category>
+    <category>News</category>
     <icon src="https://images.skyone.co.nz/mac/479214/DAM/93DF9CAC-656A-4B35-A96BE5E690FA2AAA.jpg"/>
     <episode-num system="dd_progid">EPmac_sh_ptc1037923899.mac_ptc1884184874</episode-num>
-    <episode-num system="original-air-date">2026-11-06 04:00:00</episode-num>
+    <episode-num system="original-air-date">2026-10-29 12:03:12</episode-num>
     <video>
-      <quality>HDTV</quality>
+      <present>yes</present>
+      <quality>SDTV</quality>
     </video>
+    <audio>
+      <present>yes</present>
+      <stereo>stereo</stereo>
+    </audio>
+    <live/>
     <rating system="NZ">
       <value>G</value>
     </rating>
@@ -7755,13 +6958,18 @@
     <title>The Population Bust</title>
     <desc>Japan's population is ageing and plummeting what is the impact are the consequences of a world where age outpaces birth.</desc>
     <date>2026</date>
-    <category>News/Current Affairs</category>
+    <category>Documentary</category>
     <icon src="https://images.skyone.co.nz/mac/479214/DAM/09F3C1F9-A2A4-4CB9-B7B0834813623FF8.jpg"/>
-    <episode-num system="dd_progid">EPmac_sh_ptc1336794033.mac_ptc1329486236</episode-num>
-    <episode-num system="original-air-date">2026-11-06 04:30:00</episode-num>
+    <episode-num system="dd_progid">EP/57776095./57817372</episode-num>
+    <episode-num system="original-air-date">2026-10-25 11:51:33</episode-num>
     <video>
-      <quality>HDTV</quality>
+      <present>yes</present>
+      <quality>SDTV</quality>
     </video>
+    <audio>
+      <present>yes</present>
+      <stereo>stereo</stereo>
+    </audio>
     <rating system="NZ">
       <value>G</value>
     </rating>
@@ -7773,13 +6981,19 @@
     <title>News Live</title>
     <desc>Up-to-date news and analysis from around the world.</desc>
     <date>2026</date>
-    <category>News/Current Affairs</category>
+    <category>News</category>
     <icon src="https://images.skyone.co.nz/mac/479214/DAM/93DF9CAC-656A-4B35-A96BE5E690FA2AAA.jpg"/>
     <episode-num system="dd_progid">EPmac_sh_ptc1037923899.mac_ptc1556265909</episode-num>
-    <episode-num system="original-air-date">2026-11-06 05:00:00</episode-num>
+    <episode-num system="original-air-date">2026-10-29 12:03:12</episode-num>
     <video>
-      <quality>HDTV</quality>
+      <present>yes</present>
+      <quality>SDTV</quality>
     </video>
+    <audio>
+      <present>yes</present>
+      <stereo>stereo</stereo>
+    </audio>
+    <live/>
     <rating system="NZ">
       <value>G</value>
     </rating>
@@ -7790,13 +7004,19 @@
     <title>Inside Story</title>
     <desc>Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds from around the globe.</desc>
     <date>2026</date>
-    <category>News/Current Affairs</category>
+    <category>News</category>
     <icon src="https://images.skyone.co.nz/mac/479214/DAM/49BDDDF0-BF67-4534-928FDD8D60919D77.jpg"/>
-    <episode-num system="dd_progid">EPmac_sh_ptc313063015.mac_ptc1551324627</episode-num>
-    <episode-num system="original-air-date">2026-11-06 05:30:00</episode-num>
+    <episode-num system="dd_progid">EP/15241971./59300367</episode-num>
+    <episode-num system="xmltv_ns">0.1491.0</episode-num>
+    <episode-num system="original-air-date">2026-10-29 12:03:12</episode-num>
     <video>
-      <quality>HDTV</quality>
+      <present>yes</present>
+      <quality>SDTV</quality>
     </video>
+    <audio>
+      <present>yes</present>
+      <stereo>stereo</stereo>
+    </audio>
     <rating system="NZ">
       <value>G</value>
     </rating>
@@ -7808,13 +7028,19 @@
     <title>News Live</title>
     <desc>Up-to-date news and analysis from around the world.</desc>
     <date>2026</date>
-    <category>News/Current Affairs</category>
+    <category>News</category>
     <icon src="https://images.skyone.co.nz/mac/479214/DAM/93DF9CAC-656A-4B35-A96BE5E690FA2AAA.jpg"/>
     <episode-num system="dd_progid">EPmac_sh_ptc1037923899.mac_ptc858588462</episode-num>
-    <episode-num system="original-air-date">2026-11-06 06:00:00</episode-num>
+    <episode-num system="original-air-date">2026-10-29 12:03:12</episode-num>
     <video>
-      <quality>HDTV</quality>
+      <present>yes</present>
+      <quality>SDTV</quality>
     </video>
+    <audio>
+      <present>yes</present>
+      <stereo>stereo</stereo>
+    </audio>
+    <live/>
     <rating system="NZ">
       <value>G</value>
     </rating>
@@ -7824,14 +7050,19 @@
   <programme start="20261106063000 +0000" stop="20261106070000 +0000" channel="mjh-al-jazeera">
     <title>Witness</title>
     <desc>A young Indonesian Indigenous leader makes bold plans to protect her village from Borneo's wildfires.</desc>
-    <date>2026</date>
-    <category>News/Current Affairs</category>
+    <date>2024</date>
+    <category>Documentary</category>
     <icon src="https://images.skyone.co.nz/mac/479214/DAM/78B0C2F6-2D69-4594-B496FBB64ADB6673.jpg"/>
-    <episode-num system="dd_progid">EPmac_sh_ptc2040583745.mac_ptc1993402279</episode-num>
-    <episode-num system="original-air-date">2026-11-06 06:30:00</episode-num>
+    <episode-num system="dd_progid">EP/15473906./51824746</episode-num>
+    <episode-num system="original-air-date">2026-10-26 11:51:46</episode-num>
     <video>
-      <quality>HDTV</quality>
+      <present>yes</present>
+      <quality>SDTV</quality>
     </video>
+    <audio>
+      <present>yes</present>
+      <stereo>stereo</stereo>
+    </audio>
     <rating system="NZ">
       <value>G</value>
     </rating>
@@ -7842,16 +7073,21 @@
   <programme start="20261106070000 +0000" stop="20261106080000 +0000" channel="mjh-al-jazeera">
     <title>Newshour</title>
     <desc>Latest news and in-depth analysis from around the world.</desc>
-    <category>News/Current Affairs</category>
+    <category>News</category>
     <orig-language>English</orig-language>
     <icon src="https://images.skyone.co.nz/mac/479214/DAM/35ECB47A-E047-45F6-89C7EA8A6D6B512C.jpg"/>
     <country>Canada</country>
     <episode-num system="dd_progid">EPmac_sh_ptc990239023.mac_ptc1501839591</episode-num>
     <episode-num system="themoviedb.org">series/42300</episode-num>
-    <episode-num system="original-air-date">2026-11-06 07:00:00</episode-num>
+    <episode-num system="original-air-date">2026-10-29 12:03:12</episode-num>
     <video>
-      <quality>HDTV</quality>
+      <present>yes</present>
+      <quality>SDTV</quality>
     </video>
+    <audio>
+      <present>yes</present>
+      <stereo>stereo</stereo>
+    </audio>
     <rating system="NZ">
       <value>G</value>
     </rating>
@@ -7866,13 +7102,19 @@
     <title>News Live</title>
     <desc>Up-to-date news and analysis from around the world.</desc>
     <date>2026</date>
-    <category>News/Current Affairs</category>
+    <category>News</category>
     <icon src="https://images.skyone.co.nz/mac/479214/DAM/93DF9CAC-656A-4B35-A96BE5E690FA2AAA.jpg"/>
     <episode-num system="dd_progid">EPmac_sh_ptc1037923899.mac_ptc1428730377</episode-num>
-    <episode-num system="original-air-date">2026-11-06 08:00:00</episode-num>
+    <episode-num system="original-air-date">2026-10-29 12:03:12</episode-num>
     <video>
-      <quality>HDTV</quality>
+      <present>yes</present>
+      <quality>SDTV</quality>
     </video>
+    <audio>
+      <present>yes</present>
+      <stereo>stereo</stereo>
+    </audio>
+    <live/>
     <rating system="NZ">
       <value>G</value>
     </rating>
@@ -7881,15 +7123,20 @@
   </programme>
   <programme start="20261106083000 +0000" stop="20261106090000 +0000" channel="mjh-al-jazeera">
     <title>Al Jazeera Reels</title>
-    <desc>A new generation of voices takes on major stories in news, culture and technology, bringing unexpected angles, deeper context and distinct perspectives.</desc>
+    <desc>Seven stories explore Lebanon's contradictions — from banks and identity to sectarian power, diaspora, war and the compromises holding it together.</desc>
     <date>2026</date>
-    <category>News/Current Affairs</category>
+    <category>Documentary</category>
     <icon src="https://images.nzxmltv.com/posters/al-jazeera-reels_aljazeera.jpg"/>
-    <episode-num system="dd_progid">EPmac_sh_ptc666821143.mac_ptc1668899602</episode-num>
-    <episode-num system="original-air-date">2026-11-06 08:30:00</episode-num>
+    <episode-num system="dd_progid">EP/58609489./59344794</episode-num>
+    <episode-num system="original-air-date">2026-10-25 11:51:33</episode-num>
     <video>
-      <quality>HDTV</quality>
+      <present>yes</present>
+      <quality>SDTV</quality>
     </video>
+    <audio>
+      <present>yes</present>
+      <stereo>stereo</stereo>
+    </audio>
     <rating system="NZ">
       <value>G</value>
     </rating>
@@ -7899,13 +7146,19 @@
     <title>News Live</title>
     <desc>Up-to-date news and analysis from around the world.</desc>
     <date>2026</date>
-    <category>News/Current Affairs</category>
+    <category>News</category>
     <icon src="https://images.skyone.co.nz/mac/479214/DAM/93DF9CAC-656A-4B35-A96BE5E690FA2AAA.jpg"/>
     <episode-num system="dd_progid">EPmac_sh_ptc1037923899.mac_ptc513789890</episode-num>
-    <episode-num system="original-air-date">2026-11-06 09:00:00</episode-num>
+    <episode-num system="original-air-date">2026-10-29 12:03:12</episode-num>
     <video>
-      <quality>HDTV</quality>
+      <present>yes</present>
+      <quality>SDTV</quality>
     </video>
+    <audio>
+      <present>yes</present>
+      <stereo>stereo</stereo>
+    </audio>
+    <live/>
     <rating system="NZ">
       <value>G</value>
     </rating>
@@ -7914,15 +7167,20 @@
   </programme>
   <programme start="20261106093000 +0000" stop="20261106100000 +0000" channel="mjh-al-jazeera">
     <title>101 East</title>
-    <desc>101 East reports on the people and events shaping the Asia Pacific region.                  .</desc>
+    <desc>101 East reports on the people and events shaping the Asia Pacific region. .</desc>
     <date>2026</date>
-    <category>News/Current Affairs</category>
+    <category>News</category>
     <icon src="https://images.skyone.co.nz/mac/479214/DAM/627032A1-C585-48AC-A44597D1C0CC4F17.jpg"/>
-    <episode-num system="dd_progid">EPmac_sh_ptc1615403645.mac_ptc1390047724</episode-num>
-    <episode-num system="original-air-date">2026-11-06 09:30:00</episode-num>
+    <episode-num system="dd_progid">EP/15085136./59300501</episode-num>
+    <episode-num system="original-air-date">2026-10-25 11:51:33</episode-num>
     <video>
-      <quality>HDTV</quality>
+      <present>yes</present>
+      <quality>SDTV</quality>
     </video>
+    <audio>
+      <present>yes</present>
+      <stereo>stereo</stereo>
+    </audio>
     <rating system="NZ">
       <value>G</value>
     </rating>
@@ -7933,16 +7191,21 @@
   <programme start="20261106100000 +0000" stop="20261106110000 +0000" channel="mjh-al-jazeera">
     <title>Newshour</title>
     <desc>Latest news and in-depth analysis from around the world.</desc>
-    <category>News/Current Affairs</category>
+    <category>News</category>
     <orig-language>English</orig-language>
     <icon src="https://images.skyone.co.nz/mac/479214/DAM/35ECB47A-E047-45F6-89C7EA8A6D6B512C.jpg"/>
     <country>Canada</country>
     <episode-num system="dd_progid">EPmac_sh_ptc990239023.mac_ptc417558983</episode-num>
     <episode-num system="themoviedb.org">series/42300</episode-num>
-    <episode-num system="original-air-date">2026-11-06 10:00:00</episode-num>
+    <episode-num system="original-air-date">2026-10-29 12:03:12</episode-num>
     <video>
-      <quality>HDTV</quality>
+      <present>yes</present>
+      <quality>SDTV</quality>
     </video>
+    <audio>
+      <present>yes</present>
+      <stereo>stereo</stereo>
+    </audio>
     <rating system="NZ">
       <value>G</value>
     </rating>
@@ -7991,6 +7254,7 @@
   <programme start="20261106120000 +0000" stop="20261106130000 +0000" channel="mjh-al-jazeera">
     <title>Who Killed Shireen?</title>
     <desc>An investigation into the murder of Al Jazeera journalist Shireen Abu Akleh uncovers new evidence as well as a cover-up by the Israeli and American governments.</desc>
+    <date>2025</date>
     <category>News/Current Affairs</category>
     <icon src="https://images.skyone.co.nz/mac/479214/DAM/BACA3250-7F2A-4593-80B4C09F20E29456.jpg"/>
     <episode-num system="dd_progid">EPmac_sh_ptc350985907.mac_ptc792475746</episode-num>
@@ -8255,7 +7519,7 @@
   <programme start="20261106223000 +0000" stop="20261106230000 +0000" channel="mjh-al-jazeera">
     <title>UpFront</title>
     <desc>Frank, blunt and UpFront, Marc Lamont Hill cuts through the headlines to get to the heart of the matter with influential guests and newsmakers.</desc>
-    <date>2024</date>
+    <date>2026</date>
     <category>News/Current Affairs</category>
     <orig-language>English</orig-language>
     <icon src="https://images.skyone.co.nz/mac/479214/DAM/53D444D2-58DB-46A0-9F5F00A4059AAFE9.jpg"/>
@@ -8273,7 +7537,7 @@
       <value>0.0/10</value>
     </star-rating>
     <image type="poster" size="3" orient="P">https://images.skyone.co.nz/mac/479214/DAM/53D444D2-58DB-46A0-9F5F00A4059AAFE9.jpg</image>
-    <image type="backdrop" size="3" orient="L">https://img-store-prod.switch.tv/images/db119cc3-a2aa-4e34-ac1b-95628583c4d1/PGMST03SKOWEB_30_1704769384758_0.jpg</image>
+    <image type="backdrop" size="3" orient="L">https://img-store-prod.switch.tv/images/9599afc9-e55b-49fc-9883-0ac81dc1bd09/UPFRONTTITLE_30_1683223736480_0.jpg</image>
     <image type="still" size="3" orient="L">https://images.skyone.co.nz/mac/479214/DAM/3B5DAC7D-B0E1-4658-92831437EC7DB7E1.jpg</image>
   </programme>
   <programme start="20261106230000 +0000" stop="20261106233000 +0000" channel="mjh-al-jazeera">
@@ -8337,6 +7601,7 @@
   <programme start="20261107010000 +0000" stop="20261107020000 +0000" channel="mjh-al-jazeera">
     <title>Who Killed Shireen?</title>
     <desc>An investigation into the murder of Al Jazeera journalist Shireen Abu Akleh uncovers new evidence as well as a cover-up by the Israeli and American governments.</desc>
+    <date>2025</date>
     <category>News/Current Affairs</category>
     <icon src="https://images.skyone.co.nz/mac/479214/DAM/BACA3250-7F2A-4593-80B4C09F20E29456.jpg"/>
     <episode-num system="dd_progid">EPmac_sh_ptc350985907.mac_ptc796483997</episode-num>
@@ -8429,7 +7694,7 @@
   <programme start="20261107043000 +0000" stop="20261107050000 +0000" channel="mjh-al-jazeera">
     <title>Witness</title>
     <desc>A young Indonesian Indigenous leader makes bold plans to protect her village from Borneo's wildfires.</desc>
-    <date>2026</date>
+    <date>2024</date>
     <category>News/Current Affairs</category>
     <icon src="https://images.skyone.co.nz/mac/479214/DAM/78B0C2F6-2D69-4594-B496FBB64ADB6673.jpg"/>
     <episode-num system="dd_progid">EPmac_sh_ptc2040583745.mac_ptc652105425</episode-num>
@@ -8598,7 +7863,7 @@
   <programme start="20261107093000 +0000" stop="20261107100000 +0000" channel="mjh-al-jazeera">
     <title>UpFront</title>
     <desc>Frank, blunt and UpFront, Marc Lamont Hill cuts through the headlines to get to the heart of the matter with influential guests and newsmakers.</desc>
-    <date>2024</date>
+    <date>2026</date>
     <category>News/Current Affairs</category>
     <orig-language>English</orig-language>
     <icon src="https://images.skyone.co.nz/mac/479214/DAM/53D444D2-58DB-46A0-9F5F00A4059AAFE9.jpg"/>
@@ -8616,7 +7881,7 @@
       <value>0.0/10</value>
     </star-rating>
     <image type="poster" size="3" orient="P">https://images.skyone.co.nz/mac/479214/DAM/53D444D2-58DB-46A0-9F5F00A4059AAFE9.jpg</image>
-    <image type="backdrop" size="3" orient="L">https://img-store-prod.switch.tv/images/db119cc3-a2aa-4e34-ac1b-95628583c4d1/PGMST03SKOWEB_30_1704769384758_0.jpg</image>
+    <image type="backdrop" size="3" orient="L">https://img-store-prod.switch.tv/images/9599afc9-e55b-49fc-9883-0ac81dc1bd09/UPFRONTTITLE_30_1683223736480_0.jpg</image>
     <image type="still" size="3" orient="L">https://images.skyone.co.nz/mac/479214/DAM/3B5DAC7D-B0E1-4658-92831437EC7DB7E1.jpg</image>
   </programme>
   <programme start="20261107100000 +0000" stop="20261107110000 +0000" channel="mjh-al-jazeera">
@@ -8911,7 +8176,7 @@
   <programme start="20261107200000 +0000" stop="20261107210000 +0000" channel="mjh-al-jazeera">
     <title>Witness</title>
     <desc>Two young horse herders revive Mongolia's most dangerous winter ritual in a last-ditch attempt to save their community's ancient way of life.</desc>
-    <date>2026</date>
+    <date>2024</date>
     <category>News/Current Affairs</category>
     <icon src="https://images.skyone.co.nz/mac/479214/DAM/78B0C2F6-2D69-4594-B496FBB64ADB6673.jpg"/>
     <episode-num system="dd_progid">EPmac_sh_ptc2040583745.mac_ptc494096467</episode-num>
@@ -9101,7 +8366,7 @@
   <programme start="20261108033000 +0000" stop="20261108040000 +0000" channel="mjh-al-jazeera">
     <title>UpFront</title>
     <desc>Frank, blunt and UpFront, Marc Lamont Hill cuts through the headlines to get to the heart of the matter with influential guests and newsmakers.</desc>
-    <date>2024</date>
+    <date>2026</date>
     <category>News/Current Affairs</category>
     <orig-language>English</orig-language>
     <icon src="https://images.skyone.co.nz/mac/479214/DAM/53D444D2-58DB-46A0-9F5F00A4059AAFE9.jpg"/>
@@ -9119,7 +8384,7 @@
       <value>0.0/10</value>
     </star-rating>
     <image type="poster" size="3" orient="P">https://images.skyone.co.nz/mac/479214/DAM/53D444D2-58DB-46A0-9F5F00A4059AAFE9.jpg</image>
-    <image type="backdrop" size="3" orient="L">https://img-store-prod.switch.tv/images/db119cc3-a2aa-4e34-ac1b-95628583c4d1/PGMST03SKOWEB_30_1704769384758_0.jpg</image>
+    <image type="backdrop" size="3" orient="L">https://img-store-prod.switch.tv/images/9599afc9-e55b-49fc-9883-0ac81dc1bd09/UPFRONTTITLE_30_1683223736480_0.jpg</image>
     <image type="still" size="3" orient="L">https://images.skyone.co.nz/mac/479214/DAM/3B5DAC7D-B0E1-4658-92831437EC7DB7E1.jpg</image>
   </programme>
   <programme start="20261108040000 +0000" stop="20261108043000 +0000" channel="mjh-al-jazeera">
@@ -9602,6 +8867,7 @@
   <programme start="20261108200000 +0000" stop="20261108210000 +0000" channel="mjh-al-jazeera">
     <title>Who Killed Shireen?</title>
     <desc>An investigation into the murder of Al Jazeera journalist Shireen Abu Akleh uncovers new evidence as well as a cover-up by the Israeli and American governments.</desc>
+    <date>2025</date>
     <category>News/Current Affairs</category>
     <icon src="https://images.skyone.co.nz/mac/479214/DAM/BACA3250-7F2A-4593-80B4C09F20E29456.jpg"/>
     <episode-num system="dd_progid">EPmac_sh_ptc350985907.mac_ptc357009076</episode-num>
@@ -9735,7 +9001,7 @@
   <programme start="20261109010000 +0000" stop="20261109020000 +0000" channel="mjh-al-jazeera">
     <title>Witness</title>
     <desc>Two young horse herders revive Mongolia's most dangerous winter ritual in a last-ditch attempt to save their community's ancient way of life.</desc>
-    <date>2026</date>
+    <date>2024</date>
     <category>News/Current Affairs</category>
     <icon src="https://images.skyone.co.nz/mac/479214/DAM/78B0C2F6-2D69-4594-B496FBB64ADB6673.jpg"/>
     <episode-num system="dd_progid">EPmac_sh_ptc2040583745.mac_ptc516126957</episode-num>
@@ -10067,6 +9333,7 @@
   <programme start="20261109120000 +0000" stop="20261109130000 +0000" channel="mjh-al-jazeera">
     <title>Who Killed Shireen?</title>
     <desc>An investigation into the murder of Al Jazeera journalist Shireen Abu Akleh uncovers new evidence as well as a cover-up by the Israeli and American governments.</desc>
+    <date>2025</date>
     <category>News/Current Affairs</category>
     <icon src="https://images.skyone.co.nz/mac/479214/DAM/BACA3250-7F2A-4593-80B4C09F20E29456.jpg"/>
     <episode-num system="dd_progid">EPmac_sh_ptc350985907.mac_ptc2117544995</episode-num>
@@ -10182,7 +9449,7 @@
   <programme start="20261109163000 +0000" stop="20261109170000 +0000" channel="mjh-al-jazeera">
     <title>UpFront</title>
     <desc>Frank, blunt and UpFront, Marc Lamont Hill cuts through the headlines to get to the heart of the matter with influential guests and newsmakers.</desc>
-    <date>2024</date>
+    <date>2026</date>
     <category>News/Current Affairs</category>
     <orig-language>English</orig-language>
     <icon src="https://images.skyone.co.nz/mac/479214/DAM/53D444D2-58DB-46A0-9F5F00A4059AAFE9.jpg"/>
@@ -10200,7 +9467,7 @@
       <value>0.0/10</value>
     </star-rating>
     <image type="poster" size="3" orient="P">https://images.skyone.co.nz/mac/479214/DAM/53D444D2-58DB-46A0-9F5F00A4059AAFE9.jpg</image>
-    <image type="backdrop" size="3" orient="L">https://img-store-prod.switch.tv/images/db119cc3-a2aa-4e34-ac1b-95628583c4d1/PGMST03SKOWEB_30_1704769384758_0.jpg</image>
+    <image type="backdrop" size="3" orient="L">https://img-store-prod.switch.tv/images/9599afc9-e55b-49fc-9883-0ac81dc1bd09/UPFRONTTITLE_30_1683223736480_0.jpg</image>
     <image type="still" size="3" orient="L">https://images.skyone.co.nz/mac/479214/DAM/3B5DAC7D-B0E1-4658-92831437EC7DB7E1.jpg</image>
   </programme>
   <programme start="20261109170000 +0000" stop="20261109173000 +0000" channel="mjh-al-jazeera">
@@ -10353,7 +9620,7 @@
   <programme start="20261109223000 +0000" stop="20261109230000 +0000" channel="mjh-al-jazeera">
     <title>Witness</title>
     <desc>A father confronts the environmental damage from years of war in Afghanistan and questions if he can ever return to the village he once called home.</desc>
-    <date>2026</date>
+    <date>2024</date>
     <category>News/Current Affairs</category>
     <icon src="https://images.skyone.co.nz/mac/479214/DAM/78B0C2F6-2D69-4594-B496FBB64ADB6673.jpg"/>
     <episode-num system="dd_progid">EPmac_sh_ptc2040583745.mac_ptc982148977</episode-num>
@@ -10429,6 +9696,7 @@
   <programme start="20261110010000 +0000" stop="20261110020000 +0000" channel="mjh-al-jazeera">
     <title>Who Killed Shireen?</title>
     <desc>An investigation into the murder of Al Jazeera journalist Shireen Abu Akleh uncovers new evidence as well as a cover-up by the Israeli and American governments.</desc>
+    <date>2025</date>
     <category>News/Current Affairs</category>
     <icon src="https://images.skyone.co.nz/mac/479214/DAM/BACA3250-7F2A-4593-80B4C09F20E29456.jpg"/>
     <episode-num system="dd_progid">EPmac_sh_ptc350985907.mac_ptc1673467150</episode-num>
@@ -10591,7 +9859,7 @@
   <programme start="20261110063000 +0000" stop="20261110070000 +0000" channel="mjh-al-jazeera">
     <title>UpFront</title>
     <desc>Frank, blunt and UpFront, Marc Lamont Hill cuts through the headlines to get to the heart of the matter with influential guests and newsmakers.</desc>
-    <date>2024</date>
+    <date>2026</date>
     <category>News/Current Affairs</category>
     <orig-language>English</orig-language>
     <icon src="https://images.skyone.co.nz/mac/479214/DAM/53D444D2-58DB-46A0-9F5F00A4059AAFE9.jpg"/>
@@ -10609,7 +9877,7 @@
       <value>0.0/10</value>
     </star-rating>
     <image type="poster" size="3" orient="P">https://images.skyone.co.nz/mac/479214/DAM/53D444D2-58DB-46A0-9F5F00A4059AAFE9.jpg</image>
-    <image type="backdrop" size="3" orient="L">https://img-store-prod.switch.tv/images/db119cc3-a2aa-4e34-ac1b-95628583c4d1/PGMST03SKOWEB_30_1704769384758_0.jpg</image>
+    <image type="backdrop" size="3" orient="L">https://img-store-prod.switch.tv/images/9599afc9-e55b-49fc-9883-0ac81dc1bd09/UPFRONTTITLE_30_1683223736480_0.jpg</image>
     <image type="still" size="3" orient="L">https://images.skyone.co.nz/mac/479214/DAM/3B5DAC7D-B0E1-4658-92831437EC7DB7E1.jpg</image>
   </programme>
   <programme start="20261110070000 +0000" stop="20261110080000 +0000" channel="mjh-al-jazeera">
@@ -10688,7 +9956,7 @@
   <programme start="20261110093000 +0000" stop="20261110100000 +0000" channel="mjh-al-jazeera">
     <title>Witness</title>
     <desc>A father confronts the environmental damage from years of war in Afghanistan and questions if he can ever return to the village he once called home.</desc>
-    <date>2026</date>
+    <date>2024</date>
     <category>News/Current Affairs</category>
     <icon src="https://images.skyone.co.nz/mac/479214/DAM/78B0C2F6-2D69-4594-B496FBB64ADB6673.jpg"/>
     <episode-num system="dd_progid">EPmac_sh_ptc2040583745.mac_ptc614638885</episode-num>
@@ -10989,7 +10257,7 @@
   <programme start="20261110200000 +0000" stop="20261110210000 +0000" channel="mjh-al-jazeera">
     <title>Al Jazeera World</title>
     <desc>A series of one-hour documentaries showcasing films from across the Al Jazeera Network.</desc>
-    <date>2022</date>
+    <date>2025</date>
     <category>News/Current Affairs</category>
     <icon src="https://images.skyone.co.nz/mac/479214/DAM/E0FD7590-3EC5-4D82-983B989B2F89D5B9.jpg"/>
     <episode-num system="dd_progid">EPmac_sh_ptc664725506.mac_ptc140005747</episode-num>
@@ -11129,6 +10397,7 @@
   <programme start="20261111010000 +0000" stop="20261111020000 +0000" channel="mjh-al-jazeera">
     <title>Who Killed Shireen?</title>
     <desc>An investigation into the murder of Al Jazeera journalist Shireen Abu Akleh uncovers new evidence as well as a cover-up by the Israeli and American governments.</desc>
+    <date>2025</date>
     <category>News/Current Affairs</category>
     <icon src="https://images.skyone.co.nz/mac/479214/DAM/BACA3250-7F2A-4593-80B4C09F20E29456.jpg"/>
     <episode-num system="dd_progid">EPmac_sh_ptc350985907.mac_ptc611041929</episode-num>
@@ -11186,7 +10455,7 @@
   <programme start="20261111033000 +0000" stop="20261111040000 +0000" channel="mjh-al-jazeera">
     <title>Witness</title>
     <desc>A father confronts the environmental damage from years of war in Afghanistan and questions if he can ever return to the village he once called home.</desc>
-    <date>2026</date>
+    <date>2024</date>
     <category>News/Current Affairs</category>
     <icon src="https://images.skyone.co.nz/mac/479214/DAM/78B0C2F6-2D69-4594-B496FBB64ADB6673.jpg"/>
     <episode-num system="dd_progid">EPmac_sh_ptc2040583745.mac_ptc1482156923</episode-num>
@@ -11464,7 +10733,7 @@
   <programme start="20261111120000 +0000" stop="20261111130000 +0000" channel="mjh-al-jazeera">
     <title>Al Jazeera World</title>
     <desc>A series of one-hour documentaries showcasing films from across the Al Jazeera Network.</desc>
-    <date>2022</date>
+    <date>2025</date>
     <category>News/Current Affairs</category>
     <icon src="https://images.skyone.co.nz/mac/479214/DAM/E0FD7590-3EC5-4D82-983B989B2F89D5B9.jpg"/>
     <episode-num system="dd_progid">EPmac_sh_ptc664725506.mac_ptc563854679</episode-num>
@@ -11691,7 +10960,7 @@
   <programme start="20261111200000 +0000" stop="20261111210000 +0000" channel="mjh-al-jazeera">
     <title>Witness</title>
     <desc>Inspirational and provocative stories providing a fresh and informative insight into the world's key events as they impact on the lives of ordinary people.</desc>
-    <date>2026</date>
+    <date>2024</date>
     <category>News/Current Affairs</category>
     <icon src="https://images.skyone.co.nz/mac/479214/DAM/78B0C2F6-2D69-4594-B496FBB64ADB6673.jpg"/>
     <episode-num system="dd_progid">EPmac_sh_ptc2040583745.mac_ptc940253939</episode-num>
@@ -11831,7 +11100,7 @@
   <programme start="20261112010000 +0000" stop="20261112020000 +0000" channel="mjh-al-jazeera">
     <title>Al Jazeera World</title>
     <desc>A series of one-hour documentaries showcasing films from across the Al Jazeera Network.</desc>
-    <date>2022</date>
+    <date>2025</date>
     <category>News/Current Affairs</category>
     <icon src="https://images.skyone.co.nz/mac/479214/DAM/E0FD7590-3EC5-4D82-983B989B2F89D5B9.jpg"/>
     <episode-num system="dd_progid">EPmac_sh_ptc664725506.mac_ptc300060619</episode-num>
@@ -11930,7 +11199,7 @@
   <programme start="20261112043000 +0000" stop="20261112050000 +0000" channel="mjh-al-jazeera">
     <title>UpFront</title>
     <desc>Frank, blunt and UpFront, Marc Lamont Hill cuts through the headlines to get to the heart of the matter with influential guests and newsmakers.</desc>
-    <date>2024</date>
+    <date>2026</date>
     <category>News/Current Affairs</category>
     <orig-language>English</orig-language>
     <icon src="https://images.skyone.co.nz/mac/479214/DAM/53D444D2-58DB-46A0-9F5F00A4059AAFE9.jpg"/>
@@ -11948,7 +11217,7 @@
       <value>0.0/10</value>
     </star-rating>
     <image type="poster" size="3" orient="P">https://images.skyone.co.nz/mac/479214/DAM/53D444D2-58DB-46A0-9F5F00A4059AAFE9.jpg</image>
-    <image type="backdrop" size="3" orient="L">https://img-store-prod.switch.tv/images/db119cc3-a2aa-4e34-ac1b-95628583c4d1/PGMST03SKOWEB_30_1704769384758_0.jpg</image>
+    <image type="backdrop" size="3" orient="L">https://img-store-prod.switch.tv/images/9599afc9-e55b-49fc-9883-0ac81dc1bd09/UPFRONTTITLE_30_1683223736480_0.jpg</image>
     <image type="still" size="3" orient="L">https://images.skyone.co.nz/mac/479214/DAM/3B5DAC7D-B0E1-4658-92831437EC7DB7E1.jpg</image>
   </programme>
   <programme start="20261112050000 +0000" stop="20261112053000 +0000" channel="mjh-al-jazeera">
@@ -12181,7 +11450,7 @@
   <programme start="20261112120000 +0000" stop="20261112130000 +0000" channel="mjh-al-jazeera">
     <title>Witness</title>
     <desc>Inspirational and provocative stories providing a fresh and informative insight into the world's key events as they impact on the lives of ordinary people.</desc>
-    <date>2026</date>
+    <date>2024</date>
     <category>News/Current Affairs</category>
     <icon src="https://images.skyone.co.nz/mac/479214/DAM/78B0C2F6-2D69-4594-B496FBB64ADB6673.jpg"/>
     <episode-num system="dd_progid">EPmac_sh_ptc2040583745.mac_ptc1842992589</episode-num>
@@ -12295,7 +11564,7 @@
   <programme start="20261112163000 +0000" stop="20261112170000 +0000" channel="mjh-al-jazeera">
     <title>Witness</title>
     <desc>A father confronts the environmental damage from years of war in Afghanistan and questions if he can ever return to the village he once called home.</desc>
-    <date>2026</date>
+    <date>2024</date>
     <category>News/Current Affairs</category>
     <icon src="https://images.skyone.co.nz/mac/479214/DAM/78B0C2F6-2D69-4594-B496FBB64ADB6673.jpg"/>
     <episode-num system="dd_progid">EPmac_sh_ptc2040583745.mac_ptc1394363525</episode-num>
@@ -12538,7 +11807,7 @@
   <programme start="20261113010000 +0000" stop="20261113020000 +0000" channel="mjh-al-jazeera">
     <title>Witness</title>
     <desc>Inspirational and provocative stories providing a fresh and informative insight into the world's key events as they impact on the lives of ordinary people.</desc>
-    <date>2026</date>
+    <date>2024</date>
     <category>News/Current Affairs</category>
     <icon src="https://images.skyone.co.nz/mac/479214/DAM/78B0C2F6-2D69-4594-B496FBB64ADB6673.jpg"/>
     <episode-num system="dd_progid">EPmac_sh_ptc2040583745.mac_ptc2071241665</episode-num>
@@ -12707,7 +11976,7 @@
   <programme start="20261113063000 +0000" stop="20261113070000 +0000" channel="mjh-al-jazeera">
     <title>Witness</title>
     <desc>A father confronts the environmental damage from years of war in Afghanistan and questions if he can ever return to the village he once called home.</desc>
-    <date>2026</date>
+    <date>2024</date>
     <category>News/Current Affairs</category>
     <icon src="https://images.skyone.co.nz/mac/479214/DAM/78B0C2F6-2D69-4594-B496FBB64ADB6673.jpg"/>
     <episode-num system="dd_progid">EPmac_sh_ptc2040583745.mac_ptc1293384845</episode-num>
@@ -13111,7 +12380,7 @@
   <programme start="20261113200000 +0000" stop="20261113210000 +0000" channel="mjh-al-jazeera">
     <title>Al Jazeera World</title>
     <desc>A series of one-hour documentaries showcasing films from across the Al Jazeera Network.</desc>
-    <date>2022</date>
+    <date>2025</date>
     <category>News/Current Affairs</category>
     <icon src="https://images.skyone.co.nz/mac/479214/DAM/E0FD7590-3EC5-4D82-983B989B2F89D5B9.jpg"/>
     <episode-num system="dd_progid">EPmac_sh_ptc664725506.mac_ptc610043646</episode-num>
@@ -13169,7 +12438,7 @@
   <programme start="20261113223000 +0000" stop="20261113230000 +0000" channel="mjh-al-jazeera">
     <title>UpFront</title>
     <desc>Frank, blunt and UpFront, Marc Lamont Hill cuts through the headlines to get to the heart of the matter with influential guests and newsmakers.</desc>
-    <date>2024</date>
+    <date>2026</date>
     <category>News/Current Affairs</category>
     <orig-language>English</orig-language>
     <icon src="https://images.skyone.co.nz/mac/479214/DAM/53D444D2-58DB-46A0-9F5F00A4059AAFE9.jpg"/>
@@ -13187,7 +12456,7 @@
       <value>0.0/10</value>
     </star-rating>
     <image type="poster" size="3" orient="P">https://images.skyone.co.nz/mac/479214/DAM/53D444D2-58DB-46A0-9F5F00A4059AAFE9.jpg</image>
-    <image type="backdrop" size="3" orient="L">https://img-store-prod.switch.tv/images/db119cc3-a2aa-4e34-ac1b-95628583c4d1/PGMST03SKOWEB_30_1704769384758_0.jpg</image>
+    <image type="backdrop" size="3" orient="L">https://img-store-prod.switch.tv/images/9599afc9-e55b-49fc-9883-0ac81dc1bd09/UPFRONTTITLE_30_1683223736480_0.jpg</image>
     <image type="still" size="3" orient="L">https://images.skyone.co.nz/mac/479214/DAM/3B5DAC7D-B0E1-4658-92831437EC7DB7E1.jpg</image>
   </programme>
   <programme start="20261113230000 +0000" stop="20261113233000 +0000" channel="mjh-al-jazeera">
@@ -13342,7 +12611,7 @@
   <programme start="20261114043000 +0000" stop="20261114050000 +0000" channel="mjh-al-jazeera">
     <title>Witness</title>
     <desc>A father confronts the environmental damage from years of war in Afghanistan and questions if he can ever return to the village he once called home.</desc>
-    <date>2026</date>
+    <date>2024</date>
     <category>News/Current Affairs</category>
     <icon src="https://images.skyone.co.nz/mac/479214/DAM/78B0C2F6-2D69-4594-B496FBB64ADB6673.jpg"/>
     <episode-num system="dd_progid">EPmac_sh_ptc2040583745.mac_ptc1912386483</episode-num>
@@ -13511,7 +12780,7 @@
   <programme start="20261114093000 +0000" stop="20261114100000 +0000" channel="mjh-al-jazeera">
     <title>UpFront</title>
     <desc>Frank, blunt and UpFront, Marc Lamont Hill cuts through the headlines to get to the heart of the matter with influential guests and newsmakers.</desc>
-    <date>2024</date>
+    <date>2026</date>
     <category>News/Current Affairs</category>
     <orig-language>English</orig-language>
     <icon src="https://images.skyone.co.nz/mac/479214/DAM/53D444D2-58DB-46A0-9F5F00A4059AAFE9.jpg"/>
@@ -13529,7 +12798,7 @@
       <value>0.0/10</value>
     </star-rating>
     <image type="poster" size="3" orient="P">https://images.skyone.co.nz/mac/479214/DAM/53D444D2-58DB-46A0-9F5F00A4059AAFE9.jpg</image>
-    <image type="backdrop" size="3" orient="L">https://img-store-prod.switch.tv/images/db119cc3-a2aa-4e34-ac1b-95628583c4d1/PGMST03SKOWEB_30_1704769384758_0.jpg</image>
+    <image type="backdrop" size="3" orient="L">https://img-store-prod.switch.tv/images/9599afc9-e55b-49fc-9883-0ac81dc1bd09/UPFRONTTITLE_30_1683223736480_0.jpg</image>
     <image type="still" size="3" orient="L">https://images.skyone.co.nz/mac/479214/DAM/3B5DAC7D-B0E1-4658-92831437EC7DB7E1.jpg</image>
   </programme>
   <programme start="20261114100000 +0000" stop="20261114110000 +0000" channel="mjh-al-jazeera">
@@ -13593,7 +12862,7 @@
   <programme start="20261114120000 +0000" stop="20261114130000 +0000" channel="mjh-al-jazeera">
     <title>Al Jazeera World</title>
     <desc>A series of one-hour documentaries showcasing films from across the Al Jazeera Network.</desc>
-    <date>2022</date>
+    <date>2025</date>
     <category>News/Current Affairs</category>
     <icon src="https://images.skyone.co.nz/mac/479214/DAM/E0FD7590-3EC5-4D82-983B989B2F89D5B9.jpg"/>
     <episode-num system="dd_progid">EPmac_sh_ptc664725506.mac_ptc1777937731</episode-num>
@@ -13826,7 +13095,7 @@
   <programme start="20261114200000 +0000" stop="20261114210000 +0000" channel="mjh-al-jazeera">
     <title>Witness</title>
     <desc>Inspirational and provocative stories providing a fresh and informative insight into the world's key events as they impact on the lives of ordinary people.</desc>
-    <date>2026</date>
+    <date>2024</date>
     <category>News/Current Affairs</category>
     <icon src="https://images.skyone.co.nz/mac/479214/DAM/78B0C2F6-2D69-4594-B496FBB64ADB6673.jpg"/>
     <episode-num system="dd_progid">EPmac_sh_ptc2040583745.mac_ptc22039141</episode-num>
@@ -13960,7 +13229,7 @@
   <programme start="20261115010000 +0000" stop="20261115020000 +0000" channel="mjh-al-jazeera">
     <title>Al Jazeera World</title>
     <desc>A series of one-hour documentaries showcasing films from across the Al Jazeera Network.</desc>
-    <date>2022</date>
+    <date>2025</date>
     <category>News/Current Affairs</category>
     <icon src="https://images.skyone.co.nz/mac/479214/DAM/E0FD7590-3EC5-4D82-983B989B2F89D5B9.jpg"/>
     <episode-num system="dd_progid">EPmac_sh_ptc664725506.mac_ptc1822258468</episode-num>
@@ -14018,7 +13287,7 @@
   <programme start="20261115033000 +0000" stop="20261115040000 +0000" channel="mjh-al-jazeera">
     <title>UpFront</title>
     <desc>Frank, blunt and UpFront, Marc Lamont Hill cuts through the headlines to get to the heart of the matter with influential guests and newsmakers.</desc>
-    <date>2024</date>
+    <date>2026</date>
     <category>News/Current Affairs</category>
     <orig-language>English</orig-language>
     <icon src="https://images.skyone.co.nz/mac/479214/DAM/53D444D2-58DB-46A0-9F5F00A4059AAFE9.jpg"/>
@@ -14036,7 +13305,7 @@
       <value>0.0/10</value>
     </star-rating>
     <image type="poster" size="3" orient="P">https://images.skyone.co.nz/mac/479214/DAM/53D444D2-58DB-46A0-9F5F00A4059AAFE9.jpg</image>
-    <image type="backdrop" size="3" orient="L">https://img-store-prod.switch.tv/images/db119cc3-a2aa-4e34-ac1b-95628583c4d1/PGMST03SKOWEB_30_1704769384758_0.jpg</image>
+    <image type="backdrop" size="3" orient="L">https://img-store-prod.switch.tv/images/9599afc9-e55b-49fc-9883-0ac81dc1bd09/UPFRONTTITLE_30_1683223736480_0.jpg</image>
     <image type="still" size="3" orient="L">https://images.skyone.co.nz/mac/479214/DAM/3B5DAC7D-B0E1-4658-92831437EC7DB7E1.jpg</image>
   </programme>
   <programme start="20261115040000 +0000" stop="20261115043000 +0000" channel="mjh-al-jazeera">
@@ -14304,7 +13573,7 @@
   <programme start="20261115120000 +0000" stop="20261115130000 +0000" channel="mjh-al-jazeera">
     <title>Witness</title>
     <desc>Inspirational and provocative stories providing a fresh and informative insight into the world's key events as they impact on the lives of ordinary people.</desc>
-    <date>2026</date>
+    <date>2024</date>
     <category>News/Current Affairs</category>
     <icon src="https://images.skyone.co.nz/mac/479214/DAM/78B0C2F6-2D69-4594-B496FBB64ADB6673.jpg"/>
     <episode-num system="dd_progid">EPmac_sh_ptc2040583745.mac_ptc1394790167</episode-num>
@@ -14669,7 +13938,7 @@
   <programme start="20261116010000 +0000" stop="20261116020000 +0000" channel="mjh-al-jazeera">
     <title>Witness</title>
     <desc>Inspirational and provocative stories providing a fresh and informative insight into the world's key events as they impact on the lives of ordinary people.</desc>
-    <date>2026</date>
+    <date>2024</date>
     <category>News/Current Affairs</category>
     <icon src="https://images.skyone.co.nz/mac/479214/DAM/78B0C2F6-2D69-4594-B496FBB64ADB6673.jpg"/>
     <episode-num system="dd_progid">EPmac_sh_ptc2040583745.mac_ptc686064131</episode-num>
@@ -15114,7 +14383,7 @@
   <programme start="20261116163000 +0000" stop="20261116170000 +0000" channel="mjh-al-jazeera">
     <title>UpFront</title>
     <desc>Frank, blunt and UpFront, Marc Lamont Hill cuts through the headlines to get to the heart of the matter with influential guests and newsmakers.</desc>
-    <date>2024</date>
+    <date>2026</date>
     <category>News/Current Affairs</category>
     <orig-language>English</orig-language>
     <icon src="https://images.skyone.co.nz/mac/479214/DAM/53D444D2-58DB-46A0-9F5F00A4059AAFE9.jpg"/>
@@ -15132,7 +14401,7 @@
       <value>0.0/10</value>
     </star-rating>
     <image type="poster" size="3" orient="P">https://images.skyone.co.nz/mac/479214/DAM/53D444D2-58DB-46A0-9F5F00A4059AAFE9.jpg</image>
-    <image type="backdrop" size="3" orient="L">https://img-store-prod.switch.tv/images/db119cc3-a2aa-4e34-ac1b-95628583c4d1/PGMST03SKOWEB_30_1704769384758_0.jpg</image>
+    <image type="backdrop" size="3" orient="L">https://img-store-prod.switch.tv/images/9599afc9-e55b-49fc-9883-0ac81dc1bd09/UPFRONTTITLE_30_1683223736480_0.jpg</image>
     <image type="still" size="3" orient="L">https://images.skyone.co.nz/mac/479214/DAM/3B5DAC7D-B0E1-4658-92831437EC7DB7E1.jpg</image>
   </programme>
   <programme start="20261116170000 +0000" stop="20261116173000 +0000" channel="mjh-al-jazeera">
@@ -15284,7 +14553,7 @@
   <programme start="20261116223000 +0000" stop="20261116230000 +0000" channel="mjh-al-jazeera">
     <title>Witness</title>
     <desc>Inspirational and provocative stories providing a fresh and informative insight into the world's key events as they impact on the lives of ordinary people.</desc>
-    <date>2026</date>
+    <date>2024</date>
     <category>News/Current Affairs</category>
     <icon src="https://images.skyone.co.nz/mac/479214/DAM/78B0C2F6-2D69-4594-B496FBB64ADB6673.jpg"/>
     <episode-num system="dd_progid">EPmac_sh_ptc2040583745.mac_ptc1280805450</episode-num>
@@ -15520,7 +14789,7 @@
   <programme start="20261117063000 +0000" stop="20261117070000 +0000" channel="mjh-al-jazeera">
     <title>UpFront</title>
     <desc>Frank, blunt and UpFront, Marc Lamont Hill cuts through the headlines to get to the heart of the matter with influential guests and newsmakers.</desc>
-    <date>2024</date>
+    <date>2026</date>
     <category>News/Current Affairs</category>
     <orig-language>English</orig-language>
     <icon src="https://images.skyone.co.nz/mac/479214/DAM/53D444D2-58DB-46A0-9F5F00A4059AAFE9.jpg"/>
@@ -15538,7 +14807,7 @@
       <value>0.0/10</value>
     </star-rating>
     <image type="poster" size="3" orient="P">https://images.skyone.co.nz/mac/479214/DAM/53D444D2-58DB-46A0-9F5F00A4059AAFE9.jpg</image>
-    <image type="backdrop" size="3" orient="L">https://img-store-prod.switch.tv/images/db119cc3-a2aa-4e34-ac1b-95628583c4d1/PGMST03SKOWEB_30_1704769384758_0.jpg</image>
+    <image type="backdrop" size="3" orient="L">https://img-store-prod.switch.tv/images/9599afc9-e55b-49fc-9883-0ac81dc1bd09/UPFRONTTITLE_30_1683223736480_0.jpg</image>
     <image type="still" size="3" orient="L">https://images.skyone.co.nz/mac/479214/DAM/3B5DAC7D-B0E1-4658-92831437EC7DB7E1.jpg</image>
   </programme>
   <programme start="20261117070000 +0000" stop="20261117080000 +0000" channel="mjh-al-jazeera">
@@ -15617,7 +14886,7 @@
   <programme start="20261117093000 +0000" stop="20261117100000 +0000" channel="mjh-al-jazeera">
     <title>Witness</title>
     <desc>Inspirational and provocative stories providing a fresh and informative insight into the world's key events as they impact on the lives of ordinary people.</desc>
-    <date>2026</date>
+    <date>2024</date>
     <category>News/Current Affairs</category>
     <icon src="https://images.skyone.co.nz/mac/479214/DAM/78B0C2F6-2D69-4594-B496FBB64ADB6673.jpg"/>
     <episode-num system="dd_progid">EPmac_sh_ptc2040583745.mac_ptc1618183916</episode-num>
@@ -15917,7 +15186,7 @@
   <programme start="20261117200000 +0000" stop="20261117210000 +0000" channel="mjh-al-jazeera">
     <title>Al Jazeera World</title>
     <desc>A series of one-hour documentaries showcasing films from across the Al Jazeera Network.</desc>
-    <date>2022</date>
+    <date>2025</date>
     <category>News/Current Affairs</category>
     <icon src="https://images.skyone.co.nz/mac/479214/DAM/E0FD7590-3EC5-4D82-983B989B2F89D5B9.jpg"/>
     <episode-num system="dd_progid">EPmac_sh_ptc664725506.mac_ptc1169863158</episode-num>
@@ -16113,7 +15382,7 @@
   <programme start="20261118033000 +0000" stop="20261118040000 +0000" channel="mjh-al-jazeera">
     <title>Witness</title>
     <desc>Inspirational and provocative stories providing a fresh and informative insight into the world's key events as they impact on the lives of ordinary people.</desc>
-    <date>2026</date>
+    <date>2024</date>
     <category>News/Current Affairs</category>
     <icon src="https://images.skyone.co.nz/mac/479214/DAM/78B0C2F6-2D69-4594-B496FBB64ADB6673.jpg"/>
     <episode-num system="dd_progid">EPmac_sh_ptc2040583745.mac_ptc1211337198</episode-num>
@@ -16391,7 +15660,7 @@
   <programme start="20261118120000 +0000" stop="20261118130000 +0000" channel="mjh-al-jazeera">
     <title>Al Jazeera World</title>
     <desc>A series of one-hour documentaries showcasing films from across the Al Jazeera Network.</desc>
-    <date>2022</date>
+    <date>2025</date>
     <category>News/Current Affairs</category>
     <icon src="https://images.skyone.co.nz/mac/479214/DAM/E0FD7590-3EC5-4D82-983B989B2F89D5B9.jpg"/>
     <episode-num system="dd_progid">EPmac_sh_ptc664725506.mac_ptc1769215686</episode-num>
@@ -16618,7 +15887,7 @@
   <programme start="20261118200000 +0000" stop="20261118210000 +0000" channel="mjh-al-jazeera">
     <title>Witness</title>
     <desc>A Yazidi teenager who survived ISIL captivity films herself to process her trauma as rescuers search for her missing family.</desc>
-    <date>2026</date>
+    <date>2024</date>
     <category>News/Current Affairs</category>
     <icon src="https://images.skyone.co.nz/mac/479214/DAM/78B0C2F6-2D69-4594-B496FBB64ADB6673.jpg"/>
     <episode-num system="dd_progid">EPmac_sh_ptc2040583745.mac_ptc1152731026</episode-num>
@@ -16758,7 +16027,7 @@
   <programme start="20261119010000 +0000" stop="20261119020000 +0000" channel="mjh-al-jazeera">
     <title>Al Jazeera World</title>
     <desc>A series of one-hour documentaries showcasing films from across the Al Jazeera Network.</desc>
-    <date>2022</date>
+    <date>2025</date>
     <category>News/Current Affairs</category>
     <icon src="https://images.skyone.co.nz/mac/479214/DAM/E0FD7590-3EC5-4D82-983B989B2F89D5B9.jpg"/>
     <episode-num system="dd_progid">EPmac_sh_ptc664725506.mac_ptc1866231073</episode-num>
@@ -16857,7 +16126,7 @@
   <programme start="20261119043000 +0000" stop="20261119050000 +0000" channel="mjh-al-jazeera">
     <title>UpFront</title>
     <desc>Frank, blunt and UpFront, Marc Lamont Hill cuts through the headlines to get to the heart of the matter with influential guests and newsmakers.</desc>
-    <date>2024</date>
+    <date>2026</date>
     <category>News/Current Affairs</category>
     <orig-language>English</orig-language>
     <icon src="https://images.skyone.co.nz/mac/479214/DAM/53D444D2-58DB-46A0-9F5F00A4059AAFE9.jpg"/>
@@ -16875,7 +16144,7 @@
       <value>0.0/10</value>
     </star-rating>
     <image type="poster" size="3" orient="P">https://images.skyone.co.nz/mac/479214/DAM/53D444D2-58DB-46A0-9F5F00A4059AAFE9.jpg</image>
-    <image type="backdrop" size="3" orient="L">https://img-store-prod.switch.tv/images/db119cc3-a2aa-4e34-ac1b-95628583c4d1/PGMST03SKOWEB_30_1704769384758_0.jpg</image>
+    <image type="backdrop" size="3" orient="L">https://img-store-prod.switch.tv/images/9599afc9-e55b-49fc-9883-0ac81dc1bd09/UPFRONTTITLE_30_1683223736480_0.jpg</image>
     <image type="still" size="3" orient="L">https://images.skyone.co.nz/mac/479214/DAM/3B5DAC7D-B0E1-4658-92831437EC7DB7E1.jpg</image>
   </programme>
   <programme start="20261119050000 +0000" stop="20261119053000 +0000" channel="mjh-al-jazeera">
@@ -17108,7 +16377,7 @@
   <programme start="20261119120000 +0000" stop="20261119130000 +0000" channel="mjh-al-jazeera">
     <title>Witness</title>
     <desc>A Yazidi teenager who survived ISIL captivity films herself to process her trauma as rescuers search for her missing family.</desc>
-    <date>2026</date>
+    <date>2024</date>
     <category>News/Current Affairs</category>
     <icon src="https://images.skyone.co.nz/mac/479214/DAM/78B0C2F6-2D69-4594-B496FBB64ADB6673.jpg"/>
     <episode-num system="dd_progid">EPmac_sh_ptc2040583745.mac_ptc839768502</episode-num>
@@ -17222,7 +16491,7 @@
   <programme start="20261119163000 +0000" stop="20261119170000 +0000" channel="mjh-al-jazeera">
     <title>Witness</title>
     <desc>Inspirational and provocative stories providing a fresh and informative insight into the world's key events as they impact on the lives of ordinary people.</desc>
-    <date>2026</date>
+    <date>2024</date>
     <category>News/Current Affairs</category>
     <icon src="https://images.skyone.co.nz/mac/479214/DAM/78B0C2F6-2D69-4594-B496FBB64ADB6673.jpg"/>
     <episode-num system="dd_progid">EPmac_sh_ptc2040583745.mac_ptc1237318384</episode-num>
@@ -17464,7 +16733,7 @@
   <programme start="20261120010000 +0000" stop="20261120020000 +0000" channel="mjh-al-jazeera">
     <title>Witness</title>
     <desc>A Yazidi teenager who survived ISIL captivity films herself to process her trauma as rescuers search for her missing family.</desc>
-    <date>2026</date>
+    <date>2024</date>
     <category>News/Current Affairs</category>
     <icon src="https://images.skyone.co.nz/mac/479214/DAM/78B0C2F6-2D69-4594-B496FBB64ADB6673.jpg"/>
     <episode-num system="dd_progid">EPmac_sh_ptc2040583745.mac_ptc962784053</episode-num>
@@ -17633,7 +16902,7 @@
   <programme start="20261120063000 +0000" stop="20261120070000 +0000" channel="mjh-al-jazeera">
     <title>Witness</title>
     <desc>Inspirational and provocative stories providing a fresh and informative insight into the world's key events as they impact on the lives of ordinary people.</desc>
-    <date>2026</date>
+    <date>2024</date>
     <category>News/Current Affairs</category>
     <icon src="https://images.skyone.co.nz/mac/479214/DAM/78B0C2F6-2D69-4594-B496FBB64ADB6673.jpg"/>
     <episode-num system="dd_progid">EPmac_sh_ptc2040583745.mac_ptc687535902</episode-num>
@@ -18036,7 +17305,7 @@
   <programme start="20261120200000 +0000" stop="20261120210000 +0000" channel="mjh-al-jazeera">
     <title>Al Jazeera World</title>
     <desc>A series of one-hour documentaries showcasing films from across the Al Jazeera Network.</desc>
-    <date>2022</date>
+    <date>2025</date>
     <category>News/Current Affairs</category>
     <icon src="https://images.skyone.co.nz/mac/479214/DAM/E0FD7590-3EC5-4D82-983B989B2F89D5B9.jpg"/>
     <episode-num system="dd_progid">EPmac_sh_ptc664725506.mac_ptc1098366239</episode-num>
@@ -18094,7 +17363,7 @@
   <programme start="20261120223000 +0000" stop="20261120230000 +0000" channel="mjh-al-jazeera">
     <title>UpFront</title>
     <desc>Frank, blunt and UpFront, Marc Lamont Hill cuts through the headlines to get to the heart of the matter with influential guests and newsmakers.</desc>
-    <date>2024</date>
+    <date>2026</date>
     <category>News/Current Affairs</category>
     <orig-language>English</orig-language>
     <icon src="https://images.skyone.co.nz/mac/479214/DAM/53D444D2-58DB-46A0-9F5F00A4059AAFE9.jpg"/>
@@ -18112,7 +17381,7 @@
       <value>0.0/10</value>
     </star-rating>
     <image type="poster" size="3" orient="P">https://images.skyone.co.nz/mac/479214/DAM/53D444D2-58DB-46A0-9F5F00A4059AAFE9.jpg</image>
-    <image type="backdrop" size="3" orient="L">https://img-store-prod.switch.tv/images/db119cc3-a2aa-4e34-ac1b-95628583c4d1/PGMST03SKOWEB_30_1704769384758_0.jpg</image>
+    <image type="backdrop" size="3" orient="L">https://img-store-prod.switch.tv/images/9599afc9-e55b-49fc-9883-0ac81dc1bd09/UPFRONTTITLE_30_1683223736480_0.jpg</image>
     <image type="still" size="3" orient="L">https://images.skyone.co.nz/mac/479214/DAM/3B5DAC7D-B0E1-4658-92831437EC7DB7E1.jpg</image>
   </programme>
   <programme start="20261120230000 +0000" stop="20261120233000 +0000" channel="mjh-al-jazeera">
@@ -18266,7 +17535,7 @@
   <programme start="20261121043000 +0000" stop="20261121050000 +0000" channel="mjh-al-jazeera">
     <title>Witness</title>
     <desc>Inspirational and provocative stories providing a fresh and informative insight into the world's key events as they impact on the lives of ordinary people.</desc>
-    <date>2026</date>
+    <date>2024</date>
     <category>News/Current Affairs</category>
     <icon src="https://images.skyone.co.nz/mac/479214/DAM/78B0C2F6-2D69-4594-B496FBB64ADB6673.jpg"/>
     <episode-num system="dd_progid">EPmac_sh_ptc2040583745.mac_ptc451950764</episode-num>
@@ -18435,7 +17704,7 @@
   <programme start="20261121093000 +0000" stop="20261121100000 +0000" channel="mjh-al-jazeera">
     <title>UpFront</title>
     <desc>Frank, blunt and UpFront, Marc Lamont Hill cuts through the headlines to get to the heart of the matter with influential guests and newsmakers.</desc>
-    <date>2024</date>
+    <date>2026</date>
     <category>News/Current Affairs</category>
     <orig-language>English</orig-language>
     <icon src="https://images.skyone.co.nz/mac/479214/DAM/53D444D2-58DB-46A0-9F5F00A4059AAFE9.jpg"/>
@@ -18453,7 +17722,7 @@
       <value>0.0/10</value>
     </star-rating>
     <image type="poster" size="3" orient="P">https://images.skyone.co.nz/mac/479214/DAM/53D444D2-58DB-46A0-9F5F00A4059AAFE9.jpg</image>
-    <image type="backdrop" size="3" orient="L">https://img-store-prod.switch.tv/images/db119cc3-a2aa-4e34-ac1b-95628583c4d1/PGMST03SKOWEB_30_1704769384758_0.jpg</image>
+    <image type="backdrop" size="3" orient="L">https://img-store-prod.switch.tv/images/9599afc9-e55b-49fc-9883-0ac81dc1bd09/UPFRONTTITLE_30_1683223736480_0.jpg</image>
     <image type="still" size="3" orient="L">https://images.skyone.co.nz/mac/479214/DAM/3B5DAC7D-B0E1-4658-92831437EC7DB7E1.jpg</image>
   </programme>
   <programme start="20261121100000 +0000" stop="20261121110000 +0000" channel="mjh-al-jazeera">
@@ -18517,7 +17786,7 @@
   <programme start="20261121120000 +0000" stop="20261121130000 +0000" channel="mjh-al-jazeera">
     <title>Al Jazeera World</title>
     <desc>A series of one-hour documentaries showcasing films from across the Al Jazeera Network.</desc>
-    <date>2022</date>
+    <date>2025</date>
     <category>News/Current Affairs</category>
     <icon src="https://images.skyone.co.nz/mac/479214/DAM/E0FD7590-3EC5-4D82-983B989B2F89D5B9.jpg"/>
     <episode-num system="dd_progid">EPmac_sh_ptc664725506.mac_ptc1791771343</episode-num>
@@ -18750,7 +18019,7 @@
   <programme start="20261121200000 +0000" stop="20261121210000 +0000" channel="mjh-al-jazeera">
     <title>Witness</title>
     <desc>A Yazidi teenager who survived ISIL captivity films herself to process her trauma as rescuers search for her missing family.</desc>
-    <date>2026</date>
+    <date>2024</date>
     <category>News/Current Affairs</category>
     <icon src="https://images.skyone.co.nz/mac/479214/DAM/78B0C2F6-2D69-4594-B496FBB64ADB6673.jpg"/>
     <episode-num system="dd_progid">EPmac_sh_ptc2040583745.mac_ptc346190140</episode-num>
@@ -18884,7 +18153,7 @@
   <programme start="20261122010000 +0000" stop="20261122020000 +0000" channel="mjh-al-jazeera">
     <title>Al Jazeera World</title>
     <desc>A series of one-hour documentaries showcasing films from across the Al Jazeera Network.</desc>
-    <date>2022</date>
+    <date>2025</date>
     <category>News/Current Affairs</category>
     <icon src="https://images.skyone.co.nz/mac/479214/DAM/E0FD7590-3EC5-4D82-983B989B2F89D5B9.jpg"/>
     <episode-num system="dd_progid">EPmac_sh_ptc664725506.mac_ptc1868885632</episode-num>
@@ -18942,7 +18211,7 @@
   <programme start="20261122033000 +0000" stop="20261122040000 +0000" channel="mjh-al-jazeera">
     <title>UpFront</title>
     <desc>Frank, blunt and UpFront, Marc Lamont Hill cuts through the headlines to get to the heart of the matter with influential guests and newsmakers.</desc>
-    <date>2024</date>
+    <date>2026</date>
     <category>News/Current Affairs</category>
     <orig-language>English</orig-language>
     <icon src="https://images.skyone.co.nz/mac/479214/DAM/53D444D2-58DB-46A0-9F5F00A4059AAFE9.jpg"/>
@@ -18960,7 +18229,7 @@
       <value>0.0/10</value>
     </star-rating>
     <image type="poster" size="3" orient="P">https://images.skyone.co.nz/mac/479214/DAM/53D444D2-58DB-46A0-9F5F00A4059AAFE9.jpg</image>
-    <image type="backdrop" size="3" orient="L">https://img-store-prod.switch.tv/images/db119cc3-a2aa-4e34-ac1b-95628583c4d1/PGMST03SKOWEB_30_1704769384758_0.jpg</image>
+    <image type="backdrop" size="3" orient="L">https://img-store-prod.switch.tv/images/9599afc9-e55b-49fc-9883-0ac81dc1bd09/UPFRONTTITLE_30_1683223736480_0.jpg</image>
     <image type="still" size="3" orient="L">https://images.skyone.co.nz/mac/479214/DAM/3B5DAC7D-B0E1-4658-92831437EC7DB7E1.jpg</image>
   </programme>
   <programme start="20261122040000 +0000" stop="20261122043000 +0000" channel="mjh-al-jazeera">
@@ -19228,7 +18497,7 @@
   <programme start="20261122120000 +0000" stop="20261122130000 +0000" channel="mjh-al-jazeera">
     <title>Witness</title>
     <desc>A Yazidi teenager who survived ISIL captivity films herself to process her trauma as rescuers search for her missing family.</desc>
-    <date>2026</date>
+    <date>2024</date>
     <category>News/Current Affairs</category>
     <icon src="https://images.skyone.co.nz/mac/479214/DAM/78B0C2F6-2D69-4594-B496FBB64ADB6673.jpg"/>
     <episode-num system="dd_progid">EPmac_sh_ptc2040583745.mac_ptc860079436</episode-num>
