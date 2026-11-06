@@ -21,9 +21,6 @@ https://jmp2.uk/plu-5f984f4a09e92d0007d74647.m3u8
 #EXTINF:-1 channel-id="plutotv-6790d6c7bc03978b9bfbfd44" tvg-id="plutotv-6790d6c7bc03978b9bfbfd44" tvg-name="FBoy Island (Denmark)" tvg-logo="https://images.pluto.tv/channels/6790d6c7bc03978b9bfbfd44/colorLogoPNG.png" group-title="Series" tvg-chno="2",FBoy Island (Denmark)
 https://jmp2.uk/plu-6790d6c7bc03978b9bfbfd44.m3u8
 
-#EXTINF:-1 channel-id="plutotv-66fbf4d3d7de140008d41f5b" tvg-id="plutotv-66fbf4d3d7de140008d41f5b" tvg-name="NCIS: Los Angeles (Denmark)" tvg-logo="https://images.pluto.tv/channels/66fbf4d3d7de140008d41f5b/colorLogoPNG.png" group-title="Series" tvg-chno="2",NCIS: Los Angeles (Denmark)
-https://jmp2.uk/plu-66fbf4d3d7de140008d41f5b.m3u8
-
 #EXTINF:-1 channel-id="plutotv-69fca82ff6ac24413f5338fa" tvg-id="plutotv-69fca82ff6ac24413f5338fa" tvg-name="NCIS: New Orleans (Germany)" tvg-logo="https://images.pluto.tv/channels/69fca82ff6ac24413f5338fa/colorLogoPNG_1778165914933.png" group-title="Entertainment" tvg-chno="2",NCIS: New Orleans (Germany)
 https://jmp2.uk/plu-69fca82ff6ac24413f5338fa.m3u8
 
@@ -71,6 +68,9 @@ https://jmp2.uk/plu-61c1d5055d85c00007cd74f7.m3u8
 
 #EXTINF:-1 channel-id="plutotv-61e064b4fbbcc60007ffbecd" tvg-id="plutotv-61e064b4fbbcc60007ffbecd" tvg-name="Henry Danger (Sweden)" tvg-logo="https://images.pluto.tv/channels/61e064b4fbbcc60007ffbecd/colorLogoPNG.png" group-title="Entertainment" tvg-chno="4",Henry Danger (Sweden)
 https://jmp2.uk/plu-61e064b4fbbcc60007ffbecd.m3u8
+
+#EXTINF:-1 channel-id="plutotv-66fbf4d3d7de140008d41f5b" tvg-id="plutotv-66fbf4d3d7de140008d41f5b" tvg-name="NCIS: Los Angeles (Denmark)" tvg-logo="https://images.pluto.tv/channels/66fbf4d3d7de140008d41f5b/colorLogoPNG.png" group-title="Series" tvg-chno="4",NCIS: Los Angeles (Denmark)
+https://jmp2.uk/plu-66fbf4d3d7de140008d41f5b.m3u8
 
 #EXTINF:-1 channel-id="plutotv-5c5c31f2f21b553c1f673fb0" tvg-id="plutotv-5c5c31f2f21b553c1f673fb0" tvg-name="Pluto TV Cult Films (Great Britain)" tvg-logo="https://images.pluto.tv/channels/5c5c31f2f21b553c1f673fb0/colorLogoPNG.png" group-title="Movies" tvg-chno="4",Pluto TV Cult Films (Great Britain)
 https://jmp2.uk/plu-5c5c31f2f21b553c1f673fb0.m3u8
@@ -1137,9 +1137,6 @@ https://jmp2.uk/plu-664f13aff9992200084a3532.m3u8
 #EXTINF:-1 channel-id="plutotv-6a7cb568611342bebf046a90" tvg-id="plutotv-6a7cb568611342bebf046a90" tvg-name="Pluto TV Espírito de Natal (Brazil)" tvg-logo="https://images.pluto.tv/channels/6a7cb568611342bebf046a90/colorLogoPNG_1792532112145.png" group-title="Entertainment" tvg-chno="97",Pluto TV Espírito de Natal (Brazil)
 https://jmp2.uk/plu-6a7cb568611342bebf046a90.m3u8
 
-#EXTINF:-1 channel-id="plutotv-684ac14b5965a2fd49583311" tvg-id="plutotv-684ac14b5965a2fd49583311" tvg-name="Weihnachtskino (Germany)" tvg-logo="https://images.pluto.tv/channels/684ac14b5965a2fd49583311/colorLogoPNG_1757587715183.png" group-title="Entertainment" tvg-chno="97",Weihnachtskino (Germany)
-https://jmp2.uk/plu-684ac14b5965a2fd49583311.m3u8
-
 #EXTINF:-1 channel-id="plutotv-5dc29179c928a600093a7747" tvg-id="plutotv-5dc29179c928a600093a7747" tvg-name="Pluto TV Christmas (Germany)" tvg-logo="https://images.pluto.tv/channels/5dc29179c928a600093a7747/colorLogoPNG.png" group-title="Entertainment" tvg-chno="98",Pluto TV Christmas (Germany)
 https://jmp2.uk/plu-5dc29179c928a600093a7747.m3u8
 
@@ -1326,7 +1323,7 @@ https://jmp2.uk/plu-615333098185f00008715a56.m3u8
 #EXTINF:-1 channel-id="plutotv-6941232c8f110ea18cd8a656" tvg-id="plutotv-6941232c8f110ea18cd8a656" tvg-name="Casual Golf (Sweden)" tvg-logo="https://images.pluto.tv/channels/6941232c8f110ea18cd8a656/colorLogoPNG_1767958736233.png" group-title="Sport" tvg-chno="114",Casual Golf (Sweden)
 https://jmp2.uk/plu-6941232c8f110ea18cd8a656.m3u8
 
-#EXTINF:-1 channel-id="roku-0838d5ccb1d5564d98fb804ab314c85e" tvg-id="roku-0838d5ccb1d5564d98fb804ab314c85e" tvg-name="FOX Weather" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/0838d5ccb1d5564d98fb804ab314c85e/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1693442655370_1688568641141_FWX_HUD_1.png" group-title="News" tvg-chno="114",FOX Weather
+#EXTINF:-1 channel-id="roku-0838d5ccb1d5564d98fb804ab314c85e" tvg-id="roku-0838d5ccb1d5564d98fb804ab314c85e" tvg-name="FOX Weather" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/0838d5ccb1d5564d98fb804ab314c85e/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1793890439909_FWX_INFO_HUD_LOGO.png" group-title="News" tvg-chno="114",FOX Weather
 https://jmp2.uk/rok-0838d5ccb1d5564d98fb804ab314c85e.m3u8
 
 #EXTINF:-1 channel-id="plutotv-6969fc6c3b9ce349c9e41670" tvg-id="plutotv-6969fc6c3b9ce349c9e41670" tvg-name="Fristet (Denmark)" tvg-logo="https://images.pluto.tv/channels/6969fc6c3b9ce349c9e41670/colorLogoPNG_1774366158444.png" group-title="Series" tvg-chno="114",Fristet (Denmark)
@@ -4527,6 +4524,9 @@ https://jmp2.uk/plu-5f8ed3892ed7bb000741a1d2.m3u8
 #EXTINF:-1 channel-id="plutotv-61bb72a7bf8c520007a8fd27" tvg-id="plutotv-61bb72a7bf8c520007a8fd27" tvg-name="Pronto-socorro: Histórias De Emergência (Brazil)" tvg-logo="https://images.pluto.tv/channels/61bb72a7bf8c520007a8fd27/colorLogoPNG.png" group-title="Entertainment" tvg-chno="525",Pronto-socorro: Histórias De Emergência (Brazil)
 https://jmp2.uk/plu-61bb72a7bf8c520007a8fd27.m3u8
 
+#EXTINF:-1 channel-id="samsungtvplus-KRBD43000023M" tvg-id="samsungtvplus-KRBD43000023M" tvg-name="JTBC 싱어게인 (South Korea)" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD43000023M_20261102T074347SQUARE.png" group-title="Entertainment" tvg-chno="527",JTBC 싱어게인 (South Korea)
+https://jmp2.uk/stvp-KRBD43000023M
+
 #EXTINF:-1 channel-id="samsungtvplus-KRBC4500002Q4" tvg-id="samsungtvplus-KRBC4500002Q4" tvg-name="tvN 폭군의 셰프 (South Korea)" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC4500002Q4_20261020T053336SQUARE.png" group-title="Entertainment" tvg-chno="528",tvN 폭군의 셰프 (South Korea)
 https://jmp2.uk/stvp-KRBC4500002Q4
 
@@ -4863,6 +4863,9 @@ https://jmp2.uk/stvp-KRBC8000128W
 #EXTINF:-1 channel-id="plutotv-654a52254d6d8f00084eacfc" tvg-id="plutotv-654a52254d6d8f00084eacfc" tvg-name="Happy Days (Sweden)" tvg-logo="https://images.pluto.tv/channels/654a52254d6d8f00084eacfc/colorLogoPNG.png" group-title="Entertainment" tvg-chno="568",Happy Days (Sweden)
 https://jmp2.uk/plu-654a52254d6d8f00084eacfc.m3u8
 
+#EXTINF:-1 channel-id="plutotv-6874ad743ffa5e0c917f6e20" tvg-id="plutotv-6874ad743ffa5e0c917f6e20" tvg-name="The Outer Limits (Canada)" tvg-logo="https://images.pluto.tv/channels/6874ad743ffa5e0c917f6e20/colorLogoPNG_1758877093392.png" group-title="Entertainment" tvg-chno="568",The Outer Limits (Canada)
+https://jmp2.uk/plu-6874ad743ffa5e0c917f6e20.m3u8
+
 #EXTINF:-1 channel-id="samsungtvplus-KRBC320002200" tvg-id="samsungtvplus-KRBC320002200" tvg-name="tvN STORY 김창옥쇼 3-4 이어보기 (South Korea)" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC320002200_20260728T033444SQUARE.png" group-title="Entertainment" tvg-chno="568",tvN STORY 김창옥쇼 3-4 이어보기 (South Korea)
 https://jmp2.uk/stvp-KRBC320002200
 
@@ -5183,9 +5186,6 @@ https://jmp2.uk/plu-668bf7dd74f5ec000817e6d1.m3u8
 
 #EXTINF:-1 channel-id="plutotv-68c01785b3900870ec7480e4" tvg-id="plutotv-68c01785b3900870ec7480e4" tvg-name="Pluto TV Wild West (Norway)" tvg-logo="https://images.pluto.tv/channels/68c01785b3900870ec7480e4/colorLogoPNG_1761916453250.png" group-title="Entertainment" tvg-chno="609",Pluto TV Wild West (Norway)
 https://jmp2.uk/plu-68c01785b3900870ec7480e4.m3u8
-
-#EXTINF:-1 channel-id="roku-5f9c59c52f0ad475d90a33fdfd14d651" tvg-id="roku-5f9c59c52f0ad475d90a33fdfd14d651" tvg-name="Ryz Sports Network" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/5f9c59c52f0ad475d90a33fdfd14d651/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1755024648037_Ryz_Roku_EPG_DarkBG_V3.png" group-title="Sport" tvg-chno="609",Ryz Sports Network
-https://jmp2.uk/rok-5f9c59c52f0ad475d90a33fdfd14d651.m3u8
 
 #EXTINF:-1 channel-id="plutotv-677fb115a4af36ad50113e56" tvg-id="plutotv-677fb115a4af36ad50113e56" tvg-name="The Real Housewives (Great Britain)" tvg-logo="https://images.pluto.tv/channels/677fb115a4af36ad50113e56/colorLogoPNG_1761690347032.png" group-title="Lifestyle" tvg-chno="609",The Real Housewives (Great Britain)
 https://jmp2.uk/plu-677fb115a4af36ad50113e56.m3u8
@@ -5514,9 +5514,6 @@ https://jmp2.uk/plu-6a427956e7884b99f27ec152.m3u8
 #EXTINF:-1 channel-id="plutotv-619e4833244e500007564d5a" tvg-id="plutotv-619e4833244e500007564d5a" tvg-name="Nosey (Sweden)" tvg-logo="https://images.pluto.tv/channels/619e4833244e500007564d5a/colorLogoPNG.png" group-title="Series" tvg-chno="668",Nosey (Sweden)
 https://jmp2.uk/plu-619e4833244e500007564d5a.m3u8
 
-#EXTINF:-1 channel-id="plutotv-6874ad743ffa5e0c917f6e20" tvg-id="plutotv-6874ad743ffa5e0c917f6e20" tvg-name="The Outer Limits (Canada)" tvg-logo="https://images.pluto.tv/channels/6874ad743ffa5e0c917f6e20/colorLogoPNG_1758877093392.png" group-title="Entertainment" tvg-chno="668",The Outer Limits (Canada)
-https://jmp2.uk/plu-6874ad743ffa5e0c917f6e20.m3u8
-
 #EXTINF:-1 channel-id="plutotv-630483153a21200007f1920f" tvg-id="plutotv-630483153a21200007f1920f" tvg-name="Best of The Drew Barrymore Show (Sweden)" tvg-logo="https://images.pluto.tv/channels/630483153a21200007f1920f/colorLogoPNG.png" group-title="Series" tvg-chno="670",Best of The Drew Barrymore Show (Sweden)
 https://jmp2.uk/plu-630483153a21200007f1920f.m3u8
 
@@ -5786,9 +5783,6 @@ https://jmp2.uk/plu-65b90daed77d450008a43345.m3u8
 
 #EXTINF:-1 channel-id="samsungtvplus-KR410000247" tvg-id="samsungtvplus-KR410000247" tvg-name="essential; by Bugs (South Korea)" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR410000247_20260812T044626SQUARE.png" group-title="Entertainment" tvg-chno="721",essential; by Bugs (South Korea)
 https://jmp2.uk/stvp-KR410000247
-
-#EXTINF:-1 channel-id="samsungtvplus-KRBD43000023M" tvg-id="samsungtvplus-KRBD43000023M" tvg-name="JTBC 비긴어게인 - 오픈마이크 (South Korea)" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD43000023M_20261102T074347SQUARE.png" group-title="Entertainment" tvg-chno="722",JTBC 비긴어게인 - 오픈마이크 (South Korea)
-https://jmp2.uk/stvp-KRBD43000023M
 
 #EXTINF:-1 channel-id="plutotv-61c1e51354d923000731bf78" tvg-id="plutotv-61c1e51354d923000731bf78" tvg-name="Pluto TV True Crime (Norway)" tvg-logo="https://images.pluto.tv/channels/61c1e51354d923000731bf78/colorLogoPNG.png" group-title="Entertainment" tvg-chno="722",Pluto TV True Crime (Norway)
 https://jmp2.uk/plu-61c1e51354d923000731bf78.m3u8
@@ -6939,29 +6933,26 @@ https://jmp2.uk/plu-5ffcc21a432945000762d06b.m3u8
 #EXTINF:-1 channel-id="plutotv-61c0bbd95df1da0007bed5a0" tvg-id="plutotv-61c0bbd95df1da0007bed5a0" tvg-name="Totally Turtles (Denmark)" tvg-logo="https://images.pluto.tv/channels/61c0bbd95df1da0007bed5a0/colorLogoPNG.png" group-title="Entertainment" tvg-chno="999",Totally Turtles (Denmark)
 https://jmp2.uk/plu-61c0bbd95df1da0007bed5a0.m3u8
 
-#EXTINF:-1 channel-id="samsungtvplus-CA4100007AK" tvg-id="samsungtvplus-CA4100007AK" tvg-name="AFV with Alfonso Ribeiro (Canada)" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA4100007AK_20261023T223835SQUARE.png" group-title="Comedy" tvg-chno="1000",AFV with Alfonso Ribeiro (Canada)
-https://jmp2.uk/stvp-CA4100007AK
-
 #EXTINF:-1 channel-id="plutotv-61b3b8c645b45d0007a9bb8d" tvg-id="plutotv-61b3b8c645b45d0007a9bb8d" tvg-name="Blue Bloods (USA)" tvg-logo="https://images.pluto.tv/channels/61b3b8c645b45d0007a9bb8d/colorLogoPNG_1731834396573.png" group-title="Series" tvg-chno="1000",Blue Bloods (USA)
 https://jmp2.uk/plu-61b3b8c645b45d0007a9bb8d.m3u8
 
 #EXTINF:-1 channel-id="plutotv-62cbef9ebb857100072fc187" tvg-id="plutotv-62cbef9ebb857100072fc187" tvg-name="Global News National (Canada)" tvg-logo="https://images.pluto.tv/channels/62cbef9ebb857100072fc187/colorLogoPNG.png" group-title="News" tvg-chno="1000",Global News National (Canada)
 https://jmp2.uk/plu-62cbef9ebb857100072fc187.m3u8
 
-#EXTINF:-1 channel-id="samsungtvplus-USBB2200014DK" tvg-id="samsungtvplus-USBB2200014DK" tvg-name="NBC News NOW (United States)" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB2200014DK_20261103T171506SQUARE.png" group-title="News" tvg-chno="1000",NBC News NOW (United States)
-https://jmp2.uk/stvp-USBB2200014DK
-
-#EXTINF:-1 channel-id="samsungtvplus-INBD1300010WP" tvg-id="samsungtvplus-INBD1300010WP" tvg-name="News18 India (India)" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD1300010WP_20261102T074351SQUARE.png" group-title="News" tvg-chno="1000",News18 India (India)
-https://jmp2.uk/stvp-INBD1300010WP
+#EXTINF:-1 channel-id="samsungtvplus-IN46000184H" tvg-id="samsungtvplus-IN46000184H" tvg-name="Kings Of Comedy (India)" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN46000184H_20261102T074441SQUARE.png" group-title="Entertainment" tvg-chno="1000",Kings Of Comedy (India)
+https://jmp2.uk/stvp-IN46000184H
 
 #EXTINF:-1 channel-id="plutotv-68adb066f7d7f0a9b9ff5d32" tvg-id="plutotv-68adb066f7d7f0a9b9ff5d32" tvg-name="Smølferne (Denmark)" tvg-logo="https://images.pluto.tv/channels/68adb066f7d7f0a9b9ff5d32/colorLogoPNG_1760363216935.png" group-title="Entertainment" tvg-chno="1000",Smølferne (Denmark)
 https://jmp2.uk/plu-68adb066f7d7f0a9b9ff5d32.m3u8
 
-#EXTINF:-1 channel-id="samsungtvplus-USBC39000171G" tvg-id="samsungtvplus-USBC39000171G" tvg-name="ABC News Live (United States)" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC39000171G_20261103T171547SQUARE.png" group-title="News" tvg-chno="1001",ABC News Live (United States)
-https://jmp2.uk/stvp-USBC39000171G
+#EXTINF:-1 channel-id="samsungtvplus-CABC2300004A4" tvg-id="samsungtvplus-CABC2300004A4" tvg-name="Top Gear (Canada)" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABC2300004A4_20261104T180914SQUARE.png" group-title="Sport" tvg-chno="1000",Top Gear (Canada)
+https://jmp2.uk/stvp-CABC2300004A4
 
-#EXTINF:-1 channel-id="samsungtvplus-CABA800009T5" tvg-id="samsungtvplus-CABA800009T5" tvg-name="Haunt TV (Canada)" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABA800009T5_20261023T223801SQUARE.png" group-title="Entertainment" tvg-chno="1001",Haunt TV (Canada)
-https://jmp2.uk/stvp-CABA800009T5
+#EXTINF:-1 channel-id="samsungtvplus-USBC2400027NG" tvg-id="samsungtvplus-USBC2400027NG" tvg-name="Top Gear (United States)" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC2400027NG_20261104T180635SQUARE.png" group-title="Sport" tvg-chno="1000",Top Gear (United States)
+https://jmp2.uk/stvp-USBC2400027NG
+
+#EXTINF:-1 channel-id="samsungtvplus-CAAJ2700014EE" tvg-id="samsungtvplus-CAAJ2700014EE" tvg-name="FilmRise Action (Canada)" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CAAJ2700014EE_20261104T180753SQUARE.png" group-title="Movies" tvg-chno="1001",FilmRise Action (Canada)
+https://jmp2.uk/stvp-CAAJ2700014EE
 
 #EXTINF:-1 channel-id="plutotv-67f3fb1cdea1c5e0d588ac1b" tvg-id="plutotv-67f3fb1cdea1c5e0d588ac1b" tvg-name="Pluto TV Ungdomsserier (Denmark)" tvg-logo="https://images.pluto.tv/channels/67f3fb1cdea1c5e0d588ac1b/colorLogoPNG_1748270797322.png" group-title="Entertainment" tvg-chno="1001",Pluto TV Ungdomsserier (Denmark)
 https://jmp2.uk/plu-67f3fb1cdea1c5e0d588ac1b.m3u8
@@ -6972,23 +6963,20 @@ https://jmp2.uk/stvp-IN38000072R
 #EXTINF:-1 channel-id="samsungtvplus-IN4000600Q" tvg-id="samsungtvplus-IN4000600Q" tvg-name="Bollygold (India)" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN4000600Q_20261020T052421SQUARE.png" group-title="Movies" tvg-chno="1002",Bollygold (India)
 https://jmp2.uk/stvp-IN4000600Q
 
-#EXTINF:-1 channel-id="samsungtvplus-USBA370000104" tvg-id="samsungtvplus-USBA370000104" tvg-name="CBS News 24/7 (United States)" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA370000104_20261103T171429SQUARE.png" group-title="24/7" tvg-chno="1002",CBS News 24/7 (United States)
-https://jmp2.uk/stvp-USBA370000104
-
 #EXTINF:-1 channel-id="roku-58e6bfd1c4819af32ead547dbc82e1f8" tvg-id="roku-58e6bfd1c4819af32ead547dbc82e1f8" tvg-name="FloRacing 24/7" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/58e6bfd1c4819af32ead547dbc82e1f8/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1771353198884_FloRacing_HUDLogo.png" group-title="24/7" tvg-chno="1002",FloRacing 24/7
 https://jmp2.uk/rok-58e6bfd1c4819af32ead547dbc82e1f8.m3u8
 
-#EXTINF:-1 channel-id="samsungtvplus-CA1500004OB" tvg-id="samsungtvplus-CA1500004OB" tvg-name="MovieSphere (Canada)" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA1500004OB_20261023T223855SQUARE.png" group-title="Movies" tvg-chno="1002",MovieSphere (Canada)
-https://jmp2.uk/stvp-CA1500004OB
+#EXTINF:-1 channel-id="samsungtvplus-USAJ26000054W" tvg-id="samsungtvplus-USAJ26000054W" tvg-name="Paramount Movie Channel (United States)" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ26000054W_20261104T180524SQUARE.png" group-title="Movies" tvg-chno="1002",Paramount Movie Channel (United States)
+https://jmp2.uk/stvp-USAJ26000054W
+
+#EXTINF:-1 channel-id="samsungtvplus-CA4700017S7" tvg-id="samsungtvplus-CA4700017S7" tvg-name="The First 48 (Canada)" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA4700017S7_20261104T180907SQUARE.png" group-title="Entertainment" tvg-chno="1002",The First 48 (Canada)
+https://jmp2.uk/stvp-CA4700017S7
 
 #EXTINF:-1 channel-id="plutotv-6ad7a8411beb399aadd298d3" tvg-id="plutotv-6ad7a8411beb399aadd298d3" tvg-name="Third Watch (USA)" tvg-logo="https://images.pluto.tv/channels/6ad7a8411beb399aadd298d3/colorLogoPNG_1793382689276.png" group-title="Series" tvg-chno="1002",Third Watch (USA)
 https://jmp2.uk/plu-6ad7a8411beb399aadd298d3.m3u8
 
-#EXTINF:-1 channel-id="samsungtvplus-IN46000184H" tvg-id="samsungtvplus-IN46000184H" tvg-name="Kings Of Comedy (India)" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN46000184H_20261102T074441SQUARE.png" group-title="Entertainment" tvg-chno="1003",Kings Of Comedy (India)
-https://jmp2.uk/stvp-IN46000184H
-
-#EXTINF:-1 channel-id="samsungtvplus-USBA300024TN" tvg-id="samsungtvplus-USBA300024TN" tvg-name="LiveNOW from FOX (United States)" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA300024TN_20261103T171444SQUARE.png" group-title="News" tvg-chno="1003",LiveNOW from FOX (United States)
-https://jmp2.uk/stvp-USBA300024TN
+#EXTINF:-1 channel-id="samsungtvplus-INBD1300010WP" tvg-id="samsungtvplus-INBD1300010WP" tvg-name="News18 India (India)" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD1300010WP_20261102T074351SQUARE.png" group-title="News" tvg-chno="1003",News18 India (India)
+https://jmp2.uk/stvp-INBD1300010WP
 
 #EXTINF:-1 channel-id="plutotv-61c09a78bd194c0008decc28" tvg-id="plutotv-61c09a78bd194c0008decc28" tvg-name="Pluto TV Juniorklubben (Denmark)" tvg-logo="https://images.pluto.tv/channels/61c09a78bd194c0008decc28/colorLogoPNG_1748329348443.png" group-title="Kids" tvg-chno="1003",Pluto TV Juniorklubben (Denmark)
 https://jmp2.uk/plu-61c09a78bd194c0008decc28.m3u8
@@ -6996,17 +6984,23 @@ https://jmp2.uk/plu-61c09a78bd194c0008decc28.m3u8
 #EXTINF:-1 channel-id="plutotv-69440d0611f6c6384ab78306" tvg-id="plutotv-69440d0611f6c6384ab78306" tvg-name="PORTATV (Brazil)" tvg-logo="https://images.pluto.tv/channels/69440d0611f6c6384ab78306/colorLogoPNG_1769608175167.png" group-title="Entertainment" tvg-chno="1003",PORTATV (Brazil)
 https://jmp2.uk/plu-69440d0611f6c6384ab78306.m3u8
 
-#EXTINF:-1 channel-id="samsungtvplus-CA800004UD" tvg-id="samsungtvplus-CA800004UD" tvg-name="Z Nation (Canada)" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA800004UD_20261023T223909SQUARE.png" group-title="Entertainment" tvg-chno="1003",Z Nation (Canada)
-https://jmp2.uk/stvp-CA800004UD
+#EXTINF:-1 channel-id="samsungtvplus-USBD2700013UK" tvg-id="samsungtvplus-USBD2700013UK" tvg-name="Swamp People (United States)" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD2700013UK_20261104T180627SQUARE.png" group-title="Series" tvg-chno="1003",Swamp People (United States)
+https://jmp2.uk/stvp-USBD2700013UK
 
-#EXTINF:-1 channel-id="samsungtvplus-USBD1700014QU" tvg-id="samsungtvplus-USBD1700014QU" tvg-name="N+ Univision 24/7 (United States)" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1700014QU_20261103T171602SQUARE.png" group-title="24/7" tvg-chno="1004",N+ Univision 24/7 (United States)
-https://jmp2.uk/stvp-USBD1700014QU
+#EXTINF:-1 channel-id="samsungtvplus-CA1800005O1" tvg-id="samsungtvplus-CA1800005O1" tvg-name="Triton Poker (Canada)" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA1800005O1_20261104T180921SQUARE.png" group-title="Sport" tvg-chno="1003",Triton Poker (Canada)
+https://jmp2.uk/stvp-CA1800005O1
+
+#EXTINF:-1 channel-id="samsungtvplus-IN4600012BD" tvg-id="samsungtvplus-IN4600012BD" tvg-name="ABP News (India)" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN4600012BD_20261102T074416SQUARE.png" group-title="News" tvg-chno="1004",ABP News (India)
+https://jmp2.uk/stvp-IN4600012BD
 
 #EXTINF:-1 channel-id="plutotv-61c09938e0d3a700072b68b1" tvg-id="plutotv-61c09938e0d3a700072b68b1" tvg-name="Pluto TV Tegnefilm (Denmark)" tvg-logo="https://images.pluto.tv/channels/61c09938e0d3a700072b68b1/colorLogoPNG_1749627293329.png" group-title="Entertainment" tvg-chno="1004",Pluto TV Tegnefilm (Denmark)
 https://jmp2.uk/plu-61c09938e0d3a700072b68b1.m3u8
 
-#EXTINF:-1 channel-id="samsungtvplus-INBA490002119" tvg-id="samsungtvplus-INBA490002119" tvg-name="Republic Bharat (India)" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBA490002119_20261102T074429SQUARE.png" group-title="News" tvg-chno="1004",Republic Bharat (India)
-https://jmp2.uk/stvp-INBA490002119
+#EXTINF:-1 channel-id="samsungtvplus-CABC52000165E" tvg-id="samsungtvplus-CABC52000165E" tvg-name="Vevo Country (Canada)" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABC52000165E_20261104T180930SQUARE.png" group-title="Music" tvg-chno="1004",Vevo Country (Canada)
+https://jmp2.uk/stvp-CABC52000165E
+
+#EXTINF:-1 channel-id="samsungtvplus-USBC3600001RQ" tvg-id="samsungtvplus-USBC3600001RQ" tvg-name="Vevo Country (United States)" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3600001RQ_20261104T180643SQUARE.png" group-title="Music" tvg-chno="1004",Vevo Country (United States)
+https://jmp2.uk/stvp-USBC3600001RQ
 
 #EXTINF:-1 channel-id="plutotv-6536725167bd1a00084481bc" tvg-id="plutotv-6536725167bd1a00084481bc" tvg-name="CBC News (Canada)" tvg-logo="https://images.pluto.tv/channels/6536725167bd1a00084481bc/colorLogoPNG_1731835269288.png" group-title="News" tvg-chno="1005",CBC News (Canada)
 https://jmp2.uk/plu-6536725167bd1a00084481bc.m3u8
@@ -7023,14 +7017,14 @@ https://jmp2.uk/stvp-IN3800003SV
 #EXTINF:-1 channel-id="plutotv-6391e0b4bad1970007ee5733" tvg-id="plutotv-6391e0b4bad1970007ee5733" tvg-name="Våra värsta år (Sweden)" tvg-logo="https://images.pluto.tv/channels/6391e0b4bad1970007ee5733/colorLogoPNG.png" group-title="Comedy" tvg-chno="1005",Våra värsta år (Sweden)
 https://jmp2.uk/plu-6391e0b4bad1970007ee5733.m3u8
 
-#EXTINF:-1 channel-id="samsungtvplus-IN4600012BD" tvg-id="samsungtvplus-IN4600012BD" tvg-name="ABP News (India)" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN4600012BD_20261102T074416SQUARE.png" group-title="News" tvg-chno="1006",ABP News (India)
-https://jmp2.uk/stvp-IN4600012BD
-
 #EXTINF:-1 channel-id="plutotv-6825efbb9eed174f7ffbe5b0" tvg-id="plutotv-6825efbb9eed174f7ffbe5b0" tvg-name="Man with a Plan (Sweden)" tvg-logo="https://images.pluto.tv/channels/6825efbb9eed174f7ffbe5b0/colorLogoPNG_1747316725165.png" group-title="Comedy" tvg-chno="1006",Man with a Plan (Sweden)
 https://jmp2.uk/plu-6825efbb9eed174f7ffbe5b0.m3u8
 
 #EXTINF:-1 channel-id="roku-82bd10ceb52152a7adb6bdc5d776e794" tvg-id="roku-82bd10ceb52152a7adb6bdc5d776e794" tvg-name="NHRA TV" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/82bd10ceb52152a7adb6bdc5d776e794/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1669151466290_NHRA-RokuChannel-260x147-hud_centered.png" group-title="Entertainment" tvg-chno="1006",NHRA TV
 https://jmp2.uk/rok-82bd10ceb52152a7adb6bdc5d776e794.m3u8
+
+#EXTINF:-1 channel-id="samsungtvplus-INBA490002119" tvg-id="samsungtvplus-INBA490002119" tvg-name="Republic Bharat (India)" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBA490002119_20261102T074429SQUARE.png" group-title="News" tvg-chno="1006",Republic Bharat (India)
+https://jmp2.uk/stvp-INBA490002119
 
 #EXTINF:-1 channel-id="samsungtvplus-IN3800001ZH" tvg-id="samsungtvplus-IN3800001ZH" tvg-name="Aaj Tak HD (India)" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3800001ZH_20261026T044055SQUARE.png" group-title="News" tvg-chno="1007",Aaj Tak HD (India)
 https://jmp2.uk/stvp-IN3800001ZH
@@ -7056,9 +7050,6 @@ https://jmp2.uk/plu-6a065830853a01a827f6dd65.m3u8
 #EXTINF:-1 channel-id="samsungtvplus-IN2100003OJ" tvg-id="samsungtvplus-IN2100003OJ" tvg-name="Zee Dil Se (India)" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN2100003OJ_20261026T044112SQUARE.png" group-title="Entertainment" tvg-chno="1008",Zee Dil Se (India)
 https://jmp2.uk/stvp-IN2100003OJ
 
-#EXTINF:-1 channel-id="samsungtvplus-IN38000050P" tvg-id="samsungtvplus-IN38000050P" tvg-name="9XM (India)" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN38000050P_20261102T074435SQUARE.png" group-title="Music" tvg-chno="1009",9XM (India)
-https://jmp2.uk/stvp-IN38000050P
-
 #EXTINF:-1 channel-id="plutotv-5f5141c1605ddf000748eb1b" tvg-id="plutotv-5f5141c1605ddf000748eb1b" tvg-name="FailArmy (Brazil)" tvg-logo="https://images.pluto.tv/channels/5f5141c1605ddf000748eb1b/colorLogoPNG.png" group-title="Entertainment" tvg-chno="1009",FailArmy (Brazil)
 https://jmp2.uk/plu-5f5141c1605ddf000748eb1b.m3u8
 
@@ -7067,6 +7058,9 @@ https://jmp2.uk/plu-5ebaccf1734aaf0007142c86.m3u8
 
 #EXTINF:-1 channel-id="plutotv-654a510d986ad20008a45874" tvg-id="plutotv-654a510d986ad20008a45874" tvg-name="Family Ties (Sweden)" tvg-logo="https://images.pluto.tv/channels/654a510d986ad20008a45874/colorLogoPNG.png" group-title="Comedy" tvg-chno="1009",Family Ties (Sweden)
 https://jmp2.uk/plu-654a510d986ad20008a45874.m3u8
+
+#EXTINF:-1 channel-id="samsungtvplus-IN4000625P" tvg-id="samsungtvplus-IN4000625P" tvg-name="Green Gold TV (India)" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN4000625P_20261102T074409SQUARE.png" group-title="Kids" tvg-chno="1009",Green Gold TV (India)
+https://jmp2.uk/stvp-IN4000625P
 
 #EXTINF:-1 channel-id="plutotv-5f31fd1b4c510e00071c3103" tvg-id="plutotv-5f31fd1b4c510e00071c3103" tvg-name="Pluto TV Crime Drama (USA)" tvg-logo="https://images.pluto.tv/channels/5f31fd1b4c510e00071c3103/colorLogoPNG.png" group-title="Series" tvg-chno="1010",Pluto TV Crime Drama (USA)
 https://jmp2.uk/plu-5f31fd1b4c510e00071c3103.m3u8
@@ -7347,6 +7341,9 @@ https://jmp2.uk/stvp-IN40000100Y
 #EXTINF:-1 channel-id="samsungtvplus-CA390002621" tvg-id="samsungtvplus-CA390002621" tvg-name="CBS News 24/7 (Canada)" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA390002621_20260804T050159SQUARE.png" group-title="24/7" tvg-chno="1110",CBS News 24/7 (Canada)
 https://jmp2.uk/stvp-CA390002621
 
+#EXTINF:-1 channel-id="samsungtvplus-USBA370000104" tvg-id="samsungtvplus-USBA370000104" tvg-name="CBS News 24/7 (United States)" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA370000104_20261104T180445SQUARE.png" group-title="24/7" tvg-chno="1110",CBS News 24/7 (United States)
+https://jmp2.uk/stvp-USBA370000104
+
 #EXTINF:-1 channel-id="plutotv-62e926429cb58900088f951f" tvg-id="plutotv-62e926429cb58900088f951f" tvg-name="Income Property (Canada)" tvg-logo="https://images.pluto.tv/channels/62e926429cb58900088f951f/colorLogoPNG.png" group-title="Lifestyle" tvg-chno="1110",Income Property (Canada)
 https://jmp2.uk/plu-62e926429cb58900088f951f.m3u8
 
@@ -7355,6 +7352,9 @@ https://jmp2.uk/plu-6a4fd96d7652851fb490204f.m3u8
 
 #EXTINF:-1 channel-id="plutotv-63e3b2cba99571000887a6ce" tvg-id="plutotv-63e3b2cba99571000887a6ce" tvg-name="Sams Bar (Denmark)" tvg-logo="https://images.pluto.tv/channels/63e3b2cba99571000887a6ce/colorLogoPNG.png" group-title="Comedy" tvg-chno="1110",Sams Bar (Denmark)
 https://jmp2.uk/plu-63e3b2cba99571000887a6ce.m3u8
+
+#EXTINF:-1 channel-id="samsungtvplus-USBC39000171G" tvg-id="samsungtvplus-USBC39000171G" tvg-name="ABC News Live (United States)" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC39000171G_20261104T180551SQUARE.png" group-title="News" tvg-chno="1112",ABC News Live (United States)
+https://jmp2.uk/stvp-USBC39000171G
 
 #EXTINF:-1 channel-id="plutotv-654a4a3ef91d250008ac089b" tvg-id="plutotv-654a4a3ef91d250008ac089b" tvg-name="Family Ties (Denmark)" tvg-logo="https://images.pluto.tv/channels/654a4a3ef91d250008ac089b/colorLogoPNG.png" group-title="Comedy" tvg-chno="1112",Family Ties (Denmark)
 https://jmp2.uk/plu-654a4a3ef91d250008ac089b.m3u8
@@ -7368,6 +7368,9 @@ https://jmp2.uk/plu-64e35aff6b1fdb0008ea8441.m3u8
 #EXTINF:-1 channel-id="samsungtvplus-CAAJ2700011IF" tvg-id="samsungtvplus-CAAJ2700011IF" tvg-name="NBC News NOW (Canada)" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CAAJ2700011IF_20260421T141220SQUARE.png" group-title="News" tvg-chno="1114",NBC News NOW (Canada)
 https://jmp2.uk/stvp-CAAJ2700011IF
 
+#EXTINF:-1 channel-id="samsungtvplus-USBB2200014DK" tvg-id="samsungtvplus-USBB2200014DK" tvg-name="NBC News NOW (United States)" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB2200014DK_20261104T180518SQUARE.png" group-title="News" tvg-chno="1114",NBC News NOW (United States)
+https://jmp2.uk/stvp-USBB2200014DK
+
 #EXTINF:-1 channel-id="plutotv-66b229b0d2d50d00083990b2" tvg-id="plutotv-66b229b0d2d50d00083990b2" tvg-name="Taxi (Denmark)" tvg-logo="https://images.pluto.tv/channels/66b229b0d2d50d00083990b2/colorLogoPNG.png" group-title="Comedy" tvg-chno="1114",Taxi (Denmark)
 https://jmp2.uk/plu-66b229b0d2d50d00083990b2.m3u8
 
@@ -7379,6 +7382,9 @@ https://jmp2.uk/plu-6391cef9edb23c0008598cee.m3u8
 
 #EXTINF:-1 channel-id="samsungtvplus-IN21000014R" tvg-id="samsungtvplus-IN21000014R" tvg-name="Zee Cine Classic (India)" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN21000014R_20261026T044106SQUARE.png" group-title="Movies" tvg-chno="1115",Zee Cine Classic (India)
 https://jmp2.uk/stvp-IN21000014R
+
+#EXTINF:-1 channel-id="samsungtvplus-USBA300024TN" tvg-id="samsungtvplus-USBA300024TN" tvg-name="LiveNOW from FOX (United States)" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA300024TN_20261104T180507SQUARE.png" group-title="News" tvg-chno="1116",LiveNOW from FOX (United States)
+https://jmp2.uk/stvp-USBA300024TN
 
 #EXTINF:-1 channel-id="plutotv-686d0130ed17cf4c902cbd19" tvg-id="plutotv-686d0130ed17cf4c902cbd19" tvg-name="The Nanny &amp; Mr Sheffield - A Fine Romance (Denmark)" tvg-logo="https://images.pluto.tv/channels/686d0130ed17cf4c902cbd19/colorLogoPNG_1759130742330.png" group-title="Movies" tvg-chno="1116",The Nanny & Mr Sheffield - A Fine Romance (Denmark)
 https://jmp2.uk/plu-686d0130ed17cf4c902cbd19.m3u8
@@ -7533,7 +7539,7 @@ https://jmp2.uk/plu-5f32d432d612e50007e56133.m3u8
 #EXTINF:-1 channel-id="samsungtvplus-USAJ3400011A8" tvg-id="samsungtvplus-USAJ3400011A8" tvg-name="Bloomberg TV+ (United States)" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3400011A8_20260421T133416SQUARE.png" group-title="News" tvg-chno="1155",Bloomberg TV+ (United States)
 https://jmp2.uk/stvp-USAJ3400011A8
 
-#EXTINF:-1 channel-id="plutotv-68b88712e777774982269ce9" tvg-id="plutotv-68b88712e777774982269ce9" tvg-name="Tastemade Viajes (Mexico)" tvg-logo="https://images.pluto.tv/channels/68b88712e777774982269ce9/colorLogoPNG_1759784097851.png" group-title="Entertainment" tvg-chno="1155",Tastemade Viajes (Mexico)
+#EXTINF:-1 channel-id="plutotv-68b88712e777774982269ce9" tvg-id="plutotv-68b88712e777774982269ce9" tvg-name="Tastemade Home &amp; Travel (Mexico)" tvg-logo="https://images.pluto.tv/channels/68b88712e777774982269ce9/colorLogoPNG_1793803234766.png" group-title="Lifestyle" tvg-chno="1155",Tastemade Home & Travel (Mexico)
 https://jmp2.uk/plu-68b88712e777774982269ce9.m3u8
 
 #EXTINF:-1 channel-id="samsungtvplus-IN39000307N" tvg-id="samsungtvplus-IN39000307N" tvg-name="B4U Bhojpuri (India)" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN39000307N_20260623T013644SQUARE.png" group-title="Movies" tvg-chno="1158",B4U Bhojpuri (India)
@@ -7629,10 +7635,10 @@ https://jmp2.uk/stvp-IN1700011V7
 #EXTINF:-1 channel-id="roku-9210a8fbeab66e9d1ce20c187804ee7d" tvg-id="roku-9210a8fbeab66e9d1ce20c187804ee7d" tvg-name="Bassmaster" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/9210a8fbeab66e9d1ce20c187804ee7d/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1749678868866_BassmasterChannel_InfoHUDChannelIdentifier_260x147.png" group-title="Sport" tvg-chno="1209",Bassmaster
 https://jmp2.uk/rok-9210a8fbeab66e9d1ce20c187804ee7d.m3u8
 
-#EXTINF:-1 channel-id="plutotv-5fd1419a3b4f4b000773ba85" tvg-id="plutotv-5fd1419a3b4f4b000773ba85" tvg-name="Tastemade (Brazil)" tvg-logo="https://images.pluto.tv/channels/5fd1419a3b4f4b000773ba85/colorLogoPNG.png" group-title="Entertainment" tvg-chno="1209",Tastemade (Brazil)
+#EXTINF:-1 channel-id="plutotv-5fd1419a3b4f4b000773ba85" tvg-id="plutotv-5fd1419a3b4f4b000773ba85" tvg-name="Tastemade Food (Brazil)" tvg-logo="https://images.pluto.tv/channels/5fd1419a3b4f4b000773ba85/colorLogoPNG_1793802487662.png" group-title="Lifestyle" tvg-chno="1209",Tastemade Food (Brazil)
 https://jmp2.uk/plu-5fd1419a3b4f4b000773ba85.m3u8
 
-#EXTINF:-1 channel-id="plutotv-5f998c1fc54853000797bacd" tvg-id="plutotv-5f998c1fc54853000797bacd" tvg-name="Tastemade (Mexico)" tvg-logo="https://images.pluto.tv/channels/5f998c1fc54853000797bacd/colorLogoPNG_1730999716441.png" group-title="Entertainment" tvg-chno="1209",Tastemade (Mexico)
+#EXTINF:-1 channel-id="plutotv-5f998c1fc54853000797bacd" tvg-id="plutotv-5f998c1fc54853000797bacd" tvg-name="Tastemade Food (Mexico)" tvg-logo="https://images.pluto.tv/channels/5f998c1fc54853000797bacd/colorLogoPNG_1793802456063.png" group-title="Lifestyle" tvg-chno="1209",Tastemade Food (Mexico)
 https://jmp2.uk/plu-5f998c1fc54853000797bacd.m3u8
 
 #EXTINF:-1 channel-id="plutotv-62e951258a26d40007b3034c" tvg-id="plutotv-62e951258a26d40007b3034c" tvg-name="Dora TV (Canada)" tvg-logo="https://images.pluto.tv/channels/62e951258a26d40007b3034c/colorLogoPNG.png" group-title="Kids" tvg-chno="1210",Dora TV (Canada)
@@ -7662,9 +7668,6 @@ https://jmp2.uk/rok-0b4814b9a5e53029e2b9aba64ddc1df0.m3u8
 #EXTINF:-1 channel-id="samsungtvplus-IN2100004C4" tvg-id="samsungtvplus-IN2100004C4" tvg-name="Zee Horror Nights (India)" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN2100004C4_20260623T013340SQUARE.png" group-title="Entertainment" tvg-chno="1212",Zee Horror Nights (India)
 https://jmp2.uk/stvp-IN2100004C4
 
-#EXTINF:-1 channel-id="samsungtvplus-CAAJ2700014EE" tvg-id="samsungtvplus-CAAJ2700014EE" tvg-name="FilmRise Action (Canada)" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CAAJ2700014EE_20261023T223751SQUARE.png" group-title="Movies" tvg-chno="1213",FilmRise Action (Canada)
-https://jmp2.uk/stvp-CAAJ2700014EE
-
 #EXTINF:-1 channel-id="samsungtvplus-IN300091WU" tvg-id="samsungtvplus-IN300091WU" tvg-name="Sansani Live (India)" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN300091WU_20260623T015633SQUARE.png" group-title="Entertainment" tvg-chno="1214",Sansani Live (India)
 https://jmp2.uk/stvp-IN300091WU
 
@@ -7692,7 +7695,7 @@ https://jmp2.uk/plu-6482f27c17f5e10008c10ff0.m3u8
 #EXTINF:-1 channel-id="roku-aefe55d5eb7e49a25b2c17513be6f1e1" tvg-id="roku-aefe55d5eb7e49a25b2c17513be6f1e1" tvg-name="Bowling TV" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/aefe55d5eb7e49a25b2c17513be6f1e1/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1787162238358_bowling_tv_logo_hud.png" group-title="Sport" tvg-chno="1220",Bowling TV
 https://jmp2.uk/rok-aefe55d5eb7e49a25b2c17513be6f1e1.m3u8
 
-#EXTINF:-1 channel-id="samsungtvplus-USBD270001633" tvg-id="samsungtvplus-USBD270001633" tvg-name="Hallmark Movies &amp; More (United States)" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD270001633_20261102T091123SQUARE.png" group-title="Movies" tvg-chno="1220",Hallmark Movies & More (United States)
+#EXTINF:-1 channel-id="samsungtvplus-USBD270001633" tvg-id="samsungtvplus-USBD270001633" tvg-name="Hallmark Holiday Favorites (United States)" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD270001633_20261102T091123SQUARE.png" group-title="Movies" tvg-chno="1220",Hallmark Holiday Favorites (United States)
 https://jmp2.uk/stvp-USBD270001633
 
 #EXTINF:-1 channel-id="plutotv-5812be1c249444e05d09cc50" tvg-id="plutotv-5812be1c249444e05d09cc50" tvg-name="Pluto TV True Crime (USA)" tvg-logo="https://images.pluto.tv/channels/5812be1c249444e05d09cc50/colorLogoPNG.png" group-title="Entertainment" tvg-chno="1220",Pluto TV True Crime (USA)
@@ -7707,8 +7710,11 @@ https://jmp2.uk/stvp-IN2600020H9
 #EXTINF:-1 channel-id="samsungtvplus-IN400000830" tvg-id="samsungtvplus-IN400000830" tvg-name="ENT Live (India)" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN400000830_20260623T014807SQUARE.png" group-title="Entertainment" tvg-chno="1224",ENT Live (India)
 https://jmp2.uk/stvp-IN400000830
 
-#EXTINF:-1 channel-id="samsungtvplus-USBB5200019FO" tvg-id="samsungtvplus-USBB5200019FO" tvg-name="Lifetime Movie Favorites (United States)" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB5200019FO_20261102T091147SQUARE.png" group-title="Movies" tvg-chno="1225",Lifetime Movie Favorites (United States)
+#EXTINF:-1 channel-id="samsungtvplus-USBB5200019FO" tvg-id="samsungtvplus-USBB5200019FO" tvg-name="Lifetime Holiday Movie Favorites (United States)" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB5200019FO_20261102T091147SQUARE.png" group-title="Movies" tvg-chno="1225",Lifetime Holiday Movie Favorites (United States)
 https://jmp2.uk/stvp-USBB5200019FO
+
+#EXTINF:-1 channel-id="plutotv-6532e6a9bdf3cf000887ab29" tvg-id="plutotv-6532e6a9bdf3cf000887ab29" tvg-name="More True Crime (USA)" tvg-logo="https://images.pluto.tv/channels/6532e6a9bdf3cf000887ab29/colorLogoPNG.png" group-title="Entertainment" tvg-chno="1225",More True Crime (USA)
+https://jmp2.uk/plu-6532e6a9bdf3cf000887ab29.m3u8
 
 #EXTINF:-1 channel-id="plutotv-61099df8cee03b00074b2ecf" tvg-id="plutotv-61099df8cee03b00074b2ecf" tvg-name="O Encantador de Cães (Brazil)" tvg-logo="https://images.pluto.tv/channels/61099df8cee03b00074b2ecf/colorLogoPNG.png" group-title="Entertainment" tvg-chno="1225",O Encantador de Cães (Brazil)
 https://jmp2.uk/plu-61099df8cee03b00074b2ecf.m3u8
@@ -7728,8 +7734,8 @@ https://jmp2.uk/stvp-IN4000555E
 #EXTINF:-1 channel-id="samsungtvplus-IN3600007DC" tvg-id="samsungtvplus-IN3600007DC" tvg-name="Auto Live (India)" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3600007DC_20260623T013634SQUARE.png" group-title="Entertainment" tvg-chno="1230",Auto Live (India)
 https://jmp2.uk/stvp-IN3600007DC
 
-#EXTINF:-1 channel-id="plutotv-6532e6a9bdf3cf000887ab29" tvg-id="plutotv-6532e6a9bdf3cf000887ab29" tvg-name="More True Crime (USA)" tvg-logo="https://images.pluto.tv/channels/6532e6a9bdf3cf000887ab29/colorLogoPNG.png" group-title="Entertainment" tvg-chno="1230",More True Crime (USA)
-https://jmp2.uk/plu-6532e6a9bdf3cf000887ab29.m3u8
+#EXTINF:-1 channel-id="samsungtvplus-CA1500004OB" tvg-id="samsungtvplus-CA1500004OB" tvg-name="MovieSphere (Canada)" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA1500004OB_20261104T180901SQUARE.png" group-title="Movies" tvg-chno="1230",MovieSphere (Canada)
+https://jmp2.uk/stvp-CA1500004OB
 
 #EXTINF:-1 channel-id="samsungtvplus-USBD17000117B" tvg-id="samsungtvplus-USBD17000117B" tvg-name="MovieSphere (United States)" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD17000117B_20241105T024212SQUARE.png" group-title="Movies" tvg-chno="1230",MovieSphere (United States)
 https://jmp2.uk/stvp-USBD17000117B
@@ -7737,20 +7743,20 @@ https://jmp2.uk/stvp-USBD17000117B
 #EXTINF:-1 channel-id="plutotv-654ca7f92c1d3300086b608c" tvg-id="plutotv-654ca7f92c1d3300086b608c" tvg-name="NickToons (Canada)" tvg-logo="https://images.pluto.tv/channels/654ca7f92c1d3300086b608c/colorLogoPNG_1751457678592.png" group-title="Kids" tvg-chno="1230",NickToons (Canada)
 https://jmp2.uk/plu-654ca7f92c1d3300086b608c.m3u8
 
+#EXTINF:-1 channel-id="plutotv-6887aaade3703b7d42b64be8" tvg-id="plutotv-6887aaade3703b7d42b64be8" tvg-name="The First 48 by A&amp;E (USA)" tvg-logo="https://images.pluto.tv/channels/6887aaade3703b7d42b64be8/colorLogoPNG_1754999153420.png" group-title="Entertainment" tvg-chno="1230",The First 48 by A&E (USA)
+https://jmp2.uk/plu-6887aaade3703b7d42b64be8.m3u8
+
 #EXTINF:-1 channel-id="samsungtvplus-IN8000171I" tvg-id="samsungtvplus-IN8000171I" tvg-name="Epic Crimes (India)" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN8000171I_20260901T055353SQUARE.png" group-title="Entertainment" tvg-chno="1231",Epic Crimes (India)
 https://jmp2.uk/stvp-IN8000171I
+
+#EXTINF:-1 channel-id="plutotv-637413d8531e0c0007442d6d" tvg-id="plutotv-637413d8531e0c0007442d6d" tvg-name="Dateline 24/7 (USA)" tvg-logo="https://images.pluto.tv/channels/637413d8531e0c0007442d6d/colorLogoPNG.png" group-title="24/7" tvg-chno="1235",Dateline 24/7 (USA)
+https://jmp2.uk/plu-637413d8531e0c0007442d6d.m3u8
 
 #EXTINF:-1 channel-id="samsungtvplus-USBA300017PK" tvg-id="samsungtvplus-USBA300017PK" tvg-name="Pluto TV Fantastic (United States)" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA300017PK_20261002T181921SQUARE.png" group-title="Movies" tvg-chno="1235",Pluto TV Fantastic (United States)
 https://jmp2.uk/stvp-USBA300017PK
 
-#EXTINF:-1 channel-id="plutotv-6887aaade3703b7d42b64be8" tvg-id="plutotv-6887aaade3703b7d42b64be8" tvg-name="The First 48 by A&amp;E (USA)" tvg-logo="https://images.pluto.tv/channels/6887aaade3703b7d42b64be8/colorLogoPNG_1754999153420.png" group-title="Entertainment" tvg-chno="1235",The First 48 by A&E (USA)
-https://jmp2.uk/plu-6887aaade3703b7d42b64be8.m3u8
-
 #EXTINF:-1 channel-id="plutotv-62e95265c9fd030007268fb9" tvg-id="plutotv-62e95265c9fd030007268fb9" tvg-name="Totally Turtles (Canada)" tvg-logo="https://images.pluto.tv/channels/62e95265c9fd030007268fb9/colorLogoPNG.png" group-title="Kids" tvg-chno="1235",Totally Turtles (Canada)
 https://jmp2.uk/plu-62e95265c9fd030007268fb9.m3u8
-
-#EXTINF:-1 channel-id="plutotv-6887a4e01067b66fa16966ec" tvg-id="plutotv-6887a4e01067b66fa16966ec" tvg-name="Live PD Presents (USA)" tvg-logo="https://images.pluto.tv/channels/6887a4e01067b66fa16966ec/colorLogoPNG_1757525803914.png" group-title="Entertainment" tvg-chno="1237",Live PD Presents (USA)
-https://jmp2.uk/plu-6887a4e01067b66fa16966ec.m3u8
 
 #EXTINF:-1 channel-id="samsungtvplus-US18000163F" tvg-id="samsungtvplus-US18000163F" tvg-name="Miramax Movie Channel (United States)" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US18000163F_20261009T160639SQUARE.png" group-title="Movies" tvg-chno="1237",Miramax Movie Channel (United States)
 https://jmp2.uk/stvp-US18000163F
@@ -7758,26 +7764,17 @@ https://jmp2.uk/stvp-US18000163F
 #EXTINF:-1 channel-id="plutotv-6aab1ec6f2eaa8924745678e" tvg-id="plutotv-6aab1ec6f2eaa8924745678e" tvg-name="A&amp;E Live PD: Greatest Shifts (USA)" tvg-logo="https://images.pluto.tv/channels/6aab1ec6f2eaa8924745678e/colorLogoPNG_1790808102594.png" group-title="Entertainment" tvg-chno="1239",A&E Live PD: Greatest Shifts (USA)
 https://jmp2.uk/plu-6aab1ec6f2eaa8924745678e.m3u8
 
-#EXTINF:-1 channel-id="plutotv-65492fc7056b9700088560b5" tvg-id="plutotv-65492fc7056b9700088560b5" tvg-name="American Crimes (USA)" tvg-logo="https://images.pluto.tv/channels/65492fc7056b9700088560b5/colorLogoPNG_1763432008789.png" group-title="Entertainment" tvg-chno="1240",American Crimes (USA)
-https://jmp2.uk/plu-65492fc7056b9700088560b5.m3u8
-
 #EXTINF:-1 channel-id="plutotv-66ebf4a88131f10008b74739" tvg-id="plutotv-66ebf4a88131f10008b74739" tvg-name="Pokémon (Canada)" tvg-logo="https://images.pluto.tv/channels/66ebf4a88131f10008b74739/colorLogoPNG.png" group-title="Kids" tvg-chno="1245",Pokémon (Canada)
 https://jmp2.uk/plu-66ebf4a88131f10008b74739.m3u8
 
 #EXTINF:-1 channel-id="plutotv-6ac5067030fb504db0658842" tvg-id="plutotv-6ac5067030fb504db0658842" tvg-name="See It Now Studios True Crime (USA)" tvg-logo="https://images.pluto.tv/channels/6ac5067030fb504db0658842/colorLogoPNG_1793642003281.png" group-title="Entertainment" tvg-chno="1245",See It Now Studios True Crime (USA)
 https://jmp2.uk/plu-6ac5067030fb504db0658842.m3u8
 
-#EXTINF:-1 channel-id="plutotv-637413d8531e0c0007442d6d" tvg-id="plutotv-637413d8531e0c0007442d6d" tvg-name="Dateline 24/7 (USA)" tvg-logo="https://images.pluto.tv/channels/637413d8531e0c0007442d6d/colorLogoPNG.png" group-title="24/7" tvg-chno="1250",Dateline 24/7 (USA)
-https://jmp2.uk/plu-637413d8531e0c0007442d6d.m3u8
-
 #EXTINF:-1 channel-id="plutotv-677f927554f43dad4b3258aa" tvg-id="plutotv-677f927554f43dad4b3258aa" tvg-name="Garfield and Friends (Canada)" tvg-logo="https://images.pluto.tv/channels/677f927554f43dad4b3258aa/colorLogoPNG.png" group-title="Kids" tvg-chno="1250",Garfield and Friends (Canada)
 https://jmp2.uk/plu-677f927554f43dad4b3258aa.m3u8
 
 #EXTINF:-1 channel-id="plutotv-6ad7a23d0f04c58afc0110ad" tvg-id="plutotv-6ad7a23d0f04c58afc0110ad" tvg-name="I (Almost) Got Away With It (USA)" tvg-logo="https://images.pluto.tv/channels/6ad7a23d0f04c58afc0110ad/colorLogoPNG_1793382563465.png" group-title="Entertainment" tvg-chno="1250",I (Almost) Got Away With It (USA)
 https://jmp2.uk/plu-6ad7a23d0f04c58afc0110ad.m3u8
-
-#EXTINF:-1 channel-id="samsungtvplus-USAJ26000054W" tvg-id="samsungtvplus-USAJ26000054W" tvg-name="Paramount Movie Channel (United States)" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ26000054W_20260804T045743SQUARE.png" group-title="Movies" tvg-chno="1250",Paramount Movie Channel (United States)
-https://jmp2.uk/stvp-USAJ26000054W
 
 #EXTINF:-1 channel-id="plutotv-5f12136385bccc00070142ed" tvg-id="plutotv-5f12136385bccc00070142ed" tvg-name="Pluto TV Anime (Brazil)" tvg-logo="https://images.pluto.tv/channels/5f12136385bccc00070142ed/colorLogoPNG_1785430875394.png" group-title="Entertainment" tvg-chno="1251",Pluto TV Anime (Brazil)
 https://jmp2.uk/plu-5f12136385bccc00070142ed.m3u8
@@ -7800,14 +7797,14 @@ https://jmp2.uk/plu-5f6df5a173d7340007c559f7.m3u8
 #EXTINF:-1 channel-id="plutotv-5ee92e72fb286e0007285fec" tvg-id="plutotv-5ee92e72fb286e0007285fec" tvg-name="Naruto (Mexico)" tvg-logo="https://images.pluto.tv/channels/5ee92e72fb286e0007285fec/colorLogoPNG.png" group-title="Entertainment" tvg-chno="1259",Naruto (Mexico)
 https://jmp2.uk/plu-5ee92e72fb286e0007285fec.m3u8
 
-#EXTINF:-1 channel-id="plutotv-6176f39e709f160007ec61c3" tvg-id="plutotv-6176f39e709f160007ec61c3" tvg-name="48 Hours (USA)" tvg-logo="https://images.pluto.tv/channels/6176f39e709f160007ec61c3/colorLogoPNG.png" group-title="Entertainment" tvg-chno="1260",48 Hours (USA)
-https://jmp2.uk/plu-6176f39e709f160007ec61c3.m3u8
-
 #EXTINF:-1 channel-id="samsungtvplus-CABD1200001SY" tvg-id="samsungtvplus-CABD1200001SY" tvg-name="Gravitas Movies (Canada)" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABD1200001SY_20260616T032306SQUARE.png" group-title="Movies" tvg-chno="1260",Gravitas Movies (Canada)
 https://jmp2.uk/stvp-CABD1200001SY
 
 #EXTINF:-1 channel-id="samsungtvplus-USBD700011RE" tvg-id="samsungtvplus-USBD700011RE" tvg-name="Gravitas Movies (United States)" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD700011RE_20241203T004808SQUARE.png" group-title="Movies" tvg-chno="1260",Gravitas Movies (United States)
 https://jmp2.uk/stvp-USBD700011RE
+
+#EXTINF:-1 channel-id="plutotv-6887a4e01067b66fa16966ec" tvg-id="plutotv-6887a4e01067b66fa16966ec" tvg-name="Live PD Presents (USA)" tvg-logo="https://images.pluto.tv/channels/6887a4e01067b66fa16966ec/colorLogoPNG_1757525803914.png" group-title="Entertainment" tvg-chno="1260",Live PD Presents (USA)
+https://jmp2.uk/plu-6887a4e01067b66fa16966ec.m3u8
 
 #EXTINF:-1 channel-id="plutotv-64c92f965580090008084968" tvg-id="plutotv-64c92f965580090008084968" tvg-name="Naruto Shippuden (Brazil)" tvg-logo="https://images.pluto.tv/channels/64c92f965580090008084968/colorLogoPNG_1785430970647.png" group-title="Entertainment" tvg-chno="1260",Naruto Shippuden (Brazil)
 https://jmp2.uk/plu-64c92f965580090008084968.m3u8
@@ -7839,14 +7836,14 @@ https://jmp2.uk/plu-626c2ed933a2890007e91422.m3u8
 #EXTINF:-1 channel-id="samsungtvplus-IN2200002GZ" tvg-id="samsungtvplus-IN2200002GZ" tvg-name="The Cube (India)" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN2200002GZ_20260818T082711SQUARE.png" group-title="Entertainment" tvg-chno="1264",The Cube (India)
 https://jmp2.uk/stvp-IN2200002GZ
 
+#EXTINF:-1 channel-id="plutotv-6176f39e709f160007ec61c3" tvg-id="plutotv-6176f39e709f160007ec61c3" tvg-name="48 Hours (USA)" tvg-logo="https://images.pluto.tv/channels/6176f39e709f160007ec61c3/colorLogoPNG.png" group-title="Entertainment" tvg-chno="1265",48 Hours (USA)
+https://jmp2.uk/plu-6176f39e709f160007ec61c3.m3u8
+
 #EXTINF:-1 channel-id="plutotv-66c7982f6838ee00085f0d24" tvg-id="plutotv-66c7982f6838ee00085f0d24" tvg-name="JoJo’s Bizarre Adventure (Brazil)" tvg-logo="https://images.pluto.tv/channels/66c7982f6838ee00085f0d24/colorLogoPNG.png" group-title="Entertainment" tvg-chno="1265",JoJo’s Bizarre Adventure (Brazil)
 https://jmp2.uk/plu-66c7982f6838ee00085f0d24.m3u8
 
 #EXTINF:-1 channel-id="plutotv-66c790f780a0af0008583aa4" tvg-id="plutotv-66c790f780a0af0008583aa4" tvg-name="JoJo’s Bizarre Adventure (Mexico)" tvg-logo="https://images.pluto.tv/channels/66c790f780a0af0008583aa4/colorLogoPNG.png" group-title="Entertainment" tvg-chno="1265",JoJo’s Bizarre Adventure (Mexico)
 https://jmp2.uk/plu-66c790f780a0af0008583aa4.m3u8
-
-#EXTINF:-1 channel-id="plutotv-68bb164fb3900870ec368759" tvg-id="plutotv-68bb164fb3900870ec368759" tvg-name="Living With Evil (USA)" tvg-logo="https://images.pluto.tv/channels/68bb164fb3900870ec368759/colorLogoPNG_1785342013286.png" group-title="Entertainment" tvg-chno="1265",Living With Evil (USA)
-https://jmp2.uk/plu-68bb164fb3900870ec368759.m3u8
 
 #EXTINF:-1 channel-id="samsungtvplus-IN2200004MX" tvg-id="samsungtvplus-IN2200004MX" tvg-name="Midsomer Murders (India)" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN2200004MX_20260901T055421SQUARE.png" group-title="Entertainment" tvg-chno="1265",Midsomer Murders (India)
 https://jmp2.uk/stvp-IN2200004MX
@@ -7878,9 +7875,6 @@ https://jmp2.uk/stvp-CABC2300019UD
 #EXTINF:-1 channel-id="samsungtvplus-IN390002534" tvg-id="samsungtvplus-IN390002534" tvg-name="The Try Guys (India)" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN390002534_20260623T013425SQUARE.png" group-title="Entertainment" tvg-chno="1270",The Try Guys (India)
 https://jmp2.uk/stvp-IN390002534
 
-#EXTINF:-1 channel-id="plutotv-5b4e96a0423e067bd6df6901" tvg-id="plutotv-5b4e96a0423e067bd6df6901" tvg-name="Unsolved Mysteries (USA)" tvg-logo="https://images.pluto.tv/channels/5b4e96a0423e067bd6df6901/colorLogoPNG.png" group-title="Entertainment" tvg-chno="1270",Unsolved Mysteries (USA)
-https://jmp2.uk/plu-5b4e96a0423e067bd6df6901.m3u8
-
 #EXTINF:-1 channel-id="plutotv-64666345f3f5b1000882bfb4" tvg-id="plutotv-64666345f3f5b1000882bfb4" tvg-name="Captain Tsubasa (Mexico)" tvg-logo="https://images.pluto.tv/channels/64666345f3f5b1000882bfb4/colorLogoPNG.png" group-title="Entertainment" tvg-chno="1271",Captain Tsubasa (Mexico)
 https://jmp2.uk/plu-64666345f3f5b1000882bfb4.m3u8
 
@@ -7892,6 +7886,9 @@ https://jmp2.uk/plu-633dc392e0282400071b0d39.m3u8
 
 #EXTINF:-1 channel-id="samsungtvplus-IN3000010V5" tvg-id="samsungtvplus-IN3000010V5" tvg-name="Mr. Bean Animated (India)" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3000010V5_20261006T042406SQUARE.png" group-title="Entertainment" tvg-chno="1274",Mr. Bean Animated (India)
 https://jmp2.uk/stvp-IN3000010V5
+
+#EXTINF:-1 channel-id="plutotv-65492fc7056b9700088560b5" tvg-id="plutotv-65492fc7056b9700088560b5" tvg-name="American Crimes (USA)" tvg-logo="https://images.pluto.tv/channels/65492fc7056b9700088560b5/colorLogoPNG_1763432008789.png" group-title="Entertainment" tvg-chno="1275",American Crimes (USA)
+https://jmp2.uk/plu-65492fc7056b9700088560b5.m3u8
 
 #EXTINF:-1 channel-id="samsungtvplus-CA18000032W" tvg-id="samsungtvplus-CA18000032W" tvg-name="NEW KMOVIES (Canada)" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA18000032W_20260922T055944SQUARE.png" group-title="Movies" tvg-chno="1275",NEW KMOVIES (Canada)
 https://jmp2.uk/stvp-CA18000032W
@@ -7923,11 +7920,11 @@ https://jmp2.uk/plu-66588931a3865300085ca800.m3u8
 #EXTINF:-1 channel-id="samsungtvplus-INBA5100030AO" tvg-id="samsungtvplus-INBA5100030AO" tvg-name="FailArmy (India)" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBA5100030AO_20260623T012204SQUARE.png" group-title="Entertainment" tvg-chno="1280",FailArmy (India)
 https://jmp2.uk/stvp-INBA5100030AO
 
+#EXTINF:-1 channel-id="plutotv-68bb164fb3900870ec368759" tvg-id="plutotv-68bb164fb3900870ec368759" tvg-name="Living With Evil (USA)" tvg-logo="https://images.pluto.tv/channels/68bb164fb3900870ec368759/colorLogoPNG_1785342013286.png" group-title="Entertainment" tvg-chno="1280",Living With Evil (USA)
+https://jmp2.uk/plu-68bb164fb3900870ec368759.m3u8
+
 #EXTINF:-1 channel-id="samsungtvplus-US8000024G" tvg-id="samsungtvplus-US8000024G" tvg-name="OUTflix Movies (United States)" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US8000024G_20260915T035051SQUARE.png" group-title="Movies" tvg-chno="1280",OUTflix Movies (United States)
 https://jmp2.uk/stvp-US8000024G
-
-#EXTINF:-1 channel-id="plutotv-5aea40b35126c2157123aa64" tvg-id="plutotv-5aea40b35126c2157123aa64" tvg-name="The New Detectives (USA)" tvg-logo="https://images.pluto.tv/channels/5aea40b35126c2157123aa64/colorLogoPNG.png" group-title="Entertainment" tvg-chno="1280",The New Detectives (USA)
-https://jmp2.uk/plu-5aea40b35126c2157123aa64.m3u8
 
 #EXTINF:-1 channel-id="samsungtvplus-IN24000030L" tvg-id="samsungtvplus-IN24000030L" tvg-name="Crime Scene TV (India)" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN24000030L_20260623T014729SQUARE.png" group-title="Entertainment" tvg-chno="1282",Crime Scene TV (India)
 https://jmp2.uk/stvp-IN24000030L
@@ -7944,14 +7941,20 @@ https://jmp2.uk/stvp-USAJ3000007MT
 #EXTINF:-1 channel-id="plutotv-62e9566e27ce19000732ec85" tvg-id="plutotv-62e9566e27ce19000732ec85" tvg-name="Tortues Ninja TV (Canada)" tvg-logo="https://images.pluto.tv/channels/62e9566e27ce19000732ec85/colorLogoPNG.png" group-title="Kids" tvg-chno="1285",Tortues Ninja TV (Canada)
 https://jmp2.uk/plu-62e9566e27ce19000732ec85.m3u8
 
+#EXTINF:-1 channel-id="plutotv-5b4e96a0423e067bd6df6901" tvg-id="plutotv-5b4e96a0423e067bd6df6901" tvg-name="Unsolved Mysteries (USA)" tvg-logo="https://images.pluto.tv/channels/5b4e96a0423e067bd6df6901/colorLogoPNG.png" group-title="Entertainment" tvg-chno="1285",Unsolved Mysteries (USA)
+https://jmp2.uk/plu-5b4e96a0423e067bd6df6901.m3u8
+
 #EXTINF:-1 channel-id="samsungtvplus-IN3000022R9" tvg-id="samsungtvplus-IN3000022R9" tvg-name="Fifth Gear (India)" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3000022R9_20260915T042127SQUARE.png" group-title="Entertainment" tvg-chno="1288",Fifth Gear (India)
 https://jmp2.uk/stvp-IN3000022R9
 
-#EXTINF:-1 channel-id="plutotv-5c37d6712de254456f7ec340" tvg-id="plutotv-5c37d6712de254456f7ec340" tvg-name="Cold Case Files by A&amp;E (USA)" tvg-logo="https://images.pluto.tv/channels/5c37d6712de254456f7ec340/colorLogoPNG_1767744689997.png" group-title="Entertainment" tvg-chno="1290",Cold Case Files by A&E (USA)
-https://jmp2.uk/plu-5c37d6712de254456f7ec340.m3u8
+#EXTINF:-1 channel-id="plutotv-5aea40b35126c2157123aa64" tvg-id="plutotv-5aea40b35126c2157123aa64" tvg-name="The New Detectives (USA)" tvg-logo="https://images.pluto.tv/channels/5aea40b35126c2157123aa64/colorLogoPNG.png" group-title="Entertainment" tvg-chno="1290",The New Detectives (USA)
+https://jmp2.uk/plu-5aea40b35126c2157123aa64.m3u8
 
 #EXTINF:-1 channel-id="plutotv-5ff608e60e2996000768c366" tvg-id="plutotv-5ff608e60e2996000768c366" tvg-name="Tokusato (Mexico)" tvg-logo="https://images.pluto.tv/channels/5ff608e60e2996000768c366/colorLogoPNG.png" group-title="Entertainment" tvg-chno="1294",Tokusato (Mexico)
 https://jmp2.uk/plu-5ff608e60e2996000768c366.m3u8
+
+#EXTINF:-1 channel-id="plutotv-5c37d6712de254456f7ec340" tvg-id="plutotv-5c37d6712de254456f7ec340" tvg-name="Cold Case Files by A&amp;E (USA)" tvg-logo="https://images.pluto.tv/channels/5c37d6712de254456f7ec340/colorLogoPNG_1767744689997.png" group-title="Entertainment" tvg-chno="1295",Cold Case Files by A&E (USA)
+https://jmp2.uk/plu-5c37d6712de254456f7ec340.m3u8
 
 #EXTINF:-1 channel-id="plutotv-5bb1af6a268cae539bcedb0a" tvg-id="plutotv-5bb1af6a268cae539bcedb0a" tvg-name="Forensic Files (USA)" tvg-logo="https://images.pluto.tv/channels/5bb1af6a268cae539bcedb0a/colorLogoPNG.png" group-title="Entertainment" tvg-chno="1300",Forensic Files (USA)
 https://jmp2.uk/plu-5bb1af6a268cae539bcedb0a.m3u8
@@ -8631,6 +8634,9 @@ https://jmp2.uk/stvp-CABB26000082J
 #EXTINF:-1 channel-id="samsungtvplus-USBB320000397" tvg-id="samsungtvplus-USBB320000397" tvg-name="21 Jump Street (United States)" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB320000397_20241105T024257SQUARE.png" group-title="Series" tvg-chno="1600",21 Jump Street (United States)
 https://jmp2.uk/stvp-USBB320000397
 
+#EXTINF:-1 channel-id="samsungtvplus-IN38000050P" tvg-id="samsungtvplus-IN38000050P" tvg-name="9XM (India)" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN38000050P_20261102T074435SQUARE.png" group-title="Music" tvg-chno="1600",9XM (India)
+https://jmp2.uk/stvp-IN38000050P
+
 #EXTINF:-1 channel-id="samsungtvplus-IN8000196E" tvg-id="samsungtvplus-IN8000196E" tvg-name="Epic Music (India)" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN8000196E_20260722T004240SQUARE.png" group-title="Music" tvg-chno="1601",Epic Music (India)
 https://jmp2.uk/stvp-IN8000196E
 
@@ -8835,9 +8841,6 @@ https://jmp2.uk/stvp-CABC23000189A
 #EXTINF:-1 channel-id="samsungtvplus-IN25000020M" tvg-id="samsungtvplus-IN25000020M" tvg-name="The Jungle Book (India)" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN25000020M_20261020T052431SQUARE.png" group-title="Kids" tvg-chno="1800",The Jungle Book (India)
 https://jmp2.uk/stvp-IN25000020M
 
-#EXTINF:-1 channel-id="samsungtvplus-IN4000625P" tvg-id="samsungtvplus-IN4000625P" tvg-name="Green Gold TV (India)" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN4000625P_20261102T074409SQUARE.png" group-title="Kids" tvg-chno="1804",Green Gold TV (India)
-https://jmp2.uk/stvp-IN4000625P
-
 #EXTINF:-1 channel-id="plutotv-6532e8342cf13100083b404c" tvg-id="plutotv-6532e8342cf13100083b404c" tvg-name="Warner Bros. TV Say Yes to the Dress (USA)" tvg-logo="https://images.pluto.tv/channels/6532e8342cf13100083b404c/colorLogoPNG.png" group-title="Series" tvg-chno="1805",Warner Bros. TV Say Yes to the Dress (USA)
 https://jmp2.uk/plu-6532e8342cf13100083b404c.m3u8
 
@@ -8915,9 +8918,6 @@ https://jmp2.uk/stvp-US1900023QQ
 
 #EXTINF:-1 channel-id="samsungtvplus-USBD42000073E" tvg-id="samsungtvplus-USBD42000073E" tvg-name="60 Days In by A&amp;E (United States)" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD42000073E_20250520T211334SQUARE.png" group-title="Entertainment" tvg-chno="1831",60 Days In by A&E (United States)
 https://jmp2.uk/stvp-USBD42000073E
-
-#EXTINF:-1 channel-id="samsungtvplus-CA4700017S7" tvg-id="samsungtvplus-CA4700017S7" tvg-name="The First 48 (Canada)" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA4700017S7_20260727T081710SQUARE.png" group-title="Entertainment" tvg-chno="1832",The First 48 (Canada)
-https://jmp2.uk/stvp-CA4700017S7
 
 #EXTINF:-1 channel-id="samsungtvplus-US3300011V9" tvg-id="samsungtvplus-US3300011V9" tvg-name="The First 48 (United States)" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US3300011V9_20261008T213644SQUARE.png" group-title="Entertainment" tvg-chno="1832",The First 48 (United States)
 https://jmp2.uk/stvp-US3300011V9
@@ -9194,9 +9194,6 @@ https://jmp2.uk/stvp-USBC4400002GF
 
 #EXTINF:-1 channel-id="samsungtvplus-CA1400009E5" tvg-id="samsungtvplus-CA1400009E5" tvg-name="The Mightiest by CTV (Canada)" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA1400009E5_20260421T140307SQUARE.png" group-title="Series" tvg-chno="1977",The Mightiest by CTV (Canada)
 https://jmp2.uk/stvp-CA1400009E5
-
-#EXTINF:-1 channel-id="samsungtvplus-USBD2700013UK" tvg-id="samsungtvplus-USBD2700013UK" tvg-name="Swamp People (United States)" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD2700013UK_20260421T134147SQUARE.png" group-title="Series" tvg-chno="1978",Swamp People (United States)
-https://jmp2.uk/stvp-USBD2700013UK
 
 #EXTINF:-1 channel-id="samsungtvplus-CA4700018BI" tvg-id="samsungtvplus-CA4700018BI" tvg-name="Deal Zone (Canada)" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA4700018BI_20260721T033204SQUARE.png" group-title="Series" tvg-chno="1979",Deal Zone (Canada)
 https://jmp2.uk/stvp-CA4700018BI
@@ -9780,7 +9777,7 @@ https://jmp2.uk/stvp-CA4100001H8
 #EXTINF:-1 channel-id="samsungtvplus-US37000017A" tvg-id="samsungtvplus-US37000017A" tvg-name="Big 12 Studios (United States)" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US37000017A_20260421T143312SQUARE.png" group-title="Sport" tvg-chno="2390",Big 12 Studios (United States)
 https://jmp2.uk/stvp-US37000017A
 
-#EXTINF:-1 channel-id="samsungtvplus-USBA300034DB" tvg-id="samsungtvplus-USBA300034DB" tvg-name="Pac-12 Insider (United States)" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA300034DB_20261102T091119SQUARE.png" group-title="Sport" tvg-chno="2392",Pac-12 Insider (United States)
+#EXTINF:-1 channel-id="samsungtvplus-USBA300034DB" tvg-id="samsungtvplus-USBA300034DB" tvg-name="Pac-12 Channel (United States)" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA300034DB_20261102T091119SQUARE.png" group-title="Sport" tvg-chno="2392",Pac-12 Channel (United States)
 https://jmp2.uk/stvp-USBA300034DB
 
 #EXTINF:-1 channel-id="samsungtvplus-CA3900001GT" tvg-id="samsungtvplus-CA3900001GT" tvg-name="RYZ Sports Network (Canada)" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA3900001GT_20260421T141234SQUARE.png" group-title="Sport" tvg-chno="2394",RYZ Sports Network (Canada)
@@ -9857,9 +9854,6 @@ https://jmp2.uk/stvp-USBD1700009P5
 
 #EXTINF:-1 channel-id="plutotv-634ee8f95aa9870007248333" tvg-id="plutotv-634ee8f95aa9870007248333" tvg-name="Confess by Nosey (USA)" tvg-logo="https://images.pluto.tv/channels/634ee8f95aa9870007248333/colorLogoPNG.png" group-title="Series" tvg-chno="2450",Confess by Nosey (USA)
 https://jmp2.uk/plu-634ee8f95aa9870007248333.m3u8
-
-#EXTINF:-1 channel-id="samsungtvplus-CA1800005O1" tvg-id="samsungtvplus-CA1800005O1" tvg-name="Triton Poker (Canada)" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA1800005O1_20260721T033237SQUARE.png" group-title="Sport" tvg-chno="2450",Triton Poker (Canada)
-https://jmp2.uk/stvp-CA1800005O1
 
 #EXTINF:-1 channel-id="samsungtvplus-US18000206C" tvg-id="samsungtvplus-US18000206C" tvg-name="Triton Poker (United States)" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US18000206C_20260804T045907SQUARE.png" group-title="Sport" tvg-chno="2450",Triton Poker (United States)
 https://jmp2.uk/stvp-US18000206C
@@ -9947,12 +9941,6 @@ https://jmp2.uk/plu-5f8a02476b72230007e62b7d.m3u8
 
 #EXTINF:-1 channel-id="plutotv-68ee9a999938143525bfc385" tvg-id="plutotv-68ee9a999938143525bfc385" tvg-name="Shop LC (USA)" tvg-logo="https://images.pluto.tv/channels/68ee9a999938143525bfc385/colorLogoPNG_1760999630595.png" group-title="Series" tvg-chno="2512",Shop LC (USA)
 https://jmp2.uk/plu-68ee9a999938143525bfc385.m3u8
-
-#EXTINF:-1 channel-id="samsungtvplus-CABC2300004A4" tvg-id="samsungtvplus-CABC2300004A4" tvg-name="Top Gear (Canada)" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABC2300004A4_20260421T140527SQUARE.png" group-title="Sport" tvg-chno="2515",Top Gear (Canada)
-https://jmp2.uk/stvp-CABC2300004A4
-
-#EXTINF:-1 channel-id="samsungtvplus-USBC2400027NG" tvg-id="samsungtvplus-USBC2400027NG" tvg-name="Top Gear (United States)" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC2400027NG_20260421T143428SQUARE.png" group-title="Sport" tvg-chno="2515",Top Gear (United States)
-https://jmp2.uk/stvp-USBC2400027NG
 
 #EXTINF:-1 channel-id="samsungtvplus-US190002290" tvg-id="samsungtvplus-US190002290" tvg-name="Carwow (United States)" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US190002290_20260804T045822SQUARE.png" group-title="Sport" tvg-chno="2516",Carwow (United States)
 https://jmp2.uk/stvp-US190002290
@@ -10053,6 +10041,9 @@ https://jmp2.uk/stvp-USBD120001614
 #EXTINF:-1 channel-id="plutotv-61e9af6bfbbcc6000700119b" tvg-id="plutotv-61e9af6bfbbcc6000700119b" tvg-name="WeatherNation Los Angeles (USA)" tvg-logo="https://images.pluto.tv/channels/61e9af6bfbbcc6000700119b/colorLogoPNG.png" group-title="News" tvg-chno="2620",WeatherNation Los Angeles (USA)
 https://jmp2.uk/plu-61e9af6bfbbcc6000700119b.m3u8
 
+#EXTINF:-1 channel-id="samsungtvplus-CA4100007AK" tvg-id="samsungtvplus-CA4100007AK" tvg-name="AFV with Alfonso Ribeiro (Canada)" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA4100007AK_20261104T180854SQUARE.png" group-title="Comedy" tvg-chno="2621",AFV with Alfonso Ribeiro (Canada)
+https://jmp2.uk/stvp-CA4100007AK
+
 #EXTINF:-1 channel-id="samsungtvplus-US4100038R9" tvg-id="samsungtvplus-US4100038R9" tvg-name="AFV with Alfonso Ribeiro (United States)" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US4100038R9_20261023T223546SQUARE.png" group-title="Comedy" tvg-chno="2621",AFV with Alfonso Ribeiro (United States)
 https://jmp2.uk/stvp-US4100038R9
 
@@ -10151,9 +10142,6 @@ https://jmp2.uk/stvp-USBA300019WF
 
 #EXTINF:-1 channel-id="roku-8abbea29b86a5a5da299c7ef2e288cab" tvg-id="roku-8abbea29b86a5a5da299c7ef2e288cab" tvg-name="Reelz Famous and Infamous" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/8abbea29b86a5a5da299c7ef2e288cab/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1733326414482_ReelzFI_260x147_v1.png" group-title="Entertainment" tvg-chno="2671",Reelz Famous and Infamous
 https://jmp2.uk/rok-8abbea29b86a5a5da299c7ef2e288cab.m3u8
-
-#EXTINF:-1 channel-id="roku-586bd3d19f6e4b7a5cf3458722984b82" tvg-id="roku-586bd3d19f6e4b7a5cf3458722984b82" tvg-name="Court TV Legendary Trials" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/586bd3d19f6e4b7a5cf3458722984b82/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1753726975635_25-CTV-1681835828-Court-TV-Legendary-Trials---OTT-CTV---Legendary-Trials-Logos---Roku-Channel-Launch_CourtTVLT_Roku_HUD1.png" group-title="Series" tvg-chno="2673",Court TV Legendary Trials
-https://jmp2.uk/rok-586bd3d19f6e4b7a5cf3458722984b82.m3u8
 
 #EXTINF:-1 channel-id="roku-645518dc5f92519688baed84d025b14e" tvg-id="roku-645518dc5f92519688baed84d025b14e" tvg-name="JAIL" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/645518dc5f92519688baed84d025b14e/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1709832057729_JAIL_IMAGE_HUD_2_Meela_Hice.png" group-title="Entertainment" tvg-chno="2674",JAIL
 https://jmp2.uk/rok-645518dc5f92519688baed84d025b14e.m3u8
@@ -10554,6 +10542,9 @@ https://jmp2.uk/rok-65506c44c9535b3787d255f333e7b1f7.m3u8
 #EXTINF:-1 channel-id="samsungtvplus-US200111SU" tvg-id="samsungtvplus-US200111SU" tvg-name="Van Helsing (United States)" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US200111SU_20260421T141942SQUARE.png" group-title="Entertainment" tvg-chno="3013",Van Helsing (United States)
 https://jmp2.uk/stvp-US200111SU
 
+#EXTINF:-1 channel-id="samsungtvplus-CA800004UD" tvg-id="samsungtvplus-CA800004UD" tvg-name="Z Nation (Canada)" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA800004UD_20261104T180936SQUARE.png" group-title="Entertainment" tvg-chno="3014",Z Nation (Canada)
+https://jmp2.uk/stvp-CA800004UD
+
 #EXTINF:-1 channel-id="samsungtvplus-US800014B2" tvg-id="samsungtvplus-US800014B2" tvg-name="Z Nation (United States)" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US800014B2_20261103T171639SQUARE.png" group-title="Entertainment" tvg-chno="3014",Z Nation (United States)
 https://jmp2.uk/stvp-US800014B2
 
@@ -10566,14 +10557,14 @@ https://jmp2.uk/rok-1d3f60995d80521882a379fc06e47679.m3u8
 #EXTINF:-1 channel-id="roku-856fca464da0544784204ba8f6161dac" tvg-id="roku-856fca464da0544784204ba8f6161dac" tvg-name="PBS Antiques Roadshow" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/856fca464da0544784204ba8f6161dac/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1772722216448_260x147_CenterAligned.png" group-title="Documentaries" tvg-chno="3022",PBS Antiques Roadshow
 https://jmp2.uk/rok-856fca464da0544784204ba8f6161dac.m3u8
 
-#EXTINF:-1 channel-id="roku-9cb058af15a0fdacf5aa87b78b2e3d33" tvg-id="roku-9cb058af15a0fdacf5aa87b78b2e3d33" tvg-name="QVC2" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/9cb058af15a0fdacf5aa87b78b2e3d33/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1747160713948_Hud_Logo_QVC2-1.png" group-title="Entertainment" tvg-chno="3027",QVC2
-https://jmp2.uk/rok-9cb058af15a0fdacf5aa87b78b2e3d33.m3u8
-
 #EXTINF:-1 channel-id="samsungtvplus-USBD1200007FE" tvg-id="samsungtvplus-USBD1200007FE" tvg-name="OuterSphere (United States)" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1200007FE_20240611T050306SQUARE.png" group-title="Entertainment" tvg-chno="3030",OuterSphere (United States)
 https://jmp2.uk/stvp-USBD1200007FE
 
 #EXTINF:-1 channel-id="samsungtvplus-US300002BE" tvg-id="samsungtvplus-US300002BE" tvg-name="The Curse of Oak Island (United States)" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US300002BE_20261103T171632SQUARE.png" group-title="Entertainment" tvg-chno="3035",The Curse of Oak Island (United States)
 https://jmp2.uk/stvp-US300002BE
+
+#EXTINF:-1 channel-id="samsungtvplus-CABA800009T5" tvg-id="samsungtvplus-CABA800009T5" tvg-name="Haunt TV (Canada)" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABA800009T5_20261104T180801SQUARE.png" group-title="Entertainment" tvg-chno="3045",Haunt TV (Canada)
+https://jmp2.uk/stvp-CABA800009T5
 
 #EXTINF:-1 channel-id="samsungtvplus-USBC4400006BR" tvg-id="samsungtvplus-USBC4400006BR" tvg-name="Haunt TV (United States)" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC4400006BR_20241014T232155SQUARE.png" group-title="Entertainment" tvg-chno="3045",Haunt TV (United States)
 https://jmp2.uk/stvp-USBC4400006BR
@@ -11244,9 +11235,6 @@ https://jmp2.uk/rok-5934441271a0583124d84d704f600bcc.m3u8
 #EXTINF:-1 channel-id="samsungtvplus-US27000033D" tvg-id="samsungtvplus-US27000033D" tvg-name="Novelas Turcas (United States)" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US27000033D_20260421T142005SQUARE.png" group-title="Entertainment" tvg-chno="3905",Novelas Turcas (United States)
 https://jmp2.uk/stvp-US27000033D
 
-#EXTINF:-1 channel-id="roku-07143b8eb2940144933e5faadb8c19e2" tvg-id="roku-07143b8eb2940144933e5faadb8c19e2" tvg-name="Revolt Mixtape" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/07143b8eb2940144933e5faadb8c19e2/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1748884189656_REVOLTMIXTAPE_EFEFEF_260x147.png" group-title="Entertainment" tvg-chno="3905",Revolt Mixtape
-https://jmp2.uk/rok-07143b8eb2940144933e5faadb8c19e2.m3u8
-
 #EXTINF:-1 channel-id="roku-c286329d1f29a733310084d34ad01f3c" tvg-id="roku-c286329d1f29a733310084d34ad01f3c" tvg-name="JoySauce Network" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/c286329d1f29a733310084d34ad01f3c/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1779409759874_nfo_HUD_logo_260x147.png" group-title="Entertainment" tvg-chno="3907",JoySauce Network
 https://jmp2.uk/rok-c286329d1f29a733310084d34ad01f3c.m3u8
 
@@ -11267,9 +11255,6 @@ https://jmp2.uk/rok-11a0e337ea9b53d4b7a9517e219d7f5b.m3u8
 
 #EXTINF:-1 channel-id="roku-067e6b6fa36352ad8984a8d97c9a39d4" tvg-id="roku-067e6b6fa36352ad8984a8d97c9a39d4" tvg-name="FilmRise Creators" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/067e6b6fa36352ad8984a8d97c9a39d4/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1766158180785_RokuChannel_FilmRiseCreators_HUD_Logo_260x147.png" group-title="Entertainment" tvg-chno="3911",FilmRise Creators
 https://jmp2.uk/rok-067e6b6fa36352ad8984a8d97c9a39d4.m3u8
-
-#EXTINF:-1 channel-id="roku-6212fc29da09d7938c80b54a09f3fd69" tvg-id="roku-6212fc29da09d7938c80b54a09f3fd69" tvg-name="Kalogeras Sisters TV" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/6212fc29da09d7938c80b54a09f3fd69/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1779305539988_kalogeras_sisters_logo_hud.png" group-title="Entertainment" tvg-chno="3914",Kalogeras Sisters TV
-https://jmp2.uk/rok-6212fc29da09d7938c80b54a09f3fd69.m3u8
 
 #EXTINF:-1 channel-id="roku-0597d2a4b388b1497a9bf48812e5d070" tvg-id="roku-0597d2a4b388b1497a9bf48812e5d070" tvg-name="iShowSpeed TV" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/0597d2a4b388b1497a9bf48812e5d070/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1778863314015_ishowspeed_logo_hud.png" group-title="Entertainment" tvg-chno="3916",iShowSpeed TV
 https://jmp2.uk/rok-0597d2a4b388b1497a9bf48812e5d070.m3u8
@@ -11349,6 +11334,9 @@ https://jmp2.uk/stvp-USBD2700004ME
 #EXTINF:-1 channel-id="plutotv-5812b7d3249444e05d09cc49" tvg-id="plutotv-5812b7d3249444e05d09cc49" tvg-name="Pluto TV Anime (USA)" tvg-logo="https://images.pluto.tv/channels/5812b7d3249444e05d09cc49/colorLogoPNG_1748797351518.png" group-title="Entertainment" tvg-chno="3980",Pluto TV Anime (USA)
 https://jmp2.uk/plu-5812b7d3249444e05d09cc49.m3u8
 
+#EXTINF:-1 channel-id="samsungtvplus-USBD1700014QU" tvg-id="samsungtvplus-USBD1700014QU" tvg-name="N+ Univision 24/7 (United States)" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1700014QU_20261104T180604SQUARE.png" group-title="24/7" tvg-chno="3987",N+ Univision 24/7 (United States)
+https://jmp2.uk/stvp-USBD1700014QU
+
 #EXTINF:-1 channel-id="plutotv-67ed8f7e443f0671bc2b2368" tvg-id="plutotv-67ed8f7e443f0671bc2b2368" tvg-name="Pluto TV Anime Movies (USA)" tvg-logo="https://images.pluto.tv/channels/67ed8f7e443f0671bc2b2368/colorLogoPNG_1747069531459.png" group-title="Movies" tvg-chno="3988",Pluto TV Anime Movies (USA)
 https://jmp2.uk/plu-67ed8f7e443f0671bc2b2368.m3u8
 
@@ -11427,9 +11415,6 @@ https://jmp2.uk/stvp-ES400002P5
 #EXTINF:-1 channel-id="samsungtvplus-CH48000025D" tvg-id="samsungtvplus-CH48000025D" tvg-name="Hudson &amp; Rex (Switzerland)" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CH48000025D_20260929T040035SQUARE.png" group-title="Entertainment" tvg-chno="4004",Hudson & Rex (Switzerland)
 https://jmp2.uk/stvp-CH48000025D
 
-#EXTINF:-1 channel-id="samsungtvplus-DE4800002GM" tvg-id="samsungtvplus-DE4800002GM" tvg-name="Hudson &amp; Rex (Germany)" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE4800002GM_20261102T070001SQUARE.png" group-title="Entertainment" tvg-chno="4004",Hudson & Rex (Germany)
-https://jmp2.uk/stvp-DE4800002GM
-
 #EXTINF:-1 channel-id="samsungtvplus-IT3200004WU" tvg-id="samsungtvplus-IT3200004WU" tvg-name="Rai News 24 (Italy)" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT3200004WU_20260707T052631SQUARE.png" group-title="News" tvg-chno="4004",Rai News 24 (Italy)
 https://jmp2.uk/stvp-IT3200004WU
 
@@ -11438,6 +11423,9 @@ https://jmp2.uk/stvp-GB3300002NF
 
 #EXTINF:-1 channel-id="samsungtvplus-FR4000005KE" tvg-id="samsungtvplus-FR4000005KE" tvg-name="Skyrock (France)" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR4000005KE_20261026T042258SQUARE.png" group-title="Entertainment" tvg-chno="4004",Skyrock (France)
 https://jmp2.uk/stvp-FR4000005KE
+
+#EXTINF:-1 channel-id="samsungtvplus-DE2200005GX" tvg-id="samsungtvplus-DE2200005GX" tvg-name="Welt (Germany)" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE2200005GX_20261102T070010SQUARE.png" group-title="News" tvg-chno="4004",Welt (Germany)
+https://jmp2.uk/stvp-DE2200005GX
 
 #EXTINF:-1 channel-id="samsungtvplus-DEBD30000014M" tvg-id="samsungtvplus-DEBD30000014M" tvg-name="Bares für Rares (Germany)" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBD30000014M_20260707T050019SQUARE.png" group-title="Entertainment" tvg-chno="4005",Bares für Rares (Germany)
 https://jmp2.uk/stvp-DEBD30000014M
@@ -11456,9 +11444,6 @@ https://jmp2.uk/stvp-DE12000100M
 
 #EXTINF:-1 channel-id="samsungtvplus-FRBD41000097I" tvg-id="samsungtvplus-FRBD41000097I" tvg-name="RMC Story (France)" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD41000097I_20251209T004435SQUARE.png" group-title="Entertainment" tvg-chno="4008",RMC Story (France)
 https://jmp2.uk/stvp-FRBD41000097I
-
-#EXTINF:-1 channel-id="samsungtvplus-GBBC400000345" tvg-id="samsungtvplus-GBBC400000345" tvg-name="Festive Hub (United Kingdom)" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC400000345_20261102T070542SQUARE.png" group-title="Entertainment" tvg-chno="4009",Festive Hub (United Kingdom)
-https://jmp2.uk/stvp-GBBC400000345
 
 #EXTINF:-1 channel-id="samsungtvplus-FRBD4100008QS" tvg-id="samsungtvplus-FRBD4100008QS" tvg-name="RMC Découverte (France)" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD4100008QS_20260407T040126SQUARE.png" group-title="Entertainment" tvg-chno="4009",RMC Découverte (France)
 https://jmp2.uk/stvp-FRBD4100008QS
@@ -11750,6 +11735,9 @@ https://jmp2.uk/stvp-GB2300002AI
 
 #EXTINF:-1 channel-id="roku-d1bfe824cfee5369a493d7a8bbd96ec1" tvg-id="roku-d1bfe824cfee5369a493d7a8bbd96ec1" tvg-name="Ryan and Friends" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/d1bfe824cfee5369a493d7a8bbd96ec1/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1661554205530_RYAN_AND_FRIENDS_260x147.png" group-title="Entertainment" tvg-chno="4112",Ryan and Friends
 https://jmp2.uk/rok-d1bfe824cfee5369a493d7a8bbd96ec1.m3u8
+
+#EXTINF:-1 channel-id="samsungtvplus-GB2800010MI" tvg-id="samsungtvplus-GB2800010MI" tvg-name="The Chase (United Kingdom)" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB2800010MI_20261102T100506SQUARE.png" group-title="Entertainment" tvg-chno="4112",The Chase (United Kingdom)
+https://jmp2.uk/stvp-GB2800010MI
 
 #EXTINF:-1 channel-id="samsungtvplus-GBBD3000001QB" tvg-id="samsungtvplus-GBBD3000001QB" tvg-name="Wipeout Xtra Powered by Banijay (United Kingdom)" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD3000001QB_20250107T030832SQUARE.png" group-title="Entertainment" tvg-chno="4114",Wipeout Xtra Powered by Banijay (United Kingdom)
 https://jmp2.uk/stvp-GBBD3000001QB
@@ -12108,7 +12096,7 @@ https://jmp2.uk/stvp-FR600001I2
 #EXTINF:-1 channel-id="samsungtvplus-ES42000022E" tvg-id="samsungtvplus-ES42000022E" tvg-name="Xataka (Spain)" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES42000022E_20251202T002550SQUARE.png" group-title="Entertainment" tvg-chno="4205",Xataka (Spain)
 https://jmp2.uk/stvp-ES42000022E
 
-#EXTINF:-1 channel-id="samsungtvplus-GB3200010G3" tvg-id="samsungtvplus-GB3200010G3" tvg-name="5-Minutes Crafts (United Kingdom)" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB3200010G3_20261102T070521SQUARE.png" group-title="Entertainment" tvg-chno="4206",5-Minutes Crafts (United Kingdom)
+#EXTINF:-1 channel-id="samsungtvplus-GB3200010G3" tvg-id="samsungtvplus-GB3200010G3" tvg-name="5-Minute Crafts (United Kingdom)" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB3200010G3_20261102T070521SQUARE.png" group-title="Entertainment" tvg-chno="4206",5-Minute Crafts (United Kingdom)
 https://jmp2.uk/stvp-GB3200010G3
 
 #EXTINF:-1 channel-id="samsungtvplus-ES18000040D" tvg-id="samsungtvplus-ES18000040D" tvg-name="BBC Lifestyle (Spain)" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES18000040D_20260929T040939SQUARE.png" group-title="Entertainment" tvg-chno="4206",BBC Lifestyle (Spain)
@@ -12630,6 +12618,9 @@ https://jmp2.uk/stvp-GB2400012R9
 #EXTINF:-1 channel-id="samsungtvplus-AT4800002G5" tvg-id="samsungtvplus-AT4800002G5" tvg-name="Hudson &amp; Rex (Austria)" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT4800002G5_20260929T035704SQUARE.png" group-title="Entertainment" tvg-chno="4291",Hudson & Rex (Austria)
 https://jmp2.uk/stvp-AT4800002G5
 
+#EXTINF:-1 channel-id="samsungtvplus-DE4800002GM" tvg-id="samsungtvplus-DE4800002GM" tvg-name="Hudson &amp; Rex (Germany)" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE4800002GM_20261102T070001SQUARE.png" group-title="Entertainment" tvg-chno="4291",Hudson & Rex (Germany)
+https://jmp2.uk/stvp-DE4800002GM
+
 #EXTINF:-1 channel-id="samsungtvplus-GBBD4100006KV" tvg-id="samsungtvplus-GBBD4100006KV" tvg-name="Criminal Confessions (United Kingdom)" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD4100006KV_20260428T031429SQUARE.png" group-title="Entertainment" tvg-chno="4292",Criminal Confessions (United Kingdom)
 https://jmp2.uk/stvp-GBBD4100006KV
 
@@ -12836,6 +12827,9 @@ https://jmp2.uk/stvp-GBAK3504500A
 
 #EXTINF:-1 channel-id="samsungtvplus-CH330000132" tvg-id="samsungtvplus-CH330000132" tvg-name="Faites entrer l&#x27;accusé [FR] (Switzerland)" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CH330000132_20260609T042211SQUARE.png" group-title="Entertainment" tvg-chno="4310",Faites entrer l'accusé [FR] (Switzerland)
 https://jmp2.uk/stvp-CH330000132
+
+#EXTINF:-1 channel-id="samsungtvplus-US370001793" tvg-id="samsungtvplus-US370001793" tvg-name="Vevo Holiday (United States)" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US370001793_20261102T091215SQUARE.png" group-title="Music" tvg-chno="4310",Vevo Holiday (United States)
+https://jmp2.uk/stvp-US370001793
 
 #EXTINF:-1 channel-id="samsungtvplus-GB3700008XB" tvg-id="samsungtvplus-GB3700008XB" tvg-name="Cops &amp; Docs (United Kingdom)" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB3700008XB_20260804T051817SQUARE.png" group-title="Entertainment" tvg-chno="4311",Cops & Docs (United Kingdom)
 https://jmp2.uk/stvp-GB3700008XB
@@ -13134,12 +13128,6 @@ https://jmp2.uk/stvp-CH2200005L8
 #EXTINF:-1 channel-id="samsungtvplus-DE2200004KN" tvg-id="samsungtvplus-DE2200004KN" tvg-name="N24 Doku (Germany)" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE2200004KN_20260428T031458SQUARE.png" group-title="Entertainment" tvg-chno="4415",N24 Doku (Germany)
 https://jmp2.uk/stvp-DE2200004KN
 
-#EXTINF:-1 channel-id="samsungtvplus-CABC52000165E" tvg-id="samsungtvplus-CABC52000165E" tvg-name="Vevo Country (Canada)" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABC52000165E_20260303T094846SQUARE.png" group-title="Music" tvg-chno="4415",Vevo Country (Canada)
-https://jmp2.uk/stvp-CABC52000165E
-
-#EXTINF:-1 channel-id="samsungtvplus-USBC3600001RQ" tvg-id="samsungtvplus-USBC3600001RQ" tvg-name="Vevo Country (United States)" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3600001RQ_20260303T094217SQUARE.png" group-title="Music" tvg-chno="4415",Vevo Country (United States)
-https://jmp2.uk/stvp-USBC3600001RQ
-
 #EXTINF:-1 channel-id="samsungtvplus-ES12000024R" tvg-id="samsungtvplus-ES12000024R" tvg-name="Historia y Vida (Spain)" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES12000024R_20261026T043153SQUARE.png" group-title="Entertainment" tvg-chno="4416",Historia y Vida (Spain)
 https://jmp2.uk/stvp-ES12000024R
 
@@ -13437,10 +13425,10 @@ https://jmp2.uk/stvp-USBD3300021KV
 #EXTINF:-1 channel-id="samsungtvplus-GB2700003KS" tvg-id="samsungtvplus-GB2700003KS" tvg-name="Evolution Earth (United Kingdom)" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB2700003KS_20250107T031117SQUARE.png" group-title="Documentaries" tvg-chno="4481",Evolution Earth (United Kingdom)
 https://jmp2.uk/stvp-GB2700003KS
 
-#EXTINF:-1 channel-id="samsungtvplus-CABD1200037BS" tvg-id="samsungtvplus-CABD1200037BS" tvg-name="Stingray Greatest Hits (Canada)" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABD1200037BS_20261102T091258SQUARE.png" group-title="Music" tvg-chno="4482",Stingray Greatest Hits (Canada)
+#EXTINF:-1 channel-id="samsungtvplus-CABD1200037BS" tvg-id="samsungtvplus-CABD1200037BS" tvg-name="Stingray Greatest Holiday Hits (Canada)" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABD1200037BS_20261102T091258SQUARE.png" group-title="Music" tvg-chno="4482",Stingray Greatest Holiday Hits (Canada)
 https://jmp2.uk/stvp-CABD1200037BS
 
-#EXTINF:-1 channel-id="samsungtvplus-USBD3500022DN" tvg-id="samsungtvplus-USBD3500022DN" tvg-name="Stingray Greatest Hits (United States)" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500022DN_20261102T091129SQUARE.png" group-title="Music" tvg-chno="4482",Stingray Greatest Hits (United States)
+#EXTINF:-1 channel-id="samsungtvplus-USBD3500022DN" tvg-id="samsungtvplus-USBD3500022DN" tvg-name="Stingray Greatest Holiday Hits (United States)" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500022DN_20261102T091129SQUARE.png" group-title="Music" tvg-chno="4482",Stingray Greatest Holiday Hits (United States)
 https://jmp2.uk/stvp-USBD3500022DN
 
 #EXTINF:-1 channel-id="samsungtvplus-GBBB5000002PL" tvg-id="samsungtvplus-GBBB5000002PL" tvg-name="Wild Planet (United Kingdom)" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBB5000002PL_20261026T042440SQUARE.png" group-title="Documentaries" tvg-chno="4486",Wild Planet (United Kingdom)
@@ -13577,9 +13565,6 @@ https://jmp2.uk/stvp-AT1100010IZ
 
 #EXTINF:-1 channel-id="samsungtvplus-CH1100008WA" tvg-id="samsungtvplus-CH1100008WA" tvg-name="ARD Plus Zoo (Switzerland)" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CH1100008WA_20260528T053236SQUARE.png" group-title="Entertainment" tvg-chno="4498",ARD Plus Zoo (Switzerland)
 https://jmp2.uk/stvp-CH1100008WA
-
-#EXTINF:-1 channel-id="samsungtvplus-DE1200008U3" tvg-id="samsungtvplus-DE1200008U3" tvg-name="ARD Plus Zoo (Germany)" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE1200008U3_20261102T065953SQUARE.png" group-title="Entertainment" tvg-chno="4498",ARD Plus Zoo (Germany)
-https://jmp2.uk/stvp-DE1200008U3
 
 #EXTINF:-1 channel-id="samsungtvplus-GBBA220000751" tvg-id="samsungtvplus-GBBA220000751" tvg-name="INWILD (United Kingdom)" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBA220000751_20250107T022608SQUARE.png" group-title="Documentaries" tvg-chno="4498",INWILD (United Kingdom)
 https://jmp2.uk/stvp-GBBA220000751
@@ -14136,8 +14121,20 @@ https://jmp2.uk/stvp-CABB260002016
 #EXTINF:-1 channel-id="samsungtvplus-USBA3800004EL" tvg-id="samsungtvplus-USBA3800004EL" tvg-name="Fireplace Vibes (United States)" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA3800004EL_20260421T143340SQUARE.png" group-title="Entertainment" tvg-chno="4587",Fireplace Vibes (United States)
 https://jmp2.uk/stvp-USBA3800004EL
 
+#EXTINF:-1 channel-id="samsungtvplus-CA3600003WG" tvg-id="samsungtvplus-CA3600003WG" tvg-name="Holiday Fireplace Vibes (Canada)" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA3600003WG_20261102T091310SQUARE.png" group-title="Entertainment" tvg-chno="4590",Holiday Fireplace Vibes (Canada)
+https://jmp2.uk/stvp-CA3600003WG
+
+#EXTINF:-1 channel-id="samsungtvplus-US3600005FR" tvg-id="samsungtvplus-US3600005FR" tvg-name="Holiday Fireplace Vibes (United States)" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US3600005FR_20261102T091205SQUARE.png" group-title="Entertainment" tvg-chno="4590",Holiday Fireplace Vibes (United States)
+https://jmp2.uk/stvp-US3600005FR
+
 #EXTINF:-1 channel-id="plutotv-64d161c93c785e0008df575e" tvg-id="plutotv-64d161c93c785e0008df575e" tvg-name="Vevo Íconos Latinos (USA)" tvg-logo="https://images.pluto.tv/channels/64d161c93c785e0008df575e/colorLogoPNG.png" group-title="Entertainment" tvg-chno="4590",Vevo Íconos Latinos (USA)
 https://jmp2.uk/plu-64d161c93c785e0008df575e.m3u8
+
+#EXTINF:-1 channel-id="samsungtvplus-CA3600002E6" tvg-id="samsungtvplus-CA3600002E6" tvg-name="Christmas Vibes (Canada)" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA3600002E6_20261102T091304SQUARE.png" group-title="Entertainment" tvg-chno="4592",Christmas Vibes (Canada)
+https://jmp2.uk/stvp-CA3600002E6
+
+#EXTINF:-1 channel-id="samsungtvplus-US3600006IN" tvg-id="samsungtvplus-US3600006IN" tvg-name="Christmas Vibes (United States)" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US3600006IN_20261102T091154SQUARE.png" group-title="Entertainment" tvg-chno="4592",Christmas Vibes (United States)
+https://jmp2.uk/stvp-US3600006IN
 
 #EXTINF:-1 channel-id="samsungtvplus-GB30003577" tvg-id="samsungtvplus-GB30003577" tvg-name="talkSPORT (United Kingdom)" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB30003577_20260721T035939SQUARE.png" group-title="Sport" tvg-chno="4603",talkSPORT (United Kingdom)
 https://jmp2.uk/stvp-GB30003577
@@ -14316,6 +14313,15 @@ https://jmp2.uk/stvp-DE35000030P
 #EXTINF:-1 channel-id="samsungtvplus-ITBC4700002CO" tvg-id="samsungtvplus-ITBC4700002CO" tvg-name="Solocalcio (Italy)" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBC4700002CO_20241022T043828SQUARE.png" group-title="Entertainment" tvg-chno="4633",Solocalcio (Italy)
 https://jmp2.uk/stvp-ITBC4700002CO
 
+#EXTINF:-1 channel-id="samsungtvplus-AT1100003X6" tvg-id="samsungtvplus-AT1100003X6" tvg-name="Barça 24H (Austria)" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT1100003X6_20261102T064326SQUARE.png" group-title="Entertainment" tvg-chno="4635",Barça 24H (Austria)
+https://jmp2.uk/stvp-AT1100003X6
+
+#EXTINF:-1 channel-id="samsungtvplus-CH1100002FH" tvg-id="samsungtvplus-CH1100002FH" tvg-name="Barça 24H (Switzerland)" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CH1100002FH_20261102T065829SQUARE.png" group-title="Entertainment" tvg-chno="4635",Barça 24H (Switzerland)
+https://jmp2.uk/stvp-CH1100002FH
+
+#EXTINF:-1 channel-id="samsungtvplus-DE1100003YR" tvg-id="samsungtvplus-DE1100003YR" tvg-name="Barça 24H (Germany)" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE1100003YR_20261102T065933SQUARE.png" group-title="Entertainment" tvg-chno="4635",Barça 24H (Germany)
+https://jmp2.uk/stvp-DE1100003YR
+
 #EXTINF:-1 channel-id="samsungtvplus-ES3200003OC" tvg-id="samsungtvplus-ES3200003OC" tvg-name="DFB Play TV (Spain)" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES3200003OC_20251230T030907SQUARE.png" group-title="Entertainment" tvg-chno="4635",DFB Play TV (Spain)
 https://jmp2.uk/stvp-ES3200003OC
 
@@ -14324,15 +14330,6 @@ https://jmp2.uk/stvp-GB2700012HS
 
 #EXTINF:-1 channel-id="samsungtvplus-FR12000040D" tvg-id="samsungtvplus-FR12000040D" tvg-name="So Foot+ (France)" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR12000040D_20261013T053916SQUARE.png" group-title="Sport" tvg-chno="4635",So Foot+ (France)
 https://jmp2.uk/stvp-FR12000040D
-
-#EXTINF:-1 channel-id="samsungtvplus-AT1100003X6" tvg-id="samsungtvplus-AT1100003X6" tvg-name="Top Barça (Austria)" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT1100003X6_20261102T064326SQUARE.png" group-title="Entertainment" tvg-chno="4635",Top Barça (Austria)
-https://jmp2.uk/stvp-AT1100003X6
-
-#EXTINF:-1 channel-id="samsungtvplus-CH1100002FH" tvg-id="samsungtvplus-CH1100002FH" tvg-name="Top Barça (Switzerland)" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CH1100002FH_20261102T065829SQUARE.png" group-title="Entertainment" tvg-chno="4635",Top Barça (Switzerland)
-https://jmp2.uk/stvp-CH1100002FH
-
-#EXTINF:-1 channel-id="samsungtvplus-DE1100003YR" tvg-id="samsungtvplus-DE1100003YR" tvg-name="Top Barça (Germany)" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE1100003YR_20261102T065933SQUARE.png" group-title="Entertainment" tvg-chno="4635",Top Barça (Germany)
-https://jmp2.uk/stvp-DE1100003YR
 
 #EXTINF:-1 channel-id="samsungtvplus-GB2200002CC" tvg-id="samsungtvplus-GB2200002CC" tvg-name="GFN Football (United Kingdom)" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB2200002CC_20261014T010220SQUARE.png" group-title="Sport" tvg-chno="4636",GFN Football (United Kingdom)
 https://jmp2.uk/stvp-GB2200002CC
@@ -14343,23 +14340,23 @@ https://jmp2.uk/stvp-ITBD2300001MT
 #EXTINF:-1 channel-id="samsungtvplus-ES3500003JZ" tvg-id="samsungtvplus-ES3500003JZ" tvg-name="Real Madrid TV (Spain)" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES3500003JZ_20261013T054816SQUARE.png" group-title="Entertainment" tvg-chno="4637",Real Madrid TV (Spain)
 https://jmp2.uk/stvp-ES3500003JZ
 
+#EXTINF:-1 channel-id="samsungtvplus-ES1100001MT" tvg-id="samsungtvplus-ES1100001MT" tvg-name="Barça 24H (Spain)" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES1100001MT_20261102T070306SQUARE.png" group-title="Entertainment" tvg-chno="4639",Barça 24H (Spain)
+https://jmp2.uk/stvp-ES1100001MT
+
+#EXTINF:-1 channel-id="samsungtvplus-FR110000354" tvg-id="samsungtvplus-FR110000354" tvg-name="Barça 24H (France)" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR110000354_20261102T070356SQUARE.png" group-title="Sport" tvg-chno="4639",Barça 24H (France)
+https://jmp2.uk/stvp-FR110000354
+
+#EXTINF:-1 channel-id="samsungtvplus-GB1100002OE" tvg-id="samsungtvplus-GB1100002OE" tvg-name="Barça 24H (United Kingdom)" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB1100002OE_20261102T070516SQUARE.png" group-title="Sport" tvg-chno="4639",Barça 24H (United Kingdom)
+https://jmp2.uk/stvp-GB1100002OE
+
+#EXTINF:-1 channel-id="samsungtvplus-IT1100001PZ" tvg-id="samsungtvplus-IT1100001PZ" tvg-name="Barça 24H (Italy)" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT1100001PZ_20261102T070717SQUARE.png" group-title="Entertainment" tvg-chno="4639",Barça 24H (Italy)
+https://jmp2.uk/stvp-IT1100001PZ
+
 #EXTINF:-1 channel-id="samsungtvplus-ATBA3300007PT" tvg-id="samsungtvplus-ATBA3300007PT" tvg-name="FIFA+ (Austria)" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBA3300007PT_20250513T005116SQUARE.png" group-title="Entertainment" tvg-chno="4639",FIFA+ (Austria)
 https://jmp2.uk/stvp-ATBA3300007PT
 
 #EXTINF:-1 channel-id="samsungtvplus-DEBA3300019EB" tvg-id="samsungtvplus-DEBA3300019EB" tvg-name="FIFA+ (Germany)" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA3300019EB_20251125T102307SQUARE.png" group-title="Entertainment" tvg-chno="4639",FIFA+ (Germany)
 https://jmp2.uk/stvp-DEBA3300019EB
-
-#EXTINF:-1 channel-id="samsungtvplus-ES1100001MT" tvg-id="samsungtvplus-ES1100001MT" tvg-name="Top Barça (Spain)" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES1100001MT_20261102T070306SQUARE.png" group-title="Entertainment" tvg-chno="4639",Top Barça (Spain)
-https://jmp2.uk/stvp-ES1100001MT
-
-#EXTINF:-1 channel-id="samsungtvplus-FR110000354" tvg-id="samsungtvplus-FR110000354" tvg-name="Top Barça (France)" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR110000354_20261102T070356SQUARE.png" group-title="Sport" tvg-chno="4639",Top Barça (France)
-https://jmp2.uk/stvp-FR110000354
-
-#EXTINF:-1 channel-id="samsungtvplus-GB1100002OE" tvg-id="samsungtvplus-GB1100002OE" tvg-name="Top Barça (United Kingdom)" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB1100002OE_20261102T070516SQUARE.png" group-title="Sport" tvg-chno="4639",Top Barça (United Kingdom)
-https://jmp2.uk/stvp-GB1100002OE
-
-#EXTINF:-1 channel-id="samsungtvplus-IT1100001PZ" tvg-id="samsungtvplus-IT1100001PZ" tvg-name="Top Barça (Italy)" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT1100001PZ_20261102T070717SQUARE.png" group-title="Entertainment" tvg-chno="4639",Top Barça (Italy)
-https://jmp2.uk/stvp-IT1100001PZ
 
 #EXTINF:-1 channel-id="plutotv-5f32f26bcd8aea00071240e5" tvg-id="plutotv-5f32f26bcd8aea00071240e5" tvg-name="Vevo &#x27;70s (USA)" tvg-logo="https://images.pluto.tv/channels/5f32f26bcd8aea00071240e5/colorLogoPNG.png" group-title="Music" tvg-chno="4640",Vevo '70s (USA)
 https://jmp2.uk/plu-5f32f26bcd8aea00071240e5.m3u8
@@ -15384,6 +15381,15 @@ https://jmp2.uk/stvp-ES700004C8
 #EXTINF:-1 channel-id="samsungtvplus-GB2600017PX" tvg-id="samsungtvplus-GB2600017PX" tvg-name="100% Christmas - Rakuten TV (United Kingdom)" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB2600017PX_20261006T143211SQUARE.png" group-title="Movies" tvg-chno="4852",100% Christmas - Rakuten TV (United Kingdom)
 https://jmp2.uk/stvp-GB2600017PX
 
+#EXTINF:-1 channel-id="samsungtvplus-IT2600010E0" tvg-id="samsungtvplus-IT2600010E0" tvg-name="100% Natale - Rakuten TV (Italy)" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT2600010E0_20261102T070712SQUARE.png" group-title="Entertainment" tvg-chno="4852",100% Natale - Rakuten TV (Italy)
+https://jmp2.uk/stvp-IT2600010E0
+
+#EXTINF:-1 channel-id="samsungtvplus-ES260001081" tvg-id="samsungtvplus-ES260001081" tvg-name="100% Navidad - Rakuten TV (Spain)" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES260001081_20261102T070254SQUARE.png" group-title="Entertainment" tvg-chno="4852",100% Navidad - Rakuten TV (Spain)
+https://jmp2.uk/stvp-ES260001081
+
+#EXTINF:-1 channel-id="samsungtvplus-FR2600001PI" tvg-id="samsungtvplus-FR2600001PI" tvg-name="100% Noël - Rakuten TV (France)" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR2600001PI_20261102T070350SQUARE.png" group-title="Entertainment" tvg-chno="4852",100% Noël - Rakuten TV (France)
+https://jmp2.uk/stvp-FR2600001PI
+
 #EXTINF:-1 channel-id="samsungtvplus-AT2600007N2" tvg-id="samsungtvplus-AT2600007N2" tvg-name="100% Weihnachten - Rakuten TV (Austria)" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT2600007N2_20261006T143931SQUARE.png" group-title="Entertainment" tvg-chno="4852",100% Weihnachten - Rakuten TV (Austria)
 https://jmp2.uk/stvp-AT2600007N2
 
@@ -15392,15 +15398,6 @@ https://jmp2.uk/stvp-CH26000056O
 
 #EXTINF:-1 channel-id="samsungtvplus-DE26000085Y" tvg-id="samsungtvplus-DE26000085Y" tvg-name="100% Weihnachten - Rakuten TV (Germany)" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE26000085Y_20261006T143753SQUARE.png" group-title="Entertainment" tvg-chno="4852",100% Weihnachten - Rakuten TV (Germany)
 https://jmp2.uk/stvp-DE26000085Y
-
-#EXTINF:-1 channel-id="samsungtvplus-ES260001081" tvg-id="samsungtvplus-ES260001081" tvg-name="En Familia - Rakuten TV (Spain)" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES260001081_20261102T070254SQUARE.png" group-title="Entertainment" tvg-chno="4852",En Familia - Rakuten TV (Spain)
-https://jmp2.uk/stvp-ES260001081
-
-#EXTINF:-1 channel-id="samsungtvplus-FR2600001PI" tvg-id="samsungtvplus-FR2600001PI" tvg-name="Famille - Rakuten TV (France)" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR2600001PI_20261102T070350SQUARE.png" group-title="Entertainment" tvg-chno="4852",Famille - Rakuten TV (France)
-https://jmp2.uk/stvp-FR2600001PI
-
-#EXTINF:-1 channel-id="samsungtvplus-IT2600010E0" tvg-id="samsungtvplus-IT2600010E0" tvg-name="Family - Rakuten TV (Italy)" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT2600010E0_20261102T070712SQUARE.png" group-title="Entertainment" tvg-chno="4852",Family - Rakuten TV (Italy)
-https://jmp2.uk/stvp-IT2600010E0
 
 #EXTINF:-1 channel-id="samsungtvplus-FRBD2300001UQ" tvg-id="samsungtvplus-FRBD2300001UQ" tvg-name="Action Club (France)" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD2300001UQ_20260528T055208SQUARE.png" group-title="Entertainment" tvg-chno="4858",Action Club (France)
 https://jmp2.uk/stvp-FRBD2300001UQ
@@ -15948,10 +15945,10 @@ https://jmp2.uk/stvp-FR2600005LH
 #EXTINF:-1 channel-id="samsungtvplus-ITBC1100001G5" tvg-id="samsungtvplus-ITBC1100001G5" tvg-name="Alta Tensione (Italy)" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBC1100001G5_20260901T054951SQUARE.png" group-title="Entertainment" tvg-chno="4963",Alta Tensione (Italy)
 https://jmp2.uk/stvp-ITBC1100001G5
 
-#EXTINF:-1 channel-id="samsungtvplus-ES4100002WB" tvg-id="samsungtvplus-ES4100002WB" tvg-name="Halloween - Rakuten TV (Spain)" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES4100002WB_20261102T070300SQUARE.png" group-title="Entertainment" tvg-chno="4963",Halloween - Rakuten TV (Spain)
+#EXTINF:-1 channel-id="samsungtvplus-ES4100002WB" tvg-id="samsungtvplus-ES4100002WB" tvg-name="Thrillers - Rakuten TV (Spain)" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES4100002WB_20261102T070300SQUARE.png" group-title="Entertainment" tvg-chno="4963",Thrillers - Rakuten TV (Spain)
 https://jmp2.uk/stvp-ES4100002WB
 
-#EXTINF:-1 channel-id="samsungtvplus-GB4100003VP" tvg-id="samsungtvplus-GB4100003VP" tvg-name="Halloween - Rakuten TV (United Kingdom)" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB4100003VP_20261102T070511SQUARE.png" group-title="Movies" tvg-chno="4963",Halloween - Rakuten TV (United Kingdom)
+#EXTINF:-1 channel-id="samsungtvplus-GB4100003VP" tvg-id="samsungtvplus-GB4100003VP" tvg-name="Thrillers - Rakuten TV (United Kingdom)" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB4100003VP_20261102T070511SQUARE.png" group-title="Movies" tvg-chno="4963",Thrillers - Rakuten TV (United Kingdom)
 https://jmp2.uk/stvp-GB4100003VP
 
 #EXTINF:-1 channel-id="samsungtvplus-FR3700001AG" tvg-id="samsungtvplus-FR3700001AG" tvg-name="Box Office Thriller (France)" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR3700001AG_20260324T034928SQUARE.png" group-title="Entertainment" tvg-chno="4964",Box Office Thriller (France)
@@ -15984,6 +15981,9 @@ https://jmp2.uk/stvp-CH2900003UZ
 #EXTINF:-1 channel-id="samsungtvplus-FR4000002JN" tvg-id="samsungtvplus-FR4000002JN" tvg-name="Shark TV (France)" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR4000002JN_20260721T035919SQUARE.png" group-title="Entertainment" tvg-chno="4993",Shark TV (France)
 https://jmp2.uk/stvp-FR4000002JN
 
+#EXTINF:-1 channel-id="samsungtvplus-GB2600015OS" tvg-id="samsungtvplus-GB2600015OS" tvg-name="Action Movies - Rakuten TV (United Kingdom)" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB2600015OS_20261102T070534SQUARE.png" group-title="Movies" tvg-chno="4994",Action Movies - Rakuten TV (United Kingdom)
+https://jmp2.uk/stvp-GB2600015OS
+
 #EXTINF:-1 channel-id="samsungtvplus-AT33000033D" tvg-id="samsungtvplus-AT33000033D" tvg-name="Hochspannung (Austria)" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT33000033D_20251209T004005SQUARE.png" group-title="Entertainment" tvg-chno="4994",Hochspannung (Austria)
 https://jmp2.uk/stvp-AT33000033D
 
@@ -16001,9 +16001,6 @@ https://jmp2.uk/stvp-GBAK3504503A
 
 #EXTINF:-1 channel-id="samsungtvplus-ITBC3000003CT" tvg-id="samsungtvplus-ITBC3000003CT" tvg-name="Pluto TV Film Azione (Italy)" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBC3000003CT_20241022T051703SQUARE.png" group-title="Entertainment" tvg-chno="4995",Pluto TV Film Azione (Italy)
 https://jmp2.uk/stvp-ITBC3000003CT
-
-#EXTINF:-1 channel-id="samsungtvplus-GB2600015OS" tvg-id="samsungtvplus-GB2600015OS" tvg-name="Action Movies - Rakuten TV (United Kingdom)" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB2600015OS_20261102T070534SQUARE.png" group-title="Movies" tvg-chno="4996",Action Movies - Rakuten TV (United Kingdom)
-https://jmp2.uk/stvp-GB2600015OS
 
 #EXTINF:-1 channel-id="samsungtvplus-FR370000288" tvg-id="samsungtvplus-FR370000288" tvg-name="Box Office Action (France)" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR370000288_20261006T034039SQUARE.png" group-title="Entertainment" tvg-chno="4997",Box Office Action (France)
 https://jmp2.uk/stvp-FR370000288
@@ -16035,14 +16032,17 @@ https://jmp2.uk/stvp-ITBC11000050E
 #EXTINF:-1 channel-id="samsungtvplus-FR3600007GW" tvg-id="samsungtvplus-FR3600007GW" tvg-name="Alerte Cobra (France)" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR3600007GW_20261006T034032SQUARE.png" group-title="Entertainment" tvg-chno="4999",Alerte Cobra (France)
 https://jmp2.uk/stvp-FR3600007GW
 
+#EXTINF:-1 channel-id="samsungtvplus-DE1200008U3" tvg-id="samsungtvplus-DE1200008U3" tvg-name="ARD Plus Zoo (Germany)" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE1200008U3_20261102T065953SQUARE.png" group-title="Entertainment" tvg-chno="4999",ARD Plus Zoo (Germany)
+https://jmp2.uk/stvp-DE1200008U3
+
+#EXTINF:-1 channel-id="samsungtvplus-GBBC400000345" tvg-id="samsungtvplus-GBBC400000345" tvg-name="Festive Hub (United Kingdom)" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC400000345_20261102T070542SQUARE.png" group-title="Entertainment" tvg-chno="4999",Festive Hub (United Kingdom)
+https://jmp2.uk/stvp-GBBC400000345
+
 #EXTINF:-1 channel-id="samsungtvplus-AT2200004OF" tvg-id="samsungtvplus-AT2200004OF" tvg-name="Welt (Austria)" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT2200004OF_20260804T045918SQUARE.png" group-title="News" tvg-chno="4999",Welt (Austria)
 https://jmp2.uk/stvp-AT2200004OF
 
 #EXTINF:-1 channel-id="samsungtvplus-CH2200006VD" tvg-id="samsungtvplus-CH2200006VD" tvg-name="Welt (Switzerland)" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CH2200006VD_20260804T050438SQUARE.png" group-title="News" tvg-chno="4999",Welt (Switzerland)
 https://jmp2.uk/stvp-CH2200006VD
-
-#EXTINF:-1 channel-id="samsungtvplus-DE2200005GX" tvg-id="samsungtvplus-DE2200005GX" tvg-name="Welt (Germany)" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE2200005GX_20261102T070010SQUARE.png" group-title="News" tvg-chno="4999",Welt (Germany)
-https://jmp2.uk/stvp-DE2200005GX
 
 #EXTINF:-1 channel-id="roku-0af429c36c6b517e8df2025e809b3964" tvg-id="roku-0af429c36c6b517e8df2025e809b3964" tvg-name="Estrella News" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/0af429c36c6b517e8df2025e809b3964/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1652921499084_RoKu_260x147_Estrella_NEWS.png" group-title="News" tvg-chno="5000",Estrella News
 https://jmp2.uk/rok-0af429c36c6b517e8df2025e809b3964.m3u8
@@ -16074,6 +16074,9 @@ https://jmp2.uk/rok-5e709cfe55d955ec899903cde681a5a4.m3u8
 #EXTINF:-1 channel-id="roku-e3823bb513585861904499a21a736c4f" tvg-id="roku-e3823bb513585861904499a21a736c4f" tvg-name="Canal ViX" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/e3823bb513585861904499a21a736c4f/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1743194357309_CanalViX_HUD_ChannelLogo_260x147px.png" group-title="Entertainment" tvg-chno="5020",Canal ViX
 https://jmp2.uk/rok-e3823bb513585861904499a21a736c4f.m3u8
 
+#EXTINF:-1 channel-id="roku-4010582bb66b58a69151a4f552de0823" tvg-id="roku-4010582bb66b58a69151a4f552de0823" tvg-name="FilmRise Series Gratis" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/4010582bb66b58a69151a4f552de0823/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1772664425410_RokuChannel_FilmRiseSeriesGratis_HUD_Logo_260x147.png" group-title="Series" tvg-chno="5021",FilmRise Series Gratis
+https://jmp2.uk/rok-4010582bb66b58a69151a4f552de0823.m3u8
+
 #EXTINF:-1 channel-id="roku-7b5699f58b2b54be9da4d23fe354fb59" tvg-id="roku-7b5699f58b2b54be9da4d23fe354fb59" tvg-name="ViX Villanos de Novela" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/7b5699f58b2b54be9da4d23fe354fb59/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1678481229409_VillanosDeNovela_HUD_Logo_260x147.png" group-title="Entertainment" tvg-chno="5022",ViX Villanos de Novela
 https://jmp2.uk/rok-7b5699f58b2b54be9da4d23fe354fb59.m3u8
 
@@ -16088,9 +16091,6 @@ https://jmp2.uk/rok-c51c18ade0bd5b68b5e9bfa83410e372.m3u8
 
 #EXTINF:-1 channel-id="roku-beb2be3222295798a8828458bea458ba" tvg-id="roku-beb2be3222295798a8828458bea458ba" tvg-name="FreeTV Estelar" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/beb2be3222295798a8828458bea458ba/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1710282592041_FREETV_Estelar_center_260x147.png" group-title="Entertainment" tvg-chno="5026",FreeTV Estelar
 https://jmp2.uk/rok-beb2be3222295798a8828458bea458ba.m3u8
-
-#EXTINF:-1 channel-id="roku-3bc1756db0ef525b9cab86edcd426c55" tvg-id="roku-3bc1756db0ef525b9cab86edcd426c55" tvg-name="Canela.TV Narco-Drama" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/3bc1756db0ef525b9cab86edcd426c55/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1734562691721_ROKU-NarcoDrama-InfoHUD-1.png" group-title="Movies" tvg-chno="5028",Canela.TV Narco-Drama
-https://jmp2.uk/rok-3bc1756db0ef525b9cab86edcd426c55.m3u8
 
 #EXTINF:-1 channel-id="roku-b602b0edb0cd58a5a5be2b7554166c07" tvg-id="roku-b602b0edb0cd58a5a5be2b7554166c07" tvg-name="FilmRise Autopista al Cielo" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/b602b0edb0cd58a5a5be2b7554166c07/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1661549850767_FR_AutopistaAlCielo_HUD_CenterAligned.png" group-title="Series" tvg-chno="5029",FilmRise Autopista al Cielo
 https://jmp2.uk/rok-b602b0edb0cd58a5a5be2b7554166c07.m3u8
@@ -16116,7 +16116,7 @@ https://jmp2.uk/rok-5a28fbf15c135b51b3638e8bd02d6577.m3u8
 #EXTINF:-1 channel-id="roku-8acb4f9b8a255216966db355daaa1749" tvg-id="roku-8acb4f9b8a255216966db355daaa1749" tvg-name="Euronews Español" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/8acb4f9b8a255216966db355daaa1749/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1678136277077_euronews_espanol_260x147.png" group-title="News" tvg-chno="5041",Euronews Español
 https://jmp2.uk/rok-8acb4f9b8a255216966db355daaa1749.m3u8
 
-#EXTINF:-1 channel-id="roku-b3eb95a883bfcd7b458d9ec965cedb35" tvg-id="roku-b3eb95a883bfcd7b458d9ec965cedb35" tvg-name="Barça 24H" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/b3eb95a883bfcd7b458d9ec965cedb35/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1744407109321_Roku_EPS_LogoHUD_260x147__.png" group-title="Entertainment" tvg-chno="5043",Barça 24H
+#EXTINF:-1 channel-id="roku-b3eb95a883bfcd7b458d9ec965cedb35" tvg-id="roku-b3eb95a883bfcd7b458d9ec965cedb35" tvg-name="Barça 24H" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/b3eb95a883bfcd7b458d9ec965cedb35/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1793740749944_Barca24h_260x147_HUD.png" group-title="Entertainment" tvg-chno="5043",Barça 24H
 https://jmp2.uk/rok-b3eb95a883bfcd7b458d9ec965cedb35.m3u8
 
 #EXTINF:-1 channel-id="roku-35633f08c98857cb9e85c91eae17c0d5" tvg-id="roku-35633f08c98857cb9e85c91eae17c0d5" tvg-name="ViX Lo Mejor de Liga MX" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/35633f08c98857cb9e85c91eae17c0d5/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1749856192932_LoMejorDeLigaMX_HUD_ChannelLogo_260x147px.png" group-title="Sport" tvg-chno="5044",ViX Lo Mejor de Liga MX
@@ -16371,11 +16371,11 @@ https://jmp2.uk/rok-d0d9af56b7735c318b66afe21089d028.m3u8
 #EXTINF:-1 channel-id="roku-5c8d77c2f6b85da3a7e74223b769ef5c" tvg-id="roku-5c8d77c2f6b85da3a7e74223b769ef5c" tvg-name="KPTV FOX 12 Oregon News" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/5c8d77c2f6b85da3a7e74223b769ef5c/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1684345991989_KPTV_EPG%2526Hud_LogoKPTV_HUD_logo_260x147.png" group-title="News" tvg-chno="9057",KPTV FOX 12 Oregon News
 https://jmp2.uk/rok-5c8d77c2f6b85da3a7e74223b769ef5c.m3u8
 
+#EXTINF:-1 channel-id="roku-bf7ee95e6a905222a1d24174120cc106" tvg-id="roku-bf7ee95e6a905222a1d24174120cc106" tvg-name="WBTV News 3" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/bf7ee95e6a905222a1d24174120cc106/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1746558434543_WBTV_EPG_Hud_LogoWBTV_HUD_logo_260x147_Centered.png" group-title="News" tvg-chno="9058",WBTV News 3
+https://jmp2.uk/rok-bf7ee95e6a905222a1d24174120cc106.m3u8
+
 #EXTINF:-1 channel-id="roku-e8f8972f377a598590592ecd079e7cc4" tvg-id="roku-e8f8972f377a598590592ecd079e7cc4" tvg-name="First Alert 4 St. Louis" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/e8f8972f377a598590592ecd079e7cc4/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1703177116537_KMOV_EPG%2526Hud_LogoKMOV_HUD_logo_260x147_.png" group-title="News" tvg-chno="9060",First Alert 4 St. Louis
 https://jmp2.uk/rok-e8f8972f377a598590592ecd079e7cc4.m3u8
-
-#EXTINF:-1 channel-id="roku-d53b1fb8c41f574387cde82d084515ea" tvg-id="roku-d53b1fb8c41f574387cde82d084515ea" tvg-name="WSMV 4 News" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/d53b1fb8c41f574387cde82d084515ea/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1703177208613_WSMV_EPG%2526Hud_LogoWSMV_HUD_logo_260x147_.png" group-title="News" tvg-chno="9076",WSMV 4 News
-https://jmp2.uk/rok-d53b1fb8c41f574387cde82d084515ea.m3u8
 
 #EXTINF:-1 channel-id="roku-307cbde3d30957828ff68b3b979d6958" tvg-id="roku-307cbde3d30957828ff68b3b979d6958" tvg-name="Channel 3 Eyewitness News" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/307cbde3d30957828ff68b3b979d6958/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1746558269828_WFSB_EPG_Hud_LogoWFSB_HUD_logo_260x147_Centered.png" group-title="News" tvg-chno="9094",Channel 3 Eyewitness News
 https://jmp2.uk/rok-307cbde3d30957828ff68b3b979d6958.m3u8
@@ -16418,6 +16418,9 @@ https://i.mjh.nz/.r/9crime-fast.m3u8
 
 #EXTINF:-1 channel-id="mjh-9mysteryparanormal-fast" tvg-id="mjh-9mysteryparanormal-fast" tvg-name="9Mystery&amp;Paranormal" tvg-logo="https://imageresizer.static9.net.au/1l9r5t0Fkyry61l_5eKpIxtv0SE=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2025%2F04%2F685323%2Fmp_squircle.png" group-title="24/7",9Mystery&Paranormal
 https://i.mjh.nz/.r/9mysteryparanormal-fast.m3u8
+
+#EXTINF:-1 channel-id="mjh-acountrypractice-fast" tvg-id="mjh-acountrypractice-fast" tvg-name="A Country Practice" tvg-logo="https://i.mjh.nz/.images/auto-acountrypractice-fast-3f02ad.png" group-title="24/7",A Country Practice
+https://i.mjh.nz/.r/acountrypractice-fast.m3u8
 
 #EXTINF:-1 channel-id="mjh-abc-90-seconds-business" tvg-id="mjh-abc-90-seconds-business" tvg-name="ABC Business in 90 Seconds" tvg-logo="https://live-production.wcms.abc-cdn.net.au/ae76d32898cca0be596b7f23c1bd41f2?impolicy=wcms_crop_resize&amp;cropH=630&amp;cropW=1119&amp;xPos=10&amp;yPos=0&amp;width=862&amp;height=485" group-title="AU Freeview",ABC Business in 90 Seconds
 https://c.mjh.nz/business_in_90_seconds
@@ -17301,6 +17304,9 @@ https://jmp2.uk/plex-697140a85d851f5e69414688-69012324d320237a5a2da1bc.m3u8
 #EXTINF:-1 channel-id="mjh-10-rookieblue" tvg-id="mjh-10-rookieblue" tvg-name="rookie-blue" tvg-logo="https://10.com.au/ip/s3/2026/02/01/b4f014a58a872ecca3409d233c38f122-1408366.png?image-profile=logo" group-title="AU Freeview",rookie-blue
 https://i.mjh.nz/.r/10-rookieblue.m3u8
 
+#EXTINF:-1 channel-id="mjh-misc502-fast" tvg-id="mjh-misc502-fast" tvg-name="Rugby League World Cup" tvg-logo="https://i.mjh.nz/.images/auto-misc502-fast-321d80.png" group-title="24/7",Rugby League World Cup
+https://i.mjh.nz/.r/misc502-fast.m3u8
+
 #EXTINF:-1 channel-id="mjh-10-aussiedramapopup" tvg-id="mjh-10-aussiedramapopup" tvg-name="Rush" tvg-logo="https://10.com.au/ip/s3/2023/01/24/082f00086b990e915cd774644d67484c-1213111.png?image-profile=logo" group-title="AU Freeview",Rush
 https://i.mjh.nz/.r/10-aussiedramapopup.m3u8
 
@@ -17321,6 +17327,9 @@ https://jmp2.uk/plex-697140a85d851f5e69414688-6707dc42da81682f2d1e6846.m3u8
 
 #EXTINF:-1 channel-id="mjh-10-shockwave" tvg-id="mjh-10-shockwave" tvg-name="Shockwave" tvg-logo="https://10.com.au/ip/s3/2026/03/31/145f61f54f2e66b3bf4a2fefff5b267a-1421437.png?image-profile=logo" group-title="AU Freeview",Shockwave
 https://i.mjh.nz/.r/10-shockwave.m3u8
+
+#EXTINF:-1 channel-id="mjh-10-sitcomcentral" tvg-id="mjh-10-sitcomcentral" tvg-name="Sitcom Central" tvg-logo="https://10.com.au/ip/s3/2026/11/03/9b6127d5c344faf363a70b45ecbe827f-1470465.png?image-profile=logo" group-title="Comedy",Sitcom Central
+https://i.mjh.nz/.r/10-sitcomcentral.m3u8
 
 #EXTINF:-1 channel-id="plex-697140a85d851f5e69414688-5f12332eeca6a20040b328e5" tvg-id="plex-697140a85d851f5e69414688-5f12332eeca6a20040b328e5" tvg-name="SKWAD" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/skwad-logo.png" group-title="Entertainment",SKWAD
 https://jmp2.uk/plex-697140a85d851f5e69414688-5f12332eeca6a20040b328e5.m3u8
